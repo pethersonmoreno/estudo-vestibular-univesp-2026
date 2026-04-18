@@ -1,4 +1,4 @@
-# Biologia: Corpo Humano, Saúde Individual e Saúde Coletiva <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
+# Biologia: Corpo Humano, Saúde Individual e Saúde Coletiva <span class="tag-alta-frequencia">[🔥 ALTA FREQUÊNCIA]</span>
 
 O estudo do corpo humano, seus sistemas e a relação com a saúde (individual e coletiva) é um tema de alta frequência e relevância para o vestibular da Vunesp. Compreender o funcionamento do organismo, a importância da nutrição e as principais doenças que afetam a população é essencial para a formação cidadã e a resolução de questões.
 

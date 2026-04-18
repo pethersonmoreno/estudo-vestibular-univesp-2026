@@ -1,4 +1,4 @@
-# <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span> Física: Mecânica (Cinemática e Leis de Newton)
+# <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span> Física: Mecânica (Cinemática e Leis de Newton)
 
 > **Contexto Vunesp**: A banca costuma cobrar cinemática aplicada a situações do cotidiano (carros em rodovias, atletas correndo) e as Leis de Newton de forma conceitual ou com cálculos simples de força resultante ($F = m \cdot a$).
 

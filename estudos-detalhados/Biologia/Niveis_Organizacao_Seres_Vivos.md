@@ -1,4 +1,4 @@
-# Biologia: Níveis de Organização e Classificação dos Seres Vivos <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
+# Biologia: Níveis de Organização e Classificação dos Seres Vivos <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>
 
 A Biologia busca compreender a complexidade da vida em diversas escalas, desde as menores partículas até os ecossistemas globais. A organização hierárquica e a classificação dos seres vivos são temas recorrentes no vestibular da Vunesp, essenciais para entender a diversidade e as relações entre as formas de vida.
 

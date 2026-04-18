@@ -1,4 +1,4 @@
-# Língua Inglesa: Compreensão Crítica de Textos <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
+# Língua Inglesa: Compreensão Crítica de Textos <span class="tag-alta-frequencia">[🔥 ALTA FREQUÊNCIA]</span>
 
 Além de compreender o que um texto diz explicitamente, o vestibular da Vunesp frequentemente exige a capacidade de analisar o texto de forma crítica. Isso envolve ir além da superfície, identificando intenções, pressupostos, ideologias e a forma como o autor constrói sua argumentação ou mensagem.
 

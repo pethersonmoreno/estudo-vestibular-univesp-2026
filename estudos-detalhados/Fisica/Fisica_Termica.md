@@ -1,4 +1,4 @@
-# Física: Física Térmica <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
+# Física: Física Térmica <span class="tag-alta-frequencia">[🔥 ALTA FREQUÊNCIA]</span>
 
 A Física Térmica estuda os fenômenos relacionados ao calor e à temperatura, sendo um tema de alta frequência e grande importância no vestibular da Vunesp. Abrange desde a medição da temperatura até as transformações de energia em sistemas termodinâmicos.
 

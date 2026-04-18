@@ -1,4 +1,4 @@
-# Literatura Brasileira: Períodos e Análise <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
+# Literatura Brasileira: Períodos e Análise <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>
 
 A Literatura Brasileira é um reflexo da história e da cultura do país, desde as suas origens coloniais até as manifestações contemporâneas. Ela é marcada por diversos períodos literários que dialogam com o contexto social, político e cultural de cada época.
 

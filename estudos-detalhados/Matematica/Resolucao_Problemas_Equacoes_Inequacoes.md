@@ -1,4 +1,4 @@
-# Resolução de Problemas com Equações e Inequações <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
+# Resolução de Problemas com Equações e Inequações <span class="tag-alta-frequencia">[🔥 ALTA FREQUÊNCIA]</span>
 
 A resolução de problemas envolvendo equações e inequações de diferentes tipos é uma habilidade fundamental para o vestibular. Compreender as particularidades de cada tipo de função e inequação é essencial para aplicar os métodos corretos e chegar à solução.
 

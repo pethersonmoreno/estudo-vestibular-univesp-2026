@@ -1,4 +1,4 @@
-# Sistemas Lineares <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
+# Sistemas Lineares <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>
 
 Sistemas lineares são conjuntos de duas ou mais equações lineares que compartilham as mesmas variáveis. A resolução de um sistema linear consiste em encontrar os valores das variáveis que satisfazem simultaneamente todas as equações do sistema.
 

@@ -1,4 +1,4 @@
-# Relações Métricas em Triângulos, Polígonos e Círculos <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
+# Relações Métricas em Triângulos, Polígonos e Círculos <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>
 
 As relações métricas são fórmulas que estabelecem conexões entre as medidas dos elementos de figuras geométricas. Elas são ferramentas poderosas para resolver problemas que envolvem comprimentos, alturas e áreas em triângulos, polígonos regulares e círculos, sendo essenciais para o vestibular da Vunesp.
 

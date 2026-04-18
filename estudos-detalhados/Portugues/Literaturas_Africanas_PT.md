@@ -1,4 +1,4 @@
-# Literaturas Africanas em Língua Portuguesa <span class="tag-baixa-frequencia">🧊 FREQUÊNCIA BAIXA</span>
+# Literaturas Africanas em Língua Portuguesa <span class="tag-baixa-frequencia">[🧊 FREQUÊNCIA BAIXA]</span>
 
 As Literaturas Africanas em Língua Portuguesa (PALOPs - Países Africanos de Língua Oficial Portuguesa) são um campo rico e diversificado que abrange a produção literária de Angola, Moçambique, Cabo Verde, Guiné-Bissau e São Tomé e Príncipe. Elas refletem as complexidades históricas, sociais, políticas e culturais desses países, marcados pela colonização e pela busca por identidade e libertação.
 

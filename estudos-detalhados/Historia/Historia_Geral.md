@@ -1,4 +1,4 @@
-# História Geral: Dos Primórdios ao Mundo Contemporâneo <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
+# História Geral: Dos Primórdios ao Mundo Contemporâneo <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>
 
 A História Geral estuda o desenvolvimento das sociedades humanas ao longo do tempo em diferentes regiões do planeta, buscando compreender as transformações políticas, econômicas, sociais e culturais que moldaram o mundo.
 

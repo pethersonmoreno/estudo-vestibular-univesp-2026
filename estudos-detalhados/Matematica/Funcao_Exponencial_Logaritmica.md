@@ -1,4 +1,4 @@
-# Função Exponencial e Logarítmica <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
+# Função Exponencial e Logarítmica <span class="tag-alta-frequencia">[🔥 ALTA FREQUÊNCIA]</span>
 
 As funções exponencial e logarítmica são inversas uma da outra e têm vasta aplicação em diversas áreas, como finanças, biologia e física. O domínio desses conceitos é crucial para a resolução de problemas em vestibulares.
 

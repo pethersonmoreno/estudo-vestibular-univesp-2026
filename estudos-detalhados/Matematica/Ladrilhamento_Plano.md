@@ -1,4 +1,4 @@
-# Ladrilhamento no Plano (Tesselação) <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
+# Ladrilhamento no Plano (Tesselação) <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>
 
 O ladrilhamento, também conhecido como pavimentação ou tesselação, é o processo de cobrir uma superfície plana com figuras geométricas (ladrilhos) sem deixar espaços vazios e sem sobreposição. Este conceito, presente na arte e na arquitetura, tem fundamentos matemáticos importantes na geometria plana e é um tópico que pode aparecer em questões de vestibular.
 

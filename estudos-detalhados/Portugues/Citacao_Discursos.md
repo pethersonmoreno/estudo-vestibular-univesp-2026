@@ -1,4 +1,4 @@
-# Citação de Discursos: Direto, Indireto e Indireto Livre <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
+# Citação de Discursos: Direto, Indireto e Indireto Livre <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>
 
 Na produção textual, é comum a necessidade de reproduzir a fala ou o pensamento de personagens ou de outras fontes. Para isso, a língua portuguesa oferece três formas principais de citação de discursos: o discurso direto, o discurso indireto e o discurso indireto livre, cada um com suas características e usos específicos.
 

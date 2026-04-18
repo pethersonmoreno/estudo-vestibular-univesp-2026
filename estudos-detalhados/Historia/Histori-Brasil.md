@@ -1,4 +1,4 @@
-# História do Brasil: Dos Primeiros Habitantes à República <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
+# História do Brasil: Dos Primeiros Habitantes à República <span class="tag-alta-frequencia">[🔥 ALTA FREQUÊNCIA]</span>
 
 A História do Brasil é marcada por um longo processo de formação, desde a ocupação do território por povos indígenas até os desafios e transformações da República, passando pela colonização portuguesa e pelo período imperial.
 

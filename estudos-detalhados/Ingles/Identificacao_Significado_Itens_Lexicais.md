@@ -1,4 +1,4 @@
-# Língua Inglesa: Identificação do Significado de Itens Lexicais <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
+# Língua Inglesa: Identificação do Significado de Itens Lexicais <span class="tag-alta-frequencia">[🔥 ALTA FREQUÊNCIA]</span>
 
 No vestibular da Vunesp, a capacidade de inferir o significado de palavras ou expressões (itens lexicais) desconhecidas a partir do contexto é uma habilidade de leitura de alta frequência. Não é necessário saber o significado de cada palavra, mas sim como o contexto nos ajuda a deduzir seu sentido.
 

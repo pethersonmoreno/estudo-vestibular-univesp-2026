@@ -1,4 +1,4 @@
-# Literatura Indígena em Língua Portuguesa <span class="tag-baixa-frequencia">🧊 FREQUÊNCIA BAIXA</span>
+# Literatura Indígena em Língua Portuguesa <span class="tag-baixa-frequencia">[🧊 FREQUÊNCIA BAIXA]</span>
 
 A Literatura Indígena em Língua Portuguesa representa uma expressão fundamental das culturas originárias do Brasil e de outros países de língua portuguesa, ganhando cada vez mais reconhecimento. Ela se manifesta através de contos, mitos, poesias, romances e ensaios, trazendo à tona as vozes, cosmovisões, lutas e resistências dos povos indígenas.
 

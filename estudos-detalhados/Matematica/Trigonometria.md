@@ -1,4 +1,4 @@
-# Trigonometria <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
+# Trigonometria <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>
 
 A Trigonometria é o ramo da matemática que estuda as relações entre os ângulos e os lados dos triângulos. É fundamental para diversas áreas da ciência e engenharia, e suas aplicações são vastas, desde a navegação até a física e a engenharia. No vestibular, questões de trigonometria são comuns e exigem um bom domínio dos conceitos e fórmulas.
 

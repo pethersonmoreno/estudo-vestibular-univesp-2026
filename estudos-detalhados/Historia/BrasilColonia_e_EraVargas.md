@@ -1,4 +1,4 @@
-# <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span> História: Brasil Colônia e Era Vargas
+# <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span> História: Brasil Colônia e Era Vargas
 
 > **Contexto Vunesp**: No Brasil Colônia, o foco é o Ciclo do Açúcar e do Ouro. Na Era Vargas, foque nas leis trabalhistas e no caráter centralizador do governo.
 

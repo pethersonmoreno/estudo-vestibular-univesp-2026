@@ -1,4 +1,4 @@
-# Química: O Átomo Isolado e sua Estrutura <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
+# Química: O Átomo Isolado e sua Estrutura <span class="tag-alta-frequencia">[🔥 ALTA FREQUÊNCIA]</span>
 
 O conceito de átomo e sua estrutura é fundamental para toda a Química, sendo um tema de alta frequência no vestibular da Vunesp. Compreender os modelos atômicos, os componentes do átomo e a organização periódica dos elementos é crucial para avançar no estudo da matéria e suas transformações.
 

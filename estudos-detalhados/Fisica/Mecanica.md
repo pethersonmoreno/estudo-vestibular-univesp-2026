@@ -1,4 +1,4 @@
-# Física: Mecânica <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
+# Física: Mecânica <span class="tag-alta-frequencia">[🔥 ALTA FREQUÊNCIA]</span>
 
 A Mecânica é o ramo da Física que estuda o movimento dos corpos e as causas que o produzem ou o modificam. Para o vestibular da Vunesp, é um tema de altíssima frequência, cobrindo desde a descrição do movimento até as interações fundamentais entre os corpos.
 

@@ -1,4 +1,4 @@
-# Química: Ácidos, Bases, Sais e Óxidos <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
+# Química: Ácidos, Bases, Sais e Óxidos <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>
 
 O estudo das funções inorgânicas (ácidos, bases, sais e óxidos) é um pilar da Química, com importância significativa no vestibular da Vunesp. Compreender suas propriedades, classificações e reações é essencial para a análise de fenômenos químicos e suas aplicações no cotidiano.
 

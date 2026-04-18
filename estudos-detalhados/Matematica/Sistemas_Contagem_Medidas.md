@@ -1,4 +1,4 @@
-# Sistemas de Contagem e de Medidas <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
+# Sistemas de Contagem e de Medidas <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>
 
 Os sistemas de contagem e de medidas são a base para quantificar e comparar grandezas no dia a dia e na ciência. O domínio do Sistema Internacional de Medidas (SI) e a compreensão de diferentes bases numéricas são essenciais para a resolução de problemas em diversas áreas do conhecimento e em vestibulares como o da Vunesp.
 

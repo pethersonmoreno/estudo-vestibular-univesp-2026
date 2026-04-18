@@ -1,4 +1,4 @@
-# <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span> Geografia: Globalização e Urbanização
+# <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span> Geografia: Globalização e Urbanização
 
 > **Contexto Vunesp**: O foco é o Brasil. Entenda como o país se urbanizou de forma acelerada e desordenada e como a globalização integra o território (redes de transporte e internet).
 

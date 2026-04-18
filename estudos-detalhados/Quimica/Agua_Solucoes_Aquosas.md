@@ -1,4 +1,4 @@
-# Química: Água e Soluções Aquosas <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
+# Química: Água e Soluções Aquosas <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>
 
 A água é a substância mais abundante e essencial para a vida na Terra. Seu estudo, bem como o das soluções aquosas, é um tópico de frequência média no vestibular da Vunesp, abordando desde suas propriedades únicas até os processos de tratamento e as interações com outras substâncias.
 

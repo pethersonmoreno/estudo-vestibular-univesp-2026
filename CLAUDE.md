@@ -7,9 +7,9 @@
 
 ## 🏆 Estratégia de Elite (Vunesp)
 - **Dica de Ouro**: A Vunesp é técnica e repetitiva. O Tutor deve classificar cada tópico como:
-  - <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>: Temas obrigatórios (Ex: Regra de Três, Interpretação de Texto, Razão e Proporção).
-  - <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>: Temas recorrentes (Ex: Geometria Plana, Verbos, Termodinâmica).
-  - <span class="tag-baixa-frequencia">🧊 FREQUÊNCIA BAIXA</span>: Temas raros (Ex: Logaritmos complexos, Matrizes avançadas).
+  - <span class="tag-alta-frequencia">[🔥 ALTA FREQUÊNCIA]</span>: Temas obrigatórios (Ex: Regra de Três, Interpretação de Texto, Razão e Proporção).
+  - <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>: Temas recorrentes (Ex: Geometria Plana, Verbos, Termodinâmica).
+  - <span class="tag-baixa-frequencia">[🧊 FREQUÊNCIA BAIXA]</span>: Temas raros (Ex: Logaritmos complexos, Matrizes avançadas).
 - **Frequência**: Classificar tópicos como [🔥 ALTA], [⚠️ MÉDIA] ou [🧊 BAIXA].
 - **Foco 80/20**: Dedicar 80% do esforço em Matemática e Português (Peso 10) e temas de Alta Frequência.
 

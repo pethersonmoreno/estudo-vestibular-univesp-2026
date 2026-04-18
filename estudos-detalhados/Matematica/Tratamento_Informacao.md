@@ -1,4 +1,4 @@
-# Matemática: Tratamento da Informação <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
+# Matemática: Tratamento da Informação <span class="tag-alta-frequencia">[🔥 ALTA FREQUÊNCIA]</span>
 
 O tratamento da informação é uma área da matemática que lida com a coleta, organização, análise e interpretação de dados. É fundamental para a compreensão do mundo contemporâneo e é um tema de alta frequência em vestibulares, abrangendo desde estatística básica até noções de algoritmos.
 

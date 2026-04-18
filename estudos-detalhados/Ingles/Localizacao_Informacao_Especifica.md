@@ -1,4 +1,4 @@
-# Língua Inglesa: Localização de Informação Específica <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
+# Língua Inglesa: Localização de Informação Específica <span class="tag-alta-frequencia">[🔥 ALTA FREQUÊNCIA]</span>
 
 A habilidade de localizar informações específicas em um texto em inglês é crucial para responder a questões diretas no vestibular da Vunesp. Essa técnica, conhecida como ***scanning***, permite encontrar rapidamente dados, nomes, datas, definições ou quaisquer detalhes solicitados sem a necessidade de uma leitura exaustiva de todo o conteúdo.
 

@@ -1,4 +1,4 @@
-# Física: Óptica <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
+# Física: Óptica <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>
 
 A Óptica é a parte da Física que estuda a luz e os fenômenos relacionados à visão. No vestibular da Vunesp, a Óptica Geométrica, em particular, é um tema de frequência média, abordando desde os princípios de propagação da luz até a formação de imagens em espelhos e lentes, e o funcionamento do olho humano.
 

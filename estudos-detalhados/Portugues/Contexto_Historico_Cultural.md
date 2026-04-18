@@ -1,4 +1,4 @@
-# Relação do Texto com seu Contexto Histórico e Cultural <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
+# Relação do Texto com seu Contexto Histórico e Cultural <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>
 
 Todo texto é produzido em um determinado tempo e lugar, sendo influenciado pelas condições históricas, sociais, políticas e culturais de sua época. Analisar a relação de um texto com seu contexto é fundamental para uma compreensão aprofundada de seus sentidos, intenções e relevância.
 

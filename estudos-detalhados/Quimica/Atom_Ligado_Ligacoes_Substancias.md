@@ -1,4 +1,4 @@
-# Química: O Átomo Ligado - Ligações e Substâncias Químicas <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
+# Química: O Átomo Ligado - Ligações e Substâncias Químicas <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>
 
 Após compreender a estrutura do átomo isolado, é fundamental entender como os átomos se ligam para formar moléculas e substâncias. O estudo das ligações químicas e dos tipos de substâncias é um tema de frequência média no vestibular da Vunesp, crucial para a compreensão da química inorgânica e orgânica.
 

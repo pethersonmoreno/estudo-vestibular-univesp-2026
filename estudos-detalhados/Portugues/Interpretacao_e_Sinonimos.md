@@ -1,4 +1,4 @@
-# <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span> Português: Interpretação de Texto e Sinônimos
+# <span class="tag-alta-frequencia">[🔥 ALTA FREQUÊNCIA]</span> Português: Interpretação de Texto e Sinônimos
 
 > **Contexto Vunesp**: A banca utiliza textos de média extensão (geralmente crônicas ou notícias) e cobra a capacidade de identificar a ideia central e o sentido das palavras no contexto. É comum pedirem para substituir uma palavra por um sinônimo sem alterar o sentido.
 

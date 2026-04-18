@@ -1,4 +1,4 @@
-# <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span> Matemática: Regra de Três e Equações
+# <span class="tag-alta-frequencia">[🔥 ALTA FREQUÊNCIA]</span> Matemática: Regra de Três e Equações
 
 > **Contexto Vunesp**: A banca raramente pede para "resolver uma equação" pura. Ela apresenta um problema (geralmente sobre idades, salários ou quantidades) que você deve transformar em uma equação de 1º grau ou resolver via Regra de Três.
 

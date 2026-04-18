@@ -1,4 +1,4 @@
-# Razões e Proporcionalidade <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
+# Razões e Proporcionalidade <span class="tag-alta-frequencia">[🔥 ALTA FREQUÊNCIA]</span>
 
 Razões e proporcionalidade são conceitos fundamentais na matemática, com aplicações em diversas áreas do conhecimento e frequentemente cobrados em problemas do vestibular da Vunesp. Compreender a relação entre grandezas e como elas variam é essencial para a resolução de questões.
 

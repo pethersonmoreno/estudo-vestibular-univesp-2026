@@ -1,4 +1,4 @@
-# Biologia: Biologia das Plantas e dos Animais <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
+# Biologia: Biologia das Plantas e dos Animais <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>
 
 A Biologia das Plantas e dos Animais é essencial para compreender a diversidade e as adaptações da vida na Terra. Para o vestibular da Vunesp, temas como anatomia, fisiologia e reprodução desses grupos são de frequência média e exigem um conhecimento sólido sobre suas características distintivas.
 
