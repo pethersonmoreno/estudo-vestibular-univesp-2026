@@ -1,3 +1,8 @@
+---
+layout: default
+title: Estudo Vestibular UNIVESP 2026 - RETA FINAL
+---
+
 # Estudo Vestibular UNIVESP 2026 (RETA FINAL)
 
 Este repositório contém materiais de estudo detalhados para o Vestibular UNIVESP 2026, com foco na reta final de preparação.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Cronograma de Estudos - UNIVESP 2026
+---
+
 # CRONOGRAMA_SPRINT.md - Vestibular UNIVESP 2026 (CRONOGRAMA COMPLETO COM LINKS)
 
 Este cronograma foi expandido para incluir *todos* os tópicos do edital da UNIVESP 2026, com base no que ainda não possui material detalhado em `./estudos-detalhados/`. Os tópicos são distribuídos de forma mais realista, priorizando Matemática e Língua Portuguesa e utilizando a classificação de frequência da Vunesp.
