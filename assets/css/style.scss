@@ -1,0 +1,40 @@
+@import "jekyll-theme-minimal";
+
+/* Estilos personalizados para as tags de frequência */
+/* Você pode ajustar essas cores e estilos conforme desejar */
+
+/* ALTA FREQUÊNCIA */
+p strong:contains("[🔥 ALTA FREQUÊNCIA]"),
+li strong:contains("[🔥 ALTA FREQUÊNCIA]") {
+    color: #cb2431; /* Vermelho */
+    background-color: #ffeef0;
+    padding: 0.2em 0.4em;
+    margin: 0 0.2em;
+    border-radius: 6px;
+    font-size: 0.9em;
+    white-space: nowrap;
+}
+
+/* FREQUÊNCIA MÉDIA */
+p strong:contains("[⚠️ FREQUÊNCIA MÉDIA]"),
+li strong:contains("[⚠️ FREQUÊNCIA MÉDIA]") {
+    color: #dbab09; /* Laranja */
+    background-color: #fffbdd;
+    padding: 0.2em 0.4em;
+    margin: 0 0.2em;
+    border-radius: 6px;
+    font-size: 0.9em;
+    white-space: nowrap;
+}
+
+/* FREQUÊNCIA BAIXA */
+p strong:contains("[🧊 FREQUÊNCIA BAIXA]"),
+li strong:contains("[🧊 FREQUÊNCIA BAIXA]") {
+    color: #586069; /* Cinza */
+    background-color: #f6f8fa;
+    padding: 0.2em 0.4em;
+    margin: 0 0.2em;
+    border-radius: 6px;
+    font-size: 0.9em;
+    white-space: nowrap;
+}

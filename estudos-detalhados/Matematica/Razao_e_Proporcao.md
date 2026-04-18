@@ -1,3 +1,8 @@
+---
+layout: default
+title: Matemática: Razão, Proporção e Porcentagem
+---
+
 # [🔥 ALTA FREQUÊNCIA] Matemática: Razão, Proporção e Porcentagem
 
 > **Contexto Vunesp**: Este é o tema mais recorrente. A banca prefere situações práticas (misturas, divisões de tarefas ou orçamentos) em vez de fórmulas puras.
