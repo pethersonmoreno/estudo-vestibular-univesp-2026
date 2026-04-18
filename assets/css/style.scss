@@ -7,35 +7,30 @@
 
 /* ALTA FREQUÊNCIA */
 .tag-alta-frequencia {
-    color: #cb2431; /* Vermelho */
-    background-color: #ffeef0;
-    padding: 0.2em 0.4em;
+    color: #990000; /* Vermelho escuro */
     margin: 0 0.2em;
-    border-radius: 6px;
     font-size: 0.9em;
     white-space: nowrap;
 }
 
 /* FREQUÊNCIA MÉDIA */
 .tag-media-frequencia {
-    color: #dbab09; /* Laranja */
-    background-color: #fffbdd;
-    padding: 0.2em 0.4em;
+    color: #6b4b00; /* Laranja escuro */
     margin: 0 0.2em;
-    border-radius: 6px;
     font-size: 0.9em;
     white-space: nowrap;
 }
 
 /* FREQUÊNCIA BAIXA */
 .tag-baixa-frequencia {
-    color: #586069; /* Cinza */
-    background-color: #f6f8fa;
-    padding: 0.2em 0.4em;
+    color: #384088; /* Cinza azulado */
     margin: 0 0.2em;
-    border-radius: 6px;
     font-size: 0.9em;
     white-space: nowrap;
+}
+a {
+    color:#003070;
+    text-decoration: none;
 }
 
 a:hover, a:focus {
