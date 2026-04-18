@@ -1,24 +1,58 @@
-# 🏁 Plano de Estudos: Sprint Final UNIVESP (7 Dias)
-> **Objetivo**: Revisão de alto impacto focada em temas [ALTA FREQUÊNCIA] da banca Vunesp.
+# CRONOGRAMA_SPRINT.md - Vestibular UNIVESP 2026 (7 Dias - Reta Final)
 
-## 📅 Cronograma Semanal
+Este cronograma foi reajustado com base na "Estratégia de Elite (Vunesp)", priorizando tópicos de alta e média frequência em Matemática e Língua Portuguesa.
 
+## Dia 1
+- **Matemática:**
+  - Conjuntos numéricos: Números naturais, inteiros, racionais e reais (operações, propriedades, ordem, reta numérica, resolução de problemas). [🔥 ALTA FREQUÊNCIA]
+  - Razões, proporcionalidade direta e inversa. Proporcionalidade entre duas grandezas. [🔥 ALTA FREQUÊNCIA]
+  - Notação científica, algarismos significativos e noção de erro em medições. [🔥 ALTA FREQUÊNCIA]
 
-| Dia | Matéria Prioritária (Peso 10) | Matéria Complementar (Peso 6) | Status |
-| :--- | :--- | :--- | :--- |
-| **1** | **Matemática**: Razão, Proporção e Porcentagem | **Física**: Mecânica (Cinemática e Leis de Newton) | ⬜ |
-| **2** | **Português**: Interpretação de Texto e Sinônimos | **Biologia**: Ecologia e Meio Ambiente | ⬜ |
-| **3** | **Matemática**: Regra de Três e Equações de 1º/2º Grau | **Química**: Misturas e Estequiometria Básica | ⬜ |
-| **4** | **Português**: Concordância e Pontuação | **História**: Brasil Colônia e Era Vargas | ⬜ |
-| **5** | **Matemática**: Geometria Plana (Áreas e Perímetros) | **Geografia**: Globalização e Urbanização | ⬜ |
-| **6** | **Português**: Verbos e Conjunções (Conectivos) | **Inglês**: Estratégias de Leitura e Vocabulário | ⬜ |
-| **7** | **Revisão Geral**: Fórmulas e Erros Frequentes | **Simulado**: Prova Anterior Univesp (Tempo Real) | ⬜ |
+## Dia 2
+- **Língua Portuguesa:**
+  - Funcionamento social da língua: Norma ortográfica. [🔥 ALTA FREQUÊNCIA]
+  - Morfossintaxe: Classes de palavras (substantivo, artigo, adjetivo, numeral, pronome, verbo, advérbio, preposição, conjunção e interjeição). [🔥 ALTA FREQUÊNCIA]
+  - Morfossintaxe: Elementos estruturais e processos de formação de palavras. [🔥 ALTA FREQUÊNCIA]
+  - Morfossintaxe: Flexão nominal e flexão verbal (tempo, modo, aspecto, voz; correlação de tempos e modos). [🔥 ALTA FREQUÊNCIA]
+  - Morfossintaxe: Concordância nominal e verbal. [🔥 ALTA FREQUÊNCIA]
+  - Morfossintaxe: Regência nominal e verbal. [🔥 ALTA FREQUÊNCIA]
 
-## 🎯 Metas por Sessão
-1. **Teoria Rápida**: Máximo 20 minutos por tópico (Foco em fórmulas e conceitos-chave).
-2. **Prática**: Resolver pelo menos 5 questões Vunesp de cada tema acima.
-3. **Registro**: Salvar o resumo em `./estudos-detalhados/[Materia]/[Topico].md`.
+## Dia 3
+- **Matemática:**
+  - Conjuntos numéricos: Juros simples e compostos, porcentagem, taxas e índices. [🔥 ALTA FREQUÊNCIA]
+  - Funções: Relação entre grandezas (velocidade, densidade demográfica, densidade volumétrica etc.). [🔥 ALTA FREQUÊNCIA]
+  - Funções: Gráfico de funções expressas por uma ou por diversas sentenças. [🔥 ALTA FREQUÊNCIA]
+  - Funções: Taxa de variação: crescimento linear, quadrático, exponencial. [🔥 ALTA FREQUÊNCIA]
+  - Funções: Função polinomial do 1º grau; função constante. [🔥 ALTA FREQUÊNCIA]
 
-## 🚨 Observações de Reta Final
-- **Vunesp**: A prova é direta. Não tente aprender matérias complexas novas agora; garanta os pontos dos temas fáceis e médios.
-- **Prioridade**: Se o tempo apertar, priorize sempre a coluna de Matemática e Português.
+## Dia 4
+- **Língua Portuguesa:**
+  - Processos sintático-semânticos: Frase, oração e período. [🔥 ALTA FREQUÊNCIA]
+  - Processos sintático-semânticos: Coordenação e subordinação. [🔥 ALTA FREQUÊNCIA]
+  - Processos sintático-semânticos: Conectivos: função sintática e valores lógico-semânticos. [🔥 ALTA FREQUÊNCIA]
+  - Processos sintático-semânticos: Organização e reorganização de orações e períodos. [🔥 ALTA FREQUÊNCIA]
+  - Compreensão, interpretação e produção de textos: Níveis de significação do texto (explícita e implícita; denotação e conotação). [🔥 ALTA FREQUÊNCIA]
+  - Compreensão, interpretação e produção de textos: Estratégias de articulação do texto (mecanismos de coesão e coerência). [🔥 ALTA FREQUÊNCIA]
+
+## Dia 5
+- **Matemática:**
+  - Funções: Equação da reta: forma reduzida; coeficientes angular e linear. Intersecção de retas. [🔥 ALTA FREQUÊNCIA]
+  - Funções: Função quadrática. [🔥 ALTA FREQUÊNCIA]
+  - Funções: Pontos de máximo e mínimo em funções quadráticas. [🔥 ALTA FREQUÊNCIA]
+  - Análise combinatória: Princípios multiplicativo e aditivo em problemas de contagem. [⚠️ FREQUÊNCIA MÉDIA]
+  - Análise combinatória: Arranjos, permutações e combinações simples. [⚠️ FREQUÊNCIA MÉDIA]
+
+## Dia 6
+- **Língua Portuguesa:**
+  - Funcionamento social da língua: Distinção entre variedades linguísticas (categorias sociais e contextos de comunicação; registros de formalidade e informalidade). [⚠️ FREQUÊNCIA MÉDIA]
+  - Processos sintático-semânticos: Figuras de linguagem. [⚠️ FREQUÊNCIA MÉDIA]
+  - Compreensão, interpretação e produção de textos: Modos de organização do texto: descrição, narração e dissertação. [⚠️ FREQUÊNCIA MÉDIA]
+
+## Dia 7
+- **Matemática:**
+  - Probabilidade: Espaço amostral (discreto e contínuo); Eventos equiprováveis ou não, conjunto universo; Conceituação de probabilidade. [⚠️ FREQUÊNCIA MÉDIA]
+  - Probabilidade: Eventos mutuamente exclusivos. Probabilidade da união e da intersecção de dois ou mais eventos. [⚠️ FREQUÊNCIA MÉDIA]
+  - Probabilidade: Probabilidade condicional. Eventos independentes. [⚠️ FREQUÊNCIA MÉDIA]
+  - Geometria plana: Figuras geométricas simples (reta, semirreta, segmento, ângulo plano, polígonos, circunferência e círculo). [⚠️ FREQUÊNCIA MÉDIA]
+  - Geometria plana: Coordenadas e Plano cartesiano. Distância entre dois pontos. Ponto médio de um segmento de reta. [⚠️ FREQUÊNCIA MÉDIA]
+  - Geometria plana: Áreas de polígonos, círculos, coroa e setor circular. [⚠️ FREQUÊNCIA MÉDIA]
