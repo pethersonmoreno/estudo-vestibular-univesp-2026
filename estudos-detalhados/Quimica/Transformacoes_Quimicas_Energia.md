@@ -11,8 +11,11 @@ Termoquímica é o estudo das trocas de calor que ocorrem durante as reações q
 -   **Variação de Entalpia ($\Delta H$)**: Diferença entre a entalpia dos produtos e a dos reagentes ($\Delta H = H_{produtos} - H_{reagentes}$).
     -   **Reações Exotérmicas**: Liberam calor para o ambiente. $H_{produtos} < H_{reagentes}$, então $\Delta H < 0$. (Ex: combustão, queima de gás).
     -   **Reações Endotérmicas**: Absorvem calor do ambiente. $H_{produtos} > H_{reagentes}$, então $\Delta H > 0$. (Ex: fotossíntese, dissolução de nitrato de amônio).
+
+
+
 -   **Diagramas de Energia**: Representações gráficas das variações de entalpia, mostrando reagentes, produtos e energia de ativação.
--   **Lei de Hess**: A variação de entalpia de uma reação química depende apenas dos estados inicial e final, e não do caminho percorrido. Se uma reação pode ser expressa como a soma de outras reações, o $\Delta H$ global é a soma dos $\Delta H$ das re reações parciais.
+-   **Lei de Hess**: A variação de entalpia de uma reação química depende apenas dos estados inicial e final, e não do caminho percorrido. Se uma reação pode ser expressa como a soma de outras reações, o $\Delta H$ global é a soma dos $\Delta H$ das reações parciais.
 -   **Energia de Ligação**: Energia necessária para romper 1 mol de uma determinada ligação química no estado gasoso, ou a energia liberada na formação de 1 mol dessa ligação. Pode ser usada para calcular o $\Delta H$ de uma reação.
 
 ### 9.2. Energia nas Mudanças de Estado
@@ -26,7 +29,8 @@ Termoquímica é o estudo das trocas de calor que ocorrem durante as reações q
 
 -   É a energia envolvida na quebra ou formação de ligações químicas. Quebra de ligação absorve energia ($\Delta H > 0$); formação de ligação libera energia ($\Delta H < 0$).
 -   O $\Delta H$ de uma reação pode ser estimado pela soma das energias das ligações rompidas (reagentes) menos a soma das energias das ligações formadas (produtos).
-    -   $\Delta H_{reação} = \Sigma E_{ligações\_rompidas} - \Sigma E_{ligações\_formadas}$
+
+    $\Delta H_{reação} = \sum E_{ligações\_rompidas} - \sum E_{ligações\_formadas}$
 
 ### 9.4. Transformações Químicas e Energia Elétrica (Eletroquímica)
 
@@ -39,6 +43,9 @@ Eletroquímica estuda a relação entre energia elétrica e reações químicas.
     -   **Cátodo**: Polo positivo, ocorre redução.
     -   Sentido dos elétrons: do ânodo para o cátodo pelo circuito externo.
     -   Ponte salina: mantém a neutralidade elétrica das soluções.
+
+
+
 -   **Eletrólise**: Converte energia elétrica em energia química (reações não espontâneas).
     -   **Eletrólise Ígnea**: De composto iônico fundido.
     -   **Eletrólise Aquosa**: De composto iônico em solução aquosa.
@@ -50,10 +57,10 @@ Eletroquímica estuda a relação entre energia elétrica e reações químicas.
 Processos que envolvem o núcleo atômico, com liberação de grandes quantidades de energia.
 -   **Radioatividade**: Emissão espontânea de partículas e/ou ondas eletromagnéticas por núcleos instáveis.
 -   **Emissões Radioativas**:
-    -   **Partículas Alfa ($\alpha$)**: Núcleo de Hélio ($^4_2He^{2+}$). Grande massa e carga positiva. Poder de penetração baixo.
-    -   **Partículas Beta ($\beta^-$)**: Elétron ($^0_{-1}e$). Massa desprezível, carga negativa. Poder de penetração intermediário.
+    -   **Partículas Alfa ($\alpha$)**: Núcleo de Hélio ($^{4}_{2}He^{2+}$). Grande massa e carga positiva. Poder de penetração baixo.
+    -   **Partículas Beta ($\beta^-$)**: Elétron ($^{0}_{-1}e$). Massa desprezível, carga negativa. Poder de penetração intermediário.
     -   **Raios Gama ($\gamma$)**: Onda eletromagnética. Sem massa ou carga. Poder de penetração alto.
--   **Tempo de Meia-Vida (T½)**: Tempo necessário para que metade dos núcleos radioativos de uma amostra se desintegre.
+-   **Tempo de Meia-Vida ($T_{1/2}$)**: Tempo necessário para que metade dos núcleos radioativos de uma amostra se desintegre.
 -   **Fissão Nuclear**: Quebra de um núcleo pesado em núcleos menores, liberando energia (ex: bombas atômicas, usinas nucleares).
 -   **Fusão Nuclear**: União de núcleos leves para formar um núcleo mais pesado, liberando energia (ex: Sol, bomba de hidrogênio).
 
@@ -64,7 +71,7 @@ Processos que envolvem o núcleo atômico, com liberação de grandes quantidade
 **Questão 1 (Vunesp Adaptada):**
 Considere a seguinte reação:
 
-$C_6H_{12}O_6(s) + 6O_2(g) \rightarrow 6CO_2(g) + 6H_2O(l) \quad \Delta H = -2803 \text{ kJ/mol}$
+$$C_6H_{12}O_6(s) + 6O_2(g) \rightarrow 6CO_2(g) + 6H_2O(l) \quad \Delta H = -2803 \text{ kJ/mol}$$
 
 Essa reação, que representa a combustão da glicose, pode ser classificada como:
 
