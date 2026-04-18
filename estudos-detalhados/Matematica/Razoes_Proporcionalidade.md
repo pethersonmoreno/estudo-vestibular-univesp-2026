@@ -60,17 +60,24 @@ e) 8 horas
 **Resolução:**
 Este é um problema de regra de três composta. Vamos analisar as relações:
 
--   **Máquinas e Horas**: Quanto mais máquinas, menos horas para o mesmo número de peças (inversamente proporcionais).
--   **Peças e Horas**: Quanto mais peças, mais horas para o mesmo número de máquinas (diretamente proporcionais).
+- **Máquinas e Horas**: Quanto mais máquinas, menos horas para o mesmo número de peças (**inversamente proporcionais**).
+- **Peças e Horas**: Quanto mais peças, mais horas para o mesmo número de máquinas (**diretamente proporcionais**).
 
 Montando a proporção:
-$rac{horas}{6} = rac{5}{10} 	imes rac{300}{150}$
-(Note que a razão máquinas/10 foi invertida por serem inversamente proporcionais)
+
+$$\frac{x}{6} = \frac{5}{10} \times \frac{300}{150}$$
+
+*(Note que a razão das máquinas foi invertida por serem inversamente proporcionais às horas)*.
 
 Simplificando:
-$rac{horas}{6} = rac{1}{2} 	imes 2$
-$rac{horas}{6} = 1$
-horas = 6
+
+$$\frac{x}{6} = \frac{1}{2} \times 2$$
+
+$$\frac{x}{6} = 1$$
+
+$$x = 6$$
+
+**Resposta: d) 6 horas**
 
 **Alternativa Correta: d)**
 
@@ -89,6 +96,7 @@ e) 60 cm²
 A área ($A$) é diretamente proporcional ao quadrado do tempo ($t$), então $A = k \cdot t^2$.
 
 Sabemos que em $t = 2$ horas, $A = 10$ cm².
+
 $10 = k \cdot 2^2 \Rightarrow 10 = 4k \Rightarrow k = \frac{10}{4} = 2.5$.
 
 Agora, queremos a área para $t = 4$ horas:
