@@ -35,3 +35,8 @@
     font-size: 0.9em;
     white-space: nowrap;
 }
+
+a:hover, a:focus {
+    font-weight: normal;
+    text-decoration: underline;
+}
