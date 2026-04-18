@@ -1,4 +1,4 @@
-# Relação entre Escrita e Oralidade [⚠️ FREQUÊNCIA MÉDIA]
+# Relação entre Escrita e Oralidade <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
 
 A língua, em suas diversas manifestações, pode ser expressa tanto oralmente quanto por escrito. Embora interligadas, a oralidade e a escrita possuem características distintas que influenciam a forma como nos comunicamos e produzimos sentido.
 

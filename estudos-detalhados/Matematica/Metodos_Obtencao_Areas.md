@@ -1,4 +1,4 @@
-# Diferentes Métodos para Obtenção de Áreas [⚠️ FREQUÊNCIA MÉDIA]
+# Diferentes Métodos para Obtenção de Áreas <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
 
 A área de uma figura geométrica é a medida de sua superfície. Na matemática, existem diversos métodos para calcular áreas de diferentes figuras planas, desde as mais simples até as mais complexas. Dominar essas fórmulas e técnicas é crucial para a resolução de problemas de geometria em vestibulares.
 

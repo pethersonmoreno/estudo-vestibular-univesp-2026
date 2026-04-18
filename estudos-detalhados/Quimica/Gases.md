@@ -1,4 +1,4 @@
-# Química: Gases [⚠️ FREQUÊNCIA MÉDIA]
+# Química: Gases <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
 
 O estudo dos gases é um componente essencial da Química, com aplicações em diversas áreas e relevância no vestibular da Vunesp. Compreender a teoria cinética dos gases, suas propriedades e as leis que regem seu comportamento é fundamental para a resolução de problemas termodinâmicos e ambientais.
 

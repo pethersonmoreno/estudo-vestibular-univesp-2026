@@ -1,4 +1,4 @@
-# [🔥 ALTA FREQUÊNCIA] Português: Concordância e Pontuação
+# <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span> Português: Concordância e Pontuação
 
 > **Contexto Vunesp**: A banca adora frases invertidas para te confundir na concordância (o sujeito vem depois do verbo). Na pontuação, o foco é quase sempre o uso da vírgula.
 

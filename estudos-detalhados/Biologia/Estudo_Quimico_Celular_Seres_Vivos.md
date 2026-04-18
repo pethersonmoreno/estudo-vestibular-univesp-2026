@@ -1,4 +1,4 @@
-# Biologia: Estudo Químico e Celular dos Seres Vivos, Reprodução, Desenvolvimento e Metabolismo Energético [🔥 ALTA FREQUÊNCIA]
+# Biologia: Estudo Químico e Celular dos Seres Vivos, Reprodução, Desenvolvimento e Metabolismo Energético <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
 
 A Biologia celular e molecular é um pilar fundamental para a compreensão dos seres vivos, abordando desde sua composição química até os processos de reprodução, desenvolvimento e obtenção de energia. Para o vestibular da Vunesp, o domínio desses conceitos é essencial, pois são de alta frequência nas provas.
 

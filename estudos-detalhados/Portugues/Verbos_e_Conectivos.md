@@ -1,4 +1,4 @@
-# [🔥 ALTA FREQUÊNCIA] Português: Verbos e Conjunções (Conectivos)
+# <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span> Português: Verbos e Conjunções (Conectivos)
 
 > **Contexto Vunesp**: A banca raramente pede para você conjugar um verbo isolado. Ela quer que você identifique o **sentido** (tempo/modo) ou que saiba substituir uma conjunção por outra de mesmo valor (Ex: trocar "contudo" por "entretanto").
 

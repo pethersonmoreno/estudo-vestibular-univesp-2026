@@ -1,4 +1,4 @@
-# Língua Inglesa: Compreensão de Ideias em Trechos, Frases e Parágrafos [🔥 ALTA FREQUÊNCIA]
+# Língua Inglesa: Compreensão de Ideias em Trechos, Frases e Parágrafos <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
 
 Além de entender o sentido geral de um texto, é fundamental ser capaz de compreender as ideias específicas expressas em diferentes partes dele, como trechos, frases e parágrafos. Essa habilidade de leitura detalhada é crucial para a interpretação de textos no vestibular da Vunesp.
 

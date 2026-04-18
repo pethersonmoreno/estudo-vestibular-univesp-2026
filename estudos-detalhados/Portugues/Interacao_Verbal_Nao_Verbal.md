@@ -1,4 +1,4 @@
-# Interação entre Texto Verbal e Não Verbal [⚠️ FREQUÊNCIA MÉDIA]
+# Interação entre Texto Verbal e Não Verbal <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
 
 A comunicação humana raramente se restringe a uma única forma de linguagem. Frequentemente, textos verbais (palavras escritas ou faladas) interagem com textos não verbais (imagens, gráficos, símbolos, sons) para construir e ampliar o sentido. Compreender essa interação é essencial para a interpretação de diversos gêneros textuais.
 

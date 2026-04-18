@@ -1,4 +1,4 @@
-# Congruência de Figuras Planas [⚠️ FREQUÊNCIA MÉDIA]
+# Congruência de Figuras Planas <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
 
 A congruência de figuras planas é um conceito fundamental na geometria que descreve a igualdade em forma e tamanho entre duas ou mais figuras. Duas figuras congruentes podem ser superpostas perfeitamente uma sobre a outra. Este conceito é essencial para a compreensão de transformações isométricas e para a resolução de problemas em geometria.
 

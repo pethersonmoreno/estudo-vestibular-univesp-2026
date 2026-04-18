@@ -1,4 +1,4 @@
-# Semelhança de Triângulos [⚠️ FREQUÊNCIA MÉDIA]
+# Semelhança de Triângulos <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
 
 A semelhança de triângulos é um conceito essencial na geometria, permitindo estabelecer relações de proporcionalidade entre figuras que possuem a mesma forma, mas tamanhos diferentes. É amplamente utilizado em problemas de geometria, escala e proporções, sendo um tema recorrente em vestibulares como o da Vunesp.
 

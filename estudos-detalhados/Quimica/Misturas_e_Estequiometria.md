@@ -1,4 +1,4 @@
-# [⚠️ FREQUÊNCIA MÉDIA] Química: Misturas e Estequiometria Básica
+# <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span> Química: Misturas e Estequiometria Básica
 
 > **Contexto Vunesp**: O foco é o cálculo de massa e a compreensão de misturas. A Vunesp fornece as massas atômicas na prova, então você não precisa decorar a tabela, apenas saber usar a Regra de Três química.
 

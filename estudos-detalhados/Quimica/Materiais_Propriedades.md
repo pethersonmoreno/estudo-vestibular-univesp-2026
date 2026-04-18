@@ -1,4 +1,4 @@
-# Química: Materiais - Uso e Propriedades [🔥 ALTA FREQUÊNCIA]
+# Química: Materiais - Uso e Propriedades <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
 
 A Química estuda a matéria, suas propriedades e transformações. Compreender os materiais, suas características e como eles se comportam é fundamental para diversas áreas da ciência e para a resolução de problemas no vestibular da Vunesp.
 

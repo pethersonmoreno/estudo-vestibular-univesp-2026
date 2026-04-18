@@ -1,4 +1,4 @@
-# Química: Transformações Químicas: Um Processo Dinâmico [⚠️ FREQUÊNCIA MÉDIA]
+# Química: Transformações Químicas: Um Processo Dinâmico <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
 
 As transformações químicas não são apenas a passagem de reagentes a produtos, mas processos que ocorrem em diferentes velocidades e podem atingir estados de equilíbrio. O estudo da cinética e do equilíbrio químico é um tema de frequência média no vestibular da Vunesp, essencial para entender a dinâmica das reações e suas aplicações industriais e biológicas.
 

@@ -1,4 +1,4 @@
-# Transformações Isométricas e Homotéticas [⚠️ FREQUÊNCIA MÉDIA]
+# Transformações Isométricas e Homotéticas <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
 
 As transformações geométricas são operações que mudam a posição ou o tamanho de figuras no plano ou no espaço. Dentre elas, destacam-se as isometrias (que preservam medidas) e as homotetias (que alteram o tamanho, mas preservam a forma). O domínio desses conceitos é fundamental para a geometria e para questões de vestibular da Vunesp.
 

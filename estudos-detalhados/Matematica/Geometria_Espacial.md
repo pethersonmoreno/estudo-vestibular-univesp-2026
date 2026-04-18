@@ -1,4 +1,4 @@
-# Geometria Espacial [⚠️ FREQUÊNCIA MÉDIA]
+# Geometria Espacial <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
 
 A Geometria Espacial estuda as formas no espaço tridimensional, suas propriedades, relações e medidas (áreas e volumes). É um ramo fundamental da matemática, com aplicações em engenharia, arquitetura e design, e frequentemente abordado em questões de vestibular da Vunesp.
 

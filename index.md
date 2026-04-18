@@ -18,9 +18,9 @@ Todo o conteúdo presente nesta pasta foi **gerado e organizado utilizando o Cla
 ## Legenda de Frequência (Vunesp)
 Para facilitar a priorização, os tópicos são classificados de acordo com a frequência em provas anteriores da Vunesp:
 
-*   [🔥 ALTA FREQUÊNCIA]: Temas obrigatórios e com alta incidência.
-*   [⚠️ FREQUÊNCIA MÉDIA]: Temas recorrentes e importantes.
-*   [🧊 FREQUÊNCIA BAIXA]: Temas mais raros, mas que podem aparecer.
+*   <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>: Temas obrigatórios e com alta incidência.
+*   <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>: Temas recorrentes e importantes.
+*   <span class="tag-baixa-frequencia">🧊 FREQUÊNCIA BAIXA</span>: Temas mais raros, mas que podem aparecer.
 
 ## Como Navegar
 

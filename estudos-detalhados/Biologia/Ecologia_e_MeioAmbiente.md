@@ -1,4 +1,4 @@
-# [🔥 ALTA FREQUÊNCIA] Biologia: Ecologia e Meio Ambiente
+# <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span> Biologia: Ecologia e Meio Ambiente
 
 > **Contexto Vunesp**: Ecologia é o tema que MAIS cai em Biologia. Foque em entender as relações entre os seres vivos e como a energia flui nos ecossistemas.
 

@@ -1,4 +1,4 @@
-# Literatura Portuguesa [🧊 FREQUÊNCIA BAIXA]
+# Literatura Portuguesa <span class="tag-baixa-frequencia">🧊 FREQUÊNCIA BAIXA</span>
 
 A Literatura Portuguesa é um vasto campo de estudo que abrange séculos de produção textual, refletindo a história, a cultura e a língua de Portugal. Ela é marcada por diversos períodos literários que se desenvolveram em paralelo ou em diálogo com as tendências europeias.
 

@@ -1,4 +1,4 @@
-# Química: Transformações Químicas: Evidências, Representações e Aspectos Quantitativos [🔥 ALTA FREQUÊNCIA]
+# Química: Transformações Químicas: Evidências, Representações e Aspectos Quantitativos <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
 
 As transformações químicas são o cerne da Química, explicando como as substâncias interagem e se modificam. Para o vestibular da Vunesp, a compreensão das evidências, da representação (equações) e dos aspectos quantitativos (estequiometria) dessas transformações é um tema de alta frequência e fundamental para a resolução de diversos problemas.
 

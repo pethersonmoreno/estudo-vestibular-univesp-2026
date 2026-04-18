@@ -1,4 +1,4 @@
-# Química: Ácidos, Bases, Sais e Óxidos [⚠️ FREQUÊNCIA MÉDIA]
+# Química: Ácidos, Bases, Sais e Óxidos <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
 
 O estudo das funções inorgânicas (ácidos, bases, sais e óxidos) é um pilar da Química, com importância significativa no vestibular da Vunesp. Compreender suas propriedades, classificações e reações é essencial para a análise de fenômenos químicos e suas aplicações no cotidiano.
 
@@ -54,17 +54,26 @@ Mais abrangente, baseada em pares de elétrons:
 ### 7.4. Sais
 
 Compostos iônicos resultantes da reação entre um ácido e uma base (reação de neutralização).
--   **Formação**: Ácido + Base $ightarrow$ Sal + Água.
+-   **Formação**: Ácido + Base $
+ightarrow$ Sal + Água.
     *Exemplo*: $HCl + NaOH \rightarrow NaCl + H_2O$
 -   **Classificação**: 
     -   **Neutros**: Não possuem $H^+$ ou $OH^-$ em sua fórmula (ex: NaCl).
     -   **Ácidos**: Possuem $H^+$ (ex: $NaHCO_3$ - bicarbonato de sódio).
     -   **Básicos**: Possuem $OH^-$ (ex: $Mg(OH)Cl$).
 -   **Nomenclatura**: Íon do ânion (do ácido) + Íon do cátion (da base).
-    -   Ácido ÍDRICO $ightarrow$ ânion ETO $ightarrow$ SAL ETO
-    -   Ácido OSO $ightarrow$ ânion ITO $ightarrow$ SAL ITO
-    -   Ácido ICO $ightarrow$ ânion ATO $ightarrow$ SAL ATO
-    *Exemplos*: HCl (clorídrico) $ightarrow$ Cloreto; $H_2SO_4$ (sulfúrico) $ightarrow$ Sulfato.
+    -   Ácido ÍDRICO $
+ightarrow$ ânion ETO $
+ightarrow$ SAL ETO
+    -   Ácido OSO $
+ightarrow$ ânion ITO $
+ightarrow$ SAL ITO
+    -   Ácido ICO $
+ightarrow$ ânion ATO $
+ightarrow$ SAL ATO
+    *Exemplos*: HCl (clorídrico) $
+ightarrow$ Cloreto; $H_2SO_4$ (sulfúrico) $
+ightarrow$ Sulfato.
 
 ### 7.5. Óxidos
 

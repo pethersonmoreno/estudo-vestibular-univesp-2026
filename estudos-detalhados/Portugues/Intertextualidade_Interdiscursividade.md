@@ -1,4 +1,4 @@
-# Intertextualidade e Interdiscursividade [⚠️ FREQUÊNCIA MÉDIA]
+# Intertextualidade e Interdiscursividade <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
 
 No campo da linguística e da teoria literária, a intertextualidade e a interdiscursividade são conceitos fundamentais para compreender como os textos e discursos se relacionam entre si. Eles revelam que a produção de sentido raramente é isolada, mas sim construída em diálogo com outras produções já existentes.
 

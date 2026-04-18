@@ -1,4 +1,4 @@
-# Fundamentos da Física [🔥 ALTA FREQUÊNCIA]
+# Fundamentos da Física <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
 
 Os fundamentos da Física são a base para o estudo de todos os fenômenos naturais. Compreender as grandezas, suas unidades e a forma como se relacionam é essencial para a resolução de problemas e para o entendimento das leis físicas. Este é um tópico de alta frequência e importância para o vestibular da Vunesp.
 

@@ -1,4 +1,4 @@
-# Cartografia e Tecnologias de Representação [⚠️ FREQUÊNCIA MÉDIA]
+# Cartografia e Tecnologias de Representação <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
 
 A Cartografia é a ciência e arte de representar a superfície terrestre (ou partes dela) através de mapas, cartas e outras formas de representação gráfica. Ela é fundamental para a compreensão espacial e para diversas áreas do conhecimento e da atividade humana.
 

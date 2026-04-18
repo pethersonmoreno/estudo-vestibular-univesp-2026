@@ -1,4 +1,4 @@
-# Filosofia: Fundamentos e Áreas [🧊 FREQUÊNCIA BAIXA]
+# Filosofia: Fundamentos e Áreas <span class="tag-baixa-frequencia">🧊 FREQUÊNCIA BAIXA</span>
 
 A Filosofia é uma disciplina que busca compreender questões fundamentais sobre a existência, o conhecimento, os valores, a razão, a mente e a linguagem. Ela se distingue de outras formas de conhecimento pela sua abordagem crítica, reflexiva e sistemática.
 

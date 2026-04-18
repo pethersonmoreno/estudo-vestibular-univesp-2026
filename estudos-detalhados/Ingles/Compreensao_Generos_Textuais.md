@@ -1,4 +1,4 @@
-# Língua Inglesa: Compreensão Textual e Gêneros [🔥 ALTA FREQUÊNCIA]
+# Língua Inglesa: Compreensão Textual e Gêneros <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
 
 A leitura e interpretação de textos em Língua Inglesa são habilidades cruciais para o vestibular, exigindo não apenas o conhecimento de vocabulário e gramática, mas também a capacidade de inferir, identificar propósitos comunicativos e reconhecer diferentes gêneros textuais. Este é um tópico de alta frequência nas provas da Vunesp.
 

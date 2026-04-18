@@ -1,4 +1,4 @@
-# Noções de Física Moderna [⚠️ FREQUÊNCIA MÉDIA]
+# Noções de Física Moderna <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
 
 A Física Moderna é um ramo da física que se desenvolveu no início do século XX e revolucionou nossa compreensão do universo em escalas muito pequenas (atômicas e subatômicas) e muito grandes (altas velocidades e grandes massas). Ela engloba a Teoria da Relatividade e a Mecânica Quântica.
 

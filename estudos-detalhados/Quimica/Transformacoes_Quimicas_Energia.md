@@ -1,4 +1,4 @@
-# Química: Transformações de Substâncias Químicas e Energia [⚠️ FREQUÊNCIA MÉDIA]
+# Química: Transformações de Substâncias Químicas e Energia <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
 
 As transformações químicas são intrinsecamente ligadas a fenômenos energéticos. O estudo da termoquímica (energia térmica), eletroquímica (energia elétrica) e radioatividade (energia nuclear) é um tema de frequência média no vestibular da Vunesp, crucial para compreender as interações energia-matéria e suas aplicações.
 

@@ -1,4 +1,4 @@
-# Sequências: Progressões Aritméticas e Geométricas [⚠️ FREQUÊNCIA MÉDIA]
+# Sequências: Progressões Aritméticas e Geométricas <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
 
 Sequências são conjuntos de elementos (números, figuras, etc.) que seguem uma ordem específica, determinada por uma regra ou lei de formação. As progressões aritméticas (PA) e geométricas (PG) são tipos especiais de sequências numéricas.
 

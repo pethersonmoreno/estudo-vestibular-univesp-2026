@@ -1,4 +1,4 @@
-# Sociologia: Fundamentos e Sociedade Brasileira [🧊 FREQUÊNCIA BAIXA]
+# Sociologia: Fundamentos e Sociedade Brasileira <span class="tag-baixa-frequencia">🧊 FREQUÊNCIA BAIXA</span>
 
 A Sociologia é a ciência que estuda a sociedade, as relações sociais, as instituições, os grupos e os fenômenos sociais. Ela busca compreender como os seres humanos interagem entre si, como as sociedades se organizam e se transformam, e quais são os padrões e as causas dos comportamentos coletivos.
 

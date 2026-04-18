@@ -1,4 +1,4 @@
-# História da América: Da Conquista à Atualidade [⚠️ FREQUÊNCIA MÉDIA]
+# História da América: Da Conquista à Atualidade <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
 
 A História da América abrange desde os povos pré-colombianos até os desenvolvimentos contemporâneos, passando pelas complexas fases de colonização e formação dos Estados nacionais.
 

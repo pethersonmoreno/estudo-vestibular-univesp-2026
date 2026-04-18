@@ -1,4 +1,4 @@
-# Grandes Paisagens Naturais e Questão Ambiental [⚠️ FREQUÊNCIA MÉDIA]
+# Grandes Paisagens Naturais e Questão Ambiental <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
 
 A Geografia Física estuda os elementos naturais da superfície terrestre, como relevo, clima, vegetação e hidrografia, e as interações entre eles. A questão ambiental aborda os impactos das atividades humanas sobre esses sistemas naturais e as buscas por soluções sustentáveis.
 

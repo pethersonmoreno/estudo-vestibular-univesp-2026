@@ -1,4 +1,4 @@
-# Língua Inglesa: Compreensão da Relação entre Textos e Outros Conteúdos [🔥 ALTA FREQUÊNCIA]
+# Língua Inglesa: Compreensão da Relação entre Textos e Outros Conteúdos <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
 
 Em provas de vestibular, é comum encontrar questões que exigem a compreensão da relação entre diferentes tipos de textos (verbais) e/ou entre textos e elementos não verbais (imagens, gráficos, tabelas, infográficos). Dominar essa habilidade é fundamental para uma interpretação completa e precisa.
 

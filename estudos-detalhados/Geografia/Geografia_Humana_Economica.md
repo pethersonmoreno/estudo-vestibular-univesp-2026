@@ -1,4 +1,4 @@
-# Geografia Humana e Econômica [⚠️ FREQUÊNCIA MÉDIA]
+# Geografia Humana e Econômica <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span>
 
 A Geografia estuda as relações entre a sociedade e o espaço, compreendendo como os seres humanos interagem, organizam e transformam o meio ambiente. A Geografia Humana e Econômica foca nos aspectos sociais, econômicos, políticos e culturais dessa interação.
 

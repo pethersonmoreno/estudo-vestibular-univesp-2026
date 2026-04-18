@@ -1,4 +1,4 @@
-# Biologia: Os Seres Vivos no Ambiente (Ecologia e Meio Ambiente) [🔥 ALTA FREQUÊNCIA]
+# Biologia: Os Seres Vivos no Ambiente (Ecologia e Meio Ambiente) <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
 
 A Ecologia é a ciência que estuda as relações dos seres vivos entre si e com o ambiente em que vivem. É um tema de alta frequência em vestibulares, especialmente no contexto das questões ambientais atuais.
 

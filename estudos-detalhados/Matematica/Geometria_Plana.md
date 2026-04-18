@@ -1,4 +1,4 @@
-# [🔥 ALTA FREQUÊNCIA] Matemática: Geometria Plana (Áreas e Perímetros)
+# <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span> Matemática: Geometria Plana (Áreas e Perímetros)
 
 > **Contexto Vunesp**: A banca raramente pede fórmulas isoladas. Ela costuma apresentar uma planta de uma casa, um terreno ou um jardim e pede para calcular quanto se gastará de piso (área) ou de cerca (perímetro).
 

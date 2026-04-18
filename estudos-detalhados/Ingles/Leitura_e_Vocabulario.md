@@ -1,4 +1,4 @@
-# [⚠️ FREQUÊNCIA MÉDIA] Inglês: Estratégias de Leitura e Vocabulário
+# <span class="tag-media-frequencia">⚠️ FREQUÊNCIA MÉDIA</span> Inglês: Estratégias de Leitura e Vocabulário
 
 > **Contexto Vunesp**: A prova de Inglês da Univesp é focada em **interpretação de texto**. Você não precisa ser fluente, precisa saber encontrar a informação no texto usando técnicas de leitura técnica.
 

@@ -1,4 +1,4 @@
-# Língua Inglesa: Identificação da Referência Textual de Elementos de Coesão [🔥 ALTA FREQUÊNCIA]
+# Língua Inglesa: Identificação da Referência Textual de Elementos de Coesão <span class="tag-alta-frequencia">🔥 ALTA FREQUÊNCIA</span>
 
 Para aprofundar a compreensão de textos, especialmente em provas como a da Vunesp, é essencial identificar como os elementos de coesão referenciam outras partes do texto. Isso permite entender as conexões entre frases e parágrafos, tornando a leitura mais fluida e a interpretação mais precisa.
 
