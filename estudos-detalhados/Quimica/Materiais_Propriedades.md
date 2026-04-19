@@ -100,9 +100,13 @@ Os três estados físicos mais comuns da matéria são sólido, líquido e gasos
 Um laboratório recebeu uma amostra contendo uma mistura de areia, limalha de ferro e água. Para separar completamente esses três componentes, a sequência de métodos mais adequada seria:
 
 a) Filtração, decantação e evaporação.
+
 b) Decantação, separação magnética e destilação simples.
+
 c) Separação magnética, decantação e filtração.
+
 d) Separação magnética, decantação e destilação simples.
+
 e) Filtração, centrifugação e decantação.
 
 **Resolução:**
@@ -132,9 +136,13 @@ Considerando a separação completa dos *três componentes*, com a possibilidade
 O ponto de ebulição (PE) é uma propriedade específica da matéria muito utilizada para identificar substâncias puras. A respeito das mudanças de estado físico e das propriedades da matéria, assinale a alternativa correta:
 
 a) Durante a ebulição, a temperatura de uma substância pura permanece constante, mesmo com o fornecimento contínuo de calor.
+
 b) A densidade é uma propriedade geral da matéria, pois qualquer quantidade de uma substância sempre terá a mesma densidade.
+
 c) Na fusão, as partículas de uma substância sólida ganham energia cinética e se organizam de forma mais ordenada.
+
 d) A condensação é a passagem do estado líquido para o gasoso, liberando energia para o ambiente.
+
 e) Materiais sintéticos são aqueles encontrados diretamente na natureza, sem qualquer intervenção humana em sua composição.
 
 **Resolução:**

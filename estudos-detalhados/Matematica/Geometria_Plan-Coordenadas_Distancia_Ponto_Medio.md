@@ -47,9 +47,13 @@ Fórmula: $$M = \left( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} \right)$$
 Considere os pontos P(2, -1) e Q(5, 3) no plano cartesiano. A distância entre P e Q é:
 
 A) $\sqrt{7}$
+
 B) $\sqrt{13}$
+
 C) 5
+
 D) $\sqrt{25}$
+
 E) $\sqrt{34}$
 
 **Resolução:**
@@ -68,9 +72,13 @@ E) $\sqrt{34}$
 O ponto médio do segmento de reta que une os pontos A(-3, 4) e B(7, -2) é:
 
 A) (2, 1)
+
 B) (1, 2)
+
 C) (5, -3)
+
 D) (-5, 3)
+
 E) (4, 2)
 
 **Resolução:**

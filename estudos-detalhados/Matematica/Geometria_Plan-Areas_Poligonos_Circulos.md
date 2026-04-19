@@ -45,9 +45,13 @@ Vamos agora focar no cálculo de áreas das principais figuras geométricas plan
 Um terreno retangular possui 20 metros de comprimento e 15 metros de largura. Se for construída uma piscina circular de 5 metros de raio no centro desse terreno, qual a área da parte do terreno que não será ocupada pela piscina? (Use $\pi = 3,14$)
 
 A) $101,5 m^2$
+
 B) $121,5 m^2$
+
 C) $130,0 m^2$
+
 D) $142,5 m^2$
+
 E) $143,5 m^2$
 
 **Resolução:**
@@ -88,9 +92,13 @@ Assumindo os dados da questão, o cálculo correto é $221.5 m^2$. Como não há
 Um setor circular tem um raio de 10 cm e um ângulo central de 72°. Qual a área desse setor circular? (Use $\pi = 3,14$)
 
 A) $62,8 cm^2$
+
 B) $31,4 cm^2$
+
 C) $72 cm^2$
+
 D) $100 cm^2$
+
 E) $25,12 cm^2$
 
 **Resolução:**

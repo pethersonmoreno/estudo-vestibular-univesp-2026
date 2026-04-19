@@ -50,9 +50,13 @@ Coerência é a unidade de sentido do texto, a relação lógica e semântica en
 No trecho: "*Os alunos apresentaram seus trabalhos. `Eles` estavam muito nervosos com a avaliação.*", o termo em destaque retoma:
 
 a) Os trabalhos.
+
 b) Os alunos.
+
 c) A avaliação.
+
 d) Os nervos.
+
 e) Os resultados.
 
 **Resposta Correta:** b)
@@ -67,9 +71,13 @@ Considere o texto:
 Assinale a alternativa que aponta uma possível quebra de coerência no texto.
 
 a) A menção à poluição ambiental como um problema crescente.
+
 b) O investimento em fontes de energia renováveis por muitos países.
+
 c) A continuidade do aumento da emissão de gases poluentes.
+
 d) A ideia de que, apesar dos investimentos, a poluição ainda aumenta.
+
 e) A contradição entre o investimento em energias renováveis e o aumento da poluição em algumas regiões.
 
 **Resposta Correta:** e)

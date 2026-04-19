@@ -68,9 +68,13 @@ O conceito de átomo e sua estrutura é fundamental para toda a Química, sendo 
 Um átomo neutro de um elemento X possui 15 prótons e 16 nêutrons. Com base nessas informações, qual é o número atômico (Z) e o número de massa (A) desse elemento, respectivamente?
 
 a) Z=15, A=15
+
 b) Z=16, A=31
+
 c) Z=15, A=31
+
 d) Z=31, A=15
+
 e) Z=16, A=16
 
 **Resolução:**
@@ -87,9 +91,13 @@ Portanto, Z = 15 e A = 31.
 O modelo atômico de Rutherford-Bohr introduziu importantes conceitos sobre a estrutura atômica. Qual das afirmações abaixo está de acordo com esse modelo?
 
 a) O átomo é uma esfera maciça e indivisível, como uma bola de bilhar.
+
 b) Os elétrons estão incrustados em uma massa positiva, semelhante a um pudim de passas.
+
 c) Os elétrons giram em órbitas específicas (níveis de energia) sem perder energia, e podem saltar entre elas ao absorver ou emitir energia.
+
 d) O núcleo atômico é grande e disperso, e os elétrons se movem aleatoriamente por todo o volume atômico.
+
 e) A eletrosfera é totalmente vazia, sem a presença de elétrons.
 
 **Resolução:**

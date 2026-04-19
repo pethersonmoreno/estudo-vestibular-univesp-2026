@@ -33,17 +33,25 @@ A porcentagem é uma razão com base 100.
 **Questão 01 (Problema de Razão)**
 Em uma empresa, a razão entre o número de funcionários que utilizam transporte público e o número de funcionários que utilizam veículo próprio é de 4 para 7. Se 44 funcionários utilizam transporte público, o número total de funcionários nessa empresa é:
 A) 77
+
 B) 88
+
 C) 110
+
 D) 121
+
 E) 154
 
 **Questão 02 (Porcentagem Sucessiva)**
 Um investidor comprou uma ação por R$ 80,00. No primeiro mês, a ação valorizou 20%. No segundo mês, houve uma queda de 20% sobre o valor do mês anterior. Após os dois meses, o valor dessa ação é:
 A) R$ 80,00
+
 B) R$ 78,60
+
 C) R$ 76,80
+
 D) R$ 74,40
+
 E) R$ 72,00
 
 ---

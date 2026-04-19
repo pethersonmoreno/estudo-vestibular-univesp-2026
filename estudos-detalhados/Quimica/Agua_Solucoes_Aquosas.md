@@ -73,9 +73,13 @@ Processos para tornar a água potável (própria para consumo) e/ou para tratar 
 Qual das alternativas descreve corretamente uma das propriedades físicas da água e sua importância para a vida?
 
 a) O gelo é mais denso que a água líquida, o que permite que lagos congelem de baixo para cima.
+
 b) A água possui baixo calor específico, o que causa grandes variações de temperatura em oceanos e lagos.
+
 c) A água tem alto calor latente de vaporização, o que auxilia na regulação térmica de organismos vivos.
+
 d) A molécula de água é apolar, facilitando a dissolução de substâncias apolares como óleos.
+
 e) O ponto de ebulição da água é excepcionalmente baixo, permitindo que ela evapore facilmente em ambientes frios.
 
 **Resolução:**
@@ -94,9 +98,13 @@ Vamos analisar cada alternativa:
 Em uma estação de tratamento de água (ETA), após a floculação e a decantação, a água é submetida a um processo fundamental para remover partículas finas que ainda estão em suspensão. Qual é esse processo?
 
 a) Cloração.
+
 b) Fluoretação.
+
 c) Filtração.
+
 d) Aeração.
+
 e) Osmose reversa.
 
 **Resolução:**

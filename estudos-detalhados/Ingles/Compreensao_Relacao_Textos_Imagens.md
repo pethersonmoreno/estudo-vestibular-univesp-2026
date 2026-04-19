@@ -43,9 +43,13 @@ Considere o texto e a imagem a seguir:
 Qual a principal relação entre o texto e a imagem?
 
 a) A imagem contradiz a ideia principal do texto sobre os desafios da urbanização.
+
 b) A imagem ilustra e reforça os desafios da urbanização descritos no texto.
+
 c) O texto e a imagem abordam temas completamente diferentes, sem relação.
+
 d) A imagem apenas apresenta a beleza arquitetônica das grandes cidades.
+
 e) A imagem oferece uma solução para os problemas de poluição mencionados no texto.
 
 **Resolução:**
@@ -65,9 +69,13 @@ Considere o gráfico abaixo e o trecho de um texto:
 Qual a melhor descrição da relação entre o gráfico e o texto?
 
 a) O gráfico apresenta uma tendência que contradiz as informações do texto.
+
 b) O texto descreve as causas e consequências, enquanto o gráfico fornece evidências quantitativas da tendência das emissões.
+
 c) Tanto o gráfico quanto o texto focam exclusivamente nas soluções para o aquecimento global.
+
 d) O gráfico detalha os impactos do aquecimento global, enquanto o texto foca apenas nas emissões.
+
 e) Ambos os elementos são independentes e não possuem relação direta de conteúdo.
 
 **Resolução:**

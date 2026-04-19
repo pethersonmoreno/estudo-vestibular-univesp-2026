@@ -42,9 +42,13 @@ Uma função constante é definida pela lei $f(x) = b$, onde $b$ é um número r
 Um técnico de refrigeração cobra R$ 50,00 pela visita e R$ 30,00 por hora de serviço. Se $C(t)$ representa o custo total do serviço em função do tempo $t$ (em horas), qual a lei de formação dessa função e qual o custo para um serviço que durou 3 horas?
 
 a) $C(t) = 30t + 50$; Custo: R$ 140,00
+
 b) $C(t) = 50t + 30$; Custo: R$ 180,00
+
 c) $C(t) = 30 + 50t$; Custo: R$ 140,00
+
 d) $C(t) = 50t + 30$; Custo: R$ 140,00
+
 e) $C(t) = 30t + 50$; Custo: R$ 150,00
 
 **Resposta Correta:** a)
@@ -61,9 +65,13 @@ O custo para um serviço de 3 horas será de R$ 140,00.
 O preço de entrada em um parque de diversões é R$ 80,00 por pessoa, independentemente da idade ou do número de brinquedos utilizados. Qual o tipo de função que representa o preço de entrada em relação ao número de brinquedos utilizados por uma pessoa?
 
 a) Função do 1º grau crescente.
+
 b) Função do 1º grau decrescente.
+
 c) Função constante.
+
 d) Função quadrática.
+
 e) Função exponencial.
 
 **Resposta Correta:** c)

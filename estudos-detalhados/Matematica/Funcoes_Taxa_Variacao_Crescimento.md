@@ -49,9 +49,13 @@ Geometricamente, a TVM representa a inclinação da reta secante que conecta os 
 Uma loja vende sanduíches por R$ 12,00 cada, e o custo fixo diário da loja é de R$ 100,00. O lucro diário (L) em função do número de sanduíches vendidos (n) é dado por $L(n) = 12n - 100$. Qual a taxa de variação do lucro em relação ao número de sanduíches vendidos?
 
 A) R$ 100,00/sanduíche
+
 B) R$ 12,00/sanduíche
+
 C) R$ -100,00/sanduíche
+
 D) R$ 88,00/sanduíche
+
 E) R$ 112,00/sanduíche
 
 **Resolução:**
@@ -68,9 +72,13 @@ E) R$ 112,00/sanduíche
 Considere o crescimento de uma cultura de bactérias modelado pela função $P(t) = 50 \cdot 2^t$, onde P(t) é o número de bactérias após t horas. Assinale a alternativa correta sobre a taxa de variação dessa população:
 
 A) A taxa de variação é constante, aumentando em 50 bactérias por hora.
+
 B) A taxa de variação é linear, aumentando em 100 bactérias por hora.
+
 C) A taxa de variação é constante, dobrando a cada hora.
+
 D) A taxa de variação é exponencial, aumentando cada vez mais rapidamente.
+
 E) A taxa de variação é nula, indicando que a população não cresce.
 
 **Resolução:**

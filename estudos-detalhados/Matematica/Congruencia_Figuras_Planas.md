@@ -54,9 +54,13 @@ A congruência é crucial para provar propriedades geométricas, resolver proble
 Considere dois triângulos, $\triangle ABC$ e $\triangle DEF$. Sabe-se que $AB = DE = 5$ cm, $BC = EF = 7$ cm e $AC = DF = 9$ cm. Com base nessas informações, é correto afirmar que os triângulos são congruentes pelo critério:
 
 a) L.A.L. (Lado, Ângulo, Lado)
+
 b) A.L.A. (Ângulo, Lado, Ângulo)
+
 c) L.L.L. (Lado, Lado, Lado)
+
 d) L.A.A_o. (Lado, Ângulo, Ângulo Oposto)
+
 e) Não é possível determinar a congruência apenas com os lados.
 
 **Resolução:**
@@ -70,9 +74,13 @@ As informações dadas indicam que os três lados de um triângulo são congruen
 Dois triângulos, $\triangle PQR$ e $\triangle STU$, são dados. Se $PQ = ST = 8$ cm, o ângulo $\angle Q$ é congruente ao ângulo $\angle T = 40^\circ$, e $QR = TU = 10$ cm, então os triângulos $\triangle PQR$ e $\triangle STU$ são congruentes pelo critério:
 
 a) A.L.A. (Ângulo, Lado, Ângulo)
+
 b) L.L.L. (Lado, Lado, Lado)
+
 c) L.A.L. (Lado, Ângulo, Lado)
+
 d) L.A.A_o. (Lado, Ângulo, Ângulo Oposto)
+
 e) Não há informações suficientes para afirmar a congruência.
 
 **Resolução:**

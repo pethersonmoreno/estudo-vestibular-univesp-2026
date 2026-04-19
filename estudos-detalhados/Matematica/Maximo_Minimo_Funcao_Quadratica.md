@@ -43,9 +43,13 @@ Ao resolver problemas de máximo e mínimo, é importante:
 A trajetória de uma bola chutada por um jogador pode ser descrita pela função $h(t) = -t^2 + 6t$, onde $h(t)$ é a altura da bola em metros e $t$ é o tempo em segundos após o chute. Qual a altura máxima atingida pela bola?
 
 a) 6 metros
+
 b) 9 metros
+
 c) 12 metros
+
 d) 15 metros
+
 e) 18 metros
 
 **Resposta Correta:** b)
@@ -66,9 +70,13 @@ A altura máxima atingida pela bola é de 9 metros.
 O custo diário de produção de um certo item é dado pela função $C(x) = x^2 - 10x + 30$, onde $x$ é o número de itens produzidos e $C(x)$ é o custo em reais. Para que o custo de produção seja mínimo, quantos itens devem ser produzidos?
 
 a) 3 itens
+
 b) 4 itens
+
 c) 5 itens
+
 d) 6 itens
+
 e) 7 itens
 
 **Resposta Correta:** c)

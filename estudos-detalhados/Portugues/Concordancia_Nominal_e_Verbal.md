@@ -59,9 +59,13 @@ A Vunesp frequentemente apresenta questões que exigem a aplicação correta das
 Assinale a alternativa em que a concordância nominal está de acordo com a norma-padrão.
 
 a) É proibida a entrada de pessoas não autorizadas.
+
 b) Anexos seguem as cópias dos documentos.
+
 c) Ela estava meio preocupada com a situação.
+
 d) Os alunos mesmos resolveram o problema.
+
 e) Água e ar puros são essenciais à vida.
 
 **Resposta Correta:** a)
@@ -78,9 +82,13 @@ e) Água e ar puros são essenciais à vida.
 Assinale a alternativa em que a concordância verbal está correta.
 
 a) Fazem anos que não nos vemos.
+
 b) Haviam muitas pessoas na fila.
+
 c) Se houvesse condições, eles realizaria o projeto.
+
 d) Vende-se casas neste bairro.
+
 e) Sobravam cinco minutos para o término da partida.
 
 **Resposta Correta:** e)

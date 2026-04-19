@@ -41,9 +41,13 @@ As obras literárias são produtos de seu tempo e, ao mesmo tempo, influenciam a
 Luís Vaz de Camões é um dos maiores poetas da língua portuguesa, e sua obra-prima, "Os Lusíadas", é um marco do Classicismo. Assinale a alternativa que apresenta a principal característica dessa obra e do período literário ao qual pertence:
 
 a) Subjetivismo exacerbado e idealização da natureza, típicos do Romantismo.
+
 b) Crítica social e moralizante, com linguagem rebuscada, característica do Barroco.
+
 c) Nacionalismo, exaltação do povo português e valorização dos ideais heroicos das navegações, em conformidade com o espírito renascentista.
+
 d) Pastoralismo e simplicidade formal, buscando a vida bucólica e a evasão urbana, elementos do Arcadismo.
+
 e) Fragmentação do eu e experimentação formal, com a introdução de heterônimos, marcas do Modernismo.
 
 **Resolução:**
@@ -62,9 +66,13 @@ Vamos analisar cada alternativa:
 O Modernismo Português, impulsionado pela revista "Orpheu", marcou uma profunda renovação estética no início do século XX. Fernando Pessoa é a figura central desse movimento, notabilizando-se pela criação dos heterônimos. A proposta dos heterônimos de Pessoa representava:
 
 a) Uma tentativa de resgatar os valores clássicos e a poesia épica, em oposição às inovações do século XX.
+
 b) A busca por uma identidade nacional unificada, celebrando as tradições e o passado glorioso de Portugal.
+
 c) A expressão da multiplicidade do eu e a fragmentação da subjetividade, utilizando diferentes vozes poéticas para explorar a existência.
+
 d) A valorização de temas pastoris e a simplicidade da vida no campo, como forma de escapismo da realidade urbana.
+
 e) Um movimento de caráter realista, focado na denúncia das mazelas sociais e na crítica à burguesia portuguesa.
 
 **Resolução:**

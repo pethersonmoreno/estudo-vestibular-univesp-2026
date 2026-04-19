@@ -63,9 +63,13 @@ The Earth's climate is changing rapidly, driven by human activities, primarily t
 Qual é o propósito principal deste texto?
 
 a) Divertir o leitor com uma história sobre o clima.
+
 b) Descrever detalhadamente um experimento científico.
+
 c) Persuadir o leitor a adotar um estilo de vida mais sustentável.
+
 d) Informar sobre os impactos e a necessidade de ação em relação ao aquecimento global.
+
 e) Criticar a atuação de governos em relação às políticas climáticas.
 
 **Resolução:**
@@ -99,9 +103,13 @@ Analise a estrutura do seguinte texto:
 Based on its estrutura e conteúdo, qual gênero textual este texto representa?
 
 a) A news article.
+
 b) A recipe.
+
 c) An advertisement.
+
 d) A blog post.
+
 e) A short story.
 
 **Resolução:**

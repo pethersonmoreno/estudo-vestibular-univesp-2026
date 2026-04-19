@@ -58,9 +58,13 @@ O 4º termo ($a_4$) seria $a_4 = 3 \cdot 2^{4-1} = 3 \cdot 2^3 = 3 \cdot 8 = 24$
 Considere uma Progressão Aritmética (PA) cujo primeiro termo é 5 e a razão é 3. Qual o valor do 10º termo desta PA?
 
 a) 27
+
 b) 32
+
 c) 35
+
 d) 40
+
 e) 45
 
 **Resolução:**
@@ -79,9 +83,13 @@ $a_{10} = 32$
 Uma Progressão Geométrica (PG) tem como primeiro termo 2 e razão 4. Qual o valor do 4º termo desta PG?
 
 a) 16
+
 b) 32
+
 c) 64
+
 d) 128
+
 e) 256
 
 **Resolução:**
@@ -101,9 +109,13 @@ $a_4 = 128$
 Em uma Progressão Geométrica (PG), o primeiro termo é 2 e a razão é 3. A soma dos 4 primeiros termos dessa PG é:
 
 A) 20
+
 B) 40
+
 C) 80
+
 D) 100
+
 E) 120
 
 **Resolução:**

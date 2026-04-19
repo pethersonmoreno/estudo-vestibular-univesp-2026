@@ -46,9 +46,13 @@ Fórmula: $$P(A \cap B) = P(A) \cdot P(B)$$
 Em uma pesquisa, verificou-se que 60% dos entrevistados leem jornais (J) e 30% leem revistas (R). Sabendo-se que 20% leem ambos (jornais e revistas), qual a probabilidade de um entrevistado ler revistas, dado que ele lê jornais?
 
 A) 1/3
+
 B) 1/2
+
 C) 2/3
+
 D) 1/4
+
 E) 2/5
 
 **Resolução:**
@@ -66,9 +70,13 @@ E) 2/5
 Duas máquinas, M1 e M2, operam de forma independente. A probabilidade de a máquina M1 falhar em um dia é de 0,1, e a probabilidade de a máquina M2 falhar no mesmo dia é de 0,05. Qual a probabilidade de ambas as máquinas falharem em um determinado dia?
 
 A) 0,15
+
 B) 0,05
+
 C) 0,005
+
 D) 0,145
+
 E) 0,25
 
 **Resolução:**

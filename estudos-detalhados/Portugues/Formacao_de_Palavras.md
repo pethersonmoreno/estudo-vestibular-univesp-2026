@@ -57,9 +57,13 @@ Observe as palavras: "*irreconhecível*", "*cantarolava*" e "*aguardente*"
 Os processos de formação dessas palavras são, respectivamente:
 
 a) Derivação prefixal e sufixal, derivação regressiva, composição por aglutinação.
+
 b) Derivação parassintética, derivação sufixal, composição por justaposição.
+
 c) Derivação prefixal e sufixal, derivação sufixal, composição por aglutinação.
+
 d) Derivação parassintética, derivação imprópria, composição por justaposição.
+
 e) Derivação sufixal, derivação prefixal e sufixal, composição por aglutinação.
 
 **Resposta Correta:** c)
@@ -72,9 +76,13 @@ e) Derivação sufixal, derivação prefixal e sufixal, composição por aglutin
 Na palavra "*incansavelmente*", o radical, o prefixo e o sufixo são, respectivamente:
 
 a) `cans`, `in`, `avel`.
+
 b) `cans`, `in`, `mente`.
+
 c) `incans`, `a`, `velmente`.
+
 d) `can`, `in`, `velmente`.
+
 e) `cansav`, `in`, `mente`.
 
 **Resposta Correta:** b)

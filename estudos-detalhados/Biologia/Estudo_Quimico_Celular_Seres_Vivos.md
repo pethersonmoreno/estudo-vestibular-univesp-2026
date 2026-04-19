@@ -107,9 +107,13 @@ Alterações no material genético:
 Qual das alternativas abaixo associa corretamente uma organela celular à sua principal função?
 
 a) Mitocôndria: Realiza a fotossíntese para produzir glicose.
+
 b) Ribossomo: Armazena o material genético da célula.
+
 c) Retículo Endoplasmático Liso: Responsável pela síntese de lipídios e desintoxicação.
+
 d) Complexo de Golgi: Digestão intracelular de macromoléculas.
+
 e) Lisossomo: Produção de energia em forma de ATP através da respiração celular.
 
 **Resolução:**
@@ -128,9 +132,13 @@ Vamos analisar cada alternativa:
 Um processo biológico essencial que envolve a formação de descendentes com variabilidade genética, geralmente pela fusão de gametas, é conhecido como:
 
 a) Reprodução assexuada.
+
 b) Bipartição.
+
 c) Mitose.
+
 d) Reprodução sexuada.
+
 e) Brotamento.
 
 **Resolução:**

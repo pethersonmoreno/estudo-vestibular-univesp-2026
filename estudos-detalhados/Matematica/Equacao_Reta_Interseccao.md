@@ -54,9 +54,13 @@ O ponto de intersecção entre duas retas é o ponto $(x, y)$ que satisfaz ambas
 Uma reta passa pelos pontos $A(2, 5)$ e $B(4, 9)$. Qual a equação reduzida dessa reta?
 
 a) $y = 2x + 1$
+
 b) $y = -2x + 9$
+
 c) $y = x + 3$
+
 d) $y = 2x + 5$
+
 e) $y = 4x - 3$
 
 **Resposta Correta:** a)
@@ -79,9 +83,13 @@ e) $y = 4x - 3$
 As retas representadas pelas equações $y = 3x - 2$ e $y = -x + 6$ se interceptam em qual ponto?
 
 a) $(1, 1)$
+
 b) $(2, 4)$
+
 c) $(3, 3)$
+
 d) $(4, 2)$
+
 e) $(0, -2)$
 
 **Resposta Correta:** b)

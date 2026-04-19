@@ -27,17 +27,25 @@ Essencial para descobrir lados faltantes em triângulos retângulos.
 **Questão 01 (Área e Perímetro)**
 Um proprietário deseja cercar um terreno retangular de 12 metros de largura por 20 metros de comprimento com 3 voltas de arame. Além disso, ele pretende gramar toda a área do terreno. A quantidade de arame necessária (em metros) e a área a ser gramada (em m²) são, respectivamente:
 A) 64 m e 240 m²
+
 B) 192 m e 240 m²
+
 C) 64 m e 120 m²
+
 D) 192 m e 120 m²
+
 E) 32 m e 240 m²
 
 **Questão 02 (Pitágoras)**
 Para acessar o telhado de uma casa, um eletricista encosta uma escada de 5 metros de comprimento em uma parede vertical. A base da escada está a 3 metros de distância da parede. A altura da parede que a escada atinge é de:
 A) 2 metros
+
 B) 3 metros
+
 C) 4 metros
+
 D) 4,5 metros
+
 E) 5 metros
 
 ---

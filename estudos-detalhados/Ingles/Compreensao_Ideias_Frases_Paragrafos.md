@@ -50,9 +50,13 @@ Leia o parágrafo a seguir:
 Qual das alternativas melhor resume a ideia principal expressa neste parágrafo?
 
 a) A agricultura global está sendo severamente afetada pelo derretimento das calotas polares.
+
 b) O aquecimento global causa eventos climáticos extremos que afetam apenas assentamentos humanos.
+
 c) As mudanças climáticas são uma ameaça global com múltiplas consequências, exigindo ação imediata para reduzir emissões.
+
 d) As calotas polares estão derretendo devido a furacões e secas cada vez mais intensos.
+
 e) Apenas a redução das emissões de gases de efeito estufa pode reverter o aumento do nível do mar.
 
 **Resolução:**
@@ -74,9 +78,13 @@ Leia o trecho:
 A palavra "However" (No entanto) no início da segunda frase indica uma relação de:
 
 a) Adição, complementando a ideia anterior.
+
 b) Causa e consequência, explicando o motivo do avanço tecnológico.
+
 c) Contraste, introduzindo uma ideia oposta ou uma ressalva à afirmação anterior.
+
 d) Sequência temporal, indicando que a segunda frase ocorre após a primeira.
+
 e) Exemplificação, apresentando um caso específico do avanço tecnológico.
 
 **Resolução:**

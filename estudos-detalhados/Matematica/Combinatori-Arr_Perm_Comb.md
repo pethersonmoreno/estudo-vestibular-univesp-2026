@@ -52,9 +52,13 @@ Utilizada para calcular o número de maneiras de escolher $k$ elementos de um co
 De quantas maneiras diferentes as letras da palavra "AMOR" podem ser rearranjadas para formar anagramas?
 
 a) 4
+
 b) 12
+
 c) 24
+
 d) 48
+
 e) 120
 
 **Resposta Correta:** c)
@@ -68,9 +72,13 @@ $P_4 = 4! = 4 \times 3 \times 2 \times 1 = 24$ maneiras.
 Um grupo de 8 pessoas precisa formar uma comissão de 3 membros. De quantas maneiras diferentes essa comissão pode ser formada?
 
 a) 6
+
 b) 24
+
 c) 56
+
 d) 336
+
 e) 40320
 
 **Resposta Correta:** c)

@@ -61,9 +61,13 @@ $A = \frac{1}{2} | (x_1y_2 + x_2y_3 + ... + x_ny_1) - (y_1x_2 + y_2x_3 + ... + y
 Um terreno tem o formato de um trapézio com bases de 10 metros e 16 metros, e altura de 5 metros. Qual é a área total desse terreno?
 
 a) 65 m²
+
 b) 70 m²
+
 c) 75 m²
+
 d) 80 m²
+
 e) 85 m²
 
 **Resolução:**
@@ -82,9 +86,13 @@ $A = 65$ m²
 Considere um setor circular de um círculo de raio 6 cm, com um ângulo central de 60°. Qual é a área desse setor circular? (Utilize $\pi \approx 3.14$)
 
 a) $6.28$ cm²
+
 b) $12.56$ cm²
+
 c) $18.84$ cm²
+
 d) $36$ cm²
+
 e) $113.04$ cm²
 
 **Resolução:**

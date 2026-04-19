@@ -44,9 +44,13 @@ A norma ortográfica refere-se ao conjunto de regras que padronizam a escrita de
 Assinale a alternativa em que todas as palavras estão grafadas e acentuadas corretamente, de acordo com a norma-padrão da Língua Portuguesa.
 
 a) Pós-graduação, idéia, super-homem.
+
 b) Pré-escolar, juiz, auto-escola.
+
 c) Recém-nascido, baiúca, superinteressante.
+
 d) Sem-terra, assembléia, anti-inflamatório.
+
 e) Para-quedas, tranquilo, micro-ônibus.
 
 **Resposta Correta:** c)
@@ -65,9 +69,13 @@ e) Para-quedas, tranquilo, micro-ônibus.
 Assinale a alternativa em que a pontuação está empregada corretamente, de acordo com a norma-padrão da Língua Portuguesa.
 
 a) Os alunos, que se dedicaram muito, alcançaram excelentes resultados.
+
 b) Os alunos que se dedicaram muito, alcançaram excelentes resultados.
+
 c) Alcançaram excelentes resultados os alunos, que se dedicaram muito.
+
 d) Que se dedicaram muito, os alunos alcançaram excelentes resultados.
+
 e) Alcançaram, excelentes resultados, os alunos que se dedicaram muito.
 
 **Resposta Correta:** a)

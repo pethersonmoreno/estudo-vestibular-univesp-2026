@@ -55,9 +55,13 @@ A homotetia é definida por um **centro (P)** e uma **razão de proporcionalidad
 Um designer gráfico está trabalhando na criação de um logotipo e precisa aplicar uma transformação em um triângulo. Ele decide girar o triângulo em 90° no sentido anti-horário em torno de um ponto fixo. Essa transformação geométrica é um exemplo de:
 
 a) Homotetia inversa, pois altera o tamanho da figura.
+
 b) Reflexão, pois a figura é espelhada em relação a um eixo.
+
 c) Translação, pois a figura é apenas deslocada em linha reta.
+
 d) Rotação, uma transformação isométrica que mantém a forma e o tamanho da figura.
+
 e) Dilatação, uma transformação que aumenta a área, mas não a forma.
 
 **Resolução:**
@@ -76,9 +80,13 @@ Vamos analisar as alternativas:
 Considere uma figura geométrica que sofre uma homotetia de centro na origem $(0,0)$ e razão $k = 2$. Se o comprimento de um dos lados da figura original era de 5 cm, qual será o comprimento do lado correspondente na figura transformada?
 
 a) 2.5 cm
+
 b) 5 cm
+
 c) 10 cm
+
 d) 15 cm
+
 e) 20 cm
 
 **Resolução:**

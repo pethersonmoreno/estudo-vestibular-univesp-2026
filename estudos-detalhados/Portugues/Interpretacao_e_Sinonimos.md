@@ -27,18 +27,26 @@ A prova testa seu vocabulário. Palavras que a Vunesp adora:
 
 No texto acima, a metáfora do "buffet de entradas" sugere que o conhecimento atual é:
 A) Nutritivo e variado.
+
 B) Superficial e fragmentado.
+
 C) Caro e inacessível.
+
 D) Organizado e seletivo.
+
 E) Saboroso e convidativo.
 
 **Questão 02 (Sinônimos)**
 Assinale a alternativa em que a palavra destacada pode ser substituída pela que está entre parênteses, sem alteração do sentido original:
 "O projeto de lei gerou uma polêmica **acirrada** na câmara municipal."
 A) (amenizada)
+
 B) (interrompida)
+
 C) (intensa)
+
 D) (inédita)
+
 E) (escassa)
 
 ---

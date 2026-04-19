@@ -83,9 +83,13 @@ A Vunesp frequentemente cobra a análise de períodos compostos, exigindo a iden
 No período "*Estudou a matéria, mas não compreendeu o assunto; por isso, pediu ajuda ao professor.*", as orações coordenadas sindéticas são classificadas, respectivamente, como:
 
 a) Aditiva e Conclusiva.
+
 b) Adversativa e Explicativa.
+
 c) Adversativa e Conclusiva.
+
 d) Explicativa e Aditiva.
+
 e) Alternativa e Conclusiva.
 
 **Resposta Correta:** c)
@@ -97,9 +101,13 @@ e) Alternativa e Conclusiva.
 No período "*Embora estivesse doente, o atleta participou da competição que lhe garantia uma vaga na final.*", as orações subordinadas são, respectivamente:
 
 a) Adverbial causal e Adjetiva restritiva.
+
 b) Adverbial concessiva e Adjetiva explicativa.
+
 c) Adverbial causal e Substantiva objetiva direta.
+
 d) Adverbial concessiva e Adjetiva restritiva.
+
 e) Substantiva subjetiva e Adjetiva explicativa.
 
 **Resposta Correta:** d)

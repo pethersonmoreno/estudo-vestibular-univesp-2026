@@ -77,9 +77,13 @@ Qualquer número inteiro maior que 1 pode ser uma base. Por exemplo:
 Uma caixa d'água tem o formato de um paralelepípedo reto-retângulo com as seguintes dimensões internas: 2 metros de comprimento, 1,5 metros de largura e 1 metro de altura. Qual a capacidade total dessa caixa d'água em litros?
 
 a) 30 litros
+
 b) 300 litros
+
 c) 3.000 litros
+
 d) 30.000 litros
+
 e) 300.000 litros
 
 **Resolução:**
@@ -99,9 +103,13 @@ Capacidade = $3 \text{ m}^3 \times 1.000 \text{ litros/m}^3 = 3.000 \text{ litro
 O número binário $1011_2$ corresponde a qual número na base decimal?
 
 a) 9
+
 b) 10
+
 c) 11
+
 d) 12
+
 e) 13
 
 **Resolução:**

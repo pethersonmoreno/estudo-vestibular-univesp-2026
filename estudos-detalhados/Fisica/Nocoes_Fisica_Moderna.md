@@ -106,9 +106,13 @@ Consequências incluem a previsão de buracos negros, ondas gravitacionais e a l
 Um laser emite luz de frequência $5 \times 10^{14}$ Hz. Considerando a constante de Planck $h = 6.6 \times 10^{-34}$ J·s e a velocidade da luz no vácuo $c = 3 \times 10^8$ m/s, qual a energia de um fóton emitido por este laser?
 
 a) $3.3 \times 10^{-19}$ J
+
 b) $1.65 \times 10^{-18}$ J
+
 c) $3.3 \times 10^{-20}$ J
+
 d) $1.65 \times 10^{-19}$ J
+
 e) $6.6 \times 10^{-19}$ J
 
 **Resolução:**
@@ -126,9 +130,13 @@ $E = 3.3 \times 10^{-19}$ J
 Um elétron em um átomo de hidrogênio realiza uma transição do nível de energia $n=3$ para o nível $n=1$. Assinale a alternativa que descreve corretamente o fenômeno ocorrido e o valor da energia do fóton emitido (utilize $E_n = -\frac{13.6}{n^2}$ eV).
 
 a) Absorção de fóton; 12.09 eV
+
 b) Emissão de fóton; 12.09 eV
+
 c) Absorção de fóton; 13.6 eV
+
 d) Emissão de fóton; 13.6 eV
+
 e) Emissão de fóton; 1.51 eV
 
 **Resolução:**

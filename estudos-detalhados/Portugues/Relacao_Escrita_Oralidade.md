@@ -38,9 +38,13 @@ Embora distintas, oralidade e escrita não são opostas, mas modalidades complem
 Considerando a relação entre oralidade e escrita na língua portuguesa, assinale a alternativa que apresenta uma característica INCORRETA sobre a modalidade escrita:
 
 a) A escrita exige maior planejamento e elaboração, visando clareza e coesão textual.
+
 b) Textos escritos geralmente são autônomos, não dependendo do contexto imediato para sua compreensão.
+
 c) A escrita permite a utilização de recursos paralinguísticos, como entonação e gestos, para transmitir a expressividade da mensagem.
+
 d) A modalidade escrita tende a seguir normas gramaticais e ortográficas mais rígidas do que a oralidade informal.
+
 e) O vocabulário empregado na escrita formal é, em geral, mais preciso e formal do que na oralidade cotidiana.
 
 **Resolução:**
@@ -59,9 +63,13 @@ Vamos analisar cada alternativa:
 Em uma conversa informal entre amigos, é comum o uso de expressões como "tipo assim", "né?", frases mais curtas e até algumas interrupções. Tais elementos são características predominantes da modalidade oral da língua, pois:
 
 a) Indicam um menor domínio da norma culta, o que é inaceitável em qualquer situação comunicativa.
+
 b) Demonstram a espontaneidade e a interatividade da comunicação oral, onde o contexto é compartilhado e a troca é imediata.
+
 c) Revelam uma incapacidade dos falantes de organizar o pensamento de forma lógica e coerente.
+
 d) São marcas de uma linguagem exclusivamente formal, que busca reproduzir modelos da escrita acadêmica.
+
 e) Evidenciam a necessidade de um planejamento prévio rigoroso da fala para evitar ambiguidades.
 
 **Resolução:**

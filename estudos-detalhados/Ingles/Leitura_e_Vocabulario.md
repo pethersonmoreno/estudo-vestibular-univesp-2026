@@ -22,18 +22,26 @@
 **Questão 01 (Vocabulário)**
 In the sentence "The use of technology in education is increasing **however** some challenges remain", the word **however** suggests:
 A) An addition of information.
+
 B) A consequence of a fact.
+
 C) A contrast between two ideas.
+
 D) A chronological order.
+
 E) A reason for a problem.
 
 **Questão 02 (Interpretação)**
 Read the sentence: "Actually, the results of the research were very positive."
 The word **actually** in this context means:
 A) Atualmente.
+
 B) Na verdade.
+
 C) Com certeza.
+
 D) Possivelmente.
+
 E) Raramente.
 
 ---

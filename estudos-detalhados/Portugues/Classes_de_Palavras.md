@@ -58,9 +58,13 @@ Expressa emoções, sentimentos, sensações (Oh!, Ah!, Ui!, Bravo!).
 No trecho: "*Ele **andava** muito **calmamente** pela rua **escura**.*". As palavras em destaque são, respectivamente:
 
 a) Verbo, advérbio, adjetivo.
+
 b) Advérbio, verbo, adjetivo.
+
 c) Verbo, adjetivo, advérbio.
+
 d) Advérbio, adjetivo, verbo.
+
 e) Verbo, advérbio, substantivo.
 
 **Resposta Correta:** a)
@@ -73,9 +77,13 @@ e) Verbo, advérbio, substantivo.
 Assinale a alternativa em que a alteração do termo destacado NÃO está de acordo com a norma-padrão da língua portuguesa.
 
 a) "A cidade **era** movimentada." -> "As cidades **eram** movimentadas."
+
 b) "O jovem **precisou** de ajuda." -> "As jovens **precisaram** de ajuda."
+
 c) "Aquelas **mulheres** são fortes." -> "Aquela **mulher** é forte."
+
 d) "Nós **fizemos** o trabalho." -> "Ele **fizeram** o trabalho."
+
 e) "O **estudante** dedicou-se." -> "Os **estudantes** dedicaram-se."
 
 **Resposta Correta:** d)

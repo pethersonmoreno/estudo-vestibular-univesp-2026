@@ -74,9 +74,13 @@ Estudo das relações entre calor, trabalho e outras formas de energia.
 Um bloco de metal de 200 g, com calor específico de 0,5 cal/g°C, está inicialmente a 20°C. Para elevar sua temperatura até 120°C, a quantidade de calor sensível necessária, em calorias, é de:
 
 a) 1.000 cal
+
 b) 2.000 cal
+
 c) 5.000 cal
+
 d) 10.000 cal
+
 e) 20.000 cal
 
 **Resolução:**
@@ -98,9 +102,13 @@ $Q = 10.000 \text{ cal}$
 Qual das alternativas descreve corretamente a dilatação anômala da água e sua importância biológica?
 
 a) A água congela a 0°C e se expande continuamente ao ser resfriada abaixo dessa temperatura, o que prejudica a vida aquática.
+
 b) Entre 0°C e 4°C, a água aumenta seu volume ao ser aquecida, atingindo sua maior densidade a 0°C.
+
 c) A água atinge sua densidade máxima a 4°C; abaixo dessa temperatura, ela se expande, fazendo com que o gelo flutue e isole termicamente a água sob ele.
+
 d) A água é a única substância que se dilata ao ser resfriada de 20°C para 0°C, ao contrário de outros líquidos.
+
 e) A dilatação anômala da água explica por que os oceanos congelam completamente em regiões polares.
 
 **Resolução:**

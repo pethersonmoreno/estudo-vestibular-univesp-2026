@@ -72,9 +72,13 @@ Gráficos são ferramentas visuais essenciais para representar e analisar relaç
 Qual das alternativas abaixo apresenta uma grandeza **vetorial**?
 
 a) Massa
+
 b) Tempo
+
 c) Temperatura
+
 d) Velocidade
+
 e) Volume
 
 **Resolução:**
@@ -93,9 +97,13 @@ Vamos analisar cada grandeza:
 Em um experimento, observou-se que a força aplicada a um objeto é diretamente proporcional à sua aceleração, mantendo a massa constante. Se uma força de 10 N causa uma aceleração de 2 m/s², qual será a aceleração do objeto se uma força de 25 N for aplicada?
 
 a) 3 m/s²
+
 b) 4 m/s²
+
 c) 5 m/s²
+
 d) 6 m/s²
+
 e) 7 m/s²
 
 **Resolução:**

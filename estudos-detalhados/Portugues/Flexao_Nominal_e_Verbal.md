@@ -76,9 +76,13 @@ Assinale a alternativa que completa corretamente as lacunas da frase:
 "Se ele ________ mais, talvez _________ a aprovação no concurso."
 
 a) estudasse / conseguisse
+
 b) estudar / conseguirá
+
 c) estudou / conseguiu
+
 d) estudaria / conseguiria
+
 e) estuda / consegue
 
 **Resposta Correta:** a)
@@ -91,9 +95,13 @@ Considere a frase: "Aquele **menino** e aquela **menina** são **inteligentes**.
 Se quisermos passar a frase para o plural, mantendo o sentido e a concordância, a forma correta seria:
 
 a) Aqueles meninos e aquelas meninas são inteligentes.
+
 b) Aqueles meninos e aquelas meninas é inteligente.
+
 c) Aquele meninos e aquela meninas são inteligentes.
+
 d) Aquelas meninos e aqueles meninas são inteligentes.
+
 e) Aqueles menino e aquelas menina são inteligentes.
 
 **Resposta Correta:** a)

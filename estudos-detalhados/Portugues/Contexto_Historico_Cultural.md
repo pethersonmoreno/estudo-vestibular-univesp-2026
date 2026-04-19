@@ -42,9 +42,13 @@ Analisar um texto sem considerar seu contexto é arriscado, pois pode levar a in
 O "Sermão da Sexagésima", do Padre Antônio Vieira, é uma das obras mais representativas do Barroco Literário em Portugal e no Brasil Colônia. Para uma compreensão completa desse sermão, é essencial considerar seu contexto histórico-cultural, que inclui:
 
 a) A valorização da razão e da ciência, em detrimento da fé, característicos do Iluminismo.
+
 b) O espírito otimista do Renascimento, celebrando as grandes descobertas e a expansão marítima.
+
 c) A Contrarreforma Católica e o contexto da Inquisição, que influenciaram a linguagem dualista e a temática religiosa.
+
 d) A busca pela simplicidade e a idealização da natureza, como forma de oposição aos excessos da vida urbana, típicos do Arcadismo.
+
 e) A fragmentação do eu e a busca por uma identidade nacional, marcas do Modernismo português.
 
 **Resolução:**
@@ -63,9 +67,13 @@ Vamos analisar cada alternativa:
 "Vidas Secas", de Graciliano Ramos, é um romance que retrata a dura realidade da seca no Nordeste brasileiro e a vida da família de Fabiano. Para entender a profundidade e o impacto dessa obra, é fundamental associá-la ao seu contexto de produção, que inclui:
 
 a) O auge do ciclo do ouro em Minas Gerais, com grande efervescência urbana e artística.
+
 b) A proclamação da República e a transição para um regime político mais estável e democrático.
+
 c) O período da Primeira República e o início da Era Vargas, com o crescimento das desigualdades sociais e a questão agrária no Nordeste.
+
 d) O "Milagre Econômico" da Ditadura Militar, caracterizado por grande desenvolvimento industrial e distribuição de renda.
+
 e) A colonização portuguesa e a economia açucareira, com a exploração da mão de obra escrava.
 
 **Resolução:**

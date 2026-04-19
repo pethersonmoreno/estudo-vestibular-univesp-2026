@@ -25,17 +25,25 @@
 **Questão 01 (Cadeia Alimentar)**
 Em uma cadeia alimentar composta por Capim -> Inseto -> Sapo -> Cobra, o nível trófico que dispõe de **menor** quantidade de energia é o do(a):
 A) Capim
+
 B) Inseto
+
 C) Sapo
+
 D) Cobra
+
 E) Decompositor (não representado)
 
 **Questão 02 (Impacto Ambiental)**
 O aumento da concentração de poluentes não biodegradáveis ao longo dos níveis tróficos de uma teia alimentar é um fenômeno conhecido como:
 A) Eutrofização.
+
 B) Sucessão ecológica.
+
 C) Magnificação trófica.
+
 D) Ciclo do nitrogênio.
+
 E) Homeostase.
 
 ---

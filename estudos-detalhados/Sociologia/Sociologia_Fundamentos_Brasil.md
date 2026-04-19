@@ -59,9 +59,13 @@ A Sociologia é a ciência que estuda a sociedade, as relações sociais, as ins
 Émile Durkheim, um dos fundadores da Sociologia, desenvolveu o conceito de "fatos sociais" para analisar a realidade social. De acordo com Durkheim, um fato social se caracteriza por ser:
 
 a) Um comportamento individual e subjetivo, sem influência das normas e valores coletivos.
+
 b) Exterior ao indivíduo, coercitivo e coletivo, manifestando-se como padrões de comportamento e pensamento na sociedade.
+
 c) Resultado exclusivo das relações econômicas de produção e da luta de classes, como defendido por Karl Marx.
+
 d) Uma ação social dotada de sentido subjetivo para o agente, como proposto por Max Weber.
+
 e) Um fenômeno biológico ou psicológico que afeta a vida em sociedade, sem qualquer determinação cultural.
 
 **Resolução:**
@@ -80,9 +84,13 @@ Vamos analisar cada alternativa:
 A globalização, processo de intensa interconexão mundial, trouxe diversas transformações para o mundo do trabalho. Entre os impactos mais significativos desse processo nas relações de trabalho, pode-se destacar:
 
 a) O fortalecimento dos sindicatos e o aumento da estabilidade no emprego em escala global.
+
 b) A diminuição da terceirização e a valorização do trabalho formal e regulamentado em todos os setores.
+
 c) A flexibilização das relações de trabalho, a precarização, a intensificação da terceirização e o aumento do desemprego estrutural em diversas regiões.
+
 d) O retorno em larga escala ao modelo fordista de produção, com linhas de montagem padronizadas e rigidez nas tarefas.
+
 e) A completa eliminação das desigualdades salariais entre países desenvolvidos e em desenvolvimento, devido à livre circulação de capitais.
 
 **Resolução:**

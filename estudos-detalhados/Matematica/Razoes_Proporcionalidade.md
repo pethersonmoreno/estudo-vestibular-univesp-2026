@@ -52,9 +52,13 @@ Quando se dobra a grandeza $X$, a grandeza $Y$ não dobra, mas sim se torna $2^2
 Para confeccionar 150 peças, 5 máquinas idênticas trabalham por 6 horas. Se o número de máquinas for aumentado para 10 (com a mesma eficiência), em quantas horas essas máquinas confeccionarão 300 peças?
 
 a) 3 horas
+
 b) 4 horas
+
 c) 5 horas
+
 d) 6 horas
+
 e) 8 horas
 
 **Resolução:**
@@ -87,9 +91,13 @@ $$x = 6$$
 Em um estudo sobre o crescimento de bactérias, observou-se que a área ocupada por uma colônia circular de bactérias é diretamente proporcional ao quadrado do tempo de desenvolvimento. Se em 2 horas a colônia ocupa uma área de 10 cm², qual será a área ocupada em 4 horas?
 
 a) 20 cm²
+
 b) 30 cm²
+
 c) 40 cm²
+
 d) 50 cm²
+
 e) 60 cm²
 
 **Resolução:**

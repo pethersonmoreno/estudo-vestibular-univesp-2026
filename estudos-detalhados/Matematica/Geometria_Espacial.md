@@ -86,9 +86,13 @@ As projeções cartográficas são formas de representar a superfície curva da 
 Um cilindro circular reto tem raio da base de 3 cm e altura de 10 cm. Qual é o volume desse cilindro? (Use $\pi \approx 3.14$)
 
 a) $30$ cm³
+
 b) $60$ cm³
+
 c) $90$ cm³
+
 d) $282.6$ cm³
+
 e) $942$ cm³
 
 **Resolução:**
@@ -107,9 +111,13 @@ $V = 282.6$ cm³
 Para um poliedro convexo, sabe-se que ele possui 6 vértices e 12 arestas. Quantas faces esse poliedro possui?
 
 a) 6
+
 b) 8
+
 c) 10
+
 d) 12
+
 e) 14
 
 **Resolução:**

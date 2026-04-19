@@ -56,9 +56,13 @@ Ela representa a inclinação da reta secante ao gráfico da função nos pontos
 Uma empresa de tecnologia registra que sua base de usuários duplica a cada ano. Qual o tipo de crescimento que melhor descreve essa situação?
 
 a) Linear
+
 b) Quadrático
+
 c) Exponencial
+
 d) Logarítmico
+
 e) Constante
 
 **Resposta Correta:** c)
@@ -69,9 +73,13 @@ e) Constante
 Um reservatório de água com capacidade máxima de 1000 litros está sendo esvaziado. Às 8h da manhã, ele continha 800 litros. Às 10h da manhã, o volume de água era de 600 litros. Se o esvaziamento ocorre de forma linear, qual a taxa de esvaziamento por hora?
 
 a) 50 litros/hora
+
 b) 100 litros/hora
+
 c) 150 litros/hora
+
 d) 200 litros/hora
+
 e) 250 litros/hora
 
 **Resposta Correta:** b)

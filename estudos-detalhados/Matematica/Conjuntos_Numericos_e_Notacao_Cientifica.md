@@ -48,9 +48,13 @@ Considere os números: $\sqrt{3}$, $1/2$, $-5$, $0,333...$, $2\pi$.
 Assinale a alternativa que classifica corretamente cada número em relação aos conjuntos numéricos.
 
 a) $\sqrt{3} \in \mathbb{Q}$; $1/2 \in \mathbb{Z}$; $-5 \in \mathbb{N}$; $0,333... \in \mathbb{I}$; $2\pi \in \mathbb{R}$.
+
 b) $\sqrt{3} \in \mathbb{I}$; $1/2 \in \mathbb{Q}$; $-5 \in \mathbb{Z}$; $0,333... \in \mathbb{Q}$; $2\pi \in \mathbb{I}$.
+
 c) $\sqrt{3} \in \mathbb{R}$; $1/2 \in \mathbb{I}$; $-5 \in \mathbb{Q}$; $0,333... \in \mathbb{N}$; $2\pi \in \mathbb{Z}$.
+
 d) $\sqrt{3} \in \mathbb{Z}$; $1/2 \in \mathbb{N}$; $-5 \in \mathbb{R}$; $0,333... \in \mathbb{I}$; $2\pi \in \mathbb{Q}$.
+
 e) $\sqrt{3} \in \mathbb{Q}$; $1/2 \in \mathbb{R}$; $-5 \in \mathbb{I}$; $0,333... \in \mathbb{Z}$; $2\pi \in \mathbb{N}$.
 
 **Resposta Correta:** b)
@@ -68,9 +72,13 @@ Um pesquisador mediu o comprimento de um objeto e obteve o valor de 0,0000000052
 2.  Quantos algarismos significativos possui essa medida?
 
 a) $5,2 \times 10^{-9}$ m; 2 algarismos significativos.
+
 b) $5,20 \times 10^{-9}$ m; 3 algarismos significativos.
+
 c) $5,20 \times 10^9$ m; 3 algarismos significativos.
+
 d) $5,2 \times 10^{-9}$ m; 3 algarismos significativos.
+
 e) $5,200 \times 10^{-9}$ m; 4 algarismos significativos.
 
 **Resposta Correta:** b)

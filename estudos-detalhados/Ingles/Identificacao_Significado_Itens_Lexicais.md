@@ -34,9 +34,13 @@ Leia o trecho a seguir:
 Com base no contexto, o que significa o verbo "to curtail"?
 
 a) Acelerar.
+
 b) Expandir.
+
 c) Limitar/Reduzir.
+
 d) Iniciar.
+
 e) Ignorar.
 
 **Resolução:**
@@ -54,9 +58,13 @@ Analise a frase:
 Qual o significado mais adequado para a palavra "resilience" na frase?
 
 a) Fracasso.
+
 b) Teimosia.
+
 c) Fragilidade.
+
 d) Capacidade de se recuperar/adaptar.
+
 e) Desmotivação.
 
 **Resolução:**

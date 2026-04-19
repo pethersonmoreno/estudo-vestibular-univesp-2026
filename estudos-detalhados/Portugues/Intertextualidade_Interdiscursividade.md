@@ -50,9 +50,13 @@ O poema "Vou-me Embora pra Pasárgada", de Manuel Bandeira, inicia-se com os ver
 O trecho do poema de José Paulo Paes em relação ao de Manuel Bandeira é um exemplo de intertextualidade do tipo:
 
 a) Citação, por reproduzir um trecho idêntico do poema original.
+
 b) Paráfrase, por reescrever o texto de Bandeira mantendo o sentido original.
+
 c) Alusão, por fazer uma referência indireta à obra de Bandeira.
+
 d) Paródia, por recriar o texto original com intenção de humor e subversão do sentido.
+
 e) Pastiche, por imitar o estilo de Bandeira sem intenção crítica.
 
 **Resolução:**
@@ -67,9 +71,13 @@ Vamos analisar a relação:
 Um jornalista escreve uma matéria sobre a importância da preservação ambiental na Amazônia, utilizando dados científicos, opiniões de especialistas e referências a acordos internacionais. Além das citações diretas e indiretas (intertextualidade), esse texto também é atravessado por diferentes discursos sociais que circulam na sociedade. A interdiscursividade nesse contexto se manifesta quando o jornalista:
 
 a) Reproduz exatamente um trecho de um discurso de um líder indígena em sua reportagem.
+
 b) Cria um novo texto que imita o estilo de um artigo científico, sem qualquer propósito crítico.
+
 c) Dialoga com o discurso ambientalista, o discurso científico sobre ecologia e, possivelmente, com o discurso político sobre desenvolvimento sustentável.
+
 d) Faz um resumo das principais conclusões de um relatório da ONU sobre mudanças climáticas.
+
 e) Traduz uma entrevista de um pesquisador estrangeiro para o português, mantendo a fidelidade à fala original.
 
 **Resolução:**

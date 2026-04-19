@@ -25,18 +25,27 @@ A Vunesp testa se você sabe que **NÃO se separa com vírgula**:
 
 **Questão 01 (Concordância)**
 Assinale a alternativa em que a concordância verbal está de acordo com a norma-padrão:
+
 A) Fazem muitos meses que não visito a Univesp.
+
 B) Devem haver explicações melhores para este caso.
+
 C) Existiam, naquela prateleira, diversos livros raros.
+
 D) Aluga-se apartamentos mobiliados no centro.
+
 E) Sobrou, após a festa, muitos salgados na mesa.
 
 **Questão 02 (Pontuação)**
 Assinale a alternativa corretamente pontuada:
 A) Os candidatos, que chegaram atrasados perderam a prova.
+
 B) Ontem à noite, os alunos estudaram, para o vestibular.
+
 C) O diretor da escola, avisou que as notas saíram.
+
 D) Durante a semana de provas, a biblioteca permanece aberta até mais tarde.
+
 E) Maria comprou: pães, doces, e, frutas.
 
 ---

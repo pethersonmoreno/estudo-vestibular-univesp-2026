@@ -48,9 +48,13 @@ A História do Brasil é marcada por um longo processo de formação, desde a oc
 A economia açucareira foi a principal atividade econômica do Brasil Colônia durante os séculos XVI e XVII, concentrando-se principalmente na região Nordeste. Sobre as características desse modelo econômico, é correto afirmar que:
 
 a) Baseava-se na pequena propriedade familiar, na policultura e na mão de obra livre e assalariada, voltada para o mercado interno.
+
 b) Caracterizava-se pelo latifúndio, pela monocultura da cana-de-açúcar e pela utilização predominante de mão de obra escrava africana, com produção voltada para a exportação.
+
 c) Teve como principal centro produtor a região das Minas Gerais, impulsionando a urbanização e o desenvolvimento de um comércio diversificado.
+
 d) Focou na extração de metais preciosos, como ouro e prata, utilizando o sistema de bandeiras para explorar o interior do território.
+
 e) Apresentava uma grande diversificação de produtos agrícolas exportados, minimizando os riscos de dependência de um único cultivo.
 
 **Resolução:**
@@ -69,9 +73,13 @@ Vamos analisar cada alternativa:
 O Segundo Reinado (1840-1889), sob o governo de D. Pedro II, foi um período de relativa estabilidade política e importantes transformações econômicas e sociais no Brasil. Dentre as mudanças ocorridas nesse período, destaca-se:
 
 a) O início da industrialização do país e o declínio da economia cafeeira como principal pilar econômico.
+
 b) A abdicação de D. Pedro II e a consequente proclamação da República, marcando o fim do regime monárquico.
+
 c) A abolição do tráfico negreiro e, posteriormente, da escravidão, acompanhada pela crescente imigração europeia e a expansão da cultura do café.
+
 d) A eclosão de diversas revoltas regenciais, como a Cabanagem e a Farroupilha, que desestabilizaram o poder central.
+
 e) O fortalecimento das oligarquias rurais e a implementação da política do "café com leite" como base da governabilidade.
 
 **Resolução:**

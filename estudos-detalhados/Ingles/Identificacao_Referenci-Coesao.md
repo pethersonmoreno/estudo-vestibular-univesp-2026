@@ -44,9 +44,13 @@ Leia o parágrafo a seguir:
 A que se referem os pronomes "She" e "her" destacados no texto?
 
 a) Aos professores de Maria.
+
 b) Às atividades e discussões da aula.
+
 c) A uma aluna genérica.
+
 d) A Maria.
+
 e) Ao ambiente acadêmico.
 
 **Resolução:**
@@ -64,9 +68,13 @@ Analise o trecho:
 O termo "This" no início da segunda frase refere-se a:
 
 a) A empresa.
+
 b) O objetivo principal de reduzir a pegada de carbono.
+
 c) Fontes de energia renovável.
+
 d) Práticas eco-friendly.
+
 e) O anúncio da iniciativa.
 
 **Resolução:**

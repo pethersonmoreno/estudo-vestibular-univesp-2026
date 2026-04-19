@@ -23,17 +23,25 @@
 **Questão 01 (Separação)**
 Um método eficiente para separar os componentes de uma mistura homogênea de dois líquidos com pontos de ebulição distintos, como água e álcool, é a:
 A) Filtração.
+
 B) Decantação.
+
 C) Destilação fracionada.
+
 D) Centrifugação.
+
 E) Sublimação.
 
 **Questão 02 (Estequiometria)**
 Dada a reação balanceada: $H_2 + Cl_2 \to 2 HCl$. Qual a massa de $HCl$ produzida a partir de 2 gramas de $H_2$? (Massas atômicas: $H=1, Cl=35,5$).
 A) 36,5 g
+
 B) 71,0 g
+
 C) 73,0 g
+
 D) 146,0 g
+
 E) 2,0 g
 
 ---

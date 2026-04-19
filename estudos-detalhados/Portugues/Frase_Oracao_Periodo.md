@@ -63,9 +63,13 @@ III. Ele estudou e passou no vestibular.
 Assinale a alternativa que classifica corretamente cada enunciado.
 
 a) I – Frase nominal; II – Oração e período simples; III – Período composto.
+
 b) I – Frase verbal; II – Período composto; III – Frase nominal.
+
 c) I – Oração; II – Frase nominal; III – Oração.
+
 d) I – Período simples; II – Frase verbal; III – Período simples.
+
 e) I – Frase; II – Período composto; III – Frase nominal.
 
 **Resposta Correta:** a)
@@ -80,9 +84,13 @@ Considere o período: "*Os alunos dedicaram-se aos estudos, por isso obtiveram b
 Assinale a alternativa que reescreve o período de forma a manter o sentido e a correção gramatical, mas com uma estrutura diferente.
 
 a) Dedicaram-se aos estudos os alunos, porque obtiveram boas notas.
+
 b) Embora os alunos tivessem se dedicado aos estudos, obtiveram boas notas.
+
 c) Os alunos obtiveram boas notas, já que se dedicaram aos estudos.
+
 d) Os alunos se dedicaram aos estudos e, então, obtiveram boas notas.
+
 e) As boas notas foram obtidas pelos alunos que se dedicaram aos estudos.
 
 **Resposta Correta:** c)

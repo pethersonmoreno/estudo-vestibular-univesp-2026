@@ -66,9 +66,13 @@ Analise o trecho a seguir:
 O modo de organização textual predominante no trecho é:
 
 a) Descritivo.
+
 b) Narrativo.
+
 c) Dissertativo-expositivo.
+
 d) Dissertativo-argumentativo.
+
 e) Injuntivo.
 
 **Resposta Correta:** b)
@@ -88,9 +92,13 @@ V. Uso de argumentos para persuadir o leitor.
 As características que pertencem exclusivamente ao modo descritivo são:
 
 a) I e II.
+
 b) I e III.
+
 c) II e IV.
+
 d) III e V.
+
 e) IV e V.
 
 **Resposta Correta:** b)

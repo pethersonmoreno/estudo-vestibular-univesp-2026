@@ -42,9 +42,13 @@ As obras literárias dos PALOPs são intrinsecamente ligadas ao seu contexto his
 Mia Couto, escritor moçambicano, é conhecido por sua prosa inovadora e pela forma como incorpora elementos da oralidade e da cultura de Moçambique em suas narrativas. Em suas obras, é comum encontrar a:
 
 a) Exaltação do colonialismo português e a idealização das relações entre colonizadores e colonizados.
+
 b) Utilização de uma linguagem puramente formal, desvinculada de qualquer regionalismo ou neologismo.
+
 c) Criação de neologismos e a exploração da oralidade, resultando em uma linguagem poética que reflete a riqueza cultural moçambicana.
+
 d) Abordagem de temas estritamente urbanos e modernos, sem qualquer referência às tradições rurais ou ancestrais.
+
 e) Defesa de um estilo literário realista e objetivo, com foco na denúncia direta da corrupção pós-independência de forma didática.
 
 **Resolução:**
@@ -63,9 +67,13 @@ Vamos analisar cada alternativa:
 A literatura de Pepetela, em Angola, frequentemente aborda a luta pela independência e os desafios da construção nacional pós-colonial. A obra "Mayombe" é um exemplo dessa temática, ao retratar:
 
 a) A vida idílica nas fazendas coloniais e a harmonia entre diferentes etnias sob o domínio português.
+
 b) As complexidades da guerrilha anticolonial, os conflitos internos e os dilemas dos combatentes pela libertação de Angola.
+
 c) A ascensão de uma burguesia angolana enriquecida pela exploração de recursos naturais no pós-independência.
+
 d) Um romance de formação que foca na educação de jovens angolanos em Portugal, longe dos conflitos.
+
 e) A história de um amor proibido entre um colono e uma mulher africana, sem quaisquer implicações políticas.
 
 **Resolução:**

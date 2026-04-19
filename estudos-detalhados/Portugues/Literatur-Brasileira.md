@@ -47,9 +47,13 @@ A literatura brasileira está profundamente enraizada em seu contexto. A compree
 "Memórias Póstumas de Brás Cubas", de Machado de Assis, é considerada uma das obras-primas da literatura brasileira e um marco do Realismo. Uma das características que melhor define essa obra e o estilo realista é:
 
 a) A exaltação do índio como herói nacional e a idealização da natureza brasileira, típicas do Romantismo.
+
 b) O uso de uma linguagem rebuscada e a busca pela perfeição formal, sem preocupações com a crítica social, próprias do Parnasianismo.
+
 c) A análise psicológica aprofundada dos personagens, a crítica à hipocrisia social e a metalinguagem, com um narrador defunto-autor.
+
 d) O escapismo da realidade e a valorização da subjetividade extrema, com um foco na morte e no "mal do século".
+
 e) A representação da vida rural com simplicidade, exaltando a vida bucólica e a fuga dos centros urbanos, características do Arcadismo.
 
 **Resolução:**
@@ -68,9 +72,13 @@ Vamos analisar cada alternativa:
 A Semana de Arte Moderna de 1922 é um evento divisor de águas na Literatura Brasileira. Dentre as propostas e características da primeira fase do Modernismo, que se seguiu a esse evento, destaca-se:
 
 a) A reafirmação dos valores estéticos clássicos e a defesa da norma culta da língua portuguesa como única forma de expressão literária.
+
 b) A busca por uma identidade nacional, a valorização da linguagem coloquial, a irreverência e a ruptura com as formas tradicionais de arte.
+
 c) O aprofundamento do regionalismo e a denúncia das mazelas sociais do Nordeste, com foco em uma prosa documental e objetiva.
+
 d) A idealização da mulher e do amor, com forte subjetivismo e escapismo, em oposição à realidade social do país.
+
 e) A poesia metódica, com rimas ricas e esquemas fixos, buscando a perfeição formal e a sonoridade, desvinculada de questões sociais.
 
 **Resolução:**

@@ -24,17 +24,25 @@ A Vunesp sempre cobra a relação de sentido. As principais são:
 "O candidato estudou muito para a prova da Univesp, **no entanto**, não conseguiu dormir bem na noite anterior."
 A palavra em destaque estabelece relação de:
 A) Causa.
+
 B) Conclusão.
+
 C) Oposição.
+
 D) Explicação.
+
 E) Finalidade.
 
 **Questão 02 (Sentido Verbal)**
 Na frase "Se eu **tivesse** mais tempo, **faria** um simulado completo", as formas verbais destacadas expressam, respectivamente:
 A) Certeza e fato passado.
+
 B) Condição e ação futura condicionada.
+
 C) Ordem e desejo.
+
 D) Hábito passado e ação concluída.
+
 E) Fato presente e hipótese remota.
 
 ---

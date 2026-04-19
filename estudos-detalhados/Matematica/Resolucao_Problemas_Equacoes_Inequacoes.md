@@ -100,9 +100,13 @@ $-4+1 < x < 4+1 \Rightarrow -3 < x < 5$.
 Um capital foi aplicado a juros compostos, dobrando de valor a cada 5 anos. Se a aplicação inicial foi de R$ 1.000,00, em quantos anos esse capital atingirá R$ 8.000,00?
 
 a) 10 anos
+
 b) 15 anos
+
 c) 20 anos
+
 d) 25 anos
+
 e) 30 anos
 
 **Resolução:**
@@ -125,9 +129,13 @@ $t = 15$ anos.
 Considere a inequação $|2x - 4| \le 6$. O conjunto solução dessa inequação é:
 
 a) $x \le 5$
+
 b) $x \ge -1$
+
 c) $-1 \le x \le 5$
+
 d) $x < -1$ ou $x > 5$
+
 e) $x < 5$
 
 **Resolução:**

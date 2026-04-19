@@ -22,17 +22,25 @@
 **Questão 01 (Urbanização)**
 O processo de urbanização brasileiro, intensificado na segunda metade do século XX, caracteriza-se por ser:
 A) Lento e planejado, evitando a formação de periferias.
+
 B) Baseado na distribuição igualitária de recursos entre campo e cidade.
+
 C) Rápido, desordenado e concentrado, gerando fenômenos como a macrocefalia urbana.
+
 D) Focado exclusivamente nas cidades do interior do Nordeste.
+
 E) Independente do processo de industrialização do país.
 
 **Questão 02 (Globalização)**
 Sobre a globalização, é correto afirmar que ela promove:
 A) A equalização total de renda entre países desenvolvidos e subdesenvolvidos.
+
 B) O isolamento cultural das comunidades locais em todo o mundo.
+
 C) A integração de mercados, porém de forma desigual, beneficiando principalmente os grandes centros tecnológicos.
+
 D) O fim das fronteiras nacionais e das soberanias políticas.
+
 E) A redução do fluxo de informações através da internet.
 
 ---

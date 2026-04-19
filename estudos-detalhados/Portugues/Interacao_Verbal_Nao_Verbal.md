@@ -53,9 +53,13 @@ Para interpretar corretamente um texto que apresenta essa interação, o leitor 
 Um anúncio publicitário de um refrigerante apresenta a imagem de jovens sorrindo e se divertindo em uma praia ensolarada, acompanhada do slogan "Refresque sua vida!". Nesse contexto, a interação entre o texto verbal (slogan) e o texto não verbal (imagem) tem como objetivo principal:
 
 a) Contradizer a mensagem principal, indicando que o refrigerante não é apropriado para ambientes quentes.
+
 b) Reforçar a ideia de que o produto proporciona bem-estar, alegria e refrescância, associando-o a momentos prazerosos.
+
 c) Expandir o sentido, apresentando informações técnicas detalhadas sobre a composição do refrigerante.
+
 d) Criar um efeito de ironia, sugerindo que a imagem não tem relação alguma com o consumo da bebida.
+
 e) Apenas ilustrar o produto de forma genérica, sem qualquer intenção de influenciar o consumidor.
 
 **Resolução:**
@@ -74,9 +78,13 @@ Vamos analisar as opções:
 Em uma reportagem sobre o aumento da população idosa no Brasil, o texto verbal discute os desafios para a previdência e a saúde pública. Para ilustrar esses dados, a matéria apresenta um gráfico de barras que mostra o crescimento percentual da população com mais de 60 anos nas últimas décadas. A função desse gráfico na reportagem é:
 
 a) Contradizer as informações apresentadas no texto verbal, gerando um debate sobre a veracidade dos dados.
+
 b) Substituir completamente a necessidade do texto verbal, uma vez que o gráfico é autossuficiente para a compreensão do tema.
+
 c) Complementar o texto verbal, fornecendo dados visuais que comprovam e quantificam as tendências demográficas mencionadas.
+
 d) Servir como um elemento meramente estético, sem qualquer função informativa relevante para o leitor.
+
 e) Apresentar uma visão subjetiva e opinativa sobre o envelhecimento populacional, em oposição à objetividade do texto.
 
 **Resolução:**

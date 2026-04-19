@@ -47,9 +47,13 @@ Assim como na congruência, existem critérios mínimos para determinar a semelh
 Para determinar a altura de um prédio, um estudante de 1,60 m de altura observa que sua sombra mede 2 m. No mesmo instante, a sombra do prédio mede 25 m. Qual é a altura do prédio?
 
 a) 15 m
+
 b) 18 m
+
 c) 20 m
+
 d) 22 m
+
 e) 24 m
 
 **Resolução:**
@@ -75,9 +79,13 @@ $H = 20$ m
 Considere dois triângulos semelhantes, $\triangle ABC$ e $\triangle A'B'C'$. Sabe-se que os lados $AB = 6$ cm e $A'B' = 9$ cm. Se a área do triângulo $\triangle ABC$ é de 16 cm², qual é a área do triângulo $\triangle A'B'C'$?
 
 a) 24 cm²
+
 b) 32 cm²
+
 c) 36 cm²
+
 d) 48 cm²
+
 e) 54 cm²
 
 **Resolução:**

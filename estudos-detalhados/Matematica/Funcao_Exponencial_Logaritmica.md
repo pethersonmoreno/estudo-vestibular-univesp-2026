@@ -68,9 +68,13 @@ $\log a^x = \log b \Rightarrow x \log a = \log b \Rightarrow x = \frac{\log b}{\
 Seja a função $f(x) = 3^x$. É correto afirmar que:
 
 a) A função é decrescente e sua imagem é $\mathbb{R}$.
+
 b) O gráfico da função intercepta o eixo $y$ no ponto $(0, 3)$.
+
 c) A base da função é $a = 3$, portanto, a função é crescente e sua imagem é $\mathbb{R}_+$.
+
 d) O domínio da função é $\mathbb{R}_+$ e ela passa pelo ponto $(1, 0)$.
+
 e) O eixo $x$ é uma assíntota vertical para o gráfico da função.
 
 **Resolução:**
@@ -89,9 +93,13 @@ Vamos analisar cada alternativa:
 Sabendo que $\log_{10} 2 = 0.3$ e $\log_{10} 3 = 0.48$, qual é o valor de $\log_{10} 12$? 
 
 a) 0.78
+
 b) 0.60
+
 c) 1.08
+
 d) 1.20
+
 e) 0.96
 
 **Resolução:**

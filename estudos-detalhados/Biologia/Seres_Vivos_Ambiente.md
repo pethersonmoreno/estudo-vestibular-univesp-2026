@@ -77,9 +77,13 @@ Busca por fontes de energia que minimizem os impactos ambientais:
 O desmatamento da Floresta Amazônica é um grave problema ambiental que acarreta diversas consequências para o bioma e para o planeta. Dentre os impactos diretos do desmatamento, pode-se citar:
 
 a) O aumento da biodiversidade, devido à criação de novos nichos ecológicos para espécies adaptadas.
+
 b) A diminuição da erosão do solo e o aumento da capacidade de retenção de água no ambiente.
+
 c) A intensificação do ciclo da água na região, com maior frequência de chuvas e formação de nuvens.
+
 d) A perda de habitat para diversas espécies, contribuindo para a redução da biodiversidade e o risco de extinção.
+
 e) A redução das emissões de gases de efeito estufa, uma vez que a matéria orgânica em decomposição é eliminada.
 
 **Resolução:**
@@ -98,9 +102,13 @@ Vamos analisar cada alternativa:
 A eutrofização é um processo de alteração ambiental comum em corpos d'água, como lagos e rios, frequentemente causada pela ação humana. A principal característica e uma consequência desse fenômeno são:
 
 a) Diminuição da concentração de nutrientes e aumento da diversidade de espécies aquáticas.
+
 b) Enriquecimento do corpo d'água com nutrientes (nitrogênio e fósforo) e proliferação excessiva de algas.
+
 c) Aumento da transparência da água e elevação da concentração de oxigênio dissolvido.
+
 d) Redução da turbidez da água e melhoria das condições para a vida de peixes de grande porte.
+
 e) Acidificação da água e morte de organismos aeróbicos devido à baixa temperatura.
 
 **Resolução:**

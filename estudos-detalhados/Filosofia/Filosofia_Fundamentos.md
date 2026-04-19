@@ -50,9 +50,13 @@ A Filosofia é uma disciplina que busca compreender questões fundamentais sobre
 A Epistemologia é um dos ramos fundamentais da Filosofia. Sua principal preocupação está em:
 
 a) Investigar a natureza da beleza e da arte, bem como a percepção estética em diferentes culturas.
+
 b) Compreender as estruturas do poder político, a formação do Estado e os direitos dos cidadãos.
+
 c) Estudar a origem, a natureza e a validade do conhecimento, questionando os critérios de verdade e certeza.
+
 d) Analisar os valores morais, o bem e o mal, e estabelecer princípios para a conduta ética humana.
+
 e) Desenvolver visões de mundo holísticas que integrem ciência, religião e arte, sem qualquer crítica.
 
 **Resolução:**
@@ -71,9 +75,13 @@ Vamos analisar cada alternativa:
 Immanuel Kant, um dos mais importantes filósofos da Modernidade, é uma figura central na Ética Deontológica. A principal ideia da ética kantiana pode ser resumida como:
 
 a) A ação moralmente correta é aquela que produz a maior felicidade para o maior número de pessoas.
+
 b) O valor moral de uma ação reside nas suas consequências e no seu impacto para o bem comum.
+
 c) A moralidade de uma ação é determinada pela intenção do agente em cumprir um dever, independentemente das consequências.
+
 d) A ética é fundamentalmente uma questão de desenvolver virtudes de caráter, como coragem e sabedoria, ao longo da vida.
+
 e) Os princípios éticos são relativos a cada cultura e contexto histórico, não existindo verdades morais universais.
 
 **Resolução:**

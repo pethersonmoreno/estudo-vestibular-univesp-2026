@@ -78,9 +78,13 @@ Assinale a alternativa que preenche corretamente as lacunas da frase:
 "O funcionário ________ as instruções, pois ________ o cargo de chefia."
 
 a) obedeceu às / visava
+
 b) obedeceu as / visava ao
+
 c) obedeceu às / visava ao
+
 d) obedeceu as / visava
+
 e) obedeceu com as / visava para o
 
 **Resposta Correta:** c)
@@ -92,9 +96,13 @@ e) obedeceu com as / visava para o
 Em qual alternativa a regência nominal está de acordo com a norma-padrão?
 
 a) Ele tem aversão por barulho excessivo.
+
 b) Somos capazes de grandes feitos.
+
 c) Tenho orgulho em minha equipe.
+
 d) Necessito a sua presença.
+
 e) Acesso para o público é livre.
 
 **Resposta Correta:** b)

@@ -80,9 +80,13 @@ A **Questão Ambiental** é um tema global que exige cooperação. As **Polític
 Os diferentes tipos de rochas que compõem a crosta terrestre são resultado de processos geológicos específicos. Assinale a alternativa que relaciona corretamente o tipo de rocha com sua origem:
 
 a) Rocha Sedimentar: formada pelo resfriamento do magma ou lava, como o granito.
+
 b) Rocha Metamórfica: formada pela compactação e cimentação de sedimentos, como o arenito.
+
 c) Rocha Ígnea (Magmática): formada pela transformação de rochas preexistentes sob calor e pressão, como o mármore.
+
 d) Rocha Sedimentar: formada pela acumulação de restos orgânicos e inorgânicos, como o calcário.
+
 e) Rocha Ígnea (Magmática): formada por camadas de sedimentos compactados, como o gnaisse.
 
 **Resolução:**
@@ -101,9 +105,13 @@ Vamos analisar cada alternativa:
 O Brasil possui uma grande diversidade de biomas, cada um com características vegetais e climáticas específicas. Dentre os biomas brasileiros, a Caatinga apresenta como característica marcante:
 
 a) A predominância de árvores de grande porte e densa floresta, com alta pluviosidade e temperaturas elevadas ao longo do ano.
+
 b) Vegetação rasteira e gramíneas, adaptadas a climas frios e com estações bem definidas, como ocorre no sul do país.
+
 c) Espécies vegetais com adaptações para suportar longos períodos de estiagem, como caules suculentos e folhas caducifólias, em um clima semiárido.
+
 d) Uma vasta planície alagável, com grande biodiversidade aquática e terrestre, que sofre inundações periódicas em estações chuvosas.
+
 e) Vegetação de transição entre a floresta e o campo, com árvores retorcidas e casca grossa, em um clima tropical com duas estações marcadas.
 
 **Resolução:**

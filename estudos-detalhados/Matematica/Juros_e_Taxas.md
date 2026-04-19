@@ -58,9 +58,13 @@ Onde:
 Um capital de R$ 5.000,00 foi aplicado a juros simples, com uma taxa de 2% ao mês. Ao final de 8 meses, qual será o montante obtido por essa aplicação?
 
 a) R$ 5.800,00
+
 b) R$ 6.000,00
+
 c) R$ 6.200,00
+
 d) R$ 6.400,00
+
 e) R$ 6.600,00
 
 **Resposta Correta:** a)
@@ -88,9 +92,13 @@ O montante obtido será de R$ 5.800,00.
 Qual o montante de um capital de R$ 10.000,00 aplicado a juros compostos, com taxa de 10% ao ano, durante 2 anos?
 
 a) R$ 12.000,00
+
 b) R$ 12.100,00
+
 c) R$ 12.500,00
+
 d) R$ 13.000,00
+
 e) R$ 13.310,00
 
 **Resposta Correta:** b)

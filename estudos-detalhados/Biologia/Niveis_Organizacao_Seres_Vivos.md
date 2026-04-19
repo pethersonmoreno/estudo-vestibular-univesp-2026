@@ -58,9 +58,13 @@ Esses grupos desempenham papéis cruciais nos ecossistemas:
 Um estudante de biologia observa um organismo unicelular que não possui núcleo organizado e cujo material genético está disperso no citoplasma. Além disso, ele nota que esse organismo tem parede celular, mas não de celulose nem de quitina. A qual domínio e reino (se aplicável) esse organismo provavelmente pertence?
 
 a) Domínio Eukarya, Reino Protista.
+
 b) Domínio Archaea, sem reino específico.
+
 c) Domínio Bacteria, sem reino específico.
+
 d) Domínio Eukarya, Reino Fungi.
+
 e) Domínio Eukarya, Reino Plantae.
 
 **Resolução:**
@@ -78,9 +82,13 @@ Reavaliando: a descrição encaixa-se em procariontes. O ponto sobre a parede ce
 Em um ecossistema aquático, um tipo de organismo unicelular realiza fotossíntese e serve como base da cadeia alimentar, liberando oxigênio para o ambiente. Esse organismo, pertencente ao domínio Eukarya, seria classificado como:
 
 a) Bactéria.
+
 b) Fungo.
+
 c) Vírus.
+
 d) Alga (Reino Protista).
+
 e) Protozoário (Reino Protista).
 
 **Resolução:**

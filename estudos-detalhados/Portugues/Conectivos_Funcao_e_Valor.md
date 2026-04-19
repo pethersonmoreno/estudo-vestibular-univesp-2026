@@ -52,9 +52,13 @@ Conectivos são palavras ou expressões que ligam termos, orações ou parágraf
 No período "*Os resultados foram divulgados rapidamente, `entretanto`, a maioria dos candidatos não os conferiu.*", o conectivo em destaque expressa ideia de:
 
 a) Adição
+
 b) Explicação
+
 c) Conclusão
+
 d) Oposição
+
 e) Alternância
 
 **Resposta Correta:** d)
@@ -65,9 +69,13 @@ e) Alternância
 Assinale a alternativa em que o conectivo destacado no período "*Como chovia muito, os jogos foram cancelados.*" pode ser substituído, sem alteração de sentido e com correção gramatical.
 
 a) Todavia
+
 b) Embora
+
 c) Conforme
+
 d) Visto que
+
 e) Portanto
 
 **Resposta Correta:** d)

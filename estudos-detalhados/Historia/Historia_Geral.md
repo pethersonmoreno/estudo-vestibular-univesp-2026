@@ -48,9 +48,13 @@ A História Geral estuda o desenvolvimento das sociedades humanas ao longo do te
 A transição do Paleolítico para o Neolítico, conhecida como Revolução Neolítica, representou uma das maiores transformações na história da humanidade. Qual das alternativas abaixo descreve a principal característica dessa revolução?
 
 a) O desenvolvimento da escrita cuneiforme e a formação dos primeiros impérios centralizados.
+
 b) O surgimento das grandes navegações e a expansão do comércio em escala global.
+
 c) A domesticação de plantas e animais, que levou à sedentarização e ao desenvolvimento da agricultura.
+
 d) A invenção da roda e do bronze, impulsionando a metalurgia e a vida urbana.
+
 e) A organização social em tribos nômades, dependentes exclusivamente da caça e da coleta.
 
 **Resolução:**
@@ -69,9 +73,13 @@ Vamos analisar cada alternativa:
 O Iluminismo, movimento intelectual do século XVIII, exerceu profunda influência na política e na sociedade ocidental. Sobre os ideais iluministas e suas principais críticas ao Antigo Regime, é correto afirmar que:
 
 a) Defendiam o fortalecimento do poder absoluto dos reis e a manutenção da sociedade estamental, baseada em privilégios.
+
 b) Propuseram a centralização econômica nas mãos do Estado e a restrição da liberdade individual em nome da segurança coletiva.
+
 c) Criticavam o mercantilismo e o absolutismo monárquico, defendendo a liberdade econômica, a igualdade jurídica e a soberania popular.
+
 d) Valorizavam a tradição e a fé religiosa como principais fontes de conhecimento, opondo-se à razão e ao progresso científico.
+
 e) Eram defensores da servidão feudal e da organização da produção agrícola como a base exclusiva da riqueza nacional.
 
 **Resolução:**

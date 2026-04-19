@@ -78,9 +78,13 @@ Estuda o comportamento de líquidos e gases.
 Um automóvel parte do repouso e atinge a velocidade de 72 km/h em 10 segundos, movendo-se em linha reta com aceleração constante. Qual é a distância percorrida pelo automóvel nesse intervalo de tempo?
 
 a) 50 m
+
 b) 100 m
+
 c) 150 m
+
 d) 200 m
+
 e) 250 m
 
 **Resolução:**
@@ -109,9 +113,13 @@ $400 = 4 \Delta S \Rightarrow \Delta S = 100 \text{ m}$.
 Um bloco de massa 2 kg é puxado por uma força horizontal de 10 N em uma superfície sem atrito. De acordo com a Segunda Lei de Newton, qual é a aceleração adquirida pelo bloco?
 
 a) 2 m/s²
+
 b) 5 m/s²
+
 c) 10 m/s²
+
 d) 12 m/s²
+
 e) 20 m/s²
 
 **Resolução:**

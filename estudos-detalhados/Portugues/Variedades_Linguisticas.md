@@ -56,9 +56,13 @@ São as diferentes formas de manifestação da língua, que variam de acordo com
 Um advogado prepara uma petição judicial e, em seguida, envia uma mensagem de texto para sua filha adolescente. A linguagem utilizada em cada uma dessas situações é, respectivamente:
 
 a) Informal e formal.
+
 b) Regional e social.
+
 c) Formal e informal.
+
 d) Histórica e regional.
+
 e) Social e histórica.
 
 **Resposta Correta:** c)
@@ -70,9 +74,13 @@ e) Social e histórica.
 Em diferentes regiões do Brasil, o mesmo vegetal pode ser conhecido como "macaxeira", "aipim" ou "mandioca". Esse fenômeno é um exemplo de variação linguística de que tipo?
 
 a) Histórica.
+
 b) Social.
+
 c) Situacional.
+
 d) Regional.
+
 e) Estilística.
 
 **Resposta Correta:** d)

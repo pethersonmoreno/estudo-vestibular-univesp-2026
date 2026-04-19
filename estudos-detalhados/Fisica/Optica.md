@@ -63,9 +63,13 @@ O olho funciona como um sistema óptico complexo:
 Um objeto é colocado em frente a um espelho plano. Qual das alternativas descreve CORRETAMENTE as características da imagem formada por esse espelho?
 
 a) Real, invertida e maior que o objeto.
+
 b) Virtual, direita e maior que o objeto.
+
 c) Real, direita e do mesmo tamanho do objeto.
+
 d) Virtual, invertida e menor que o objeto.
+
 e) Virtual, direita e do mesmo tamanho do objeto.
 
 **Resolução:**
@@ -82,9 +86,13 @@ Espelhos planos sempre formam imagens:
 Uma pessoa tem dificuldade em enxergar objetos distantes com nitidez, mas consegue ver bem objetos próximos. Para corrigir esse defeito de visão, qual tipo de lente deve ser utilizada?
 
 a) Lente convergente.
+
 b) Lente divergente.
+
 c) Lente cilíndrica.
+
 d) Lente bifocal.
+
 e) Lente prismática.
 
 **Resolução:**

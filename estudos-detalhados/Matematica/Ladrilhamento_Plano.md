@@ -60,9 +60,13 @@ Para resolver problemas envolvendo áreas em ladrilhamentos:
 Um arquiteto deseja ladrilhar uma sala utilizando apenas um tipo de polígono regular. Para que o ladrilhamento seja perfeito, sem deixar espaços vazios nem sobreposições, o polígono escolhido deve ter seu ângulo interno como um divisor de $360^\circ$. Dos polígonos regulares listados abaixo, qual NÃO seria adequado para ladrilhar o plano sozinho?
 
 a) Triângulo equilátero
+
 b) Quadrado
+
 c) Hexágono regular
+
 d) Pentágono regular
+
 e) Nenhuma das alternativas anteriores.
 
 **Resolução:**
@@ -81,9 +85,13 @@ Vamos calcular o ângulo interno de cada polígono:
 Uma parede retangular de 3 metros de altura por 4 metros de comprimento será totalmente revestida com ladrilhos quadrados de 20 cm de lado. Quantos ladrilhos serão necessários para cobrir toda a parede?
 
 a) 200
+
 b) 300
+
 c) 350
+
 d) 400
+
 e) 450
 
 **Resolução:**

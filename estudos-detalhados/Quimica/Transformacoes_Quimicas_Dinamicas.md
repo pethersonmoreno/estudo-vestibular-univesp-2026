@@ -62,9 +62,13 @@ Um sistema em equilíbrio, ao ser submetido a uma perturbação externa (altera�
 Para uma reação química genérica $A + B \rightarrow C$, qual das seguintes ações NÃO aumentaria a velocidade da reação?
 
 a) Aumentar a temperatura do sistema.
+
 b) Adicionar um catalisador adequado.
+
 c) Diminuir a concentração do reagente A.
+
 d) Aumentar a superfície de contato dos reagentes (se sólidos).
+
 e) Aumentar a pressão (se os reagentes forem gases).
 
 **Resolução:**
@@ -87,9 +91,13 @@ $N_2(g) + 3H_2(g) \rightleftharpoons 2NH_3(g)$ (Processo exotérmico, $\Delta H 
 De acordo com o Princípio de Le Chatelier, para aumentar o rendimento de $NH_3$ (amônia), as condições de pressão e temperatura devem ser, respectivamente:
 
 a) Aumento da pressão e aumento da temperatura.
+
 b) Diminuição da pressão e diminuição da temperatura.
+
 c) Aumento da pressão e diminuição da temperatura.
+
 d) Diminuição da pressão e aumento da temperatura.
+
 e) Pressão e temperatura constantes.
 
 **Resolução:**

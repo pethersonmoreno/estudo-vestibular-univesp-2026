@@ -61,9 +61,13 @@ Estuda a distribuição, dinâmica e características da população. Conceitos 
 A globalização é um processo complexo que interliga diferentes partes do mundo em diversas dimensões. Sobre as características e consequências da globalização no espaço geográfico, assinale a alternativa correta:
 
 a) A globalização tem como principal característica a diminuição dos fluxos de capitais e informações, resultando em maior autonomia dos estados nacionais.
+
 b) Um dos efeitos da globalização é a homogeneização cultural completa, eliminando as particularidades regionais e locais em todo o mundo.
+
 c) A intensificação do comércio internacional e a formação de blocos econômicos são manifestações da globalização que podem tanto gerar interdependência quanto acentuar desigualdades.
+
 d) A globalização promoveu o fim das desigualdades socioeconômicas, pois a livre circulação de mercadorias e tecnologias garante o desenvolvimento equitativo para todos os países.
+
 e) A principal consequência da globalização é a desvalorização do setor terciário da economia em detrimento do setor primário, fortalecendo as economias extrativistas.
 
 **Resolução:**
@@ -82,9 +86,13 @@ Vamos analisar cada alternativa:
 O espaço rural brasileiro tem passado por profundas transformações nas últimas décadas, impulsionadas, em grande parte, pelo avanço do agronegócio. Sobre essas transformações e seus impactos, é correto afirmar que:
 
 a) A modernização do campo, com o agronegócio, resultou no fim da agricultura familiar e na diminuição dos conflitos por terra no país.
+
 b) O avanço do agronegócio tem contribuído para a diminuição da concentração de terras e para a diversificação da produção agrícola em todas as regiões.
+
 c) A questão urbana e a rural são fenômenos isolados, sem relações de interdependência, visto que o campo não influencia a dinâmica das cidades.
+
 d) A modernização do espaço rural, com a crescente mecanização, provoca êxodo rural e, por vezes, intensifica conflitos sociais e ambientais pela posse da terra.
+
 e) O espaço rural é exclusivamente dedicado à produção de commodities para exportação, não havendo mais espaço para atividades de subsistência ou lazer.
 
 **Resolução:**

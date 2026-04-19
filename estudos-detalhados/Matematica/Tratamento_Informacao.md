@@ -84,9 +84,13 @@ Embora não seja uma aula de programação, as noções básicas são importante
 Em uma pesquisa de salários, foram coletados os seguintes valores em milhares de reais: 2, 3, 5, 5, 8, 12, 15. Qual é a média, a mediana e a moda desses salários, respectivamente?
 
 a) 7, 5, 5
+
 b) 5, 7, 5
+
 c) 7, 5, 8
+
 d) 8, 7, 5
+
 e) 5, 5, 7
 
 **Resolução:**
@@ -110,9 +114,13 @@ Considerando as alternativas e a média aproximada, a que melhor se encaixa é (
 Um fluxograma é uma ferramenta para representar algoritmos de forma visual. Qual dos símbolos abaixo é utilizado para representar uma **decisão** (verificação de uma condição) em um fluxograma?
 
 a) Retângulo
+
 b) Paralelogramo
+
 c) Círculo
+
 d) Losango
+
 e) Retângulo arredondado
 
 **Resolução:**

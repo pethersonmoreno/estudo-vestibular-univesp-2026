@@ -94,9 +94,13 @@ Compostos binários nos quais o oxigênio é o elemento mais eletronegativo, exc
 De acordo com a teoria de Arrhenius, um ácido é uma substância que, em solução aquosa, libera:
 
 a) Íons hidroxila ($OH^-$) como único ânion.
+
 b) Íons $H^+$ (ou $H_3O^+$) como único cátion.
+
 c) Pares de elétrons para a reação.
+
 d) Elétrons livres para condução elétrica.
+
 e) Apenas moléculas neutras.
 
 **Resolução:**
@@ -110,9 +114,13 @@ A teoria de Arrhenius define ácidos como substâncias que liberam íons $H^+$ (
 Qual das alternativas apresenta um óxido de caráter básico e sua respectiva característica principal?
 
 a) $CO_2$: óxido ácido, reage com água para formar uma base.
+
 b) $Na_2O$: óxido básico, reage com água para formar uma base.
+
 c) $SO_2$: óxido anfótero, reage tanto com ácidos quanto com bases.
+
 d) CO: óxido neutro, reage intensamente com bases fortes.
+
 e) $Al_2O_3$: óxido ácido, forma um ácido em contato com a água.
 
 **Resolução:**

@@ -64,9 +64,13 @@ Estudo do funcionamento dos sistemas biológicos dos animais.
 Qual das alternativas abaixo apresenta a sequência correta de grupos vegetais em ordem crescente de complexidade de adaptação ao ambiente terrestre?
 
 a) Gimnospermas, Briófitas, Pteridófitas, Angiospermas.
+
 b) Briófitas, Pteridófitas, Gimnospermas, Angiospermas.
+
 c) Pteridófitas, Briófitas, Angiospermas, Gimnospermas.
+
 d) Angiospermas, Gimnospermas, Pteridófitas, Briófitas.
+
 e) Briófitas, Gimnospermas, Pteridófitas, Angiospermas.
 
 **Resolução:**
@@ -84,9 +88,13 @@ A ordem crescente de complexidade e adaptação ao ambiente terrestre segue o su
 Em relação aos sistemas fisiológicos dos animais, qual órgão está corretamente associado à sua principal função dentro do Sistema Digestório?
 
 a) Pulmões: Realizam a absorção de nutrientes.
+
 b) Rins: Secretam enzimas digestivas.
+
 c) Intestino Delgado: Principal local de absorção de nutrientes.
+
 d) Coração: Bombeia o alimento para o estômago.
+
 e) Fígado: Armazena o bolo alimentar para posterior digestão.
 
 **Resolução:**

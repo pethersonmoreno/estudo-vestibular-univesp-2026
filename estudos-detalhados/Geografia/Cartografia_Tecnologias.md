@@ -54,9 +54,13 @@ Para localizar pontos na superfície terrestre, utilizamos sistemas de coordenad
 O Sistema de Posicionamento Global (GPS) revolucionou a forma como nos localizamos e interagimos com o espaço. Sobre o funcionamento e a importância do GPS, é correto afirmar que:
 
 a) O GPS utiliza um sistema de coordenadas geográficas bidimensional, baseado apenas em latitude e longitude, sem considerar a altitude.
+
 b) O sistema GPS funciona através de uma rede de satélites que emitem sinais, permitindo a receptores na Terra determinar sua posição com precisão.
+
 c) A principal limitação do GPS é sua dependência de conexão com a internet para funcionar, o que restringe seu uso em áreas remotas.
+
 d) O GPS é uma tecnologia obsoleta, que foi substituída completamente pelos sistemas de informações geográficas (SIG) para todas as aplicações de localização.
+
 e) A precisão do GPS é garantida pela densidade de pontos cardeais em cada mapa, independentemente do número de satélites disponíveis.
 
 **Resolução:**
@@ -75,9 +79,13 @@ Vamos analisar cada alternativa:
 As projeções cartográficas são essenciais para representar a superfície esférica da Terra em um plano, mas inevitavelmente introduzem distorções. A Projeção de Mercator, amplamente utilizada, possui como característica principal:
 
 a) Preservar as áreas dos continentes de forma fiel, mas distorcer suas formas, especialmente em altas latitudes.
+
 b) Preservar as formas dos continentes, mas distorcer suas áreas, exagerando o tamanho de regiões próximas aos polos.
+
 c) Representar com precisão as áreas polares, sendo ideal para estudos sobre o Ártico e a Antártica.
+
 d) Ser uma projeção cônica, mais adequada para representar países de médias latitudes com mínima distorção.
+
 e) Eliminar completamente qualquer tipo de distorção, sendo considerada a representação mais fiel da Terra.
 
 **Resolução:**

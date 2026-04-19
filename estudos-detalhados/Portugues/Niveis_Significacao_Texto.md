@@ -52,9 +52,13 @@ Leia o trecho a seguir:
 Assinale a alternativa que apresenta uma informação implícita no texto.
 
 a) O derretimento das calotas polares é resultado do aquecimento global.
+
 b) As consequências do derretimento das calotas polares são desconhecidas.
+
 c) Os cientistas estão preocupados com o futuro do planeta.
+
 d) O fenômeno do aquecimento global só trará problemas no futuro distante.
+
 e) A temperatura global não tem aumentado significativamente.
 
 **Resposta Correta:** c)
@@ -76,9 +80,13 @@ II. Ele tem um **ouro** na voz ao cantar.
 Assinale a alternativa correta em relação ao sentido da palavra "ouro" em cada frase.
 
 a) Em I, o termo "ouro" está no sentido conotativo; em II, no denotativo.
+
 b) Em I, o termo "ouro" está no sentido denotativo; em II, no conotativo.
+
 c) Em ambas as frases, o termo "ouro" está no sentido denotativo.
+
 d) Em ambas as frases, o termo "ouro" está no sentido conotativo.
+
 e) Em I, o sentido é literal, e em II, é objetivo.
 
 **Resposta Correta:** b)

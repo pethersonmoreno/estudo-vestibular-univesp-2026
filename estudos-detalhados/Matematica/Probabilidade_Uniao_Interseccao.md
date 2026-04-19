@@ -62,9 +62,13 @@ Fórmula: $$P(E_1 \cap E_2) = \frac{\text{Número de resultados em } E_1 \cap E_
 Em uma caixa, há 5 bolas azuis e 3 bolas vermelhas. Se uma bola é retirada ao acaso, qual a probabilidade de ela ser azul ou vermelha?
 
 A) 3/8
+
 B) 5/8
+
 C) 1/8
+
 D) 8/8
+
 E) 0/8
 
 **Resolução:**
@@ -83,9 +87,13 @@ E) 0/8
 Em uma classe de 30 alunos, 18 gostam de Matemática, 10 gostam de Português e 5 gostam de ambas as matérias. Ao escolher um aluno ao acaso, qual a probabilidade de ele gostar de Matemática ou de Português?
 
 A) 23/30
+
 B) 25/30
+
 C) 28/30
+
 D) 20/30
+
 E) 15/30
 
 **Resolução:**

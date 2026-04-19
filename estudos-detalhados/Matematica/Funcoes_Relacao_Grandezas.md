@@ -61,9 +61,13 @@ Velocidade (km/h)
 Analisando o gráfico, é correto afirmar que:
 
 a) A velocidade do carro é constante durante todo o percurso.
+
 b) Entre 0 e 2 horas, a velocidade é crescente.
+
 c) No intervalo de 3 a 5 horas, o carro está parado.
+
 d) A maior velocidade atingida foi no instante de 2 horas.
+
 e) A velocidade diminui no intervalo de 2 a 3 horas.
 
 **Resposta Correta:** e)
@@ -80,9 +84,13 @@ e) A velocidade diminui no intervalo de 2 a 3 horas.
 Uma cidade possui uma população de 250.000 habitantes e uma área total de 500 km². Se, em 5 anos, a população aumentar em 20%, e a área permanecer a mesma, qual será a nova densidade demográfica?
 
 a) 500 hab/km²
+
 b) 600 hab/km²
+
 c) 625 hab/km²
+
 d) 700 hab/km²
+
 e) 750 hab/km²
 
 **Resposta Correta:** b)

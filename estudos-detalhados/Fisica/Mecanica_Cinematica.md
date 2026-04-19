@@ -27,17 +27,25 @@ A velocidade é constante ($a = 0$).
 **Questão 01 (Cinemática)**
 Um motorista percorre uma distância de 180 km entre duas cidades. Nos primeiros 90 km, ele mantém uma velocidade média de 60 km/h. Para que a velocidade média em todo o trajeto seja de 72 km/h, o tempo gasto para percorrer os 90 km restantes deve ser de:
 A) 1,0 hora
+
 B) 1,2 horas
+
 C) 1,5 horas
+
 D) 2,0 horas
+
 E) 2,5 horas
 
 **Questão 02 (Leis de Newton)**
 Um bloco de massa 5 kg é puxado sobre uma superfície horizontal perfeitamente lisa por uma força constante de 20 N. Desprezando a resistência do ar, a aceleração adquirida pelo bloco é de:
 A) 2 m/s²
+
 B) 4 m/s²
+
 C) 10 m/s²
+
 D) 25 m/s²
+
 E) 100 m/s²
 
 ---

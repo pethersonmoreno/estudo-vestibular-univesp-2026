@@ -76,9 +76,13 @@ $$C_6H_{12}O_6(s) + 6O_2(g) \rightarrow 6CO_2(g) + 6H_2O(l) \quad \Delta H = -28
 Essa reação, que representa a combustão da glicose, pode ser classificada como:
 
 a) Endotérmica, pois o $\Delta H$ é negativo.
+
 b) Exotérmica, pois ocorre liberação de calor para o ambiente.
+
 c) Endotérmica, pois absorve calor do ambiente.
+
 d) Exotérmica, pois o $\Delta H$ é positivo.
+
 e) De fusão, pois muda o estado físico da glicose.
 
 **Resolução:**
@@ -92,9 +96,13 @@ O valor do $\Delta H$ é negativo ($-2803 \text{ kJ/mol}$), o que indica que a r
 Em uma pilha eletroquímica, qual das seguintes afirmações está CORRETA?
 
 a) No ânodo ocorre a redução e ele é o polo positivo.
+
 b) No cátodo ocorre a oxidação e ele é o polo negativo.
+
 c) Os elétrons fluem do cátodo para o ânodo pelo circuito externo.
+
 d) O ânodo é o polo negativo, onde ocorre a oxidação.
+
 e) A eletrólise é um processo espontâneo que gera energia elétrica.
 
 **Resolução:**

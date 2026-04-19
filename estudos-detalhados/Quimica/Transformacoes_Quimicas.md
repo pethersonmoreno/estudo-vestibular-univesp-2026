@@ -91,9 +91,13 @@ Relação molar: 1 mol $CH_4$ : 2 mols $H_2O$
 Em um experimento, misturam-se duas soluções incolores e observa-se a formação de um precipitado branco. Qual tipo de evidência macroscópica indica que ocorreu uma transformação química?
 
 a) Mudança de estado físico de líquido para gasoso.
+
 b) Liberação de calor e aumento de temperatura.
+
 c) Formação de um novo sólido (precipitado).
+
 d) Mudança de cheiro do sistema.
+
 e) Ausência de qualquer alteração visível.
 
 **Resolução:**
@@ -111,9 +115,13 @@ $H_2(g) + O_2(g) \rightarrow H_2O(l)$
 Após o balanceamento CORRETO da equação, a soma dos menores coeficientes inteiros estequiométricos dos reagentes e produtos será:
 
 a) 3
+
 b) 4
+
 c) 5
+
 d) 6
+
 e) 7
 
 **Resolução:**

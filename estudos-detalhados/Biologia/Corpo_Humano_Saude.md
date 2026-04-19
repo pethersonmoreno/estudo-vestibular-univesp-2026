@@ -61,9 +61,13 @@ Estudo do funcionamento dos principais sistemas do corpo humano:
 Um indivíduo apresenta sintomas como febre alta, manchas vermelhas na pele e dores musculares e nas articulações, após ter sido picado por um mosquito *Aedes aegypti*. A doença infecciosa mais provável, com base nesses sintomas e no vetor, é:
 
 a) Tuberculose.
+
 b) Malária.
+
 c) Dengue.
+
 d) Sífilis.
+
 e) Esquistossomose.
 
 **Resolução:**
@@ -82,9 +86,13 @@ Vamos analisar as opções:
 Em relação ao planejamento familiar e aos métodos contraceptivos, assinale a alternativa INCORRETA:
 
 a) O planejamento familiar é um direito que permite a casais decidirem o número e espaçamento dos filhos.
+
 b) A camisinha (preservativo) é o único método contraceptivo que previne eficazmente as Infecções Sexualmente Transmissíveis (ISTs).
+
 c) O DIU (Dispositivo Intrauterino) é um método contraceptivo definitivo, uma vez que sua remoção não permite mais a gravidez.
+
 d) Pílulas anticoncepcionais são métodos hormonais que atuam principalmente inibindo a ovulação.
+
 e) A vasectomia é um método contraceptivo masculino que impede a passagem dos espermatozoides.
 
 **Resolução:**

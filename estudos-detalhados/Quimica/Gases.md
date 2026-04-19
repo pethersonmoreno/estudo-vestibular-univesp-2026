@@ -69,9 +69,13 @@ A atmosfera é a camada de gases que envolve a Terra, essencial para a vida e pa
 Um gás ideal tem seu volume duplicado, mantendo a temperatura constante. De acordo com as leis dos gases, o que acontece com a pressão desse gás?
 
 a) A pressão também duplica.
+
 b) A pressão se reduz pela metade.
+
 c) A pressão permanece constante.
+
 d) A pressão aumenta em quatro vezes.
+
 e) A pressão se reduz a um quarto do valor inicial.
 
 **Resolução:**
@@ -90,9 +94,13 @@ $P_2 = \frac{P_1}{2}$
 Qual dos postulados da Teoria Cinética dos Gases é fundamental para explicar por que a pressão de um gás aumenta quando seu volume é reduzido (a temperatura constante)?
 
 a) As partículas dos gases estão em repouso absoluto.
+
 b) Existem forças de atração significativas entre as partículas do gás.
+
 c) A energia cinética média das partículas é inversamente proporcional à temperatura absoluta.
+
 d) As colisões entre as partículas e as paredes do recipiente são perfeitamente elásticas.
+
 e) As partículas dos gases estão em movimento contínuo e aleatório e colidem com as paredes do recipiente.
 
 **Resolução:**

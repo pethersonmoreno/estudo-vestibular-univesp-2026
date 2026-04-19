@@ -168,9 +168,13 @@ $\begin{cases}
 Assinale a alternativa que apresenta a solução $(x, y)$ deste sistema.
 
 a) $(2, 3)$
+
 b) $(3, 1)$
+
 c) $(1, 5)$
+
 d) $(0, 0)$
+
 e) $(1, 2)$
 
 **Resolução:**
@@ -195,9 +199,13 @@ Solução: $(2, 3)$.
 Em um plano cartesiano, duas retas são dadas pelas equações $y = 2x + 1$ e $y = 2x - 3$. Com base nessas equações, pode-se afirmar que o sistema linear formado por elas é:
 
 a) Possível e Determinado, pois as retas se cruzam em um único ponto.
+
 b) Possível e Indeterminado, pois as retas são coincidentes.
+
 c) Impossível, pois as retas são paralelas e distintas.
+
 d) Impossível, pois as retas são perpendiculares.
+
 e) Possível e Determinado, com solução $(0, 1)$.
 
 **Resolução:**

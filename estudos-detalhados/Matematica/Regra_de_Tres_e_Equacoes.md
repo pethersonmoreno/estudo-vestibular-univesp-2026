@@ -23,17 +23,25 @@ Dicas de tradução do "Português para o Matematiquês":
 **Questão 01 (Regra de Três Inversa)**
 Para pintar um muro, 3 operários levam exatamente 12 dias. Se o dono da obra decidir contratar mais 6 operários (totalizando 9), mantendo o mesmo ritmo de trabalho, em quantos dias o muro estará pronto?
 A) 36 dias
+
 B) 18 dias
+
 C) 9 dias
+
 D) 6 dias
+
 E) 4 dias
 
 **Questão 02 (Equação de 1º Grau)**
 A soma das idades de um pai e seu filho é 60 anos. Sabe-se que a idade do pai é o triplo da idade do filho. Qual é a idade do pai?
 A) 15 anos
+
 B) 30 anos
+
 C) 40 anos
+
 D) 45 anos
+
 E) 50 anos
 
 ---

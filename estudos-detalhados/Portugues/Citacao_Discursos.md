@@ -65,9 +65,13 @@ Analise o trecho a seguir:
 Assinale a alternativa que classifica corretamente o tipo de discurso empregado no segmento sublinhado.
 
 a) Discurso Direto, pois a fala do personagem é reproduzida integralmente.
+
 b) Discurso Indireto, pois a fala do personagem é recontada pelo narrador, com a presença de conectivo.
+
 c) Discurso Indireto Livre, pois há uma fusão entre a voz do narrador e o pensamento do personagem, sem marcas explícitas de introdução.
+
 d) Discurso Direto, devido à presença do verbo de elocução "pensava" seguido de dois pontos.
+
 e) Discurso Indireto Livre, mas com a ausência total de qualquer verbo que indique pensamento ou fala.
 
 **Resolução:**
@@ -84,9 +88,13 @@ Vamos analisar o trecho:
 Transforme a frase em discurso direto: "O diretor comunicou que a reunião seria adiada para a próxima semana."
 
 a) O diretor comunicou: "A reunião será adiada para a próxima semana."
+
 b) O diretor comunicou: "A reunião tinha sido adiada para a semana seguinte."
+
 c) O diretor comunicou: "A reunião adiada será na próxima semana."
+
 d) O diretor comunicou: "Que a reunião fosse adiada para a próxima semana."
+
 e) O diretor comunicou: "A reunião seria adiada, mas na próxima semana."
 
 **Resolução:**

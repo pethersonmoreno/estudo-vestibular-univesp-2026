@@ -56,9 +56,13 @@ Considere o período: "*Os alunos se esforçaram bastante, mas os resultados nã
 Assinale a alternativa que reescreve o período de forma a manter o sentido original e a correção gramatical.
 
 a) Os resultados não foram os esperados, porque os alunos se esforçaram bastante.
+
 b) Apesar do esforço dos alunos, os resultados não foram os esperados.
+
 c) Caso os alunos se esforçassem bastante, os resultados seriam os esperados.
+
 d) Os alunos se esforçaram bastante, portanto os resultados não foram os esperados.
+
 e) Se os resultados não foram os esperados, os alunos não se esforçaram bastante.
 
 **Resposta Correta:** b)
@@ -75,9 +79,13 @@ e) Se os resultados não foram os esperados, os alunos não se esforçaram basta
 Reescreva o período "*Ele chegou atrasado ao trabalho, pois enfrentou um trânsito intenso.*", iniciando com o conectivo que expresse a causa.
 
 a) Entretanto, ele chegou atrasado ao trabalho, enfrentou um trânsito intenso.
+
 b) Ainda que enfrentasse um trânsito intenso, ele chegou atrasado ao trabalho.
+
 c) Conforme ele enfrentou um trânsito intenso, chegou atrasado ao trabalho.
+
 d) Embora ele tenha enfrentado um trânsito intenso, chegou atrasado ao trabalho.
+
 e) Já que ele enfrentou um trânsito intenso, chegou atrasado ao trabalho.
 
 **Resposta Correta:** e)

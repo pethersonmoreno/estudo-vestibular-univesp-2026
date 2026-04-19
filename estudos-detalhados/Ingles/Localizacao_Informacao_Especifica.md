@@ -29,9 +29,13 @@ Leia o texto a seguir:
 De acordo com o texto, em que ano os Jogos Olímpicos modernos foram *revividos*?
 
 a) 776 BC
+
 b) 1896
+
 c) 1916
+
 d) 1944
+
 e) 2004
 
 **Resolução:**
@@ -49,9 +53,13 @@ Analise o trecho a seguir:
 Quem liderou a pesquisa sobre poluição plástica nos oceanos, segundo o texto?
 
 a) Global Ocean Institute
+
 b) Journal of Environmental Science
+
 c) Dr. Anya Sharma
+
 d) Os Jogos Olímpicos
+
 e) Pesquisadores anônimos
 
 **Resolução:**

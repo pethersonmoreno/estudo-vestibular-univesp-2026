@@ -55,9 +55,13 @@ Fórmula: $$P(E) = \frac{\text{Número de casos favoráveis ao evento}}{\text{N�
 No lançamento de um dado comum e honesto, qual a probabilidade de o número obtido na face superior ser um divisor de 6?
 
 A) 1/6
+
 B) 1/3
+
 C) 1/2
+
 D) 2/3
+
 E) 5/6
 
 **Resolução:**
@@ -74,9 +78,13 @@ E) 5/6
 Uma urna contém 10 bolas idênticas, numeradas de 1 a 10. Ao retirar uma bola aleatoriamente, qual a probabilidade de o número da bola ser primo?
 
 A) 2/10
+
 B) 3/10
+
 C) 4/10
+
 D) 5/10
+
 E) 6/10
 
 **Resolução:**

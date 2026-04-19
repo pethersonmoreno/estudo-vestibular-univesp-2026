@@ -66,9 +66,13 @@ Polígonos regulares possuem todos os lados e todos os ângulos internos iguais.
 Em um triângulo retângulo, as projeções dos catetos sobre a hipotenusa medem 4 cm e 9 cm. Qual é a medida da altura relativa à hipotenusa desse triângulo?
 
 a) 5 cm
+
 b) 6 cm
+
 c) 7 cm
+
 d) 8 cm
+
 e) 9 cm
 
 **Resolução:**
@@ -87,9 +91,13 @@ $h = 6$ cm
 Duas cordas, $AB$ e $CD$, se interceptam em um ponto $P$ no interior de uma circunferência. Sabe-se que $AP = 6$ cm, $PB = 4$ cm e $CP = 3$ cm. Qual é a medida do segmento $PD$?
 
 a) 5 cm
+
 b) 6 cm
+
 c) 8 cm
+
 d) 10 cm
+
 e) 12 cm
 
 **Resolução:**

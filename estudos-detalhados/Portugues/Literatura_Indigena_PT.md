@@ -37,9 +37,13 @@ Esses textos são pontes entre mundos, convidando o leitor não-indígena a uma 
 Daniel Munduruku, um dos mais reconhecidos escritores indígenas brasileiros, tem como um dos pilares de sua obra a desmistificação da imagem estereotipada do indígena. Para alcançar esse objetivo, suas narrativas frequentemente utilizam:
 
 a) Uma linguagem formal e academicista, priorizando a análise crítica da política indigenista governamental.
+
 b) A representação do indígena como um ser selvagem e primitivo, perpetuando visões colonialistas.
+
 c) A valorização da cultura, dos mitos e da sabedoria ancestral de seu povo, buscando educar e informar o leitor não-indígena.
+
 d) A exploração de temas urbanos e cosmopolitas, distanciando-se das tradições e da vida na aldeia.
+
 e) A crítica direta e agressiva às religiões e crenças ocidentais, promovendo um isolamento cultural.
 
 **Resolução:**
@@ -58,9 +62,13 @@ Vamos analisar cada alternativa:
 A obra de Ailton Krenak, como "Ideias para Adiar o Fim do Mundo", tem sido fundamental para o debate contemporâneo sobre a crise ambiental e a relação da humanidade com a natureza. A principal contribuição de Krenak para essa discussão reside em:
 
 a) Propor soluções tecnológicas avançadas para a exploração sustentável dos recursos naturais e o crescimento econômico irrestrito.
+
 b) Defender a ideia de que a natureza é um recurso a ser dominado e utilizado para o progresso ilimitado da civilização humana.
+
 c) Criticar a visão antropocêntrica e dualista que separa o ser humano da natureza, propondo uma reconexão com os saberes ancestrais e uma nova ética de convivência.
+
 d) Argumentar que a crise ambiental é um fenômeno exclusivamente científico e técnico, sem raízes em questões culturais ou filosóficas.
+
 e) Promover o consumo excessivo e a acumulação de bens como motores do desenvolvimento, ignorando os limites do planeta.
 
 **Resolução:**

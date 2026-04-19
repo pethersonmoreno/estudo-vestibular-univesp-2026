@@ -52,9 +52,13 @@ I. Os dígitos podem se repetir.
 II. Os dígitos não podem se repetir.
 
 a) I. 1000; II. 990.
+
 b) I. 10000; II. 5040.
+
 c) I. 40; II. 24.
+
 d) I. 10000; II. 1000.
+
 e) I. 5040; II. 10000.
 
 **Resposta Correta:** b)
@@ -81,9 +85,13 @@ Os dígitos disponíveis são de 0 a 9, totalizando 10 opções.
 Uma lanchonete oferece 3 tipos de suco de frutas, 2 tipos de refrigerante e 1 tipo de água. Se um cliente pode pedir apenas uma bebida, quantas opções de bebidas ele tem?
 
 a) 3
+
 b) 2
+
 c) 6
+
 d) 1
+
 e) 7
 
 **Resposta Correta:** c)

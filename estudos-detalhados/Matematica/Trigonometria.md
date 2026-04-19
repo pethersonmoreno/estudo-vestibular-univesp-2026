@@ -76,9 +76,13 @@ Triângulos obtusângulos (com um ângulo maior que 90°) também podem ser reso
 Um topógrafo precisa medir a altura de uma árvore. Ele se posiciona a 20 metros da base da árvore e, utilizando um teodolito, mede o ângulo de elevação do topo da árvore como sendo 30°. Desprezando a altura do teodolito e do topógrafo, qual a altura da árvore? (Considere $\tan 30^\circ = \frac{\sqrt{3}}{3}$ e $\sqrt{3} \approx 1.73$)
 
 a) 10 m
+
 b) $10\sqrt{3}$ m
+
 c) 20 m
+
 d) $\frac{20\sqrt{3}}{3}$ m
+
 e) $20\sqrt{3}$ m
 
 **Resolução:**
@@ -99,9 +103,13 @@ $h = \frac{20\sqrt{3}}{3}$ m
 Em um triângulo $ABC$, os lados $AB = 8$ cm e $AC = 10$ cm. O ângulo entre esses dois lados (ângulo $A$) mede $60^\circ$. Qual é a medida do lado $BC$? (Considere $\cos 60^\circ = \frac{1}{2}$)
 
 a) $\sqrt{20}$ cm
+
 b) $\sqrt{24}$ cm
+
 c) $\sqrt{84}$ cm
+
 d) $\sqrt{100}$ cm
+
 e) $\sqrt{164}$ cm
 
 **Resolução:**

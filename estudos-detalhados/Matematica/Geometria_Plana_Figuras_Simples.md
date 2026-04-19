@@ -67,9 +67,13 @@ IV. Um triângulo é um polígono com três lados.
 Quantas afirmações são verdadeiras?
 
 A) 0
+
 B) 1
+
 C) 2
+
 D) 3
+
 E) 4
 
 **Resolução:**
@@ -89,9 +93,13 @@ Portanto, há 2 afirmações verdadeiras.
 Qual das seguintes opções descreve corretamente a diferença entre circunferência e círculo?
 
 A) A circunferência é a área interna, e o círculo é o contorno.
+
 B) A circunferência é o contorno, e o círculo é a área interna delimitada por esse contorno.
+
 C) Ambos os termos se referem à mesma figura geométrica.
+
 D) A circunferência é um segmento de reta, e o círculo é um polígono.
+
 E) O círculo tem centro, mas a circunferência não.
 
 **Resolução:**

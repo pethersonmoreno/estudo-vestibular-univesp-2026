@@ -53,9 +53,13 @@ O vértice ($V$) é o ponto de máximo ou de mínimo da função quadrática.
 As raízes da função $f(x) = x^2 - 5x + 6$ são:
 
 a) 1 e 6
+
 b) -1 e -6
+
 c) 2 e 3
+
 d) -2 e -3
+
 e) 0 e 5
 
 **Resposta Correta:** c)
@@ -79,9 +83,13 @@ As raízes são 2 e 3.
 A função quadrática $f(x) = -x^2 + 4x - 3$ representa o lucro de uma empresa, onde $x$ é a quantidade de produtos vendidos. O valor máximo de lucro que essa empresa pode obter é:
 
 a) R$ 1,00
+
 b) R$ 2,00
+
 c) R$ 3,00
+
 d) R$ 4,00
+
 e) R$ 5,00
 
 **Resposta Correta:** a)

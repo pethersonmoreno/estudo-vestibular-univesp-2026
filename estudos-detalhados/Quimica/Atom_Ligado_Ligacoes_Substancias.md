@@ -67,9 +67,13 @@ III. Metais, como o cobre (Cu), são maleáveis e bons condutores de calor devid
 Está correto o que se afirma em:
 
 a) I, apenas.
+
 b) II, apenas.
+
 c) III, apenas.
+
 d) II e III, apenas.
+
 e) I, II e III.
 
 **Resolução:**
@@ -88,9 +92,13 @@ Portanto, as afirmações II e III estão corretas.
 Qual das alternativas descreve corretamente a formação da ligação química no composto HCl (cloreto de hidrogênio) e a característica principal dessa ligação?
 
 a) Transferência de elétrons entre hidrogênio e cloro, formando uma ligação iônica.
+
 b) Compartilhamento de elétrons entre hidrogênio e cloro, formando uma ligação covalente polar.
+
 c) Compartilhamento de elétrons entre hidrogênio e cloro, formando uma ligação covalente apolar.
+
 d) Formação de uma nuvem eletrônica deslocalizada, característica de uma ligação metálica.
+
 e) Transferência de elétrons, com o hidrogênio se tornando um ânion e o cloro um cátion.
 
 **Resolução:**

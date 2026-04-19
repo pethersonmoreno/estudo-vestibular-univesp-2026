@@ -54,9 +54,13 @@ Atuam na estrutura gramatical da frase.
 No trecho: "*As ruas `sorriam` com a chegada da primavera.*", a figura de linguagem presente é:
 
 a) Metáfora.
+
 b) Hipérbole.
+
 c) Ironia.
+
 d) Prosopopeia.
+
 e) Eufemismo.
 
 **Resposta Correta:** d)
@@ -72,9 +76,13 @@ II. Seus olhos são como faróis na escuridão.
 Assinale a alternativa que explica corretamente a diferença entre as figuras de linguagem presentes nas frases.
 
 a) Ambas são metáforas, mas a segunda é mais elaborada.
+
 b) Em I, há uma comparação; em II, uma metonímia.
+
 c) Em I, há uma metáfora; em II, uma comparação.
+
 d) Ambas são comparações, mas a primeira é implícita.
+
 e) Em I, há uma sinestesia; em II, uma hipérbole.
 
 **Resposta Correta:** c)

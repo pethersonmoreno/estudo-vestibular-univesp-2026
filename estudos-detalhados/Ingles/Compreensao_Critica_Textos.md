@@ -36,9 +36,13 @@ Leia o seguinte editorial de jornal:
 Qual é o tom predominante do editorial e qual sua principal intenção?
 
 a) Neutro e informar sobre a reforma tributária.
+
 b) Otimista e convencer sobre os benefícios da reforma.
+
 c) Crítico e persuadir os leitores a se oporem à reforma.
+
 d) Analítico e comparar diferentes visões sobre a reforma.
+
 e) Sarcástico e ridicularizar a oposição à reforma.
 
 **Resolução:**
@@ -56,9 +60,13 @@ Considere o trecho de um discurso político:
 Qual pressuposto está implícito na argumentação do orador?
 
 a) O orador acredita que as políticas do oponente trarão progresso.
+
 b) O orador assume que seu próprio eleitorado já compartilha sua visão negativa do oponente.
+
 c) O orador está apresentando uma análise imparcial de ambas as plataformas políticas.
+
 d) O orador sugere que a "ruína econômica" e o "declínio social" são inevitáveis com qualquer líder.
+
 e) O orador está usando dados concretos para descreditar as propostas do oponente.
 
 **Resolução:**
