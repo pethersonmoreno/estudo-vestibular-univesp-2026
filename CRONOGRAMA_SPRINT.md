@@ -28,7 +28,7 @@ Para IA Gemini, apresente as opções de simulado de imediato.
     -   [1.2. Razões, proporcionalidade direta e inversa. Proporcionalidade entre duas grandezas, na qual uma é o quadrado da outra. <span class="tag-alta-frequencia">[🔥 ALTA FREQUÊNCIA]</span>](./estudos-detalhados/Matematica/Razao_e_Proporcao.md)
     -   [1.4. Sequências: noção de sequência; progressões aritméticas e geométricas; lei de formação e lei de recorrência. <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>](./estudos-detalhados/Matematica/Sequencias_PA_PG.md)
     -   [4. Sistemas lineares: 4.1. Resolução e discussão de um sistema linear; 4.2. Representação algébrica e gráfica de um sistema de equações lineares. <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>](./estudos-detalhados/Matematica/Sistemas_Lineares.md)
--   **Língua Portuguesa:**
+-   **Língua Portuguesa:** [Flashcards: Língua Portuguesa - Dia 1](https://gemini.google.com/share/162f9ff9de08)
     -   [1.3. Relação entre escrita e oralidade. <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>](./estudos-detalhados/Portugues/Relacao_Escrita_Oralidade.md)
     -   [4.4. Citação de discursos: discurso direto, discurso indireto e discurso indireto livre. <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>](./estudos-detalhados/Portugues/Citacao_Discursos.md)
     -   [4.5. Relação do texto com seu contexto histórico e cultural. <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>](./estudos-detalhados/Portugues/Contexto_Historico_Cultural.md)

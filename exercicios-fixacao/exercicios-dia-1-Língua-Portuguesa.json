@@ -253,5 +253,80 @@
     "gabarito": "B",
     "dica": "O texto é um 'filho do seu tempo'.",
     "resolucao_detalhada": "O vocabulário e os temas tratados em um texto (ética digital, IA) situam o leitor no tempo presente, demonstrando a relação intrínseca entre texto e contexto."
+  },
+  {
+    "id": "LP16_D1",
+    "disciplina": "Língua Portuguesa",
+    "tema": "Figuras de Linguagem (Estilística)",
+    "prova": "Simulado UNIVESP 2026 - Inédita",
+    "enunciado": "Na frase 'Ele leu Machado de Assis inteiro durante as férias', qual figura de linguagem ocorre pela substituição do autor pela obra?",
+    "alternativas": {
+      "A": "Metáfora",
+      "B": "Metonímia",
+      "C": "Hipérbole",
+      "D": "Personificação"
+    },
+    "gabarito": "B",
+    "resolucao_detalhada": "A Metonímia ocorre quando substituímos um termo por outro com o qual mantém uma relação de proximidade lógica, como o autor pela obra, o continente pelo conteúdo ou a marca pelo produto."
+  },
+  {
+    "id": "LP17_D1",
+    "disciplina": "Língua Portuguesa",
+    "tema": "Pontuação e Sintaxe",
+    "prova": "Simulado UNIVESP 2026 - Inédita",
+    "enunciado": "Assinale a alternativa em que a vírgula foi utilizada corretamente para isolar um aposto explicativo:",
+    "alternativas": {
+      "A": "João, venha aqui agora!",
+      "B": "Campinas, a 'Princesa do Oeste', cresce rapidamente.",
+      "C": "Comprei pão, leite, café e açúcar.",
+      "D": "Ontem, todos compareceram à reunião."
+    },
+    "gabarito": "B",
+    "resolucao_detalhada": "O aposto explicativo serve para explicar ou identificar um substantivo anterior. No caso, 'a Princesa do Oeste' explica o substantivo Campinas e deve vir isolado por vírgulas."
+  },
+  {
+    "id": "LP18_D1",
+    "disciplina": "Língua Portuguesa",
+    "tema": "Semântica (Significação das Palavras)",
+    "prova": "Simulado UNIVESP 2026 - Inédita",
+    "enunciado": "Considerando a relação de sinonímia, qual das palavras abaixo melhor substitui o termo 'efêmero' em um texto?",
+    "alternativas": {
+      "A": "Eterno",
+      "B": "Passageiro",
+      "C": "Intenso",
+      "D": "Vago"
+    },
+    "gabarito": "B",
+    "resolucao_detalhada": "Sinônimos são palavras com sentidos aproximados. Efêmero refere-se a algo que dura pouco tempo, sendo, portanto, sinônimo de passageiro ou fugaz."
+  },
+  {
+    "id": "LP19_D1",
+    "disciplina": "Língua Portuguesa",
+    "tema": "Pontuação e Sintaxe",
+    "prova": "Simulado UNIVESP 2026 - Inédita",
+    "enunciado": "Na frase 'Pedro, o gerente do banco, ligou', a função sintática do termo entre vírgulas é:",
+    "alternativas": {
+      "A": "Vocativo",
+      "B": "Aposto explicativo",
+      "C": "Objeto direto",
+      "D": "Adjunto adverbial"
+    },
+    "gabarito": "B",
+    "resolucao_detalhada": "Diferente do vocativo (que é um chamamento), o aposto entre vírgulas identifica o sujeito 'Pedro'. Sem as vírgulas, a frase mudaria de sentido para um chamamento."
+  },
+  {
+    "id": "LP20_D1",
+    "disciplina": "Língua Portuguesa",
+    "tema": "Figuras de Linguagem (Estilística)",
+    "prova": "Simulado UNIVESP 2026 - Inédita",
+    "enunciado": "A frase 'Seus olhos são dois faróis a guiar-me' utiliza uma comparação implícita. Qual é essa figura de linguagem?",
+    "alternativas": {
+      "A": "Metáfora",
+      "B": "Comparação",
+      "C": "Catacrese",
+      "D": "Antítese"
+    },
+    "gabarito": "A",
+    "resolucao_detalhada": "A metáfora é uma comparação que não utiliza conectivos (como 'como' ou 'tal qual'). Ela afirma que uma coisa 'é' outra em sentido figurado."
   }
 ]
