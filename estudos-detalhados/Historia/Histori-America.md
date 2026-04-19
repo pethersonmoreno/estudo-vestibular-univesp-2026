@@ -7,10 +7,29 @@ A História da América abrange desde os povos pré-colombianos até os desenvol
 Antes da chegada dos europeus, a América era habitada por uma vasta gama de culturas e civilizações, desde grupos nômades de caçadores-coletores até grandes impérios agrícolas.
 -   **Mesoamérica (Astecas e Maias)**: 
     -   **Maias**: Desenvolveram escrita hieroglífica, avançados conhecimentos astronômicos e matemáticos, calendários precisos e grandes centros urbanos na Península de Yucatán (atual México e América Central).
+        - Acesse [A Civilização Maia](detalhado/Civilização-Maia.md) para mais detalhes.
     -   **Astecas**: Construíram um vasto império no Vale do México, com capital em Tenochtitlán. Sociedade hierarquizada, agricultura intensiva (chinampas), religião complexa e um poderoso exército.
+        - Acesse [O Império Asteca (Mexica)](detalhado/Império-Asteca.md) para mais detalhes.
+    - **A diferença fundamental entre os Maias e os Astecas**: enquanto os **Maias** eram descentralizados (**Cidades-Estado**), os **Astecas (ou Mexicas)** formaram um **Império centralizado e militarista** baseado na hegemonia de uma capital sobre as outras regiões.
 -   **Andes (Incas)**: 
     -   **Incas**: Edificaram o maior império da América pré-colombiana, o Tawantinsuyu, nos Andes (atual Peru, Bolívia, Equador, Chile, Argentina). Possuíam uma complexa rede de estradas, sistema de registro (quipu), agricultura em terraços e forte controle estatal.
+        - Acesse [O Império Inca (Tahuantinsuyu))](detalhado/Império-Inca.md) para mais detalhes.
 -   **Outros povos**: Diversas culturas se desenvolveram em outras regiões, como os Tupinambás no litoral brasileiro, os Sioux nas planícies da América do Norte, os Guaranis, entre outros, com diferentes organizações sociais e modos de vida.
+
+### Tabela Comparativa: Civilizações Pré-Colombianas
+
+| Característica | Maias | Astecas (Mexicas) | Incas (Tahuantinsuyu) |
+| :--- | :--- | :--- | :--- |
+| **Organização Política** | **Cidades-Estado**: Independentes e descentralizadas. | **Império Tributário Centralizado**: Baseado na Tripla Aliança e tributos. | **Império Teocrático**: Altamente centralizado e administrativo. |
+| **Localização Atual** | Sul do México, Guatemala, Belize e Honduras. | Vale do México (Planalto Central). | Cordilheira dos Andes (Peru, Equador, Bolívia, Chile). |
+| **Cidade Principal** | Tikal, Palenque, Chichén Itzá. | **Tenochtitlán** (atual Cidade do México). | **Cuzco** (o "Umbigo do Mundo"). |
+| **Base da Agricultura** | Sistema de queimada (milpa) e canais. | **Chinampas**: Ilhas artificiais nos lagos. | **Terraços (Andenes)**: Degraus nas montanhas. |
+| **Escrita e Registro** | **Hieroglífica**: Sistema de glifos complexos. | **Pictográfica**: Códices com desenhos e símbolos. | **Quipus**: Sistema de cordas e nós (sem escrita alfabética). |
+| **Conceito Matemático** | Uso avançado do **Zero** (base 20). | Calendário solar e sistemas de medição. | Contabilidade precisa via Quipus. |
+| **Grande Destaque** | **Astronomia e Matemática** de alta precisão. | **Militarismo** e grandiosidade urbana. | **Engenharia de estradas** e arquitetura de pedra. |
+| **Líder Supremo** | Halach Uinic (em cada cidade). | Huey Tlatoani (O Grande Orador). | Sapa Inca (O Filho do Sol). |
+| **Queda / Declínio** | Abandono das cidades (causas variadas) antes dos espanhóis. | Conquista por **Hernán Cortés** (1521). | Conquista por **Francisco Pizarro** (1532). |
+
 
 ## 8. Colonização Espanhola na América e Estratégias de Dominação
 
