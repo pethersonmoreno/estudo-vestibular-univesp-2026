@@ -44,11 +44,13 @@ São funções cuja regra de formação muda dependendo do intervalo do domínio
 
 **Exemplo:**
 $f(x) = \begin{cases}
-x + 1, & \text{se } x < 0 \
+x + 1, & \text{se } x < 0 \\
 x^2, & \text{se } x \ge 0
 \end{cases}$
 
-Neste exemplo, para $x < 0$, a função é uma reta ($y = x+1$). Para $x \ge 0$, a função é uma parábola ($y = x^2$). No ponto $x=0$, o gráfico muda de comportamento.
+Neste exemplo, para $x < 0$, a função é uma reta ($y = x+1$). Para $x \ge 0$, a função é uma parábola ($y = x^2$).
+
+No ponto $x=0$, o gráfico muda de comportamento.
 
 ---
 
@@ -59,19 +61,29 @@ Neste exemplo, para $x < 0$, a função é uma reta ($y = x+1$). Para $x \ge 0$,
 O gráfico de uma função $f(x) = -2x + 4$ intercepta o eixo $x$ e o eixo $y$ nos pontos, respectivamente:
 
 a) $(0, 4)$ e $(2, 0)$
+
 b) $(4, 0)$ e $(0, 2)$
+
 c) $(0, 2)$ e $(4, 0)$
+
 d) $(2, 0)$ e $(0, 4)$
+
 e) $(0, 0)$ e $(2, 4)$
 
 **Resposta Correta:** d)
 
 **Resolução:**
 1.  **Intercepto com o eixo $y$ (onde $x=0$):**
-    $f(0) = -2(0) + 4 = 4$. Então, o ponto é $(0, 4)$.
+
+    $f(0) = -2(0) + 4 = 4$
+    
+    Então, o ponto é $(0, 4)$.
 
 2.  **Intercepto com o eixo $x$ (onde $f(x)=0$):**
-    $0 = -2x + 4 \implies 2x = 4 \implies x = 2$. Então, o ponto é $(2, 0)$.
+
+    $0 = -2x + 4 \implies 2x = 4 \implies x = 2$
+    
+    Então, o ponto é $(2, 0)$.
 
 Portanto, intercepta o eixo $x$ em $(2, 0)$ e o eixo $y$ em $(0, 4)$.
 
@@ -97,16 +109,25 @@ Considere o gráfico de uma função $g(x)$ definida por partes:
 Assinale a alternativa correta sobre a função $g(x)$:
 
 a) A função é constante no intervalo $[-2, 2]$.
+
 b) O ponto $(0, 2)$ não pertence ao domínio da função.
+
 c) No intervalo $(0, 2]$, a função é crescente.
+
 d) O valor mínimo da função é 4.
+
 e) A função é decrescente em todo o seu domínio.
 
 **Resposta Correta:** c)
+
 - No intervalo $(0, 2]$, a linha do gráfico está subindo, indicando que a função é crescente.
 
 **Explicação das Incorretas:**
+
 - a) A função não é constante; ela decresce e depois cresce.
+
 - b) O ponto $(0, 2)$ pertence ao domínio e à imagem da função, sendo o ponto de transição.
+
 - d) O valor mínimo da função é 2, atingido em $x=0$.
+
 - e) A função é decrescente no intervalo $[-2, 0]$ e crescente no intervalo $[0, 2]$.

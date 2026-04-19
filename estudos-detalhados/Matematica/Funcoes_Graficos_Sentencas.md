@@ -56,9 +56,13 @@ Ao desenhar o gráfico, é importante marcar os pontos de transição entre as s
 Considere a função $f(x) = -2x + 4$. O ponto onde o gráfico dessa função intercepta o eixo y é:
 
 A) (0, 4)
+
 B) (4, 0)
+
 C) (2, 0)
+
 D) (0, 2)
+
 E) (-2, 4)
 
 **Resolução:**
@@ -82,9 +86,13 @@ $g(x) = \begin{cases}
 Qual o valor de $g(-2) + g(3)$?
 
 A) 10
+
 B) 12
+
 C) 14
+
 D) 16
+
 E) 18
 
 **Resolução:**
