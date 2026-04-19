@@ -1,0 +1,257 @@
+[
+  {
+    "id": "LP01_D1",
+    "disciplina": "Língua Portuguesa",
+    "tema": "Citação de discursos: direto, indireto e indireto livre",
+    "prova": "Simulado UNIVESP 2026 - Inédita",
+    "enunciado": "Considere o seguinte trecho: 'A jovem caminhava pela praia deserta. Por que tudo tinha que ser tão difícil? Amanhã, com certeza, o sol brilharia de outra forma.' O trecho sublinhado exemplifica qual tipo de discurso?",
+    "alternativas": {
+      "A": "Discurso direto, pois apresenta a fala da personagem sem intermediários.",
+      "B": "Discurso indireto, pois o narrador parafraseia o pensamento da jovem.",
+      "C": "Discurso indireto livre, pois a voz do narrador e o pensamento da personagem se fundem sem marcas formais.",
+      "D": "Discurso direto e indireto simultâneos, marcados pela pontuação.",
+      "E": "Discurso formal, focado exclusivamente na descrição do ambiente."
+    },
+    "gabarito": "C",
+    "dica": "Observe que não há verbos de elocução (disse, pensou) nem sinais de pontuação (travessão, aspas), mas o conteúdo expressa a subjetividade da personagem dentro do fluxo do narrador.",
+    "resolucao_detalhada": "O trecho 'Por que tudo tinha que ser tão difícil? Amanhã, com certeza, o sol brilharia de outra forma' mostra o narrador inserindo-se na mente da personagem. Como não há conectores (como 'que' ou 'se') nem pontuação de fala direta, caracteriza-se o discurso indireto livre."
+  },
+  {
+    "id": "LP02_D1",
+    "disciplina": "Língua Portuguesa",
+    "tema": "Relação entre escrita e oralidade",
+    "prova": "Simulado UNIVESP 2026 - Inédita",
+    "enunciado": "A reprodução da oralidade na escrita é um recurso comum em diversos gêneros. Assinale a alternativa em que o termo em destaque é uma marca típica da linguagem oral/coloquial:",
+    "alternativas": {
+      "A": "Embora estivesse cansado, continuou a estudar.",
+      "B": "A gente precisa decidir o projeto até amanhã.",
+      "C": "Solicitamos que enviem os documentos por e-mail.",
+      "D": "O candidato demonstrou conhecimento técnico apurado.",
+      "E": "É necessário que todos participem da reunião."
+    },
+    "gabarito": "B",
+    "dica": "Procure por expressões que substituem pronomes formais ou que são usadas frequentemente em conversas informais.",
+    "resolucao_detalhada": "A expressão 'A gente' é uma marca clássica da oralidade brasileira, utilizada como substituto do pronome 'nós'. Em textos estritamente formais, prefere-se o uso da primeira pessoa do plural com a concordância adequada."
+  },
+  {
+    "id": "LP03_D1",
+    "disciplina": "Língua Portuguesa",
+    "tema": "Relação do texto com seu contexto histórico e cultural",
+    "prova": "Simulado UNIVESP 2026 - Inédita",
+    "enunciado": "Ao ler um poema do período Barroco que utiliza antíteses e paradoxos para expressar o conflito entre o pecado e o perdão, o leitor deve considerar que:",
+    "alternativas": {
+      "A": "O texto é uma crítica direta à ciência moderna do século XXI.",
+      "B": "A linguagem rebuscada serve apenas para dificultar a compreensão popular.",
+      "C": "O contexto da Contrarreforma influenciou a dualidade e a angústia expressas nas obras da época.",
+      "D": "O autor busca promover a liberdade total dos costumes sem restrições religiosas.",
+      "E": "O poema reflete a tranquilidade e o equilíbrio típicos do Arcadismo."
+    },
+    "gabarito": "C",
+    "dica": "Relacione o estilo de escrita (dualidade/conflito) com os movimentos históricos e religiosos da época (século XVII).",
+    "resolucao_detalhada": "A produção literária não é isolada. O Barroco reflete as tensões do século XVII, onde a Igreja Católica (Contrarreforma) tentava retomar fiéis, gerando no homem da época o conflito entre os prazeres terrenos (antropocentrismo) e a salvação espiritual (teocentrismo)."
+  },
+  {
+    "id": "LP04_D1",
+    "disciplina": "Língua Portuguesa",
+    "tema": "Citação de discursos: direto, indireto e indireto livre",
+    "prova": "Simulado UNIVESP 2026 - Inédita",
+    "enunciado": "Transpondo a fala 'Não poderei comparecer à aula amanhã' para o discurso indireto, a forma correta seria:",
+    "alternativas": {
+      "A": "Ele disse que não poderei comparecer à aula amanhã.",
+      "B": "Ele disse que não poderia comparecer à aula no dia seguinte.",
+      "C": "Ele disse: não poderei comparecer à aula amanhã.",
+      "D": "Ele diria que não pôde comparecer à aula hoje.",
+      "E": "Ele falara que não poderá comparecer à aula."
+    },
+    "gabarito": "B",
+    "dica": "No discurso indireto, o tempo verbal e os advérbios de tempo (amanhã) mudam para se ajustar à perspectiva do narrador.",
+    "resolucao_detalhada": "Ao passar para o discurso indireto: o pronome 'Eu' (implícito) vira 'Ele'; o futuro do presente 'poderei' vira futuro do pretérito 'poderia'; e o advérbio 'amanhã' torna-se 'no dia seguinte'."
+  },
+  {
+    "id": "LP05_D1",
+    "disciplina": "Língua Portuguesa",
+    "tema": "Relação entre escrita e oralidade",
+    "prova": "Simulado UNIVESP 2026 - Inédita",
+    "enunciado": "A gíria e o jargão são fenômenos da oralidade. Assinale a alternativa que apresenta uma marca de linguagem técnica (jargão):",
+    "alternativas": {
+      "A": "Mano, aquela prova estava muito osso!",
+      "B": "O 'bug' no sistema foi causado por um erro de sintaxe no código.",
+      "C": "E aí, beleza? Vamos fazer o simulado?",
+      "D": "Tô focado nos estudos da Univesp.",
+      "E": "A gente vai se falando pelo WhatsApp."
+    },
+    "gabarito": "B",
+    "dica": "Jargão é a linguagem específica de uma profissão ou grupo técnico.",
+    "resolucao_detalhada": "Os termos 'bug', 'sistema' e 'sintaxe no código' são jargões da área de tecnologia/programação, diferenciando-se da gíria comum ou da linguagem coloquial."
+  },
+  {
+    "id": "LP06_D1",
+    "disciplina": "Língua Portuguesa",
+    "tema": "Relação do texto com seu contexto histórico e cultural",
+    "prova": "Simulado UNIVESP 2026 - Inédita",
+    "enunciado": "A literatura de cordel, típica do Nordeste brasileiro, utiliza uma linguagem que transita entre a oralidade e a escrita. Culturalmente, ela é importante pois:",
+    "alternativas": {
+      "A": "Utiliza apenas o português arcaico de Portugal.",
+      "B": "Ignora os fatos do cotidiano para focar na mitologia grega.",
+      "C": "Preserva tradições locais e relata eventos sociais sob a ótica popular.",
+      "D": "É um gênero literário exclusivo das classes eruditas.",
+      "E": "Não possui métrica nem rima em sua estrutura."
+    },
+    "gabarito": "C",
+    "dica": "Pense na função social do cordel nas feiras e comunidades nordestinas.",
+    "resolucao_detalhada": "O cordel é um registro histórico e cultural que democratiza a informação e preserva a identidade regional através de rimas e xilogravuras."
+  },
+  {
+    "id": "LP07_D1",
+    "disciplina": "Língua Portuguesa",
+    "tema": "Citação de discursos: direto, indireto e indireto livre",
+    "prova": "Simulado UNIVESP 2026 - Inédita",
+    "enunciado": "No discurso indireto livre, é comum o uso de:",
+    "alternativas": {
+      "A": "Verbos de dizer (dicendi) como 'afirmou' e 'respondeu'.",
+      "B": "Aspas e travessões para isolar a fala da personagem.",
+      "C": "Conjunções integrantes como 'que' e 'se'.",
+      "D": "Interrogações e exclamações que revelam a emoção da personagem dentro da narração.",
+      "E": "Uma separação clara entre o que o narrador diz e o que a personagem pensa."
+    },
+    "gabarito": "D",
+    "dica": "O indireto livre é 'livre' justamente pela ausência de marcas formais de separação.",
+    "resolucao_detalhada": "Como não há conectores ou pontuação de diálogo, o narrador usa recursos expressivos (como perguntas retóricas) para sinalizar o pensamento da personagem."
+  },
+  {
+    "id": "LP08_D1",
+    "disciplina": "Língua Portuguesa",
+    "tema": "Relação entre escrita e oralidade",
+    "prova": "Simulado UNIVESP 2026 - Inédita",
+    "enunciado": "A redução de palavras, como 'tá' (está) e 'pra' (para), é característica de:",
+    "alternativas": {
+      "A": "Textos acadêmicos e científicos.",
+      "B": "Documentos oficiais do governo.",
+      "C": "Linguagem coloquial ou informal.",
+      "D": "Norma culta rígida.",
+      "E": "Poesia do período clássico."
+    },
+    "gabarito": "C",
+    "dica": "Essas reduções são comuns na fala rápida do dia a dia.",
+    "resolucao_detalhada": "A aférese (supressão de letras no início) e a contração informal são marcas da oralidade que buscam a economia linguística na comunicação cotidiana."
+  },
+  {
+    "id": "LP09_D1",
+    "disciplina": "Língua Portuguesa",
+    "tema": "Relação do texto com seu contexto histórico e cultural",
+    "prova": "Simulado UNIVESP 2026 - Inédita",
+    "enunciado": "O Modernismo de 1922 no Brasil buscava a 'atualização' da cultura brasileira. Uma marca linguística desse contexto foi:",
+    "alternativas": {
+      "A": "O retorno ao uso do 'vós'.",
+      "B": "A valorização do 'falar brasileiro' e a liberdade formal.",
+      "C": "A proibição do uso de gírias nos poemas.",
+      "D": "A imitação estrita dos padrões franceses.",
+      "E": "O uso exclusivo de sonetos com rimas ricas."
+    },
+    "gabarito": "B",
+    "dica": "Pense no Manifesto Antropofágico e na busca por uma identidade nacional.",
+    "resolucao_detalhada": "Os modernistas combatiam o parnasianismo e defendiam que a literatura deveria refletir como o brasileiro realmente fala, aproximando escrita e oralidade."
+  },
+  {
+    "id": "LP10_D1",
+    "disciplina": "Língua Portuguesa",
+    "tema": "Citação de discursos: direto, indireto e indireto livre",
+    "prova": "Simulado UNIVESP 2026 - Inédita",
+    "enunciado": "Leia: 'O diretor suspirou. Seria possível que ninguém entendesse sua proposta?' Este trecho apresenta:",
+    "alternativas": {
+      "A": "Discurso Direto.",
+      "B": "Discurso Indireto.",
+      "C": "Discurso Indireto Livre.",
+      "D": "Apenas narração objetiva.",
+      "E": "Monólogo formal."
+    },
+    "gabarito": "C",
+    "dica": "A pergunta pertence ao diretor ou ao narrador?",
+    "resolucao_detalhada": "A pergunta é o pensamento íntimo do diretor infiltrado na narração, sem verbos de elocução, caracterizando o estilo indireto livre."
+  },
+  {
+    "id": "LP11_D1",
+    "disciplina": "Língua Portuguesa",
+    "tema": "Relação entre escrita e oralidade",
+    "prova": "Simulado UNIVESP 2026 - Inédita",
+    "enunciado": "Qual alternativa apresenta uma sentença adequada à norma-padrão escrita, evitando marcas de oralidade?",
+    "alternativas": {
+      "A": "Cheguei no cinema atrasado.",
+      "B": "Assisti o filme ontem à noite.",
+      "C": "Faz dois anos que não estudo português.",
+      "D": "Houveram muitos problemas na inscrição.",
+      "E": "Me empresta o caderno de anotações?"
+    },
+    "gabarito": "C",
+    "dica": "Cuidado com os verbos 'chegar', 'assistir' e 'haver'.",
+    "resolucao_detalhada": "Na norma culta: 'Cheguei AO cinema'; 'Assisti AO filme'; 'Houve muitos problemas' (impessoal). A letra C está correta pois 'fazer' indicando tempo decorrido é impessoal (singular)."
+  },
+  {
+    "id": "LP12_D1",
+    "disciplina": "Língua Portuguesa",
+    "tema": "Relação do texto com seu contexto histórico e cultural",
+    "prova": "Simulado UNIVESP 2026 - Inédita",
+    "enunciado": "Textos de circulação digital (como 'threads' em redes sociais) frequentemente utilizam abreviações (vc, tbm). Esse fenômeno ocorre principalmente devido a:",
+    "alternativas": {
+      "A": "Falta de conhecimento gramatical dos usuários.",
+      "B": "Necessidade de rapidez e economia de espaço no meio digital.",
+      "C": "Uma nova regra da Reforma Ortográfica.",
+      "D": "Obrigação legal de usar códigos secretos.",
+      "E": "Inexistência de teclados completos em celulares."
+    },
+    "gabarito": "B",
+    "dica": "O meio (digital) influencia a forma da mensagem.",
+    "resolucao_detalhada": "O contexto tecnológico exige agilidade. O 'internetês' é uma adaptação da escrita para simular a velocidade da fala (oralidade) no ambiente digital."
+  },
+  {
+    "id": "LP13_D1",
+    "disciplina": "Língua Portuguesa",
+    "tema": "Citação de discursos: direto, indireto e indireto livre",
+    "prova": "Simulado UNIVESP 2026 - Inédita",
+    "enunciado": "Assinale a alternativa que apresenta um verbo de elocução (ou dicendi):",
+    "alternativas": {
+      "A": "Caminhar.",
+      "B": "Indagar.",
+      "C": "Dormir.",
+      "D": "Cantar.",
+      "E": "Observar."
+    },
+    "gabarito": "B",
+    "dica": "Verbos de elocução são aqueles que introduzem ou indicam uma fala.",
+    "resolucao_detalhada": "'Indagar' significa perguntar, sendo essencial para introduzir o discurso direto ou indireto ('Ele indagou se haveria prova')."
+  },
+  {
+    "id": "LP14_D1",
+    "disciplina": "Língua Portuguesa",
+    "tema": "Relação entre escrita e oralidade",
+    "prova": "Simulado UNIVESP 2026 - Inédita",
+    "enunciado": "A variação linguística regional (dialeto) é um exemplo de como a oralidade se manifesta. No contexto de um vestibular, o uso dessas variações na redação deve ser:",
+    "alternativas": {
+      "A": "Incentivado para mostrar criatividade.",
+      "B": "Utilizado apenas se o tema for sobre regionalismo.",
+      "C": "Evitado, priorizando-se a norma-padrão da língua.",
+      "D": "Usado livremente, pois não existe certo ou errado.",
+      "E": "Substituído por termos em inglês."
+    },
+    "gabarito": "C",
+    "dica": "Lembre-se da adequação ao gênero 'Dissertação-Argumentativa'.",
+    "resolucao_detalhada": "Embora a variação regional seja legítima e rica, o gênero exigido no vestibular (dissertativo) requer a norma-padrão para garantir a universalidade e formalidade do texto."
+  },
+  {
+    "id": "LP15_D1",
+    "disciplina": "Língua Portuguesa",
+    "tema": "Relação do texto com seu contexto histórico e cultural",
+    "prova": "Simulado UNIVESP 2026 - Inédita",
+    "enunciado": "Um artigo de opinião que discute a inteligência artificial em 2026 reflete o contexto histórico atual através de:",
+    "alternativas": {
+      "A": "Uso de termos como 'vapor' e 'carvão'.",
+      "B": "Referências a debates sobre ética digital e automação.",
+      "C": "Escrita em pergaminhos de couro.",
+      "D": "Ausência total de pontuação.",
+      "E": "Foco exclusivo em temas da Idade Média."
+    },
+    "gabarito": "B",
+    "dica": "O texto é um 'filho do seu tempo'.",
+    "resolucao_detalhada": "O vocabulário e os temas tratados em um texto (ética digital, IA) situam o leitor no tempo presente, demonstrando a relação intrínseca entre texto e contexto."
+  }
+]

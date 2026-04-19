@@ -60,6 +60,7 @@ Vamos analisar cada alternativa:
 ---
 
 **Questão 2 (Vunesp Adaptada):**
+
 Em uma conversa informal entre amigos, é comum o uso de expressões como "tipo assim", "né?", frases mais curtas e até algumas interrupções. Tais elementos são características predominantes da modalidade oral da língua, pois:
 
 a) Indicam um menor domínio da norma culta, o que é inaceitável em qualquer situação comunicativa.
