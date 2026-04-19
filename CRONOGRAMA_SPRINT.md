@@ -7,6 +7,12 @@ title: Cronograma de Estudos - UNIVESP 2026
 
 Este cronograma foi expandido para incluir *todos* os tópicos do edital da UNIVESP 2026, com base no que ainda não possui material detalhado em `./estudos-detalhados/`. Os tópicos são distribuídos de forma mais realista, priorizando Matemática e Língua Portuguesa e utilizando a classificação de frequência da Vunesp.
 
+## Acesso a simulados
+
+[Acessar prompts para iniciar simulados usando Gemini](./exames-anteriores/index.md)
+
+---
+
 ## Legenda de Frequência (Vunesp)
 - <span class="tag-alta-frequencia">[🔥 ALTA FREQUÊNCIA]</span>: Temas obrigatórios.
 - <span class="tag-media-frequencia">[⚠️ FREQUÊNCIA MÉDIA]</span>: Temas recorrentes.
