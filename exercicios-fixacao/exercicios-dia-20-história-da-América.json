@@ -1,0 +1,342 @@
+[
+  {
+    "id": "H-AM-01",
+    "disciplina": "História",
+    "tema": "História da América / Povos Pré-Colombianos",
+    "prova": "Simulado Univesp Dia 20",
+    "enunciado": "Sobre a organização política e social dos Astecas antes da chegada dos espanhóis, é correto afirmar que eles formavam um:",
+    "alternativas": {
+      "A": "Estado democrático de coalizão.",
+      "B": "Império Tributário Centralizado.",
+      "C": "Confederação de tribos nômades.",
+      "D": "Feudalismo agrário descentralizado.",
+      "E": "Sistema de clãs isolados sem comércio."
+    },
+    "gabarito": "B",
+    "dica": "Lembre-se da estrutura baseada na 'Tríplice Aliança' e na cobrança de impostos.",
+    "resolucao_detalhada": "Os Astecas estruturaram um império que controlava diversas cidades-estado através da força militar e da cobrança de tributos, com capital em Tenochtitlán."
+  },
+  {
+    "id": "H-AM-02",
+    "disciplina": "História",
+    "tema": "História da América / Povos Pré-Colombianos",
+    "prova": "Simulado Univesp Dia 20",
+    "enunciado": "A civilização Maia, diferente de Incas e Astecas, caracterizava-se politicamente por:",
+    "alternativas": {
+      "A": "Cidades-Estado independentes.",
+      "B": "Um império unificado por um único Inca.",
+      "C": "Uma monarquia hereditária centralizada.",
+      "D": "Um sistema de governo comunista primitivo.",
+      "E": "Uma federação comercial dependente da Europa."
+    },
+    "gabarito": "A",
+    "dica": "Pense no modelo organizacional da Grécia Antiga.",
+    "resolucao_detalhada": "Os Maias nunca formaram um império centralizado; eram organizados em centros urbanos autônomos que compartilhavam traços culturais."
+  },
+  {
+    "id": "H-AM-03",
+    "disciplina": "História",
+    "tema": "História da América / Colonização Espanhola",
+    "prova": "Simulado Univesp Dia 20",
+    "enunciado": "O sistema de trabalho compulsório utilizado pelos espanhóis na América, baseado em tradições incas de trabalho rotativo, chamava-se:",
+    "alternativas": {
+      "A": "Mita.",
+      "B": "Encomienda.",
+      "C": "Escravidão africana.",
+      "D": "Parceria.",
+      "E": "Servidão por contrato."
+    },
+    "gabarito": "A",
+    "dica": "Esse termo é associado à extração de prata em Potosí.",
+    "resolucao_detalhada": "A mita era a exploração da mão de obra indígena de forma rotativa e compulsória, baseada em um tributo de trabalho pré-existente no Império Inca."
+  },
+  {
+    "id": "H-AM-04",
+    "disciplina": "História",
+    "tema": "História da América / Colonização Inglesa",
+    "prova": "Simulado Univesp Dia 20",
+    "enunciado": "A colonização inglesa na América do Norte, especialmente nas Treze Colônias do Norte, diferenciou-se por ser uma:",
+    "alternativas": {
+      "A": "Feitoria comercial temporária.",
+      "B": "Missão exclusivamente jesuítica.",
+      "C": "Colonização de Povoamento.",
+      "D": "Administração direta da Coroa.",
+      "E": "Colônia de exploração monocultora."
+    },
+    "gabarito": "C",
+    "dica": "Considere o objetivo de fixar residência e o uso de mão de obra livre.",
+    "resolucao_detalhada": "As colônias do Norte (Nova Inglaterra) foram marcadas pelo povoamento, pequenas propriedades e autonomia em relação à metrópole."
+  },
+  {
+    "id": "H-AM-05",
+    "disciplina": "História",
+    "tema": "História da América / Independência",
+    "prova": "Simulado Univesp Dia 20",
+    "enunciado": "Simón Bolívar defendeu em seus ideais de independência um projeto específico para a América Espanhola conhecido como:",
+    "alternativas": {
+      "A": "Monarquismo constitucional.",
+      "B": "Fragmentação em microestados.",
+      "C": "Aliança militar com a França.",
+      "D": "Pan-americanismo (unidade política).",
+      "E": "Anexionismo aos Estados Unidos."
+    },
+    "gabarito": "D",
+    "dica": "Pense no desejo de unir todos os países da região sob uma mesma confederação.",
+    "resolucao_detalhada": "Bolívar acreditava que a união política (Pan-americanismo) era necessária para proteger as novas nações de futuras investidas europeias."
+  },
+  {
+    "id": "H-AM-06",
+    "disciplina": "História",
+    "tema": "História da América / Colonização Espanhola",
+    "prova": "Simulado Univesp Dia 20",
+    "enunciado": "Na estrutura social da América Espanhola colonial, os filhos de espanhóis nascidos na América eram chamados de:",
+    "alternativas": {
+      "A": "Chapetones.",
+      "B": "Mestiços.",
+      "C": "Criollos.",
+      "D": "Zambos.",
+      "E": "Curacas."
+    },
+    "gabarito": "C",
+    "dica": "Eles formavam a elite econômica local.",
+    "resolucao_detalhada": "Os Criollos eram descendentes de espanhóis nascidos na colônia. Detinham poder econômico, mas eram preteridos pelos Chapetones nos altos cargos políticos."
+  },
+  {
+    "id": "H-AM-07",
+    "disciplina": "História",
+    "tema": "História da América / Independência",
+    "prova": "Simulado Univesp Dia 20",
+    "enunciado": "A Independência do Haiti (1804) destacou-se no cenário americano por ter sido:",
+    "alternativas": {
+      "A": "Liderada por escravizados e ex-escravizados.",
+      "B": "Um processo pacífico de transição monárquica.",
+      "C": "Financiada pela coroa espanhola contra a França.",
+      "D": "O primeiro país a adotar o protestantismo como religião oficial.",
+      "E": "Uma revolta de colonos franceses contra a abolição da escravidão."
+    },
+    "gabarito": "A",
+    "dica": "Pense na única revolta de escravos bem-sucedida das Américas.",
+    "resolucao_detalhada": "A Revolução Haitiana foi um movimento abolicionista e de independência liderado pela maioria negra contra o domínio francês."
+  },
+  {
+    "id": "H-AM-08",
+    "disciplina": "História",
+    "tema": "História da América / Relações Internacionais",
+    "prova": "Simulado Univesp Dia 20",
+    "enunciado": "A política do 'Big Stick' (Grande Porrete), de Theodore Roosevelt, caracterizou as relações dos EUA com a América Latina como:",
+    "alternativas": {
+      "A": "Uma era de isolacionismo total.",
+      "B": "Intervencionismo militar e diplomacia de força.",
+      "C": "Ajuda humanitária sem contrapartidas.",
+      "D": "Livre comércio sem barreiras alfandegárias.",
+      "E": "Aliança para a preservação ambiental."
+    },
+    "gabarito": "B",
+    "dica": "O lema era 'Fale macio e carregue um porrete'.",
+    "resolucao_detalhada": "O Big Stick justificava intervenções militares diretas em países latino-americanos para proteger interesses econômicos e políticos dos EUA."
+  },
+  {
+    "id": "H-AM-09",
+    "disciplina": "História",
+    "tema": "História da América / Século XX",
+    "prova": "Simulado Univesp Dia 20",
+    "enunciado": "O Peronismo na Argentina é um exemplo de populismo. Sua principal base de apoio era:",
+    "alternativas": {
+      "A": "A elite agrária de Buenos Aires.",
+      "B": "Os militares de extrema-direita.",
+      "C": "Os 'descamisados' (trabalhadores urbanos).",
+      "D": "A Igreja Católica ortodoxa.",
+      "E": "Os partidos comunistas clandestinos."
+    },
+    "gabarito": "C",
+    "dica": "Foque no papel de Juan e Evita Perón junto aos sindicatos.",
+    "resolucao_detalhada": "O Peronismo baseou seu poder na mobilização das massas urbanas através de direitos trabalhistas e forte propaganda estatal."
+  },
+  {
+    "id": "H-AM-10",
+    "disciplina": "História",
+    "tema": "História da América / Século XXI",
+    "prova": "Simulado Univesp Dia 20",
+    "enunciado": "O termo 'Socialismo do Século XXI' está fortemente associado ao governo de:",
+    "alternativas": {
+      "A": "Fidel Castro em Cuba (anos 60).",
+      "B": "Hugo Chávez na Venezuela.",
+      "C": "Augusto Pinochet no Chile.",
+      "D": "Juan Perón na Argentina.",
+      "E": "Evo Morales no início da Bolívia colonial."
+    },
+    "gabarito": "B",
+    "dica": "Relacione ao movimento bolivariano contemporâneo.",
+    "resolucao_detalhada": "Hugo Chávez cunhou o termo para descrever seu projeto político de estatizações e reformas sociais financiadas pelo petróleo na Venezuela."
+  },
+  {
+    "id": "H-AM-11",
+    "disciplina": "História",
+    "tema": "História da América / Colonização Espanhola",
+    "prova": "Simulado Univesp Dia 20",
+    "enunciado": "A colonização espanhola utilizou um sistema de concessão de terras e exploração de mão de obra indígena, onde o colono tinha o direito de usufruir do trabalho em troca de catequização. Esse sistema era chamado de:",
+    "alternativas": {
+      "A": "Sesmaria.",
+      "B": "Apartheid.",
+      "C": "Homestead Act.",
+      "D": "Encomienda.",
+      "E": "Mita."
+    },
+    "gabarito": "D",
+    "dica": "O nome deriva do fato de os indígenas serem 'encomendados' aos cuidados de um espanhol.",
+    "resolucao_detalhada": "A encomienda não era uma posse de terra, mas um direito de exploração do trabalho indígena cedido pela Coroa, sob o pretexto de proteção e evangelização."
+  },
+  {
+    "id": "H-AM-12",
+    "disciplina": "História",
+    "tema": "História da América / Relações Internacionais",
+    "prova": "Simulado Univesp Dia 20",
+    "enunciado": "A Doutrina Monroe, sintetizada pela frase 'A América para os americanos', estabelecia no século XIX:",
+    "alternativas": {
+      "A": "A união igualitária entre todos os países das Américas.",
+      "B": "A oposição à intervenção europeia no continente.",
+      "C": "O apoio à recolonização espanhola.",
+      "D": "A abolição imediata da escravidão no continente.",
+      "E": "O livre trânsito de tropas europeias no Caribe."
+    },
+    "gabarito": "B",
+    "dica": "Foque no contexto de proteção contra as monarquias da Europa (Santa Aliança).",
+    "resolucao_detalhada": "A Doutrina Monroe visava impedir que potências europeias recolonizassem territórios americanos ou interferissem nos novos Estados independentes."
+  },
+  {
+    "id": "H-AM-13",
+    "disciplina": "História",
+    "tema": "História da América / Século XX",
+    "prova": "Simulado Univesp Dia 20",
+    "enunciado": "A Revolução Mexicana, iniciada em 1910 contra a ditadura de Porfírio Díaz, teve como uma de suas pautas mais centrais e populares a:",
+    "alternativas": {
+      "A": "Privatização das minas de petróleo.",
+      "B": "Aliança militar com os Estados Unidos.",
+      "C": "Manutenção do sistema de haciendas.",
+      "D": "Reforma Agrária.",
+      "E": "Restauração da monarquia asteca."
+    },
+    "gabarito": "D",
+    "dica": "Lembre-se do lema 'Tierra y Libertad' de Emiliano Zapata.",
+    "resolucao_detalhada": "A revolução foi movida pela luta camponesa contra o latifúndio, buscando a redistribuição de terras para as comunidades rurais."
+  },
+  {
+    "id": "H-AM-14",
+    "disciplina": "História",
+    "tema": "História da América / Século XX",
+    "prova": "Simulado Univesp Dia 20",
+    "enunciado": "A crise de 1929 afetou profundamente a América Latina. Como consequência política, observou-se em diversos países o surgimento de:",
+    "alternativas": {
+      "A": "Democracias parlamentares estáveis.",
+      "B": "Regimes Populistas.",
+      "C": "Monarquias absolutistas.",
+      "D": "Movimentos de retorno à colônia.",
+      "E": "Teocracias islâmicas."
+    },
+    "gabarito": "B",
+    "dica": "Pense em líderes como Getúlio Vargas e Juan Perón.",
+    "resolucao_detalhada": "A crise econômica enfraqueceu as elites exportadoras tradicionais, permitindo a ascensão de líderes carismáticos apoiados nas massas urbanas e na industrialização."
+  },
+  {
+    "id": "H-AM-15",
+    "disciplina": "História",
+    "tema": "História da América / Guerra Fria",
+    "prova": "Simulado Univesp Dia 20",
+    "enunciado": "A Revolução Cubana de 1959, liderada por Fidel Castro, teve como impacto imediato nas relações internacionais durante a Guerra Fria:",
+    "alternativas": {
+      "A": "O fim do embargo econômico americano.",
+      "B": "O alinhamento de Cuba ao bloco soviético.",
+      "C": "A criação imediata da União Europeia.",
+      "D": "A extinção da influência dos EUA no Caribe.",
+      "E": "A unificação das Coreias."
+    },
+    "gabarito": "B",
+    "dica": "Cuba tornou-se o principal aliado da URSS nas Américas.",
+    "resolucao_detalhada": "Após a revolução, a adoção do socialismo em Cuba criou uma base aliada da União Soviética a poucos quilômetros da costa dos EUA."
+  },
+  {
+    "id": "H-AM-16",
+    "disciplina": "História",
+    "tema": "História da América / Conflitos Regionais",
+    "prova": "Simulado Univesp Dia 20",
+    "enunciado": "Sobre a Guerra das Malvinas (1982), é correto afirmar que o conflito ocorreu entre:",
+    "alternativas": {
+      "A": "Brasil e Paraguai.",
+      "B": "Chile e Bolívia.",
+      "C": "EUA e Cuba.",
+      "D": "Argentina e Reino Unido.",
+      "E": "França e Haiti."
+    },
+    "gabarito": "D",
+    "dica": "A derrota argentina apressou o fim da ditadura militar naquele país.",
+    "resolucao_detalhada": "A disputa foi pela posse das ilhas Malvinas (Falklands). A vitória britânica consolidou o governo de Margaret Thatcher e enfraqueceu os militares argentinos."
+  },
+  {
+    "id": "H-AM-17",
+    "disciplina": "História",
+    "tema": "História da América / Relações Internacionais",
+    "prova": "Simulado Univesp Dia 20",
+    "enunciado": "A Aliança para o Progresso (1961) foi um programa dos EUA, proposto por John F. Kennedy, que visava:",
+    "alternativas": {
+      "A": "Anexar o México ao território americano.",
+      "B": "Criar uma moeda única para todas as Américas.",
+      "C": "Evitar o avanço do comunismo através de ajuda econômica.",
+      "D": "Apoiar militarmente a União Soviética.",
+      "E": "Promover a revolução industrial na Antártida."
+    },
+    "gabarito": "C",
+    "dica": "Foi uma resposta estratégica à Revolução Cubana.",
+    "resolucao_detalhada": "Os EUA temiam que a pobreza na América Latina gerasse novas revoluções socialistas, por isso ofereceram ajuda financeira para reformas sociais controladas."
+  },
+  {
+    "id": "H-AM-18",
+    "disciplina": "História",
+    "tema": "História da América / Conflitos do Século XIX",
+    "prova": "Simulado Univesp Dia 20",
+    "enunciado": "O termo 'Caudilhismo', comum no século XIX latino-americano, refere-se a:",
+    "alternativas": {
+      "A": "Um sistema de votação eletrônica.",
+      "B": "Lideranças locais baseadas no poder carismático e militar.",
+      "C": "O processo de industrialização pesada.",
+      "D": "A união das igrejas protestantes.",
+      "E": "Um tratado de livre comércio com a Ásia."
+    },
+    "gabarito": "B",
+    "dica": "Eram chefes políticos regionais que exerciam poder pessoal autoritário.",
+    "resolucao_detalhada": "O caudilhismo surgiu no vácuo de poder após as independências, onde líderes militares locais controlavam a política de suas regiões."
+  },
+  {
+    "id": "H-AM-19",
+    "disciplina": "História",
+    "tema": "História da América / Geopolítica",
+    "prova": "Simulado Univesp Dia 20",
+    "enunciado": "A 'Guerra do Pacífico' (1879-1883) resultou na perda de saída para o mar por parte de qual país?",
+    "alternativas": {
+      "A": "Uruguai.",
+      "B": "Paraguai.",
+      "C": "Colômbia.",
+      "D": "Bolívia.",
+      "E": "Chile."
+    },
+    "gabarito": "D",
+    "dica": "O conflito foi contra o Chile pelo controle de territórios ricos em salitre.",
+    "resolucao_detalhada": "A Bolívia perdeu seu território litorâneo para o Chile, tornando-se uma nação encravada, o que é tema de disputas diplomáticas até hoje."
+  },
+  {
+    "id": "H-AM-20",
+    "disciplina": "História",
+    "tema": "História da América / Colonizações Europeias",
+    "prova": "Simulado Univesp Dia 20",
+    "enunciado": "As colônias holandesas na América do Sul concentraram-se principalmente no Caribe e na região do:",
+    "alternativas": {
+      "A": "Patagônia.",
+      "B": "Bacia do Prata.",
+      "C": "Suriname (Guiana Holandesa).",
+      "D": "Pantanal.",
+      "E": "Deserto do Atacama."
+    },
+    "gabarito": "C",
+    "dica": "Pense nas 'Guianas' situadas ao norte do Brasil.",
+    "resolucao_detalhada": "O Suriname foi a principal possessão holandesa na América do Sul após as disputas coloniais com ingleses e franceses na região das Guianas."
+  }
+]
