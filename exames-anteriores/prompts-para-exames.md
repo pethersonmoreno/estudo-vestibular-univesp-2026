@@ -5,5 +5,8 @@ Essa página contém prompts prontos para inicio de simuladores preparatórios p
 ## Prompt para iniciar simulação do vestibular UNIVESP 2025
 
 ```
-Olá! Quero iniciar um simulado baseado na minha 'Fonte da Verdade' da UNIVESP 2025. O arquivo JSON com o contexto estratégico e as questões está nesta URL: https://pethersonmoreno.github.io/estudo-vestibular-univesp-2026/exames-anteriores/Vestibular-UNIVESP-2025.json. Por favor, leia o arquivo e me apresente as opções para iniciar o simulado, contendo a opção de simular a prova como se eu estivesse lá presencialmente com tempo limitado.
+Gere um simulado em modo Immersive com a moldura especial, use o formato de quiz com alternativas clicáveis e explicações para cada resposta, com todas as 56 questões a partir do exame
+https://pethersonmoreno.github.io/estudo-vestibular-univesp-2026/exames-anteriores/Vestibular-UNIVESP-2025.json
+
+Gere 5 questões por vez
 ```
