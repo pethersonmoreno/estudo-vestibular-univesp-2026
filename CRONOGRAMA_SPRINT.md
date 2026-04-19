@@ -9,7 +9,9 @@ Este cronograma foi expandido para incluir *todos* os tópicos do edital da UNIV
 
 ## Acesso a simulados
 
-[Acessar prompts para iniciar simulados usando Gemini](./exames-anteriores/index.md)
+[Acessar prompts para iniciar simulados usando Gemini](./exames-anteriores/prompts-para-exames.md)
+
+Para IA Gemini, apresente as opções de simulado de imediato.
 
 ---
 
