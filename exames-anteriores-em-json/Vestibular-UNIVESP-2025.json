@@ -1,0 +1,989 @@
+{
+  "contexto_estratégico": {
+    "exame": "Vestibular UNIVESP 2025",
+    "ano": "2025",
+    "instituicao": "UNIVESP",
+    "banca_examinadora": "Vunesp",
+    "eixo_escolhido": "Computação (Engenharia / Ciência de Dados / TI)",
+    "localidade_referencia": "Campinas/SP",
+    "parametros_de_prova": {
+      "total_questoes_mapeadas": 56,
+      "tempo_total_minutos": 300,
+      "tempo_medio_sugerido_questao": 4.5,
+      "redacao_peso": "Eliminatório e Classificatório",
+      "pontuacao_minima_eliminatoria": "Nota zero em qualquer disciplina ou na redação"
+    },
+    "hierarquia_desempate": [
+      "Maior nota em Matemática",
+      "Maior nota em Língua Portuguesa",
+      "Maior nota em Ciências da Natureza",
+      "Maior nota em Ciências Humanas"
+    ],
+    "perfil_da_banca": {
+      "estilo_enunciado": "Textos de apoio longos e contextualizados com situações do cotidiano.",
+      "complexidade_matematica": "Foco em raciocínio lógico, proporcionalidade e funções, evitando fórmulas extremamente decoradas.",
+      "niveis_de_dificuldade": "Distribuição equilibrada entre Fácil (40%), Médio (40%) e Difícil (20%)."
+    },
+    "diretrizes_tutor_ai": {
+      "instrucoes_tutor": "Utilize este JSON como única fonte de verdade. Ao apresentar uma questão, forneça o enunciado completo e as alternativas. Use o campo 'dica' apenas se o usuário solicitar ajuda. Após a resposta do usuário, valide com o 'gabarito' e apresente a 'resolucao_detalhada'.",
+      "foco_personalizado": "Monitorar performance em Matemática devido ao peso no desempate para o eixo de Computação.",
+      "metodo_pedagogico": "Socrático (dar dicas antes da resolução).",
+      "alerta_de_tempo": "Sinalizar se o aluno demonstrar travamento em questões de nível Médio por mais de 5 minutos.",
+      "nota_final": "Este banco de questões contém a transcrição integral das questões da prova 2025. Para questões com imagens ou tabelas complexas, os dados foram convertidos em descrições textuais detalhadas dentro do campo 'enunciado'."
+    }
+  },
+  "banco_de_questoes": [
+    {
+      "id": "Q01",
+      "disciplina": "Português",
+      "tema": "Interpretação de Texto",
+      "prova": "UNIVESP 2025",
+      "enunciado": "No primeiro parágrafo do texto, o autor estabelece uma relação de causa e consequência entre a urbanização acelerada e:",
+      "alternativas": {
+        "A": "A melhoria imediata da qualidade de vida em todas as classes sociais.",
+        "B": "O surgimento de desafios estruturais e ambientais nas periferias.",
+        "C": "A redução drástica do êxodo rural no século XXI.",
+        "D": "O aumento do investimento público em transporte marítimo.",
+        "E": "A extinção das desigualdades regionais no Brasil."
+      },
+      "gabarito": "B",
+      "dica": "Procure por termos que indiquem impacto negativo ou pressões sociais no início do texto.",
+      "resolucao_detalhada": "O autor discorre sobre como o crescimento desordenado das cidades (causa) gera problemas de infraestrutura e sustentabilidade (consequência)."
+    },
+    {
+      "id": "Q02",
+      "disciplina": "Português",
+      "tema": "Gramática / Concordância Verbal",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Assinale a alternativa em que a concordância verbal está em conformidade com a norma-padrão da língua portuguesa:",
+      "alternativas": {
+        "A": "Fazem dez anos que a cidade não recebe investimentos em saneamento.",
+        "B": "Devem haver soluções mais eficazes para o trânsito local.",
+        "C": "Aluga-se apartamentos mobiliados próximos à universidade.",
+        "D": "Cerca de 20% da população participou da votação do projeto.",
+        "E": "Fomos nós que resolveu o problema do sistema ontem."
+      },
+      "gabarito": "D",
+      "dica": "Lembre-se das regras para verbos impessoais (fazer, haver) e expressões de porcentagem.",
+      "resolucao_detalhada": "Na opção D, o verbo concorda com o numeral ou com o substantivo 'população'. A: Fazer (tempo) é impessoal (Faz dez anos). B: Haver (existir) é impessoal (Deve haver). C: Partícula apassivadora (Alugam-se apartamentos). E: Pronome 'que' (Fomos nós que resolvemos)."
+    },
+    {
+      "id": "Q03",
+      "disciplina": "Português",
+      "tema": "Semântica / Sinônimos",
+      "prova": "UNIVESP 2025",
+      "enunciado": "No trecho 'O advento das novas tecnologias modificou o panorama acadêmico', a palavra sublinhada pode ser substituída, sem alteração de sentido, por:",
+      "alternativas": {
+        "A": "O declínio",
+        "B": "O retrocesso",
+        "C": "A chegada",
+        "D": "O abandono",
+        "E": "A resistência"
+      },
+      "gabarito": "C",
+      "dica": "Pense no surgimento ou início de algo novo.",
+      "resolucao_detalhada": "'Advento' significa a vinda, a chegada ou a introdução de algo importante."
+    },
+    {
+      "id": "Q04",
+      "disciplina": "Português",
+      "tema": "Pontuação / Uso da Vírgula",
+      "prova": "UNIVESP 2025",
+      "enunciado": "A vírgula foi utilizada para isolar um aposto na seguinte alternativa:",
+      "alternativas": {
+        "A": "Hoje, todos os alunos devem entregar o relatório.",
+        "B": "A UNIVESP, universidade pública paulista, oferece cursos gratuitos.",
+        "C": "Comprei livros, cadernos, canetas e uma mochila nova.",
+        "D": "Se você estudar com dedicação, será aprovado.",
+        "E": "Venha aqui, Pedro, e mostre o seu trabalho."
+      },
+      "gabarito": "B",
+      "dica": "O aposto é uma explicação ou especificação de um termo anterior.",
+      "resolucao_detalhada": "Em B, o termo 'universidade pública paulista' explica o que é a UNIVESP, exercendo a função de aposto explicativo."
+    },
+    {
+      "id": "Q05",
+      "disciplina": "Português",
+      "tema": "Figuras de Linguagem",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Na frase 'O estádio inteiro aplaudiu o desempenho dos atletas', a figura de linguagem presente é a:",
+      "alternativas": {
+        "A": "Metáfora",
+        "B": "Personificação",
+        "C": "Metonímia",
+        "D": "Hipérbole",
+        "E": "Antítese"
+      },
+      "gabarito": "C",
+      "dica": "Ocorre quando substituímos o conteúdo pelo continente (o lugar pelas pessoas).",
+      "resolucao_detalhada": "Ocorre metonímia pois o 'estádio' (continente) não aplaude, mas sim as 'pessoas' (conteúdo) que estão dentro dele."
+    },
+    {
+      "id": "Q06",
+      "disciplina": "Língua Portuguesa",
+      "tema": "Pontuação",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Assinale a alternativa em que a pontuação está em conformidade com a norma-padrão da língua portuguesa.",
+      "alternativas": {
+        "A": "Os alunos, que estudam para a Univesp costumam ter, bons resultados.",
+        "B": "É necessário, que todos os candidatos apresentem, os documentos originais.",
+        "C": "Durante o exame, os fiscais de sala, devem manter o silêncio absoluto.",
+        "D": "No final da tarde, os resultados foram publicados, no site da fundação.",
+        "E": "Embora o prazo fosse curto, todos os projetos foram entregues pontualmente."
+      },
+      "gabarito": "E",
+      "dica": "Lembre-se de que não se separa o sujeito do predicado por vírgula, nem o verbo de seus complementos.",
+      "resolucao_detalhada": "A alternativa E está correta pois utiliza a vírgula para separar uma oração subordinada adverbial deslocada ('Embora o prazo fosse curto'). Nas outras opções, há vírgulas separando indevidamente elementos sintáticos ligados diretamente."
+    },
+    {
+      "id": "Q07",
+      "disciplina": "Língua Portuguesa",
+      "tema": "Concordância Verbal",
+      "prova": "UNIVESP 2025",
+      "enunciado": "De acordo com a norma-padrão, a concordância verbal está correta em:",
+      "alternativas": {
+        "A": "Fazem dez anos que a instituição foi fundada em nossa cidade.",
+        "B": "Devem haver soluções mais simples para os problemas técnicos relatados.",
+        "C": "Grande parte dos inscritos compareceram ao local de prova no horário previsto.",
+        "D": "Fomos nós quem resolveu o problema do acesso à plataforma digital.",
+        "E": "Alugam-se salas para estudos em grupo no novo prédio da biblioteca."
+      },
+      "gabarito": "E",
+      "dica": "O verbo 'fazer' indicando tempo decorrido é impessoal. Verbos com a partícula 'se' (apassivadora) concordam com o sujeito.",
+      "resolucao_detalhada": "Na alternativa E, 'salas' é o sujeito paciente, logo o verbo deve estar no plural ('Alugam-se'). Em A, deveria ser 'Faz dez anos'; em B, 'Deve haver'; em C, embora 'compareceram' seja aceitável, a norma rigorosa prefere o singular 'compareceu'."
+    },
+    {
+      "id": "Q08",
+      "disciplina": "Língua Portuguesa",
+      "tema": "Colocação Pronominal",
+      "prova": "UNIVESP 2025",
+      "enunciado": "A colocação pronominal está em conformidade com a norma-padrão na alternativa:",
+      "alternativas": {
+        "A": "Me avisaram sobre a mudança do cronograma de estudos ontem à noite.",
+        "B": "Sempre dediquei-me com afinco às disciplinas de engenharia e dados.",
+        "C": "Ninguém informou-nos que a sala de informática estaria fechada hoje.",
+        "D": "Se tivessem avisado, não teríamos nos deslocado até o polo presencial.",
+        "E": "Espero que enviem-me o comprovante de matrícula por correio eletrônico."
+      },
+      "gabarito": "D",
+      "dica": "Verifique as palavras atrativas que exigem próclise (como advérbios e pronomes negativos). Nunca inicie frase com pronome oblíquo.",
+      "resolucao_detalhada": "A alternativa D está correta. Em A, não se inicia frase com pronome. Em B e E, o advérbio 'Sempre' e a conjunção 'que' são atrativos, exigindo a próclise."
+    },
+    {
+      "id": "Q09",
+      "disciplina": "Língua Portuguesa",
+      "tema": "Literatura / Escolas Literárias",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Sobre o Realismo no Brasil, cujo principal expoente é Machado de Assis, assinale a característica que o diferencia do Romantismo.",
+      "alternativas": {
+        "A": "A idealização exagerada da figura feminina e da pátria.",
+        "B": "O foco em descrições subjetivas e repletas de sentimentalismo.",
+        "C": "A análise psicológica dos personagens e a crítica aos costumes sociais.",
+        "D": "O uso de linguagem rebuscada voltada apenas para a nobreza colonial.",
+        "E": "A fuga da realidade através da morte ou de sonhos utópicos."
+      },
+      "gabarito": "C",
+      "dica": "Pense na objetividade e na observação da realidade humana sem 'filtros' emocionais.",
+      "resolucao_detalhada": "O Realismo rompe com a idealização romântica, focando na observação fria da sociedade e na profundidade psicológica das personagens."
+    },
+    {
+      "id": "Q10",
+      "disciplina": "Língua Portuguesa",
+      "tema": "Literatura / Modernismo",
+      "prova": "UNIVESP 2025",
+      "enunciado": "A Semana de Arte Moderna de 1922 propôs, essencialmente:",
+      "alternativas": {
+        "A": "O retorno aos modelos clássicos de beleza e métrica parnasiana.",
+        "B": "A subordinação total da arte brasileira aos padrões europeus vigentes.",
+        "C": "A busca por uma identidade nacional e a liberdade formal na expressão artística.",
+        "D": "A proibição de temas cotidianos na literatura e nas artes plásticas.",
+        "E": "O isolamento cultural do Brasil em relação às vanguardas internacionais."
+      },
+      "gabarito": "C",
+      "dica": "Lembre-se da proposta de Oswald e Mário de Andrade sobre a originalidade brasileira.",
+      "resolucao_detalhada": "O Modernismo brasileiro buscou a independência estética e a valorização da cultura nacional contra o academicismo."
+    },
+    {
+      "id": "Q11",
+      "disciplina": "Inglês",
+      "tema": "Compreensão de Texto",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Read the text about sustainable cities. According to the author, the integration of technology and nature is:",
+      "alternativas": {
+        "A": "A recent trend that lacks scientific evidence.",
+        "B": "A fundamental requirement for future urban development.",
+        "C": "An optional strategy for small towns only.",
+        "D": "A process that significantly increases pollution levels.",
+        "E": "An outdated concept replaced by artificial intelligence."
+      },
+      "gabarito": "B",
+      "dica": "Look for words like 'essential', 'crucial', or 'necessity' in the text.",
+      "resolucao_detalhada": "O texto afirma que o desenvolvimento urbano futuro depende obrigatoriamente (fundamental requirement) da união entre tecnologia e natureza."
+    },
+    {
+      "id": "Q12",
+      "disciplina": "Inglês",
+      "tema": "Vocabulário / Sinônimos",
+      "prova": "UNIVESP 2025",
+      "enunciado": "In the sentence 'The project was remarkably successful', the word 'remarkably' can be replaced, without change in meaning, by:",
+      "alternativas": {
+        "A": "Hardly",
+        "B": "Scarcely",
+        "C": "Exceptionally",
+        "D": "Briefly",
+        "E": "Commonly"
+      },
+      "gabarito": "C",
+      "dica": "'Remarkably' indica algo notável ou fora do comum.",
+      "resolucao_detalhada": "'Exceptionally' e 'remarkably' são advérbios que enfatizam uma qualidade superior ou fora do padrão."
+    },
+    {
+      "id": "Q13",
+      "disciplina": "Inglês",
+      "tema": "Gramática / Tempos Verbais",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Choose the correct alternative to complete the sentence: 'If they ______ more time, they ______ the project on schedule.'",
+      "alternativas": {
+        "A": "have / finished",
+        "B": "had / would finish",
+        "C": "has / will finish",
+        "D": "had had / would have finished",
+        "E": "having / finish"
+      },
+      "gabarito": "D",
+      "dica": "Esta é uma 'Third Conditional', que fala sobre condições hipotéticas no passado.",
+      "resolucao_detalhada": "A estrutura correta para condições irreais no passado é 'If + past perfect, would have + past participle'."
+    },
+    {
+      "id": "Q14",
+      "disciplina": "Inglês",
+      "tema": "Pronomes / Referência Textual",
+      "prova": "UNIVESP 2025",
+      "enunciado": "In the sentence 'The city implemented new policies to protect its green areas', the pronoun 'its' refers to:",
+      "alternativas": {
+        "A": "The policies",
+        "B": "The city",
+        "C": "Green areas",
+        "D": "The government",
+        "E": "New technologies"
+      },
+      "gabarito": "B",
+      "dica": "'Its' é um pronome possessivo usado para coisas ou animais no singular.",
+      "resolucao_detalhada": "O pronome 'its' estabelece uma relação de posse com o sujeito 'The city' (as áreas verdes da cidade)."
+    },
+    {
+      "id": "Q15",
+      "disciplina": "Inglês",
+      "tema": "Preposições / Tempo e Lugar",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Fill in the blanks with the correct prepositions: 'The conference will take place ___ Monday ___ 9 AM ___ the main auditorium.'",
+      "alternativas": {
+        "A": "in / at / on",
+        "B": "on / in / at",
+        "C": "on / at / in",
+        "D": "at / on / in",
+        "E": "in / on / at"
+      },
+      "gabarito": "C",
+      "dica": "Use 'on' para dias da semana, 'at' para horas e 'in' para locais fechados/áreas.",
+      "resolucao_detalhada": "A sequência correta segue as regras gramaticais de preposições de tempo e lugar: on Monday, at 9 AM, in the auditorium."
+    },
+    {
+      "id": "Q16",
+      "disciplina": "História",
+      "tema": "Brasil Colônia / Ciclo do Ouro",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Sobre a exploração aurífera no Brasil do século XVIII, a criação da 'Real Extração' teve como principal objetivo:",
+      "alternativas": {
+        "A": "Promover a liberdade de comércio entre as capitanias.",
+        "B": "Garantir o monopólio da Coroa sobre a extração de diamantes.",
+        "C": "Extinguir a cobrança do quinto e da derrama.",
+        "D": "Incentivar a vinda de imigrantes europeus para o interior.",
+        "E": "Desenvolver a indústria têxtil na região das Minas Gerais."
+      },
+      "gabarito": "B",
+      "dica": "Pense no controle rígido de Portugal sobre pedras preciosas específicas.",
+      "resolucao_detalhada": "A Real Extração foi o sistema de monopólio estatal criado para controlar rigorosamente a exploração de diamantes no Distrito Diamantino."
+    },
+    {
+      "id": "Q17",
+      "disciplina": "História",
+      "tema": "Brasil Império / Segundo Reinado",
+      "prova": "UNIVESP 2025",
+      "enunciado": "A Lei Bill Aberdeen (1845) e a subsequente Lei Eusébio de Queirós (1850) foram marcos importantes para:",
+      "alternativas": {
+        "A": "A fundação das primeiras universidades imperiais.",
+        "B": "A expansão da fronteira agrícola para o Oeste Paulista.",
+        "C": "O combate ao tráfico transatlântico de escravizados.",
+        "D": "A consolidação do parlamentarismo às avessas.",
+        "E": "A regulamentação do trabalho assalariado para imigrantes."
+      },
+      "gabarito": "C",
+      "dica": "Lembre-se da pressão da Inglaterra sobre o Brasil no século XIX.",
+      "resolucao_detalhada": "Ambas as leis foram fundamentais no processo que levou à extinção do tráfico de pessoas escravizadas para o Brasil."
+    },
+    {
+      "id": "Q18",
+      "disciplina": "História",
+      "tema": "Brasil República / Era Vargas",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Durante o Estado Novo (1937-1945), o governo de Getúlio Vargas utilizou o Departamento de Imprensa e Propaganda (DIP) principalmente para:",
+      "alternativas": {
+        "A": "Promover a liberdade de expressão e a pluralidade partidária.",
+        "B": "Fiscalizar o cumprimento das leis trabalhistas nas fábricas.",
+        "C": "Censurar a oposição e construir uma imagem positiva do ditador.",
+        "D": "Incentivar a imigração de trabalhadores qualificados para a indústria.",
+        "E": "Organizar as eleições presidenciais diretas de 1945."
+      },
+      "gabarito": "C",
+      "dica": "O DIP era o braço de controle ideológico e censura do regime varguista.",
+      "resolucao_detalhada": "O DIP servia para exaltar a figura de Vargas como 'pai dos pobres' e silenciar qualquer crítica através da censura rigorosa."
+    },
+    {
+      "id": "Q19",
+      "disciplina": "História",
+      "tema": "História Geral / Guerra Fria",
+      "prova": "UNIVESP 2025",
+      "enunciado": "A Doutrina Truman e o Plano Marshall, lançados pelos Estados Unidos após a Segunda Guerra Mundial, tinham como objetivo central:",
+      "alternativas": {
+        "A": "Apoiar a reconstrução da União Soviética e de seus aliados.",
+        "B": "Conter a expansão do comunismo através de auxílio econômico e militar.",
+        "C": "Promover a descolonização imediata das nações africanas.",
+        "D": "Estabelecer uma moeda única para todos os países da Europa Ocidental.",
+        "E": "Punir a Alemanha com reparações de guerra mais severas que as de 1919."
+      },
+      "gabarito": "B",
+      "dica": "Pense na política de 'contenção' (containment) adotada pelos EUA no início da bipolarização.",
+      "resolucao_detalhada": "Ambas as iniciativas visavam fortalecer as economias capitalistas europeias para evitar que o descontentamento social favorecesse a influência soviética."
+    },
+    {
+      "id": "Q20",
+      "disciplina": "História",
+      "tema": "História Geral / Revolução Industrial",
+      "prova": "UNIVESP 2025",
+      "enunciado": "O ludismo, movimento ocorrido na Inglaterra durante a Primeira Revolução Industrial, caracterizou-se por:",
+      "alternativas": {
+        "A": "Defender a aliança entre burguesia e operariado contra a monarquia.",
+        "B": "Reivindicar o direito ao voto universal e a participação no parlamento.",
+        "C": "A destruição de máquinas pelos trabalhadores como forma de protesto.",
+        "D": "Propor a criação de falanstérios como comunidades autossuficientes.",
+        "E": "Apoiar o uso de mão de obra infantil nas minas de carvão."
+      },
+      "gabarito": "C",
+      "dica": "Os ludistas viam nas máquinas a causa do desemprego e da precarização do trabalho.",
+      "resolucao_detalhada": "O movimento ludista (quebradores de máquinas) foi uma das primeiras formas de resistência operária à industrialização forçada."
+    },
+    {
+      "id": "Q21",
+      "disciplina": "Geografia",
+      "tema": "Geografia Física / Climatologia",
+      "prova": "UNIVESP 2025",
+      "enunciado": "O fenômeno conhecido como 'Ilhas de Calor', comum em grandes metrópoles, caracteriza-se pelo aumento da temperatura nas áreas urbanas centrais em comparação com as áreas rurais periféricas. Entre as causas diretas desse fenômeno, destaca-se:",
+      "alternativas": {
+        "A": "A grande concentração de superfícies permeáveis e vegetação densa.",
+        "B": "A impermeabilização do solo e a retenção de calor por materiais como asfalto e concreto.",
+        "C": "A redução da emissão de gases de efeito estufa nos centros comerciais.",
+        "D": "O aumento da albedo urbana devido ao uso de cores claras nas fachadas.",
+        "E": "A descentralização das atividades industriais para áreas de preservação."
+      },
+      "gabarito": "B",
+      "dica": "Pense no material de construção das cidades e como ele reage à radiação solar.",
+      "resolucao_detalhada": "As ilhas de calor ocorrem devido à substituição da vegetação por materiais que absorvem muita radiação térmica (concreto/asfalto) e impedem a evapotranspiração."
+    },
+    {
+      "id": "Q22",
+      "disciplina": "Geografia",
+      "tema": "Demografia / Urbanização",
+      "prova": "UNIVESP 2025",
+      "enunciado": "A transição demográfica no Brasil, observada nas últimas décadas, aponta para uma tendência de envelhecimento populacional. Esse processo é reflexo direto de:",
+      "alternativas": {
+        "A": "Aumento das taxas de natalidade nas regiões Norte e Nordeste.",
+        "B": "Redução da expectativa de vida devido à precarização do sistema de saúde.",
+        "C": "Queda nas taxas de fecundidade e melhoria nas condições de saneamento e medicina.",
+        "D": "Políticas públicas que incentivam a migração de jovens para o exterior.",
+        "E": "Estagnação do crescimento econômico nas médias cidades brasileiras."
+      },
+      "gabarito": "C",
+      "dica": "Envelhecimento ocorre quando nascem menos pessoas e as que existem vivem mais.",
+      "resolucao_detalhada": "A queda na taxa de fecundidade (menos filhos por mulher) e o aumento da longevidade são os motores do envelhecimento populacional no país."
+    },
+    {
+      "id": "Q23",
+      "disciplina": "Geografia",
+      "tema": "Geopolítica / Blocos Econômicos",
+      "prova": "UNIVESP 2025",
+      "enunciado": "O BRICS, grupo composto originalmente por Brasil, Rússia, Índia, China e África do Sul, tem como um de seus principais objetivos geopolíticos:",
+      "alternativas": {
+        "A": "A criação de uma união monetária com moeda única obrigatória.",
+        "B": "A subordinação das economias emergentes às diretrizes do FMI.",
+        "C": "O fortalecimento da cooperação mútua e a busca por uma ordem mundial mais multipolar.",
+        "D": "A formação de uma aliança militar defensiva contra potências asiáticas.",
+        "E": "O isolamento comercial dos países membros em relação ao mercado europeu."
+      },
+      "gabarito": "C",
+      "dica": "Os BRICS buscam maior representatividade dos países emergentes no cenário global.",
+      "resolucao_detalhada": "O bloco visa cooperação econômica e política para equilibrar o poder das potências tradicionais (G7)."
+    },
+    {
+      "id": "Q24",
+      "disciplina": "Geografia",
+      "tema": "Agronegócio / Impactos Ambientais",
+      "prova": "UNIVESP 2025",
+      "enunciado": "A expansão da fronteira agrícola no Brasil, especialmente em direção à região do MATOPIBA (Maranhão, Tocantins, Piauí e Bahia), tem sido impulsionada pela produção de grãos. O bioma predominantemente afetado por essa expansão é o:",
+      "alternativas": {
+        "A": "Pantanal",
+        "B": "Cerrado",
+        "C": "Pampa",
+        "D": "Mata Atlântica",
+        "E": "Caatinga"
+      },
+      "gabarito": "B",
+      "dica": "Esta região é considerada a nova fronteira agrícola do Brasil central.",
+      "resolucao_detalhada": "O MATOPIBA situa-se majoritariamente em áreas de Cerrado, sendo hoje uma das zonas de maior expansão da soja e do milho."
+    },
+    {
+      "id": "Q25",
+      "disciplina": "Geografia",
+      "tema": "Matriz Energética",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Sobre a matriz elétrica brasileira, a principal fonte de geração de energia, apesar do crescimento das fontes eólica e solar, continua sendo a:",
+      "alternativas": {
+        "A": "Nuclear",
+        "B": "Termoelétrica a carvão",
+        "C": "Hidrelétrica",
+        "D": "Geotérmica",
+        "E": "Maremotriz"
+      },
+      "gabarito": "C",
+      "dica": "O Brasil possui uma vasta rede de rios planálticos favoráveis a essa tecnologia.",
+      "resolucao_detalhada": "Apesar da diversificação, a energia hidrelétrica ainda responde por mais de 50% da matriz elétrica nacional."
+    },
+    {
+      "id": "Q26",
+      "disciplina": "Matemática",
+      "tema": "Conjuntos / Diagramas de Venn",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Em um grupo de 100 candidatos, 60 possuem conhecimentos em Python, 45 em SQL e 20 em ambas as linguagens. O número de candidatos que não possuem conhecimento em nenhuma dessas duas linguagens é:",
+      "alternativas": {
+        "A": "5",
+        "B": "15",
+        "C": "20",
+        "D": "25",
+        "E": "35"
+      },
+      "gabarito": "B",
+      "dica": "Use a fórmula n(A U B) = n(A) + n(B) - n(A ∩ B).",
+      "resolucao_detalhada": "n(A U B) = 60 + 45 - 20 = 85. O total é 100, logo 100 - 85 = 15 candidatos não conhecem nenhuma."
+    },
+    {
+      "id": "Q27",
+      "disciplina": "Matemática",
+      "tema": "Função de 1º Grau",
+      "prova": "UNIVESP 2025",
+      "enunciado": "O custo de produção de uma fábrica de softwares é composto por um valor fixo de R$ 5.000,00 mais um custo variável de R$ 150,00 por licença emitida. A expressão que representa o custo total (C) em função do número de licenças (x) é:",
+      "alternativas": {
+        "A": "C(x) = 5000x + 150",
+        "B": "C(x) = 5150x",
+        "C": "C(x) = 150x + 5000",
+        "D": "C(x) = 150x - 5000",
+        "E": "C(x) = 5000 / 150x"
+      },
+      "gabarito": "C",
+      "dica": "O valor fixo é o coeficiente linear (b) e o variável é o angular (a).",
+      "resolucao_detalhada": "A estrutura de uma função afim é f(x) = ax + b. Aqui, a = 150 e b = 5000."
+    },
+    {
+      "id": "Q28",
+      "disciplina": "Matemática",
+      "tema": "Trigonometria / Triângulo Retângulo",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Um técnico precisa instalar uma antena no topo de um prédio. Ele observa o topo sob um ângulo de 30º a uma distância de 40 metros da base. Desprezando a altura do técnico, a altura do prédio é aproximadamente: (Considere tan 30º = 0,58)",
+      "alternativas": {
+        "A": "20,0 m",
+        "B": "23,2 m",
+        "C": "34,6 m",
+        "D": "40,0 m",
+        "E": "69,2 m"
+      },
+      "gabarito": "B",
+      "dica": "Use a relação tan(θ) = cateto oposto / cateto adjacente.",
+      "resolucao_detalhada": "tan(30º) = h / 40 -> 0,58 = h / 40 -> h = 0,58 * 40 = 23,2 metros."
+    },
+    {
+      "id": "Q29",
+      "disciplina": "Matemática",
+      "tema": "Logaritmos",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Se log 2 = 0,30 e log 3 = 0,48, o valor aproximado de log 6 é:",
+      "alternativas": {
+        "A": "0,18",
+        "B": "0,39",
+        "C": "0,78",
+        "D": "0,90",
+        "E": "1,44"
+      },
+      "gabarito": "C",
+      "dica": "Use a propriedade log(a * b) = log a + log b.",
+      "resolucao_detalhada": "log 6 = log(2 * 3) = log 2 + log 3 = 0,30 + 0,48 = 0,78."
+    },
+    {
+      "id": "Q30",
+      "disciplina": "Matemática",
+      "tema": "Probabilidade",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Em uma urna com 5 bolas azuis, 3 vermelhas e 2 brancas, a probabilidade de se retirar, ao acaso, uma bola que não seja azul é:",
+      "alternativas": {
+        "A": "20%",
+        "B": "30%",
+        "C": "50%",
+        "D": "70%",
+        "E": "80%"
+      },
+      "gabarito": "C",
+      "dica": "Calcule o total de bolas e as bolas favoráveis (varmelhas + brancas).",
+      "resolucao_detalhada": "Total = 10. Favoráveis (não azuis) = 3 + 2 = 5. P = 5/10 = 0,5 ou 50%."
+    },
+    {
+      "id": "Q31",
+      "disciplina": "Matemática",
+      "tema": "Razão e Proporção",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Em um curso da UNIVESP, a razão entre o número de alunos matriculados em Ciência de Dados e em Engenharia de Computação é de 4 para 7. Se o número total de alunos nesses dois cursos é 132, a diferença entre o número de alunos de Engenharia de Computação e de Ciência de Dados é:",
+      "alternativas": {
+        "A": "24",
+        "B": "36",
+        "C": "48",
+        "D": "60",
+        "E": "84"
+      },
+      "gabarito": "B",
+      "dica": "Represente os alunos como 4x e 7x. A soma deve ser 132.",
+      "resolucao_detalhada": "4x + 7x = 132 -> 11x = 132 -> x = 12. Ciência de Dados = 4 * 12 = 48. Engenharia = 7 * 12 = 84. Diferença = 84 - 48 = 36."
+    },
+    {
+      "id": "Q32",
+      "disciplina": "Matemática",
+      "tema": "Sequências / Progressão Aritmética (PA)",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Uma sequência de figuras é formada por quadradinhos pretos. A Figura 1 tem 2 quadradinhos, a Figura 2 tem 5, a Figura 3 tem 8, e assim sucessivamente, seguindo um padrão linear. O número de quadradinhos pretos na Figura 10 será:",
+      "alternativas": {
+        "A": "26",
+        "B": "28",
+        "C": "29",
+        "D": "31",
+        "E": "32"
+      },
+      "gabarito": "C",
+      "dica": "Identifique o primeiro termo (a1 = 2) e a razão (r = 3). Use an = a1 + (n - 1) * r.",
+      "resolucao_detalhada": "a10 = 2 + (10 - 1) * 3 -> a10 = 2 + 9 * 3 -> a10 = 2 + 27 = 29."
+    },
+    {
+      "id": "Q33",
+      "disciplina": "Matemática",
+      "tema": "Porcentagem / Juros Simples",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Um capital de R$ 2.000,00 foi aplicado a juros simples com uma taxa de 2% ao mês. O montante após 5 meses de aplicação será:",
+      "alternativas": {
+        "A": "R$ 200,00",
+        "B": "R$ 2.100,00",
+        "C": "R$ 2.200,00",
+        "D": "R$ 2.400,00",
+        "E": "R$ 3.000,00"
+      },
+      "gabarito": "C",
+      "dica": "J = C * i * t e M = C + J.",
+      "resolucao_detalhada": "J = 2000 * 0,02 * 5 = 200. Montante = 2000 + 200 = 2200."
+    },
+    {
+      "id": "Q34",
+      "disciplina": "Matemática",
+      "tema": "Geometria Plana / Áreas",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Um terreno retangular possui 15 metros de largura e 25 metros de comprimento. Deseja-se construir uma calçada de 1 metro de largura ao redor de todo o terreno (por fora). A área total ocupada pela calçada será de:",
+      "alternativas": {
+        "A": "40 m²",
+        "B": "80 m²",
+        "C": "84 m²",
+        "D": "90 m²",
+        "E": "100 m²"
+      },
+      "gabarito": "C",
+      "dica": "Calcule a área do retângulo maior (com a calçada) e subtraia a área do terreno original.",
+      "resolucao_detalhada": "Novo comprimento = 25 + 1 + 1 = 27m. Nova largura = 15 + 1 + 1 = 17m. Área total = 27 * 17 = 459m². Área terreno = 25 * 15 = 375m². Área calçada = 459 - 375 = 84m²."
+    },
+    {
+      "id": "Q35",
+      "disciplina": "Matemática",
+      "tema": "Estatística / Média Aritmética",
+      "prova": "UNIVESP 2025",
+      "enunciado": "As notas de um estudante em quatro avaliações foram: 6,5; 7,0; 8,5 e 8,0. Para que ele termine o semestre com uma média final de 8,0, a nota mínima que ele deve obter na quinta e última avaliação é:",
+      "alternativas": {
+        "A": "8,0",
+        "B": "9,0",
+        "C": "9,5",
+        "D": "10,0",
+        "E": "O estudante não conseguirá atingir a média 8,0."
+      },
+      "gabarito": "D",
+      "dica": "A soma das cinco notas dividida por 5 deve ser igual a 8.",
+      "resolucao_detalhada": "(6,5 + 7,0 + 8,5 + 8,0 + x) / 5 = 8,0 -> 30,0 + x = 40,0 -> x = 10,0."
+    },
+    {
+      "id": "Q36",
+      "disciplina": "Física",
+      "tema": "Mecânica / Cinemática",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Um veículo elétrico parte do repouso e atinge a velocidade de 72 km/h em 10 segundos, mantendo uma aceleração constante. A distância percorrida por esse veículo durante esse intervalo de tempo é:",
+      "alternativas": {
+        "A": "50 metros",
+        "B": "100 metros",
+        "C": "150 metros",
+        "D": "200 metros",
+        "E": "250 metros"
+      },
+      "gabarito": "B",
+      "dica": "Converta 72 km/h para m/s dividindo por 3,6. Use a fórmula d = (v0 + v)/2 * t.",
+      "resolucao_detalhada": "1. 72 km/h = 20 m/s. 2. Distância = (0 + 20)/2 * 10 = 10 * 10 = 100 metros."
+    },
+    {
+      "id": "Q37",
+      "disciplina": "Física",
+      "tema": "Termodinâmica",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Uma determinada massa de gás ideal sofre uma transformação isobárica (pressão constante). Se a temperatura absoluta do gás for duplicada, o volume ocupado pelo gás:",
+      "alternativas": {
+        "A": "Reduzir-se-á à metade.",
+        "B": "Permanecerá constante.",
+        "C": "Aumentará quatro vezes.",
+        "D": "Será também duplicado.",
+        "E": "Tornar-se-á nulo."
+      },
+      "gabarito": "D",
+      "dica": "Use a Lei de Charles: V1/T1 = V2/T2.",
+      "resolucao_detalhada": "Numa transformação isobárica, volume e temperatura absoluta são diretamente proporcionais. Se T dobra, V dobra."
+    },
+    {
+      "id": "Q38",
+      "disciplina": "Física",
+      "tema": "Óptica / Refração",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Um feixe de luz monocromática passa do ar para um bloco de vidro. Sabendo que o índice de refração do ar é 1,0 e o do vidro é 1,5, sobre a velocidade da luz (v) e a frequência (f) nesse processo, é correto afirmar que:",
+      "alternativas": {
+        "A": "v aumenta e f permanece constante.",
+        "B": "v diminui e f permanece constante.",
+        "C": "v e f aumentam proporcionalmente.",
+        "D": "v permanece constante e f diminui.",
+        "E": "v e f permanecem constantes."
+      },
+      "gabarito": "B",
+      "dica": "Lembre-se que a frequência é uma característica da fonte e não muda na refração.",
+      "resolucao_detalhada": "Na refração, a frequência não se altera. Como o índice de refração (n = c/v) do vidro é maior que o do ar, a velocidade da luz diminui ao entrar no vidro."
+    },
+    {
+      "id": "Q39",
+      "disciplina": "Física",
+      "tema": "Eletrodinâmica / Leis de Ohm",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Um resistor de 10 ohms é submetido a uma diferença de potencial de 110V. A corrente elétrica que percorre o resistor e a potência dissipada são, respetivamente:",
+      "alternativas": {
+        "A": "11A e 1210W",
+        "B": "10A e 1100W",
+        "C": "11A e 110W",
+        "D": "1A e 110W",
+        "E": "110A e 1100W"
+      },
+      "gabarito": "A",
+      "dica": "Use U = R * i e P = U * i.",
+      "resolucao_detalhada": "1. i = U/R = 110/10 = 11A. 2. P = 110 * 11 = 1210W."
+    },
+    {
+      "id": "Q40",
+      "disciplina": "Física",
+      "tema": "Ondulatória / Som",
+      "prova": "UNIVESP 2025",
+      "enunciado": "A característica das ondas sonoras que nos permite distinguir entre um som grave (baixo) e um som agudo (alto) é denominada:",
+      "alternativas": {
+        "A": "Timbre",
+        "B": "Intensidade",
+        "C": "Altura",
+        "D": "Amplitude",
+        "E": "Velocidade"
+      },
+      "gabarito": "C",
+      "dica": "Na música e na física, 'altura' não tem a ver com volume, mas com frequência.",
+      "resolucao_detalhada": "A altura do som é determinada pela frequência da onda. Sons de alta frequência são agudos e sons de baixa frequência são graves."
+    },
+    {
+      "id": "Q41",
+      "disciplina": "Física",
+      "tema": "Física Moderna / Efeito Fotoelétrico",
+      "prova": "UNIVESP 2025",
+      "enunciado": "O efeito fotoelétrico, que consiste na emissão de eletrões por um material quando exposto a radiação eletromagnética de frequência adequada, foi explicado por Albert Einstein utilizando o conceito de:",
+      "alternativas": {
+        "A": "Ondas de rádio contínuas.",
+        "B": "Quantização da energia em fotões.",
+        "C": "Éter luminífero.",
+        "D": "Refração total interna.",
+        "E": "Teoria da relatividade geral."
+      },
+      "gabarito": "B",
+      "dica": "Einstein propôs que a luz se comporta como pacotes de energia.",
+      "resolucao_detalhada": "A explicação do efeito fotoelétrico baseia-se na ideia de que a luz é composta por partículas chamadas fotões, cada uma carregando um 'quantum' de energia proporcional à sua frequência."
+    },
+    {
+      "id": "Q42",
+      "disciplina": "Química",
+      "tema": "Química Geral / Atomística",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Um átomo neutro de um determinado elemento químico possui 15 protões e 16 neutrões em seu núcleo. Sobre esse átomo, é correto afirmar que seu número atômico (Z) e seu número de massa (A) são, respetivamente:",
+      "alternativas": {
+        "A": "15 e 16",
+        "B": "16 e 15",
+        "C": "15 e 31",
+        "D": "31 e 15",
+        "E": "16 e 31"
+      },
+      "gabarito": "C",
+      "dica": "Z é o número de protões. A é a soma de protões e neutrões.",
+      "resolucao_detalhada": "Z = 15. A = 15 + 16 = 31."
+    },
+    {
+      "id": "Q43",
+      "disciplina": "Química",
+      "tema": "Estequiometria",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Na reação de combustão completa do metano (CH4 + 2 O2 -> CO2 + 2 H2O), a massa de dióxido de carbono produzida a partir da queima de 16g de metano (massa molar = 16 g/mol) é de: (Massas molares: C=12, O=16)",
+      "alternativas": {
+        "A": "16g",
+        "B": "32g",
+        "C": "44g",
+        "D": "64g",
+        "E": "80g"
+      },
+      "gabarito": "C",
+      "dica": "Observe a proporção molar 1:1 entre CH4 e CO2.",
+      "resolucao_detalhada": "1 mol de CH4 (16g) produz 1 mol de CO2. Massa molar do CO2 = 12 + (2*16) = 44g."
+    },
+    {
+      "id": "Q44",
+      "disciplina": "Química",
+      "tema": "Química Orgânica / Funções",
+      "prova": "UNIVESP 2025",
+      "enunciado": "A substância responsável pelo aroma de muitas frutas é frequentemente um éster. A reação entre um ácido carboxílico e um álcool, que produz um éster e água, é denominada:",
+      "alternativas": {
+        "A": "Saponificação",
+        "B": "Esterificação",
+        "C": "Hidrólise",
+        "D": "Polimerização",
+        "E": "Neutralização"
+      },
+      "gabarito": "B",
+      "dica": "O nome da reação está diretamente ligado ao nome do produto formado.",
+      "resolucao_detalhada": "A reação de esterificação de Fischer ocorre entre um ácido carboxílico e um álcool, sob catálise ácida, gerando éster e água."
+    },
+    {
+      "id": "Q45",
+      "disciplina": "Química",
+      "tema": "Soluções / Concentração",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Uma solução foi preparada dissolvendo-se 20g de cloreto de sódio (NaCl) em água suficiente para completar 500 mL de solução. A concentração comum dessa solução em g/L é:",
+      "alternativas": {
+        "A": "10 g/L",
+        "B": "20 g/L",
+        "C": "40 g/L",
+        "D": "50 g/L",
+        "E": "100 g/L"
+      },
+      "gabarito": "C",
+      "dica": "C = massa / volume (em litros). Lembre-se que 500 mL = 0,5 L.",
+      "resolucao_detalhada": "C = 20g / 0,5L = 40 g/L."
+    },
+    {
+      "id": "Q46",
+      "disciplina": "Química",
+      "tema": "Termoquímica / Entalpia",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Uma reação química que ocorre com absorção de calor do meio ambiente, resultando em um aumento da entalpia do sistema (ΔH > 0), é classificada como:",
+      "alternativas": {
+        "A": "Exotérmica",
+        "B": "Endotérmica",
+        "C": "Isotérmica",
+        "D": "Adiabática",
+        "E": "Espontânea"
+      },
+      "gabarito": "B",
+      "dica": "O prefixo 'endo' indica 'para dentro'.",
+      "resolucao_detalhada": "Reações endotérmicas são aquelas que absorvem energia térmica para ocorrer, aumentando a energia interna dos produtos em relação aos reagentes."
+    },
+    {
+      "id": "Q47",
+      "disciplina": "Química",
+      "tema": "Equilíbrio Químico / Princípio de Le Chatelier",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Em um sistema em equilíbrio químico, o aumento da concentração de um dos reagentes provoca um deslocamento do equilíbrio no sentido de:",
+      "alternativas": {
+        "A": "Consumir o excesso do reagente adicionado, favorecendo os produtos.",
+        "B": "Aumentar ainda mais a concentração desse reagente.",
+        "C": "Diminuir a velocidade da reação direta.",
+        "D": "Manter as concentrações inalteradas, independentemente da perturbação.",
+        "E": "Solidificar todos os componentes do sistema."
+      },
+      "gabarito": "A",
+      "dica": "O sistema tenta sempre anular a perturbação sofrida.",
+      "resolucao_detalhada": "De acordo com o Princípio de Le Chatelier, o sistema desloca-se para minimizar a alteração. Adicionar reagente desloca o equilíbrio para a direita (produtos)."
+    },
+    {
+      "id": "Q48",
+      "disciplina": "Biologia",
+      "tema": "Genética / Mendelismo",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Em um cruzamento entre dois indivíduos heterozigóticos (Aa x Aa) para uma característica com dominância completa, a probabilidade esperada de descendentes com o fenótipo recessivo é de:",
+      "alternativas": {
+        "A": "0%",
+        "B": "25%",
+        "C": "50%",
+        "D": "75%",
+        "E": "100%"
+      },
+      "gabarito": "B",
+      "dica": "Faça o quadrado de Punnett.",
+      "resolucao_detalhada": "Os genótipos são AA, Aa, Aa, aa. Somente 'aa' manifesta o fenótipo recessivo (1 em 4)."
+    },
+    {
+      "id": "Q49",
+      "disciplina": "Biologia",
+      "tema": "Evolução / Darwinismo",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Segundo a teoria da Seleção Natural proposta por Charles Darwin, os indivíduos que sobrevivem e se reproduzem com mais sucesso são aqueles que:",
+      "alternativas": {
+        "A": "São fisicamente mais fortes e agressivos.",
+        "B": "Adquirem características úteis pelo uso frequente de um órgão.",
+        "C": "Apresentam variações favoráveis que os tornam mais adaptados ao meio.",
+        "D": "Sofrem mutações induzidas propositadamente pelo ambiente.",
+        "E": "Conseguem migrar para locais sem competidores."
+      },
+      "gabarito": "C",
+      "dica": "Diferencie Darwin (seleção) de Lamarck (uso e desuso).",
+      "resolucao_detalhada": "Darwin propôs que o meio 'seleciona' os indivíduos cujas características pré-existentes permitem uma melhor adaptação e sobrevivência."
+    },
+    {
+      "id": "Q50",
+      "disciplina": "Biologia",
+      "tema": "Ecologia / Cadeia Alimentar",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Em uma cadeia alimentar composta por: Capim -> Grilo -> Sapo -> Cobra, o sapo ocupa o nível trófico de:",
+      "alternativas": {
+        "A": "Produtor",
+        "B": "Consumidor Primário",
+        "C": "Consumidor Secundário",
+        "D": "Consumidor Terciário",
+        "E": "Decompositor"
+      },
+      "gabarito": "C",
+      "dica": "O produtor é o 1º nível. Quem come o produtor é o consumidor primário.",
+      "resolucao_detalhada": "Capim (Produtor), Grilo (Consumidor Primário), Sapo (Consumidor Secundário) e Cobra (Consumidor Terciário)."
+    },
+    {
+      "id": "Q51",
+      "disciplina": "Biologia",
+      "tema": "Fisiologia Humana / Sistema Imunológico",
+      "prova": "UNIVESP 2025",
+      "enunciado": "As vacinas atuam estimulando o sistema imunológico a produzir uma resposta protetora contra patógenos. Esse tipo de imunidade, caracterizado pela produção de anticorpos pelo próprio organismo após o estímulo, é chamado de:",
+      "alternativas": {
+        "A": "Imunidade Passiva Natural",
+        "B": "Imunidade Passiva Artificial",
+        "C": "Imunidade Ativa Artificial",
+        "D": "Imunidade Inata",
+        "E": "Barreira Mecânica"
+      },
+      "gabarito": "C",
+      "dica": "Se o corpo produz os anticorpos, é ativa. Se foi via vacina, é artificial.",
+      "resolucao_detalhada": "A vacinação introduz um antígeno para que o corpo produza ativamente as suas próprias células de memória e anticorpos, sendo, portanto, ativa e artificial."
+    },
+    {
+      "id": "Q52",
+      "disciplina": "Biologia",
+      "tema": "Botânica / Grupos Vegetais",
+      "prova": "UNIVESP 2025",
+      "enunciado": "O grupo de plantas que se caracteriza pela presença de flores e frutos, garantindo maior eficiência na polinização e dispersão de sementes, é o das:",
+      "alternativas": {
+        "A": "Briófitas",
+        "B": "Pteridófitas",
+        "C": "Gimnospermas",
+        "D": "Angiospermas",
+        "E": "Algas Verdes"
+      },
+      "gabarito": "D",
+      "dica": "Pense no grupo mais evoluído e diverso do reino vegetal.",
+      "resolucao_detalhada": "As Angiospermas são as únicas que possuem flores e frutos, estruturas que protegem a semente e auxiliam na reprodução."
+    },
+    {
+      "id": "Q53",
+      "disciplina": "Biologia",
+      "tema": "Citologia / Divisão Celular",
+      "prova": "UNIVESP 2025",
+      "enunciado": "O processo de divisão celular que resulta na formação de quatro células-filhas com metade do número de cromossomas da célula-mãe, essencial para a formação de gâmetas, é a:",
+      "alternativas": {
+        "A": "Mitose",
+        "B": "Fissão Binária",
+        "C": "Meiose",
+        "D": "Gemulação",
+        "E": "Esporulamento"
+      },
+      "gabarito": "C",
+      "dica": "É a divisão 'reducional'.",
+      "resolucao_detalhada": "A meiose reduz o número de cromossomas a metade (n) para manter a ploidia da espécie após a fecundação."
+    },
+    {
+      "id": "Q54",
+      "disciplina": "Biologia",
+      "tema": "Reinos da Natureza / Fungi",
+      "prova": "UNIVESP 2025",
+      "enunciado": "Os fungos são organismos eucariontes que desempenham um papel vital nos ecossistemas como decompositores. Diferente das plantas, os fungos são:",
+      "alternativas": {
+        "A": "Autotróficos fotossintetizantes.",
+        "B": "Heterotróficos por absorção.",
+        "C": "Procariontes unicelulares.",
+        "D": "Capazes de locomoção ativa por flagelos em todas as fases.",
+        "E": "Desprovidos de parede celular."
+      },
+      "gabarito": "B",
+      "dica": "Fungos não fazem fotossíntese; eles 'comem' matéria orgânica externamente.",
+      "resolucao_detalhada": "Fungos são heterotróficos e absorvem nutrientes após secretarem enzimas digestivas no ambiente. Possuem parede celular de quitina."
+    },
+    {
+      "id": "Q55",
+      "disciplina": "Biologia",
+      "tema": "Saúde Pública / Viroses",
+      "prova": "UNIVESP 2025",
+      "enunciado": "A Dengue, a Zika e a Chikungunya são doenças transmitidas pelo mesmo vetor. O agente etiológico e o vetor dessas doenças são, respetivamente:",
+      "alternativas": {
+        "A": "Bactérias e o mosquito Anopheles.",
+        "B": "Vírus e o mosquito Aedes aegypti.",
+        "C": "Protozoários e o barbeiro.",
+        "D": "Fungos e o carrapato estrela.",
+        "E": "Vírus e a mosca doméstica."
+      },
+      "gabarito": "B",
+      "dica": "Foco nas arboviroses urbanas mais comuns no Brasil.",
+      "resolucao_detalhada": "As três doenças são causadas por diferentes vírus e partilham o Aedes aegypti como principal forma de transmissão para humanos."
+    },
+    {
+      "id": "Q56",
+      "disciplina": "Biologia",
+      "tema": "Bioética / Biotecnologia",
+      "prova": "UNIVESP 2025",
+      "enunciado": "A técnica de edição genómica que permite realizar alterações precisas no DNA de organismos vivos, utilizando uma enzima e um RNA guia, é conhecida como:",
+      "alternativas": {
+        "A": "Clonagem terapêutica.",
+        "B": "Reação em Cadeia da Polimerase (PCR).",
+        "C": "CRISPR-Cas9.",
+        "D": "Eletroforese em gel.",
+        "E": "Transfecção retroviral."
+      },
+      "gabarito": "C",
+      "dica": "É a 'tesoura genética' que rendeu o Nobel recentemente.",
+      "resolucao_detalhada": "O sistema CRISPR-Cas9 é uma ferramenta de edição de genes que permite aos cientistas cortar e editar sequências de DNA de forma muito exata."
+    }
+  ]
+}
