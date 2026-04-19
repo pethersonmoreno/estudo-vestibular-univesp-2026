@@ -1,0 +1,257 @@
+[
+  {
+    "id": "Q_D1_01",
+    "disciplina": "Matemática",
+    "tema": "Razões e Proporcionalidade",
+    "prova": "Simulado Base Vunesp",
+    "enunciado": "Em um mapa, a distância entre duas cidades é de 5 cm. A escala do mapa é 1:500.000. A distância real entre essas cidades, em quilômetros, é:",
+    "alternativas": {
+      "A": "2,5 km",
+      "B": "25 km",
+      "C": "250 km",
+      "D": "50 km",
+      "E": "500 km"
+    },
+    "gabarito": "B",
+    "dica": "Multiplique a distância no mapa pelo denominador da escala e converta cm para km (divida por 100.000).",
+    "resolucao_detalhada": "5 cm * 500.000 = 2.500.000 cm. Convertendo: 2.500.000 / 100.000 = 25 km."
+  },
+  {
+    "id": "Q_D1_02",
+    "disciplina": "Matemática",
+    "tema": "Sequências / Progressão Geométrica (PG)",
+    "prova": "Simulado Base Vunesp",
+    "enunciado": "Uma cultura de bactérias dobra de volume a cada hora. Se no início (t=0) o volume era de 10 ml, o volume após 4 horas será de:",
+    "alternativas": {
+      "A": "40 ml",
+      "B": "50 ml",
+      "C": "80 ml",
+      "D": "160 ml",
+      "E": "320 ml"
+    },
+    "gabarito": "D",
+    "dica": "Trata-se de uma PG onde a1 = 10 (no tempo 0) ou considere an = a0 * q^n.",
+    "resolucao_detalhada": "Volume = 10 * 2^4 = 10 * 16 = 160 ml."
+  },
+  {
+    "id": "Q_D1_03",
+    "disciplina": "Matemática",
+    "tema": "Sistemas Lineares",
+    "prova": "Simulado Base Vunesp",
+    "enunciado": "Em um estacionamento há carros (4 rodas) e motos (2 rodas). No total, há 20 veículos e 64 rodas. O número de carros é:",
+    "alternativas": {
+      "A": "10",
+      "B": "12",
+      "C": "14",
+      "D": "16",
+      "E": "8"
+    },
+    "gabarito": "B",
+    "dica": "Monte o sistema: x + y = 20 e 4x + 2y = 64.",
+    "resolucao_detalhada": "y = 20 - x -> 4x + 2(20 - x) = 64 -> 2x = 24 -> x = 12 carros."
+  },
+  {
+    "id": "Q_D1_04",
+    "disciplina": "Matemática",
+    "tema": "Razão e Proporção",
+    "prova": "Base Vunesp / UNIVESP",
+    "enunciado": "A razão entre o número de homens e o número de mulheres em uma sala de aula é de 3/5. Se há 40 pessoas no total, o número de mulheres supera o de homens em:",
+    "alternativas": {
+      "A": "5",
+      "B": "8",
+      "C": "10",
+      "D": "12",
+      "E": "15"
+    },
+    "gabarito": "C",
+    "dica": "Use a constante de proporcionalidade 'k'. 3k + 5k = 40. Ache k e depois a diferença 5k - 3k.",
+    "resolucao_detalhada": "8k = 40 -> k = 5. Homens = 15, Mulheres = 25. Diferença = 10."
+  },
+  {
+    "id": "Q_D1_05",
+    "disciplina": "Matemática",
+    "tema": "Sistemas Lineares",
+    "prova": "Base Vunesp / UNIVESP",
+    "enunciado": "Em uma papelaria, 3 canetas e 2 lápis custam R$ 16,00. Já 2 canetas e 3 lápis custam R$ 14,00. O preço de uma caneta e um lápis juntos é:",
+    "alternativas": {
+      "A": "R$ 5,00",
+      "B": "R$ 6,00",
+      "C": "R$ 7,00",
+      "D": "R$ 8,00",
+      "E": "R$ 9,00"
+    },
+    "gabarito": "B",
+    "dica": "Some as duas equações: (3c + 2l) + (2c + 3l) = 16 + 14. Depois divida por 5.",
+    "resolucao_detalhada": "5c + 5l = 30 -> c + l = 6. O valor conjunto é R$ 6,00."
+  },
+  {
+    "id": "Q_D1_06",
+    "disciplina": "Matemática",
+    "tema": "Progressão Aritmética (PA)",
+    "prova": "Base Vunesp / UNIVESP",
+    "enunciado": "O vigésimo termo da PA (–8, –5, –2, ...) é:",
+    "alternativas": {
+      "A": "49",
+      "B": "52",
+      "C": "55",
+      "D": "58",
+      "E": "61"
+    },
+    "gabarito": "A",
+    "dica": "Identifique a1 = -8 e r = 3. Use an = a1 + (n-1) * r.",
+    "resolucao_detalhada": "a20 = -8 + (19 * 3) = -8 + 57 = 49."
+  },
+  {
+    "id": "Q_D1_07",
+    "disciplina": "Matemática",
+    "tema": "Proporcionalidade Inversa",
+    "prova": "Base Vunesp / UNIVESP",
+    "enunciado": "Três operários levam 8 dias para realizar uma reforma. Se a equipe fosse composta por 4 operários, com a mesma produtividade, o tempo gasto seria de:",
+    "alternativas": {
+      "A": "4 dias",
+      "B": "5 dias",
+      "C": "6 dias",
+      "D": "10 dias",
+      "E": "12 dias"
+    },
+    "gabarito": "C",
+    "dica": "Grandezas inversamente proporcionais: operários * dias = constante.",
+    "resolucao_detalhada": "3 * 8 = 4 * x -> 24 = 4x -> x = 6 dias."
+  },
+  {
+    "id": "Q_D1_08",
+    "disciplina": "Matemática",
+    "tema": "Progressão Geométrica (PG)",
+    "prova": "Base Vunesp / UNIVESP",
+    "enunciado": "Em uma PG de termos positivos, o primeiro termo é 2 e o terceiro termo é 18. A razão dessa PG é:",
+    "alternativas": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6",
+      "E": "9"
+    },
+    "gabarito": "B",
+    "dica": "Use a3 = a1 * q².",
+    "resolucao_detalhada": "18 = 2 * q² -> q² = 9 -> q = 3 (termo positivo)."
+  },
+  {
+    "id": "Q_D1_09",
+    "disciplina": "Matemática",
+    "tema": "Sistemas Lineares / Geometria",
+    "prova": "Base Vunesp / UNIVESP",
+    "enunciado": "A soma da base com a altura de um retângulo é 15 cm. A diferença entre a base e a altura é 3 cm. A área desse retângulo é:",
+    "alternativas": {
+      "A": "45 cm²",
+      "B": "50 cm²",
+      "C": "54 cm²",
+      "D": "60 cm²",
+      "E": "63 cm²"
+    },
+    "gabarito": "C",
+    "dica": "Resolva o sistema b + h = 15 e b - h = 3 para achar b e h. Depois multiplique.",
+    "resolucao_detalhada": "2b = 18 -> b = 9; 9 + h = 15 -> h = 6. Área = 9 * 6 = 54."
+  },
+  {
+    "id": "Q_D1_10",
+    "disciplina": "Matemática",
+    "tema": "Proporção ao Quadrado",
+    "prova": "Base Vunesp / UNIVESP",
+    "enunciado": "A energia cinética de um objeto é proporcional ao quadrado de sua velocidade. Se a 20 km/h a energia é E, qual será a energia se a velocidade dobrar para 40 km/h?",
+    "alternativas": {
+      "A": "2E",
+      "B": "3E",
+      "C": "4E",
+      "D": "8E",
+      "E": "16E"
+    },
+    "gabarito": "C",
+    "dica": "Se a grandeza é proporcional ao quadrado, dobrar o valor base quadruplica o resultado (2² = 4).",
+    "resolucao_detalhada": "E = k * v². Se v' = 2v, então E' = k * (2v)² = 4 * (k * v²) = 4E."
+  },
+  {
+    "id": "Q_D1_11",
+    "disciplina": "Matemática",
+    "tema": "Sequências / Lei de Formação",
+    "prova": "Base Vunesp / UNIVESP",
+    "enunciado": "Considere a sequência an = 3n + 1, para n ≥ 1. A soma dos três primeiros termos dessa sequência é:",
+    "alternativas": {
+      "A": "13",
+      "B": "18",
+      "C": "21",
+      "D": "24",
+      "E": "26"
+    },
+    "gabarito": "C",
+    "dica": "Calcule a1, a2 e a3 substituindo n por 1, 2 e 3.",
+    "resolucao_detalhada": "a1=4, a2=7, a3=10. Soma = 4 + 7 + 10 = 21."
+  },
+  {
+    "id": "Q_D1_12",
+    "disciplina": "Matemática",
+    "tema": "Divisão Proporcional",
+    "prova": "Base Vunesp / UNIVESP",
+    "enunciado": "Um prêmio de R$ 1.200,00 será dividido entre dois funcionários de forma diretamente proporcional ao tempo de serviço: 2 e 3 anos, respectivamente. O funcionário mais antigo receberá:",
+    "alternativas": {
+      "A": "R$ 480,00",
+      "B": "R$ 600,00",
+      "C": "R$ 720,00",
+      "D": "R$ 800,00",
+      "E": "R$ 900,00"
+    },
+    "gabarito": "C",
+    "dica": "Divida o total pela soma das partes (2+3=5) e multiplique pela parte desejada (3).",
+    "resolucao_detalhada": "1200 / 5 = 240. Prêmio = 3 * 240 = 720."
+  },
+  {
+    "id": "Q_D1_13",
+    "disciplina": "Matemática",
+    "tema": "Sistemas Lineares / Problema",
+    "prova": "Base Vunesp / UNIVESP",
+    "enunciado": "Em um teste de 20 questões, cada acerto ganha 5 pontos e cada erro perde 2 pontos. Se um aluno fez 72 pontos, quantas questões ele acertou?",
+    "alternativas": {
+      "A": "14",
+      "B": "15",
+      "C": "16",
+      "D": "17",
+      "E": "18"
+    },
+    "gabarito": "C",
+    "dica": "x + y = 20 e 5x - 2y = 72. Isole y na primeira e substitua na segunda.",
+    "resolucao_detalhada": "y = 20-x -> 5x - 2(20-x) = 72 -> 7x = 112 -> x = 16."
+  },
+  {
+    "id": "Q_D1_14",
+    "disciplina": "Matemática",
+    "tema": "Soma de PG Infinita",
+    "prova": "Base Vunesp / UNIVESP",
+    "enunciado": "A soma dos termos da sequência infinita (10, 5, 2.5, 1.25, ...) é:",
+    "alternativas": {
+      "A": "15",
+      "B": "18",
+      "C": "20",
+      "D": "25",
+      "E": "30"
+    },
+    "gabarito": "C",
+    "dica": "Use a fórmula S = a1 / (1 - q), onde q = 1/2.",
+    "resolucao_detalhada": "S = 10 / (1 - 0,5) = 10 / 0,5 = 20."
+  },
+  {
+    "id": "Q_D1_15",
+    "disciplina": "Matemática",
+    "tema": "Sistemas Lineares (Discussão)",
+    "prova": "Base Vunesp / UNIVESP",
+    "enunciado": "O sistema {x + y = 5; 2x + 2y = 10} é classificado como:",
+    "alternativas": {
+      "A": "SPD (Possível e Determinado)",
+      "B": "SPI (Possível e Indeterminado)",
+      "C": "SI (Impossível)",
+      "D": "Inconsistente",
+      "E": "Sem solução"
+    },
+    "gabarito": "B",
+    "dica": "Observe que a segunda equação é o dobro da primeira. Elas representam a mesma reta.",
+    "resolucao_detalhada": "Como as equações são múltiplas, existem infinitas soluções sobre a reta x+y=5."
+  }
+]
