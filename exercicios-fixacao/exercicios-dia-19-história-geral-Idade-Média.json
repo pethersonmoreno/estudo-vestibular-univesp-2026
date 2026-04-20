@@ -1,0 +1,937 @@
+[
+  {
+    "id": "HIS01",
+    "disciplina": "História",
+    "tema": "Alta Idade Média / Sistema Feudal",
+    "prova": "Simulado Geral Vestibular",
+    "enunciado": "O feudalismo, sistema que se consolidou na Europa Ocidental durante a Alta Idade Média, apresentou características políticas, econômicas e sociais específicas. Assinale a alternativa que descreve corretamente um dos fundamentos desse sistema:",
+    "alternativas": {
+      "A": "Forte centralização do poder político nas mãos do monarca, que administrava o Estado com apoio de um exército nacional e permanente.",
+      "B": "Economia baseada no intenso comércio marítimo no Mediterrâneo, impulsionada pela produção de manufaturas nas grandes cidades.",
+      "C": "Descentralização política, economia predominantemente agrária de subsistência e uma sociedade estamental com escassa mobilidade social.",
+      "D": "Uso generalizado de mão de obra escrava negra nas grandes propriedades de terra, substituindo o trabalho dos camponeses livres.",
+      "E": "Total ausência da influência da Igreja Católica na vida das populações rurais, focando-se a religião apenas nos grandes centros urbanos."
+    },
+    "gabarito": "C",
+    "dica": "Lembre-se de como o poder foi dividido entre os nobres (Suserania e Vassalagem) e como o feudo precisava produzir o próprio sustento devido à paralisação das rotas comerciais.",
+    "resolucao_detalhada": "O feudalismo foi marcado pela fragmentação do poder político (os senhores feudais governavam seus próprios feudos), pela ruralização e economia de subsistência, e por uma rígida divisão social (clero, nobreza e servos) onde não havia mobilidade de classes."
+  },
+  {
+    "id": "HIS02",
+    "disciplina": "História",
+    "tema": "Alta Idade Média / Império Carolíngio",
+    "prova": "Simulado Geral Vestibular",
+    "enunciado": "Após a morte de Luís, o Piedoso, o Império Carolíngio entrou em declínio e foi dividido entre seus herdeiros pelo Tratado de Verdun (843 d.C.). Essa fragmentação do território teve como principal consequência estrutural:",
+    "alternativas": {
+      "A": "A centralização imediata do poder na França, originando o primeiro Estado Moderno absolutista da Europa.",
+      "B": "O enfraquecimento do poder central dos reis e o fortalecimento do poder local dos condes e marqueses, consolidando o sistema feudal.",
+      "C": "O fim da influência da Igreja Católica na Europa Ocidental e a expansão pacífica do islamismo na região da Gália.",
+      "D": "O renascimento das grandes rotas comerciais com o Oriente e a criação de moedas únicas para todo o território europeu.",
+      "E": "A emancipação dos servos, que passaram a trabalhar como assalariados nas terras que antes pertenciam ao imperador."
+    },
+    "gabarito": "B",
+    "dica": "Pense no que acontece quando um governo central perde a força e quem passa a tomar as decisões nas regiões mais distantes para se proteger de invasões.",
+    "resolucao_detalhada": "O Tratado de Verdun dividiu o Império Carolíngio, o que gerou um vazio de poder central. Diante de novas ondas de invasões, os administradores locais (condes, marqueses, duques) assumiram a defesa de suas terras, construindo castelos e criando exércitos próprios, o que sacramentou a descentralização política típica do feudalismo."
+  },
+  {
+    "id": "HIS03",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Renascimento Urbano",
+    "prova": "Simulado Geral Vestibular",
+    "enunciado": "A partir do século XI, a Europa Ocidental vivenciou transformações socioeconômicas profundas, conhecidas como Renascimento Comercial e Urbano. Nesse contexto, as corporações de ofício (ou guildas) surgiram nas cidades medievais com o objetivo de:",
+    "alternativas": {
+      "A": "Garantir o monopólio da produção artesanal, tabelar preços, controlar a qualidade dos produtos e evitar a concorrência desleal entre os artesãos.",
+      "B": "Financiar as Cruzadas e fornecer armas padronizadas aos cavaleiros cristãos que marchavam para a Terra Santa.",
+      "C": "Lutar contra os reis para manter os feudos isolados e impedir a unificação de moedas e leis, que prejudicava os artesãos rurais.",
+      "D": "Difundir a fé católica e combater as heresias, atuando como o braço armado da Inquisição dentro dos burgos.",
+      "E": "Promover a libertação imediata e incondicional de todos os servos da Europa rural para que fossem trabalhar nas fábricas urbanas."
+    },
+    "gabarito": "A",
+    "dica": "Associe as corporações de ofício a uma 'associação de proteção' mútua dos trabalhadores de uma mesma profissão na cidade.",
+    "resolucao_detalhada": "As corporações de ofício eram associações de profissionais de um mesmo ramo (sapateiros, tecelões, ferreiros, etc.) que se uniam para regulamentar a profissão. Elas determinavam os salários, os padrões de qualidade, a quantidade de produção e amparavam seus membros, proibindo que pessoas de fora da corporação exercessem o ofício na cidade."
+  },
+  {
+    "id": "HIS04",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Crise do Século XIV",
+    "prova": "Simulado Geral Vestibular",
+    "enunciado": "O século XIV é frequentemente descrito pelos historiadores como um período de colapso estrutural do feudalismo, marcado pela 'trilogia do caos': fome, peste e guerra. Sobre os impactos da Peste Negra e dessa crise, é correto afirmar que:",
+    "alternativas": {
+      "A": "A mortalidade em massa fortaleceu imediatamente o poder dos senhores feudais, que passaram a cobrar impostos menores e libertaram pacificamente os camponeses remanescentes.",
+      "B": "A doença foi rapidamente controlada pelos médicos das universidades medievais, impedindo grandes baixas demográficas e mantendo a economia agrária intacta.",
+      "C": "A crise gerou uma drástica escassez de mão de obra rural, o que levou a revoltas camponesas contra o aumento da exploração feudal e acelerou o processo de monetarização do trabalho.",
+      "D": "A Peste Negra atingiu exclusivamente as populações urbanas burguesas, deixando os servos do campo totalmente ilesos devido ao isolamento dos feudos.",
+      "E": "A crise interrompeu o desenvolvimento da navegação europeia, atrasando a formação dos Estados Modernos e fortalecendo o poder fragmentado local por mais quinhentos anos."
+    },
+    "gabarito": "C",
+    "dica": "O que ocorre com a economia quando 1/3 da população morre rapidamente e faltam pessoas para plantar e colher?",
+    "resolucao_detalhada": "Com a morte de um terço da população europeia, os campos ficaram sem trabalhadores. Os senhores feudais tentaram obrigar os sobreviventes a trabalhar mais, o que desencadeou sangrentas revoltas camponesas (como as Jacqueries). Para reter a mão de obra, os senhores acabaram tendo que ceder a pagamentos em dinheiro, o que ajudou a desestruturar a servidão e o feudalismo."
+  },
+  {
+    "id": "HIS05",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Cultura e Igreja",
+    "prova": "Simulado Geral Vestibular",
+    "enunciado": "Durante a Alta e a Baixa Idade Média, o monopólio cultural e educacional esteve majoritariamente nas mãos da Igreja Católica. Contudo, a partir do século XII, com o renascimento urbano, surgiram as Universidades. A principal corrente filosófica medieval, que buscou nas Universidades conciliar a fé cristã com a razão lógica da antiguidade clássica, foi:",
+    "alternativas": {
+      "A": "O Iluminismo.",
+      "B": "O Renascimento Cultural.",
+      "C": "A Patrística.",
+      "D": "O Positivismo.",
+      "E": "A Escolástica."
+    },
+    "gabarito": "E",
+    "dica": "Lembre-se do método baseado em debates rigorosos (Disputatio) e na figura central de São Tomás de Aquino, que utilizava a lógica de Aristóteles para explicar a fé.",
+    "resolucao_detalhada": "A Escolástica foi a corrente de pensamento dominante nas universidades medievais. Seu maior expoente foi São Tomás de Aquino, que utilizou a lógica e a filosofia de Aristóteles para argumentar que a razão humana e a fé cristã não eram contraditórias, mas sim caminhos complementares para compreender a verdade divina."
+  },
+  {
+    "id": "HIS06",
+    "disciplina": "História",
+    "tema": "Alta Idade Média / Reinos Germânicos",
+    "prova": "Simulado Geral",
+    "enunciado": "O conceito de 'Comitatus', herdado das tradições germânicas, foi fundamental para a estruturação de qual aspecto do feudalismo medieval?",
+    "alternativas": {
+      "A": "O direito escrito baseado no Código de Justiniano.",
+      "B": "As relações de suserania e vassalagem baseadas na fidelidade militar.",
+      "C": "O sistema de dízimo obrigatório pago à Igreja Católica.",
+      "D": "A organização das corporações de ofício nos burgos.",
+      "E": "O método escolástico de ensino nas universidades."
+    },
+    "gabarito": "B",
+    "dica": "Pense no laço de lealdade pessoal entre o chefe guerreiro e seus subordinados.",
+    "resolucao_detalhada": "O Comitatus era a tradição germânica de lealdade entre o chefe e seus guerreiros. Essa noção de fidelidade pessoal e mútua proteção evoluiu para a relação de suserania e vassalagem entre os nobres feudais."
+  },
+  {
+    "id": "HIS07",
+    "disciplina": "História",
+    "tema": "Alta Idade Média / Ruralização",
+    "prova": "Simulado Geral",
+    "enunciado": "A ruralização da sociedade europeia na Alta Idade Média resultou em uma economia de subsistência. Qual das alternativas abaixo melhor caracteriza essa economia?",
+    "alternativas": {
+      "A": "Produção em larga escala voltada para a exportação marítima.",
+      "B": "Uso intenso de moeda e sistemas de crédito bancário.",
+      "C": "Busca pela autossuficiência do feudo, com trocas diretas (escambo) e baixo uso de moeda.",
+      "D": "Desenvolvimento de grandes indústrias têxteis dentro dos castelos.",
+      "E": "Dependência total da importação de alimentos de outras regiões da Ásia."
+    },
+    "gabarito": "C",
+    "dica": "Autossuficiência significa produzir para o próprio consumo.",
+    "resolucao_detalhada": "Com o comércio paralisado e o isolamento dos feudos, a produção passou a ser voltada para o consumo interno do próprio feudo, reduzindo a circulação monetária e o comércio externo."
+  },
+  {
+    "id": "HIS08",
+    "disciplina": "História",
+    "tema": "Alta Idade Média / Império Carolíngio",
+    "prova": "Simulado Geral",
+    "enunciado": "Sobre o chamado 'Renascimento Carolíngio', ocorrido durante o reinado de Carlos Magno, é correto afirmar que seu principal objetivo era:",
+    "alternativas": {
+      "A": "Eliminar o latim e substituí-lo pelas línguas bárbaras germânicas.",
+      "B": "Incentivar a cultura helenística e as religiões pagãs romanas.",
+      "C": "Promover a alfabetização do clero e de funcionários para melhorar a administração do Império.",
+      "D": "Criar as primeiras fábricas de papel da Europa Ocidental.",
+      "E": "Expandir o conhecimento das ciências exatas para fins industriais."
+    },
+    "gabarito": "C",
+    "dica": "O Império era vasto e precisava de burocratas instruídos para funcionar.",
+    "resolucao_detalhada": "Carlos Magno percebeu que precisava de administradores capazes de ler e escrever para gerir o Império. Por isso, fundou escolas e incentivou a cópia de manuscritos, fortalecendo a cultura letrada ligada à Igreja."
+  },
+  {
+    "id": "HIS09",
+    "disciplina": "História",
+    "tema": "Sistema Feudal / Obrigações Servis",
+    "prova": "Simulado Geral",
+    "enunciado": "No sistema feudal, o imposto pago pelo servo pelo uso de infraestruturas do senhor (como moinhos, fornos e prensas) era chamado de:",
+    "alternativas": {
+      "A": "Corveia",
+      "B": "Talha",
+      "C": "Banalidades",
+      "D": "Mão-morta",
+      "E": "Tostão de Pedro"
+    },
+    "gabarito": "C",
+    "dica": "O nome refere-se a coisas 'comuns' ou 'banais' do cotidiano que pertenciam ao senhor.",
+    "resolucao_detalhada": "As Banalidades eram taxas pagas pelos servos pelo uso de ferramentas ou instalações que eram propriedade exclusiva do senhor feudal dentro do domínio."
+  },
+  {
+    "id": "HIS10",
+    "disciplina": "História",
+    "tema": "Sociedade Medieval / Ordens Sociais",
+    "prova": "Simulado Geral",
+    "enunciado": "A frase 'Uns rezam, outros combatem e outros trabalham' define a visão de mundo da sociedade medieval. Essa estrutura é classificada como:",
+    "alternativas": {
+      "A": "Sociedade Democrática",
+      "B": "Sociedade de Classes com alta mobilidade",
+      "C": "Sociedade Estamental",
+      "D": "Sociedade Meritocrática",
+      "E": "Sociedade Igualitária"
+    },
+    "gabarito": "C",
+    "dica": "Pense em grupos fechados onde a posição social é determinada pelo nascimento.",
+    "resolucao_detalhada": "A sociedade estamental é dividida em grupos fixos (estamentos), onde a posição é definida pelo nascimento ou função sagrada, com quase nenhuma possibilidade de mudar de nível social."
+  },
+  {
+    "id": "HIS11",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Inovações Agrícolas",
+    "prova": "Simulado Geral",
+    "enunciado": "Qual inovação técnica da Baixa Idade Média permitiu aumentar a produtividade das terras sem esgotar os nutrientes do solo?",
+    "alternativas": {
+      "A": "O uso de adubos químicos importados.",
+      "B": "O sistema de rotação trienal de culturas.",
+      "C": "A queima constante de florestas virgens.",
+      "D": "O plantio exclusivo de uma única cultura (monocultura).",
+      "E": "A mecanização do campo com motores a vapor."
+    },
+    "gabarito": "B",
+    "dica": "Dividir o campo em três partes e alternar o que se planta (ou deixar descansar).",
+    "resolucao_detalhada": "O sistema trienal dividia a terra em três campos: um para cereais de inverno, outro para cereais de primavera e um terceiro em repouso (pousio). Isso evitava o esgotamento do solo."
+  },
+  {
+    "id": "HIS12",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Burgos",
+    "prova": "Simulado Geral",
+    "enunciado": "O termo 'burguês' originou-se na Idade Média para designar os habitantes dos:",
+    "alternativas": {
+      "A": "Mosteiros rurais isolados.",
+      "B": "Castelos defensivos da nobreza.",
+      "C": "Burgos (centros urbanos fortificados).",
+      "D": "Mantos servis dos feudos agrários.",
+      "E": "Navios das Cruzadas."
+    },
+    "gabarito": "C",
+    "dica": "Os burgos eram as cidades medievais cercadas por muros.",
+    "resolucao_detalhada": "Burguês era o habitante do burgo, geralmente comerciante ou artesão, que não se encaixava na hierarquia tradicional de nobre ou camponês."
+  },
+  {
+    "id": "HIS13",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Cruzadas",
+    "prova": "Simulado Geral",
+    "enunciado": "A Quarta Cruzada (1202-1204) é frequentemente lembrada por ter desviado de seu objetivo religioso inicial. Qual cidade cristã foi saqueada pelos cruzados nesta expedição?",
+    "alternativas": {
+      "A": "Jerusalém",
+      "B": "Roma",
+      "C": "Constantinopla",
+      "D": "Alexandria",
+      "E": "Veneza"
+    },
+    "gabarito": "C",
+    "dica": "Era a capital do Império Bizantino e rival comercial de Veneza.",
+    "resolucao_detalhada": "Influenciados por interesses comerciais de Veneza, os cruzados atacaram e saquearam Constantinopla em vez de marchar contra os muçulmanos na Terra Santa."
+  },
+  {
+    "id": "HIS14",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Universidades",
+    "prova": "Simulado Geral",
+    "enunciado": "Nas universidades medievais, o ciclo básico de estudos focado nas 'artes da palavra' (Gramática, Retórica e Lógica) era conhecido como:",
+    "alternativas": {
+      "A": "Quadrivium",
+      "B": "Trivium",
+      "C": "Escolástica",
+      "D": "Inquisição",
+      "E": "Homenagem"
+    },
+    "gabarito": "B",
+    "dica": "Lembre-se que 'tri' remete às três disciplinas iniciais.",
+    "resolucao_detalhada": "O Trivium era o primeiro ciclo de estudos, focado em preparar o aluno para a expressão correta e o raciocínio lógico."
+  },
+  {
+    "id": "HIS15",
+    "disciplina": "História",
+    "tema": "Crise do Século XIV / Peste Negra",
+    "prova": "Simulado Geral",
+    "enunciado": "A Peste Negra chegou à Europa no século XIV vinda de qual região e através de qual vetor principal?",
+    "alternativas": {
+      "A": "Da América, através de morcegos.",
+      "B": "Da Ásia Central, através de pulgas de ratos em navios comerciais.",
+      "C": "Da África do Sul, através da água contaminada.",
+      "D": "Do Norte da Europa, através da carne de gado doente.",
+      "E": "Da Austrália, através do ar frio polar."
+    },
+    "gabarito": "B",
+    "dica": "A doença seguia as rotas de comércio vindas do Oriente.",
+    "resolucao_detalhada": "A bactéria Yersinia pestis era carregada por pulgas que viviam em ratos pretos. Estes ratos infestavam os porões de navios que vinham do Oriente via Mar Negro e Mediterrâneo."
+  },
+  {
+    "id": "HIS16",
+    "disciplina": "História",
+    "tema": "Crise do Século XIV / Guerra dos Cem Anos",
+    "prova": "Simulado Geral",
+    "enunciado": "Qual figura feminina tornou-se um símbolo do nacionalismo francês durante a fase final da Guerra dos Cem Anos?",
+    "alternativas": {
+      "A": "Maria Antonieta",
+      "B": "Catarina de Médici",
+      "C": "Joana d'Arc",
+      "D": "Ana Bolena",
+      "E": "Eleonora de Aquitânia"
+    },
+    "gabarito": "C",
+    "dica": "Ela afirmava ter visões divinas e liderou tropas francesas contra os ingleses.",
+    "resolucao_detalhada": "Joana d'Arc liderou o exército francês em importantes vitórias, ajudando a coroar Carlos VII e despertando o sentimento de identidade nacional na França."
+  },
+  {
+    "id": "HIS17",
+    "disciplina": "História",
+    "tema": "Transição Feudalismo-Capitalismo",
+    "prova": "Simulado Geral",
+    "enunciado": "Com a crise do feudalismo, os monarcas europeus buscaram apoio de qual classe social para centralizar o poder e formar exércitos profissionais?",
+    "alternativas": {
+      "A": "Servo-camponesa",
+      "B": "Nobreza feudal",
+      "C": "Burguesia",
+      "D": "Clero Regular",
+      "E": "Viking"
+    },
+    "gabarito": "C",
+    "dica": "Esta classe tinha o dinheiro necessário para financiar as guerras do rei.",
+    "resolucao_detalhada": "A burguesia financiou os reis para obter proteção, unificação de moedas e leis que favorecessem o comércio, permitindo que o monarca contratasse mercenários e não dependesse dos nobres."
+  },
+  {
+    "id": "HIS18",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Guildas",
+    "prova": "Simulado Geral",
+    "enunciado": "Qual era a função de um 'Jornaleiro' ou 'Oficial' dentro de uma oficina de uma corporação de ofício medieval?",
+    "alternativas": {
+      "A": "Vender jornais nas ruas da cidade.",
+      "B": "Trabalhador experiente que recebia um salário por jornada de trabalho.",
+      "C": "Dono absoluto da oficina e das ferramentas.",
+      "D": "Jovem aprendiz que não recebia nenhum pagamento.",
+      "E": "Fiscal do rei que controlava os impostos da oficina."
+    },
+    "gabarito": "B",
+    "dica": "O nome vem de 'jornada', referente ao pagamento por dia trabalhado.",
+    "resolucao_detalhada": "O jornaleiro era o profissional que já dominava o ofício, mas ainda não tinha capital para ser mestre e possuir sua própria oficina."
+  },
+  {
+    "id": "HIS19",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Movimento Comunal",
+    "prova": "Simulado Geral",
+    "enunciado": "As 'Cartas de Franquia' foram documentos fundamentais para o desenvolvimento urbano medieval. Elas garantiam:",
+    "alternativas": {
+      "A": "A posse perpétua da terra aos servos.",
+      "B": "A autonomia das cidades frente ao poder dos senhores feudais.",
+      "C": "O direito de nobres caçarem em terras da Igreja.",
+      "D": "A proibição de cultos cristãos nos burgos.",
+      "E": "A obrigação das cidades pagarem corveia ao rei."
+    },
+    "gabarito": "B",
+    "dica": "Franquia significa liberdade ou privilégio.",
+    "resolucao_detalhada": "As Cartas de Franquia eram diplomas que as cidades (burgos) recebiam, muitas vezes comprados da nobreza, permitindo que tivessem administração própria e tribunais independentes."
+  },
+  {
+    "id": "HIS20",
+    "disciplina": "História",
+    "tema": "Cultura Medieval / Escolástica",
+    "prova": "Simulado Geral",
+    "enunciado": "A principal obra de São Tomás de Aquino, que sistematizou o pensamento escolástico, intitula-se:",
+    "alternativas": {
+      "A": "O Príncipe",
+      "B": "A Cidade de Deus",
+      "C": "Suma Teológica",
+      "D": "Utopia",
+      "E": "Elogio da Loucura"
+    },
+    "gabarito": "C",
+    "dica": "É um resumo de todo o conhecimento teológico da época.",
+    "resolucao_detalhada": "A Suma Teológica é a obra máxima de São Tomás de Aquino, onde ele usa a lógica aristotélica para tratar de questões de fé e moral."
+  },
+  {
+    "id": "HIS21",
+    "disciplina": "História",
+    "tema": "Alta Idade Média / Direito Germânico",
+    "prova": "Simulado Geral",
+    "enunciado": "No direito germânico, o 'Ordalho' consistia em:",
+    "alternativas": {
+      "A": "Um tribunal composto por juízes profissionais e advogados de defesa.",
+      "B": "Uma prova física onde se acreditava que Deus interviria para provar a inocência do réu.",
+      "C": "Um contrato escrito assinado por ambas as partes em disputa.",
+      "D": "Uma multa paga em ouro para encerrar uma disputa familiar.",
+      "E": "Uma eleição democrática para decidir quem tinha razão."
+    },
+    "gabarito": "B",
+    "dica": "Também era chamado de 'Juízo de Deus'.",
+    "resolucao_detalhada": "Os germânicos acreditavam que, se o réu saísse ileso ou curasse rápido de uma prova (como segurar brasa quente), Deus estaria atestando sua inocência."
+  },
+  {
+    "id": "HIS22",
+    "disciplina": "História",
+    "tema": "Crise do Século XIV / Revoltas Camponesas",
+    "prova": "Simulado Geral",
+    "enunciado": "As revoltas camponesas conhecidas como 'Jacqueries', ocorridas em 1358, tiveram lugar em qual país?",
+    "alternativas": {
+      "A": "Inglaterra",
+      "B": "Alemanha",
+      "C": "França",
+      "D": "Espanha",
+      "E": "Itália"
+    },
+    "gabarito": "C",
+    "dica": "O nome vem de 'Jacques Bonhomme', um apelido pejorativo para o camponês francês.",
+    "resolucao_detalhada": "As Jacqueries foram revoltas violentas de camponeses franceses contra a opressão da nobreza em meio à miséria da Guerra dos Cem Anos e da Peste Negra."
+  },
+  {
+    "id": "HIS23",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Comércio",
+    "prova": "Simulado Geral",
+    "enunciado": "A 'Liga Hanseática' foi uma poderosa associação comercial que dominava as rotas do:",
+    "alternativas": {
+      "A": "Mar Mediterrâneo",
+      "B": "Oceano Índico",
+      "C": "Mar do Norte e Mar Báltico",
+      "D": "Rio Nilo",
+      "E": "Oceano Atlântico em direção à América"
+    },
+    "gabarito": "C",
+    "dica": "Concentrava cidades alemãs e do norte da Europa.",
+    "resolucao_detalhada": "A Liga Hanseática unia dezenas de cidades comerciais do norte da Europa para garantir monopólios de comércio e defesa contra piratas."
+  },
+  {
+    "id": "HIS24",
+    "disciplina": "História",
+    "tema": "Sociedade Medieval / Clero",
+    "prova": "Simulado Geral",
+    "enunciado": "A distinção entre o 'Clero Secular' e o 'Clero Regular' na Idade Média baseava-se em:",
+    "alternativas": {
+      "A": "O clero secular vivia no mundo (paróquias) e o regular vivia em mosteiros sob uma regra específica.",
+      "B": "O clero secular era protestante e o regular era católico.",
+      "C": "O clero secular não podia ler a bíblia, enquanto o regular podia.",
+      "D": "O clero secular era pobre e o regular era dono de todos os feudos.",
+      "E": "Não havia distinção, os termos são sinônimos."
+    },
+    "gabarito": "A",
+    "dica": "Regula significa 'regra' em latim.",
+    "resolucao_detalhada": "Clero Secular (do latim 'saeculum', mundo) lidava com os fiéis; Clero Regular (de 'regula', regra) vivia isolado em abadias e mosteiros seguindo normas como as de São Bento."
+  },
+  {
+    "id": "HIS25",
+    "disciplina": "História",
+    "tema": "Sistema Feudal / Posse da Terra",
+    "prova": "Simulado Geral",
+    "enunciado": "Qual era a principal característica da 'propriedade' da terra no feudalismo clássico?",
+    "alternativas": {
+      "A": "Era uma propriedade privada plena, podendo ser vendida livremente no mercado.",
+      "B": "Era um usufruto baseado em laços de dependência e obrigações mútuas, sem caráter de venda comercial.",
+      "C": "Pertencia exclusivamente ao Estado centralizado, que a alugava para os servos.",
+      "D": "Era sorteada anualmente entre todos os camponeses da aldeia.",
+      "E": "Não existia terra no feudalismo, apenas comércio de escravos."
+    },
+    "gabarito": "B",
+    "dica": "Pense que a terra estava ligada a deveres militares e sociais, não ao lucro imobiliário.",
+    "resolucao_detalhada": "No feudalismo, a terra não era uma mercadoria vendível. Ela era concedida em troca de lealdade (vassalagem) ou trabalho (servidão), criando uma rede de obrigações vitalícias."
+  },
+  {
+    "id": "HIS26",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Cruzadas",
+    "prova": "Simulado Geral",
+    "enunciado": "Qual foi a principal consequência econômica das Cruzadas para as cidades italianas?",
+    "alternativas": {
+      "A": "A destruição total de suas frotas navais.",
+      "B": "A perda do acesso à seda chinesa.",
+      "C": "A conquista do monopólio do comércio de especiarias no Mediterrâneo.",
+      "D": "A proibição do uso de moedas de ouro em Veneza.",
+      "E": "A mudança do eixo comercial para o Oceano Pacífico."
+    },
+    "gabarito": "C",
+    "dica": "As cidades como Gênova e Veneza lucraram muito transportando cruzados e mercadorias.",
+    "resolucao_detalhada": "As Cruzadas enfraqueceram o domínio árabe e bizantino, permitindo que mercadores italianos dominassem as rotas comerciais de luxo vindas do Oriente."
+  },
+  {
+    "id": "HIS27",
+    "disciplina": "História",
+    "tema": "Crise do Século XIV / Consequências Sociais",
+    "prova": "Simulado Geral",
+    "enunciado": "A crise do século XIV favoreceu a centralização monárquica porque:",
+    "alternativas": {
+      "A": "A nobreza ficou tão rica que não precisava mais do apoio do rei.",
+      "B": "A Igreja Católica proibiu os senhores feudais de terem exércitos.",
+      "C": "A nobreza enfraquecida pelas guerras e revoltas buscou proteção na figura do Rei.",
+      "D": "Os servos decidiram que queriam ter apenas um único dono para toda a Europa.",
+      "E": "A Peste Negra matou todos os nobres, sobrando apenas um único rei sobrevivente."
+    },
+    "gabarito": "C",
+    "dica": "A desordem social fez com que os poderosos aceitassem um poder central forte para manter a ordem.",
+    "resolucao_detalhada": "Diante das revoltas camponesas e do empobrecimento, a nobreza cedeu parte de sua autonomia política ao Rei em troca de proteção militar e manutenção de seus privilégios sociais."
+  },
+  {
+    "id": "HIS28",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Educação",
+    "prova": "Simulado Geral",
+    "enunciado": "Nas universidades medievais, qual era a língua oficial utilizada nas aulas, debates e livros?",
+    "alternativas": {
+      "A": "Grego Antigo",
+      "B": "Francês Arcaico",
+      "C": "Latim",
+      "D": "Alemão",
+      "E": "Inglês Medieval"
+    },
+    "gabarito": "C",
+    "dica": "Era a língua sagrada da Igreja e a língua culta da Europa.",
+    "resolucao_detalhada": "O latim funcionava como uma língua franca intelectual, permitindo que estudantes e professores de diferentes origens se comunicassem em qualquer universidade europeia."
+  },
+  {
+    "id": "HIS29",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Feiras",
+    "prova": "Simulado Geral",
+    "enunciado": "O surgimento das 'Letras de Câmbio' nas feiras medievais resolveu qual problema principal dos comerciantes?",
+    "alternativas": {
+      "A": "O excesso de comida estragada nas barracas.",
+      "B": "O risco de carregar grandes quantidades de moedas de ouro por estradas perigosas.",
+      "C": "A falta de cavalos para transportar tecidos.",
+      "D": "A barreira linguística entre árabes e cristãos.",
+      "E": "A proibição da Igreja de se praticar o comércio aos domingos."
+    },
+    "gabarito": "B",
+    "dica": "Pense na função de um cheque ou de um cartão de crédito hoje.",
+    "resolucao_detalhada": "A letra de câmbio permitia que o mercador depositasse dinheiro em uma cidade e retirasse o valor em outra, reduzindo as chances de ser roubado em trânsito."
+  },
+  {
+    "id": "HIS30",
+    "disciplina": "História",
+    "tema": "Transição Idade Média - Moderna",
+    "prova": "Simulado Geral",
+    "enunciado": "O fim da Idade Média é convencionalmente marcado pela queda de qual cidade em 1453?",
+    "alternativas": {
+      "A": "Roma",
+      "B": "Paris",
+      "C": "Constantinopla",
+      "D": "Londres",
+      "E": "Lisboa"
+    },
+    "gabarito": "C",
+    "dica": "Foi a tomada da capital bizantina pelos turcos-otomanos.",
+    "resolucao_detalhada": "A queda de Constantinopla em 1453 é o marco tradicional que encerra a Idade Média e inicia a Idade Moderna, junto com o fim da Guerra dos Cem Anos no mesmo ano."
+  },
+  {
+    "id": "HIS31",
+    "disciplina": "História",
+    "tema": "Alta Idade Média / Direito Germânico",
+    "prova": "Simulado Técnico",
+    "enunciado": "No contexto da formação dos reinos germânicos, o 'Wergeld' era uma prática jurídica que consistia em:",
+    "alternativas": {
+      "A": "Uma prova física de resistência para provar a inocência perante Deus.",
+      "B": "O juramento de fidelidade absoluta entre um guerreiro e seu chefe.",
+      "C": "O pagamento de uma multa pecuniária para compensar crimes e evitar guerras entre famílias.",
+      "D": "A doação de terras à Igreja Católica em troca de perdão espiritual.",
+      "E": "Um duelo judicial onde o vencedor era considerado o detentor da verdade."
+    },
+    "gabarito": "C",
+    "dica": "Significa 'preço do sangue' e servia para estabilizar a sociedade bárbara sem um Estado central.",
+    "resolucao_detalhada": "O Wergeld era uma compensação financeira paga à vítima ou à sua família para evitar o ciclo de vingança de sangue (vendeta), comum nas sociedades germânicas."
+  },
+  {
+    "id": "HIS32",
+    "disciplina": "História",
+    "tema": "Alta Idade Média / Ruralização",
+    "prova": "Simulado Técnico",
+    "enunciado": "O sistema de 'Colonato', consolidado durante a ruralização da Europa, pode ser considerado o precursor da servidão medieval porque:",
+    "alternativas": {
+      "A": "Transformava o trabalhador em um escravo que podia ser vendido como mercadoria.",
+      "B": "Vinculava o trabalhador à terra em troca de proteção e subsistência, impedindo sua saída do latifúndio.",
+      "C": "Garantia ao camponês a posse total e definitiva da terra após dez anos de uso.",
+      "D": "Exigia que o trabalhador servisse exclusivamente no exército do imperador romano.",
+      "E": "Promovia a migração em massa do campo para as cidades em busca de salários."
+    },
+    "gabarito": "B",
+    "dica": "Pense no laço de dependência: proteção em troca de liberdade de movimento.",
+    "resolucao_detalhada": "Com o colapso das cidades, os homens livres buscaram refúgio nas 'Villas' romanas. O dono da terra dava proteção, mas o trabalhador perdia o direito de abandonar a propriedade, tornando-se 'preso à gleba'."
+  },
+  {
+    "id": "HIS33",
+    "disciplina": "História",
+    "tema": "Alta Idade Média / Império Carolíngio",
+    "prova": "Simulado Técnico",
+    "enunciado": "A criação dos 'Missi Dominici' por Carlos Magno visava resolver qual problema administrativo do Império Carolíngio?",
+    "alternativas": {
+      "A": "A falta de soldados para combater os Vikings no norte.",
+      "B": "A necessidade de converter os muçulmanos na Península Ibérica.",
+      "C": "A fiscalização dos nobres locais (condes e marqueses) para garantir a obediência ao Imperador.",
+      "D": "O desenvolvimento de novas rotas comerciais com o Império Bizantino.",
+      "E": "A tradução da Bíblia para as línguas bárbaras locais."
+    },
+    "gabarito": "C",
+    "dica": "O nome significa 'Enviados do Senhor' e eles viajavam para observar se as leis eram cumpridas.",
+    "resolucao_detalhada": "Devido à vastidão do império, Carlos Magno usava esses inspetores itinerantes para evitar que os condes e marqueses se tornassem independentes ou abusassem do poder."
+  },
+  {
+    "id": "HIS34",
+    "disciplina": "História",
+    "tema": "Feudalismo / Divisão do Feudo",
+    "prova": "Simulado Técnico",
+    "enunciado": "No funcionamento econômico de um feudo, o 'Manso Senhorial' era definido como:",
+    "alternativas": {
+      "A": "A área de floresta onde todos os servos podiam caçar livremente.",
+      "B": "O conjunto de terras destinadas exclusivamente ao sustento da Igreja.",
+      "C": "As terras de uso exclusivo do Senhor Feudal, cujos frutos pertenciam apenas a ele.",
+      "D": "A faixa de terra onde os servos podiam construir suas próprias oficinas comerciais.",
+      "E": "O território neutro onde ocorriam as feiras e trocas de mercadorias."
+    },
+    "gabarito": "C",
+    "dica": "Lembre-se que o servo trabalhava nesta parte da terra alguns dias por semana (corveia).",
+    "resolucao_detalhada": "O manso senhorial representava as terras mais férteis do feudo, exploradas diretamente pelo senhor feudal através do trabalho obrigatório dos servos."
+  },
+  {
+    "id": "HIS35",
+    "disciplina": "História",
+    "tema": "Feudalismo / Impostos",
+    "prova": "Simulado Técnico",
+    "enunciado": "Diferente da Corveia, a 'Talha' consistia em uma obrigação servil paga sob a forma de:",
+    "alternativas": {
+      "A": "Trabalho manual na manutenção de pontes e estradas do castelo.",
+      "B": "Uma parte da produção agrícola cultivada pelo servo no seu próprio lote (manso servil).",
+      "C": "Moedas de ouro obtidas através do comércio na cidade.",
+      "D": "Serviço militar obrigatório durante as Cruzadas.",
+      "E": "Animais de caça capturados nas florestas reais."
+    },
+    "gabarito": "B",
+    "dica": "Talha vem de 'talhar' ou dividir a colheita com o senhor.",
+    "resolucao_detalhada": "A talha era o imposto sobre a produção: o servo entregava uma porcentagem (ex: metade ou um terço) de tudo o que colhia em seu lote para o senhor feudal."
+  },
+  {
+    "id": "HIS36",
+    "disciplina": "História",
+    "tema": "Sociedade Medieval / Papel da Igreja",
+    "prova": "Simulado Técnico",
+    "enunciado": "O conceito de 'Teocentrismo' na Idade Média significava que:",
+    "alternativas": {
+      "A": "O homem era o centro do universo e responsável por seu próprio destino.",
+      "B": "A economia deveria ser baseada apenas na troca de metais preciosos.",
+      "C": "Deus era o centro de todas as explicações, orientando a moral, a cultura e a política.",
+      "D": "A ciência experimental deveria ter prioridade sobre as escrituras sagradas.",
+      "E": "O Rei era uma divindade física que deveria ser adorada como um deus."
+    },
+    "gabarito": "C",
+    "dica": "Teo (Deus) + Centrismo (Centro).",
+    "resolucao_detalhada": "Na Idade Média, a visão de mundo era mediada pela fé cristã. Todas as ações humanas, fenômenos naturais e estruturas sociais eram explicados através da vontade divina."
+  },
+  {
+    "id": "HIS37",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Inovações Técnicas",
+    "prova": "Simulado Técnico",
+    "enunciado": "A introdução da 'Charrua' (arado de ferro) e do uso do cavalo pelo peito (peitoral) permitiu:",
+    "alternativas": {
+      "A": "A prática de uma agricultura mais profunda e rápida, aumentando a produção de alimentos.",
+      "B": "O abandono total do uso de animais na agricultura medieval.",
+      "C": "A redução drástica da população, já que menos pessoas eram necessárias no campo.",
+      "D": "O fim do uso de metais na fabricação de ferramentas agrícolas.",
+      "E": "A proibição do comércio de cereais entre os diferentes feudos."
+    },
+    "gabarito": "A",
+    "dica": "Pense no impacto de ter mais comida disponível para a população.",
+    "resolucao_detalhada": "A charrua era mais pesada e eficiente que o arado de madeira, permitindo cultivar solos mais duros. O novo sistema de atrelagem do cavalo aumentava sua força de tração, gerando excedentes agrícolas."
+  },
+  {
+    "id": "HIS38",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Movimento Comunal",
+    "prova": "Simulado Técnico",
+    "enunciado": "Durante o Renascimento Urbano, o que era o 'Movimento Comunal'?",
+    "alternativas": {
+      "A": "A tentativa dos servos de transformarem os feudos em propriedades coletivas.",
+      "B": "A luta das cidades (burgos) para obterem autonomia administrativa e jurídica frente aos senhores feudais.",
+      "C": "A expulsão dos comerciantes judeus das grandes cidades italianas.",
+      "D": "O movimento dos monges para construírem novos mosteiros no centro das cidades.",
+      "E": "A revolta da nobreza contra o aumento do poder comercial dos reis."
+    },
+    "gabarito": "B",
+    "dica": "Tinha como objetivo a conquista da 'Carta de Franquia'.",
+    "resolucao_detalhada": "O movimento comunal foi a mobilização dos burgueses para livrar a cidade das taxas e leis feudais, permitindo que a cidade tivesse seu próprio governo (Comuna)."
+  },
+  {
+    "id": "HIS39",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Cruzadas",
+    "prova": "Simulado Técnico",
+    "enunciado": "As Cruzadas provocaram o enfraquecimento da nobreza feudal europeia principalmente porque:",
+    "alternativas": {
+      "A": "Os nobres se recusaram a participar das batalhas por medo da morte.",
+      "B": "A Igreja confiscou todas as terras dos nobres que partiram para o Oriente.",
+      "C": "Muitos nobres morreram em combate ou empobreceram financiando suas próprias expedições.",
+      "D": "Os muçulmanos invadiram a Europa e tomaram os feudos enquanto os nobres estavam fora.",
+      "E": "A burguesia proibiu os nobres de retornarem aos seus castelos após a guerra."
+    },
+    "gabarito": "C",
+    "dica": "Guerra custa caro e muitos cavaleiros nunca voltaram ou voltaram sem recursos.",
+    "resolucao_detalhada": "Os altos custos das armaduras, cavalos e viagens, somados à mortalidade nas batalhas, debilitaram o poder militar e econômico da nobreza, favorecendo a centralização monárquica posterior."
+  },
+  {
+    "id": "HIS40",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Educação",
+    "prova": "Simulado Técnico",
+    "enunciado": "Nas universidades medievais, o 'Quadrivium' era o ciclo de estudos que compreendia quais disciplinas?",
+    "alternativas": {
+      "A": "Gramática, Retórica, Lógica e Teologia.",
+      "B": "Direito, Medicina, Filosofia e Música.",
+      "C": "Aritmética, Geometria, Astronomia e Música.",
+      "D": "Pintura, Escultura, Arquitetura e Poesia.",
+      "E": "Alquimia, Astrologia, Latim e Grego."
+    },
+    "gabarito": "C",
+    "dica": "O Quadrivium focava nas artes matemáticas e exatas da época.",
+    "resolucao_detalhada": "O Quadrivium (quatro caminhos) era a segunda parte das artes liberais, focada no estudo das proporções, números e do cosmo."
+  },
+  {
+    "id": "HIS41",
+    "disciplina": "História",
+    "tema": "Crise do Século XIV / Grande Fome",
+    "prova": "Simulado Técnico",
+    "enunciado": "A 'Grande Fome' de 1315-1317 foi causada principalmente por:",
+    "alternativas": {
+      "A": "Uma praga de gafanhotos que atravessou o Mar Mediterrâneo.",
+      "B": "Mudanças climáticas que geraram chuvas excessivas e invernos rigorosos, destruindo as colheitas.",
+      "C": "O bloqueio comercial imposto pelos turcos no Porto de Constantinopla.",
+      "D": "A decisão dos reis de queimarem os estoques de trigo para aumentar os preços.",
+      "E": "O abandono total dos campos pela população que decidiu viver apenas de comércio."
+    },
+    "gabarito": "B",
+    "dica": "Foi um fenômeno natural que interrompeu o período de boas colheitas anterior.",
+    "resolucao_detalhada": "A mudança climática (Pequena Idade do Gelo) causou quebras sucessivas de safra, gerando fome generalizada e enfraquecendo a saúde da população antes da chegada da Peste."
+  },
+  {
+    "id": "HIS42",
+    "disciplina": "História",
+    "tema": "Crise do Século XIV / Consequências Sociais",
+    "prova": "Simulado Técnico",
+    "enunciado": "Qual foi o impacto da Peste Negra na mentalidade religiosa da época?",
+    "alternativas": {
+      "A": "O fim imediato da Igreja Católica e o surgimento do ateísmo moderno.",
+      "B": "O surgimento de movimentos radicais como os 'Flagelantes' e a interpretação da doença como um castigo divino.",
+      "C": "A proibição de se realizar missas e batismos em toda a Europa.",
+      "D": "A conversão em massa dos europeus ao islamismo buscando a cura.",
+      "E": "A crença de que a ciência deveria substituir a oração para curar enfermos."
+    },
+    "gabarito": "B",
+    "dica": "O desespero levou a comportamentos extremos de penitência pública.",
+    "resolucao_detalhada": "Sem explicações científicas, muitos viam a peste como ira de Deus. Grupos de flagelantes percorriam cidades se chicoteando para pedir perdão, enquanto outros buscavam bodes expiatórios."
+  },
+  {
+    "id": "HIS43",
+    "disciplina": "História",
+    "tema": "Guerra dos Cem Anos / Tecnologia Militar",
+    "prova": "Simulado Técnico",
+    "enunciado": "Como a introdução do 'Arco Longo' (Longbow) pelos ingleses afetou a organização social feudal?",
+    "alternativas": {
+      "A": "Fortaleceu a importância dos cavaleiros nobres e suas armaduras pesadas.",
+      "B": "Tornou a cavalaria nobre vulnerável a ataques de infantaria comum, diminuindo o prestígio militar da nobreza.",
+      "C": "Obrigou todos os servos a se tornarem arqueiros profissionais e donos de terras.",
+      "D": "Fez com que as guerras fossem decididas apenas através de duelos de honra.",
+      "E": "Impediu que os reis contratassem exércitos de mercenários."
+    },
+    "gabarito": "B",
+    "dica": "Uma flecha barata disparada por um camponês podia derrubar um nobre com armadura caríssima.",
+    "resolucao_detalhada": "O arco longo mostrou que exércitos de plebeus bem treinados podiam vencer a elite da cavalaria, questionando a utilidade militar da classe nobre na defesa do reino."
+  },
+  {
+    "id": "HIS44",
+    "disciplina": "História",
+    "tema": "Fim do Feudalismo / Economia Monetária",
+    "prova": "Simulado Técnico",
+    "enunciado": "A transição do feudalismo para o capitalismo foi acelerada pelo surgimento do 'trabalho assalariado'. Isso ocorreu porque:",
+    "alternativas": {
+      "A": "Os servos preferiam trabalhar de graça, mas foram obrigados pelos reis a receber dinheiro.",
+      "B": "A escassez de mão de obra após a Peste forçou os senhores a pagarem para atrair trabalhadores.",
+      "C": "A Igreja Católica proibiu o trabalho sem remuneração monetária em 1350.",
+      "D": "A terra deixou de existir, sobrando apenas o comércio nas cidades.",
+      "E": "Os senhores feudais descobriram minas de ouro em seus próprios jardins."
+    },
+    "gabarito": "B",
+    "dica": "Menos pessoas trabalhando = o valor do trabalho sobe.",
+    "resolucao_detalhada": "Com a mortalidade da Peste, os servos sobreviventes ganharam poder de barganha. Muitos fugiram para onde lhes ofereciam melhores condições ou pagamentos em moeda."
+  },
+  {
+    "id": "HIS45",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Cultura",
+    "prova": "Simulado Técnico",
+    "enunciado": "O conceito de 'O ar da cidade torna o homem livre' referia-se a qual costume jurídico medieval?",
+    "alternativas": {
+      "A": "A poluição das cidades era tão grande que ninguém conseguia trabalhar.",
+      "B": "A regra de que um servo que vivesse um ano e um dia na cidade sem ser capturado tornava-se livre.",
+      "C": "O fato de que não havia igrejas dentro das cidades medievais.",
+      "D": "O direito de qualquer cidadão urbano de votar para escolher o Imperador.",
+      "E": "A isenção total de impostos para quem morasse perto das muralhas."
+    },
+    "gabarito": "B",
+    "dica": "Era o grande atrativo para os servos fugirem do feudo.",
+    "resolucao_detalhada": "As cidades medievais tinham leis próprias. Se um servo fugisse do feudo e conseguisse se sustentar na cidade por um ano e um dia, ele ganhava o status de homem livre (burguês)."
+  },
+  {
+    "id": "HIS46",
+    "disciplina": "História",
+    "tema": "Alta Idade Média / Monasticismo",
+    "prova": "Simulado Técnico",
+    "enunciado": "Qual era a função principal dos 'Monges Copistas' nos mosteiros medievais?",
+    "alternativas": {
+      "A": "Lutar nas Cruzadas para proteger os manuscritos sagrados.",
+      "B": "Traduzir e copiar à mão livros da Antiguidade e textos religiosos, preservando o conhecimento.",
+      "C": "Cobrar impostos dos camponeses que viviam perto da abadia.",
+      "D": "Construir as primeiras máquinas de impressão de tipos móveis.",
+      "E": "Viajar pelo mundo vendendo enciclopédias para reis bárbaros."
+    },
+    "gabarito": "B",
+    "dica": "Antes da prensa de Gutenberg, esta era a única forma de 'duplicar' livros.",
+    "resolucao_detalhada": "Os monges copistas foram fundamentais para a preservação de obras de autores como Platão e Aristóteles, além da Bíblia, permitindo que esse saber chegasse às futuras universidades."
+  },
+  {
+    "id": "HIS47",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Bancos",
+    "prova": "Simulado Técnico",
+    "enunciado": "A origem da palavra 'Banco' no contexto medieval está relacionada a:",
+    "alternativas": {
+      "A": "Os assentos de madeira onde os cambistas sentavam nas feiras para trocar moedas.",
+      "B": "O estoque de ouro que ficava guardado nos castelos reais.",
+      "C": "O local onde os cavaleiros descansavam após as batalhas.",
+      "D": "A ferramenta utilizada para cunhar novas moedas de prata.",
+      "E": "O nome de uma famosa família de comerciantes alemães."
+    },
+    "gabarito": "A",
+    "dica": "Refere-se ao mobiliário simples usado nas feiras de comércio.",
+    "resolucao_detalhada": "Os cambistas operavam em bancos de madeira nas feiras comerciais. Quando um cambista quebrava ou falia, seu banco era destruído fisicamente (origem do termo 'bancarrota')."
+  },
+  {
+    "id": "HIS48",
+    "disciplina": "História",
+    "tema": "Sistema Feudal / Relações de Poder",
+    "prova": "Simulado Técnico",
+    "enunciado": "Na cerimônia de Homenagem, o ato em que o Suserano entregava um objeto (como um punhado de terra ou uma espada) ao Vassalo era chamado de:",
+    "alternativas": {
+      "A": "Investidura",
+      "B": "Ordalho",
+      "C": "Comitatus",
+      "D": "Escolástica",
+      "E": "Indulgência"
+    },
+    "gabarito": "A",
+    "dica": "É o ato de 'investir' ou dar o feudo oficialmente ao vassalo.",
+    "resolucao_detalhada": "A investidura era a entrega simbólica do feudo, selando o compromisso de proteção do suserano e fidelidade do vassalo."
+  },
+  {
+    "id": "HIS49",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Especiarias",
+    "prova": "Simulado Técnico",
+    "enunciado": "Por que as especiarias orientais (pimenta, canela, cravo) eram tão valiosas na Europa Medieval?",
+    "alternativas": {
+      "A": "Eram utilizadas como a única moeda aceita para pagar impostos ao Rei.",
+      "B": "Serviam para conservar alimentos, disfarçar sabores de carnes passadas e demonstrar status social.",
+      "C": "Acreditava-se que elas eram pedaços de estrelas que caíram no Oriente.",
+      "D": "Eram a base para a fabricação da pólvora utilizada nos canhões.",
+      "E": "Eram proibidas pela Igreja, o que aumentava seu preço no mercado negro."
+    },
+    "gabarito": "B",
+    "dica": "Pense na utilidade prática em um mundo sem geladeira e no luxo de temperar a comida.",
+    "resolucao_detalhada": "As especiarias eram itens de luxo essenciais para a gastronomia e farmacopeia da época, movendo fortunas no comércio entre o Oriente e o Ocidente."
+  },
+  {
+    "id": "HIS50",
+    "disciplina": "História",
+    "tema": "Crise do Século XIV / Consequências Políticas",
+    "prova": "Simulado Técnico",
+    "enunciado": "Qual foi a mudança na estrutura militar que favoreceu o fortalecimento dos Reis ao final da Idade Média?",
+    "alternativas": {
+      "A": "A proibição do uso de armas por parte dos camponeses.",
+      "B": "A substituição dos cavaleiros feudais por exércitos permanentes e mercenários pagos pela coroa.",
+      "C": "A decisão da Igreja de liderar todas as guerras na Europa.",
+      "D": "O fim das fronteiras entre os reinos, tornando a guerra impossível.",
+      "E": "A volta do uso de bigas romanas como principal força de ataque."
+    },
+    "gabarito": "B",
+    "dica": "O Rei passou a ter soldados que obedeciam a ele por salário, não por laços de terra.",
+    "resolucao_detalhada": "Com o dinheiro da burguesia, os reis contrataram soldados profissionais. Isso tirou o monopólio da força da nobreza feudal, que antes era a única classe que sabia lutar."
+  },
+  {
+    "id": "HIS51",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Corporações de Ofício",
+    "prova": "Simulado Técnico",
+    "enunciado": "Nas guildas medievais, o 'Mestre' era aquele que:",
+    "alternativas": {
+      "A": "Dava aulas de teologia nas universidades.",
+      "B": "Era o proprietário das ferramentas, da matéria-prima e da oficina.",
+      "C": "Fugia do feudo para trabalhar de graça na cidade.",
+      "D": "Viajava pelo mundo vendendo mercadorias de outros artesãos.",
+      "E": "Servia como soldado particular do Papa."
+    },
+    "gabarito": "B",
+    "dica": "Ele estava no topo da hierarquia produtiva urbana.",
+    "resolucao_detalhada": "O mestre era o artesão pleno que, após anos de prática e aprovação pela corporação, podia ter seu próprio negócio e treinar aprendizes."
+  },
+  {
+    "id": "HIS52",
+    "disciplina": "História",
+    "tema": "Transição Idade Média - Moderna",
+    "prova": "Simulado Técnico",
+    "enunciado": "A 'Guerra das Duas Rosas' na Inglaterra, ocorrida após a Guerra dos Cem Anos, resultou em:",
+    "alternativas": {
+      "A": "A vitória total da nobreza feudal contra o rei.",
+      "B": "A ascensão da Dinastia Tudor e o fortalecimento do absolutismo inglês.",
+      "C": "A independência da Escócia e do País de Gales.",
+      "D": "A proibição do plantio de rosas em todo o território britânico.",
+      "E": "A transformação da Inglaterra em uma colônia francesa."
+    },
+    "gabarito": "B",
+    "dica": "Conflitos internos entre nobres costumam terminar com um Rei mais forte centralizando tudo.",
+    "resolucao_detalhada": "O enfraquecimento das famílias nobres rivais permitiu que a dinastia Tudor assumisse o trono e centralizasse o poder, marcando a transição para a modernidade na Inglaterra."
+  },
+  {
+    "id": "HIS53",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Medicina",
+    "prova": "Simulado Técnico",
+    "enunciado": "A Escola de Medicina de Salerno, na Itália, destacou-se na Idade Média por:",
+    "alternativas": {
+      "A": "Proibir qualquer tipo de cirurgia por considerá-la pecado.",
+      "B": "Integrar conhecimentos médicos de fontes gregas, latinas, árabes e judias.",
+      "C": "Acreditar que a Peste Negra era transmitida apenas pelo olhar.",
+      "D": "Ser composta exclusivamente por monges que não podiam tocar nos pacientes.",
+      "E": "Inventar a primeira vacina moderna contra a gripe."
+    },
+    "gabarito": "B",
+    "dica": "Foi um importante centro de síntese cultural no Mediterrâneo.",
+    "resolucao_detalhada": "Salerno era um polo avançado de saber prático, beneficiando-se das traduções de textos médicos árabes que preservaram e expandiram a medicina clássica."
+  },
+  {
+    "id": "HIS54",
+    "disciplina": "História",
+    "tema": "Alta Idade Média / Sociedade",
+    "prova": "Simulado Técnico",
+    "enunciado": "O termo 'Vilão' na Idade Média referia-se originalmente a:",
+    "alternativas": {
+      "A": "Um criminoso perigoso que assaltava castelos.",
+      "B": "Um camponês livre que habitava as vilas, mas devia obrigações ao senhor.",
+      "C": "O filho mais novo do Rei que não tinha direito ao trono.",
+      "D": "Um cavaleiro que perdia sua honra em um duelo.",
+      "E": "Um monge que abandonava o mosteiro sem autorização."
+    },
+    "gabarito": "B",
+    "dica": "O sentido pejorativo da palavra 'vilão' só surgiu muito depois.",
+    "resolucao_detalhada": "Os vilões eram trabalhadores livres (diferentes dos servos, que eram semi-livres), mas que por morarem nas terras de um senhor, também estavam submetidos a impostos e taxas feudais."
+  },
+  {
+    "id": "HIS55",
+    "disciplina": "História",
+    "tema": "Baixa Idade Média / Cultura",
+    "prova": "Simulado Técnico",
+    "enunciado": "O surgimento das línguas nacionais (Português, Francês, Espanhol) no final da Idade Média foi impulsionado por:",
+    "alternativas": {
+      "A": "A imposição do Latim como única língua falada pelo povo comum.",
+      "B": "A fragmentação e isolamento rural, que transformou o Latim vulgar em diferentes dialetos locais.",
+      "C": "Uma ordem do Papa para que ninguém mais falasse Latim fora da Igreja.",
+      "D": "A invenção do rádio e da televisão medievais.",
+      "E": "O desejo dos camponeses de criarem códigos secretos para não serem entendidos pelos nobres."
+    },
+    "gabarito": "B",
+    "dica": "Pense na mistura do Latim dos soldados romanos com os falares dos povos bárbaros.",
+    "resolucao_detalhada": "Com o fim do Império e o isolamento das regiões, o latim falado (vulgar) se misturou com línguas germânicas, evoluindo de forma diferente em cada região (romance)."
+  }
+]
