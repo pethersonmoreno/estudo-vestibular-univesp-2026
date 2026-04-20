@@ -1,0 +1,913 @@
+[
+  {
+    "id": "HIS-MOD-01",
+    "disciplina": "História",
+    "tema": "Idade Moderna / Renascimento",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "O Renascimento Cultural, ocorrido entre os séculos XIV e XVI, promoveu uma mudança de paradigma em relação à Idade Média. Qual característica abaixo define corretamente o pensamento renascentista frente ao pensamento medieval?",
+    "alternativas": {
+      "A": "O fortalecimento do teocentrismo e a negação total das artes clássicas.",
+      "B": "A substituição do racionalismo pela escolástica pura de base aristotélica.",
+      "C": "A adoção do antropocentrismo, valorizando o homem como medida de todas as coisas e o uso da razão.",
+      "D": "A manutenção do misticismo religioso como única forma de explicação dos fenômenos naturais.",
+      "E": "O isolamento cultural das cidades italianas, evitando o contato com a herança greco-romana."
+    },
+    "gabarito": "C",
+    "dica": "Lembre-se da transição do Teocentrismo (Deus no centro) para o Antropocentrismo (Homem no centro) e o resgate da cultura clássica.",
+    "resolucao_detalhada": "O Renascimento foi marcado pelo Humanismo e Antropocentrismo, rompendo com a visão estritamente teocêntrica medieval. Valorizou-se a capacidade criativa, o raciocínio lógico e a observação da natureza, inspirados no modelo clássico grego e romano."
+  },
+  {
+    "id": "HIS-MOD-02",
+    "disciplina": "História",
+    "tema": "Idade Moderna / Absolutismo",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Jacques Bossuet, em sua obra 'A Política extraída das Sagradas Escrituras', defendeu o poder dos reis baseando-se em qual princípio teórico?",
+    "alternativas": {
+      "A": "O Contrato Social, onde o povo delega o poder ao monarca.",
+      "B": "A Teoria do Direito Divino dos Reis, afirmando que o poder do monarca emana diretamente de Deus.",
+      "C": "O Liberalismo Político, limitando as ações do rei através de uma constituição.",
+      "D": "O Maquiavelismo puro, focado apenas na eficiência política sem bases religiosas.",
+      "E": "A soberania popular, defendendo que o rei deve prestar contas ao parlamento."
+    },
+    "gabarito": "B",
+    "dica": "Diferencie os teóricos: Hobbes fala em 'contrato/medo', Maquiavel em 'razão de Estado' e Bossuet em 'vontade divina'."
+  },
+  {
+    "id": "HIS-MOD-03",
+    "disciplina": "História",
+    "tema": "Idade Moderna / Reforma Protestante",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "O Calvinismo expandiu-se rapidamente pela Europa moderna e teve grande aceitação por parte da burguesia. Qual doutrina calvinista justificava ética e religiosamente a busca pelo sucesso econômico?",
+    "alternativas": {
+      "A": "A venda de indulgências para o perdão dos pecados.",
+      "B": "A doutrina da Predestinação Absoluta, onde o sucesso material era visto como sinal da graça divina.",
+      "C": "A proibição total do lucro e da usura sob qualquer circunstância.",
+      "D": "A salvação exclusivamente por meio de obras de caridade ditadas pelo clero.",
+      "E": "O controle estatal de todos os bens de produção e a abolição da propriedade privada."
+    },
+    "gabarito": "B",
+    "dica": "Max Weber explorou essa relação em seu livro 'A Ética Protestante e o Espírito do Capitalismo'.",
+    "resolucao_detalhada": "Diferente do catolicismo medieval, que condenava o lucro excessivo, o Calvinismo via o trabalho árduo e a prosperidade como indícios de que o indivíduo estava entre os 'eleitos' de Deus (Predestinação)."
+  },
+  {
+    "id": "HIS-MOD-04",
+    "disciplina": "História",
+    "tema": "Idade Moderna / Mercantilismo",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "A prática econômica do Mercantilismo, adotada pelos Estados Nacionais europeus, tinha como um de seus pilares o 'Metalismo'. Este conceito consistia em:",
+    "alternativas": {
+      "A": "Acreditar que a riqueza de uma nação era medida pela quantidade de metais preciosos acumulados.",
+      "B": "Estimular a exportação de ferro e aço em detrimento do ouro e da prata.",
+      "C": "Substituir o uso de moedas de metal por notas de papel emitidas pelo Estado.",
+      "D": "Liberar a entrada de produtos estrangeiros para evitar a saída de ouro do país.",
+      "E": "Manter uma balança comercial deficitária para incentivar o consumo interno."
+    },
+    "gabarito": "A",
+    "dica": "O metalismo também é conhecido como Bulionismo (do inglês bullion, barras de ouro)."
+  },
+  {
+    "id": "HIS-MOD-05",
+    "disciplina": "História",
+    "tema": "Idade Moderna / Transição para o Liberalismo",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Adam Smith, ao criticar o Mercantilismo, propôs que a economia deveria ser guiada por uma 'Mão Invisível'. Segundo este autor, como o mercado alcançaria o equilíbrio?",
+    "alternativas": {
+      "A": "Através da intervenção direta do Estado para tabelar preços e salários.",
+      "B": "Por meio do monopólio estatal sobre os setores de transporte e energia.",
+      "C": "Pela busca individual do lucro, que naturalmente levaria ao bem-estar social e ao equilíbrio entre oferta e demanda.",
+      "D": "Através do fortalecimento dos sindicatos e corporações de ofício medievais.",
+      "E": "Pela manutenção estrita do Pacto Colonial e das restrições alfandegárias."
+    },
+    "gabarito": "C",
+    "dica": "A 'Mão Invisível' é a auto-regulação do mercado sem a necessidade da 'mão pesada' do Estado.",
+    "resolucao_detalhada": "No Liberalismo Clássico, acredita-se que se todos buscarem seu próprio interesse em um mercado livre, a competição e a eficiência resultarão no melhor cenário para a sociedade como um todo."
+  },
+  {
+    "id": "HIS-MOD-06",
+    "disciplina": "História",
+    "tema": "Grandes Navegações / Fatores",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "A expansão marítima europeia dos séculos XV e XVI não foi um evento isolado, mas o resultado de uma conjunção de fatores. Qual elemento foi decisivo para o pioneirismo português nesse processo?",
+    "alternativas": {
+      "A": "A fragmentação política do reino em diversos condados independentes.",
+      "B": "A aliança estratégica entre a Coroa e a burguesia mercantil e a precoce centralização política.",
+      "C": "A dependência exclusiva do comércio terrestre controlado pelos italianos.",
+      "D": "A rejeição das técnicas de navegação árabes, como a bússola e o astrolábio.",
+      "E": "O isolamento geográfico de Portugal em relação ao Oceano Atlântico."
+    },
+    "gabarito": "B",
+    "dica": "Lembre-se da Revolução de Avis (1385), que consolidou o poder real e o apoio burguês.",
+    "resolucao_detalhada": "Portugal teve a vantagem de ser o primeiro Estado nacional moderno a se centralizar na Europa, permitindo que a Coroa organizasse recursos e atraísse o capital burguês para financiar as expedições de alto risco."
+  },
+  {
+    "id": "HIS-MOD-07",
+    "disciplina": "História",
+    "tema": "Grandes Navegações / Tratados",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "O Tratado de Tordesilhas, assinado em 1494, dividiu as terras 'descobertas e por descobrir' entre quais nações?",
+    "alternativas": {
+      "A": "Inglaterra e França.",
+      "B": "Portugal e Holanda.",
+      "C": "Espanha e Portugal.",
+      "D": "França e Espanha.",
+      "E": "Itália e Alemanha."
+    },
+    "gabarito": "C",
+    "dica": "O tratado foi mediado após a primeira viagem de Colombo.",
+    "resolucao_detalhada": "O tratado estabeleceu um meridiano a 370 léguas de Cabo Verde; as terras a leste pertenciam a Portugal e as a oeste à Espanha."
+  },
+  {
+    "id": "HIS-MOD-08",
+    "disciplina": "História",
+    "tema": "Renascimento / Ciência",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "A Revolução Científica do século XVII alterou profundamente a forma como o ser humano compreendia o cosmos. Nicolau Copérnico e Galileu Galilei foram fundamentais para a consolidação de qual teoria?",
+    "alternativas": {
+      "A": "Teoria Geocêntrica.",
+      "B": "Teoria Heliocêntrica.",
+      "C": "Teoria da Evolução das Espécies.",
+      "D": "Teoria da Gravitação Universal de Einstein.",
+      "E": "Teoria do Criacionismo Científico."
+    },
+    "gabarito": "B",
+    "dica": "Helio = Sol. Lembre-se de quem fica no centro do sistema.",
+    "resolucao_detalhada": "A teoria heliocêntrica afirma que o Sol, e não a Terra, é o centro do sistema planetário, desafiando a visão geocêntrica da Igreja baseada em Ptolomeu."
+  },
+  {
+    "id": "HIS-MOD-09",
+    "disciplina": "História",
+    "tema": "Renascimento / Humanismo",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "No contexto do Renascimento, o Humanismo pode ser definido como:",
+    "alternativas": {
+      "A": "Um movimento que defendia a volta total aos dogmas da Igreja Medieval.",
+      "B": "A valorização das capacidades humanas, da razão e o estudo das letras clássicas (Grécia e Roma).",
+      "C": "Uma doutrina econômica que pregava o fim da propriedade privada.",
+      "D": "Um estilo artístico focado apenas em temas abstratos e geométricos.",
+      "E": "A negação da existência de Deus e da espiritualidade."
+    },
+    "gabarito": "B",
+    "dica": "O Humanismo colocava o homem como um ser dotado de razão e capaz de transformar o mundo.",
+    "resolucao_detalhada": "O humanismo renascentista não era necessariamente ateu, mas buscava equilibrar a fé com a valorização do intelecto humano e da herança cultural clássica."
+  },
+  {
+    "id": "HIS-MOD-10",
+    "disciplina": "História",
+    "tema": "Reforma Protestante / Luteranismo",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Em 1517, Martinho Lutero afixou suas 95 Teses na porta da Igreja de Wittenberg. Qual era a sua principal crítica inicial?",
+    "alternativas": {
+      "A": "A favor da obrigatoriedade do celibato clerical.",
+      "B": "Contra a tradução da Bíblia para as línguas nacionais.",
+      "C": "Contra a venda de indulgências (perdão dos pecados) pela Igreja Católica.",
+      "D": "A favor da autoridade máxima do Papa sobre todos os reis europeus.",
+      "E": "Contra o uso da razão no estudo da teologia."
+    },
+    "gabarito": "C",
+    "dica": "As indulgências eram papéis vendidos pela Igreja para financiar obras como a Basílica de São Pedro.",
+    "resolucao_detalhada": "Lutero questionava a ideia de que a salvação poderia ser comprada, defendendo que a salvação vem apenas pela fé ('Sola Fide')."
+  },
+  {
+    "id": "HIS-MOD-11",
+    "disciplina": "História",
+    "tema": "Reforma Protestante / Anglicanismo",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "A Reforma Anglicana, ocorrida na Inglaterra sob o reinado de Henrique VIII, teve uma motivação predominantemente:",
+    "alternativas": {
+      "A": "Teológica, focada na negação da Santíssima Trindade.",
+      "B": "Humanista, buscando abolir a escravidão nas colônias.",
+      "C": "Política e territorial, visando confiscar as terras da Igreja e centralizar o poder no Rei.",
+      "D": "Científica, para permitir o ensino do evolucionismo nas escolas.",
+      "E": "Popular, liderada por camponeses que queriam a reforma agrária."
+    },
+    "gabarito": "C",
+    "dica": "O 'Ato de Supremacia' tornou o Rei o chefe da Igreja na Inglaterra.",
+    "resolucao_detalhada": "Ao romper com o Papa, Henrique VIII não só resolveu sua questão matrimonial (divórcio de Catarina de Aragão), mas também assumiu o controle das vastas propriedades da Igreja Católica em solo inglês."
+  },
+  {
+    "id": "HIS-MOD-12",
+    "disciplina": "História",
+    "tema": "Contrarreforma / Concílio de Trento",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Durante a Contrarreforma, o Concílio de Trento (1545-1563) tomou diversas medidas para conter o avanço protestante. Qual das opções abaixo NÃO foi uma decisão desse concílio?",
+    "alternativas": {
+      "A": "Reafirmação dos sete sacramentos católicos.",
+      "B": "Confirmação do dogma da transubstanciação.",
+      "C": "Abolição da autoridade do Papa e livre interpretação da Bíblia.",
+      "D": "Criação do Index (lista de livros proibidos).",
+      "E": "Manutenção do celibato clerical e do culto aos santos."
+    },
+    "gabarito": "C",
+    "dica": "A Contrarreforma reafirmou os dogmas, não os aboliu.",
+    "resolucao_detalhada": "O Concílio de Trento serviu para endurecer a disciplina católica e rejeitar categoricamente as teses protestantes, como a livre interpretação das escrituras."
+  },
+  {
+    "id": "HIS-MOD-13",
+    "disciplina": "História",
+    "tema": "Absolutismo / Teóricos",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Thomas Hobbes, em sua obra 'Leviatã', defende que o Estado surgiu a partir de um contrato social porque:",
+    "alternativas": {
+      "A": "O homem é naturalmente bom e o Estado serve para protegê-lo da natureza.",
+      "B": "O homem é o lobo do homem e, sem um poder forte, viveria em guerra constante.",
+      "C": "Deus escolheu os reis para governarem de forma benevolente.",
+      "D": "A democracia é a única forma de evitar a tirania dos governantes.",
+      "E": "A propriedade privada é a causa de todos os males e deve ser extinta."
+    },
+    "gabarito": "B",
+    "dica": "Pense no 'estado de natureza' como um estado de caos absoluto.",
+    "resolucao_detalhada": "Para Hobbes, os indivíduos cedem sua liberdade ao soberano em troca de segurança e ordem, justificando assim o poder absoluto do rei."
+  },
+  {
+    "id": "HIS-MOD-14",
+    "disciplina": "História",
+    "tema": "Absolutismo / Maquiavel",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Nicolau Maquiavel é considerado o fundador da ciência política moderna. Em 'O Príncipe', ele afirma que:",
+    "alternativas": {
+      "A": "O governante deve sempre agir de acordo com a moral cristã tradicional.",
+      "B": "A política deve ser separada da moral religiosa, visando a manutenção do Estado.",
+      "C": "O povo deve ter o direito de destituir o rei a qualquer momento.",
+      "D": "A riqueza de um reino depende apenas da exportação de ouro.",
+      "E": "O rei não deve possuir exércitos permanentes para não assustar os vizinhos."
+    },
+    "gabarito": "B",
+    "dica": "Maquiavel foca na 'Realpolitik' (política real), não na idealista.",
+    "resolucao_detalhada": "Maquiavel introduz a ideia de que a 'razão de Estado' está acima das convicções morais individuais do governante."
+  },
+  {
+    "id": "HIS-MOD-15",
+    "disciplina": "História",
+    "tema": "Mercantilismo / Práticas",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "O conceito de 'Pacto Colonial' ou 'Exclusivo Comercial' no sistema mercantilista significava que:",
+    "alternativas": {
+      "A": "A colônia poderia comercializar livremente com qualquer nação europeia.",
+      "B": "A colônia era obrigada a comercializar apenas com sua respectiva metrópole.",
+      "C": "A metrópole deveria pagar impostos à colônia para extrair suas riquezas.",
+      "D": "O comércio entre colônias de diferentes nações era estimulado pelo rei.",
+      "E": "Não havia moedas nas colônias, apenas o sistema de escambo direto."
+    },
+    "gabarito": "B",
+    "dica": "O Pacto Colonial era a garantia de lucro da metrópole sobre a produção da colônia.",
+    "resolucao_detalhada": "Esta regra impedia a concorrência e garantia que a metrópole comprasse matérias-primas baratas e vendesse produtos manufaturados caros para a colônia."
+  },
+  {
+    "id": "HIS-MOD-16",
+    "disciplina": "História",
+    "tema": "Iluminismo / Montesquieu",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Montesquieu, em 'O Espírito das Leis', propôs uma estrutura de governo que influenciou quase todas as democracias modernas. Qual era essa proposta?",
+    "alternativas": {
+      "A": "A união dos poderes nas mãos de um déspota esclarecido.",
+      "B": "A divisão do poder em três esferas independentes: Executivo, Legislativo e Judiciário.",
+      "C": "A eliminação do poder judiciário para acelerar as decisões do rei.",
+      "D": "O governo direto exercido por assembleias de trabalhadores manuais.",
+      "E": "A subordinação do Estado às ordens diretas do Papa."
+    },
+    "gabarito": "B",
+    "dica": "O objetivo era evitar a tirania através do sistema de pesos e contrapesos (checks and balances).",
+    "resolucao_detalhada": "Para Montesquieu, 'só o poder freia o poder'. A tripartição garante que nenhum órgão se torne absoluto."
+  },
+  {
+    "id": "HIS-MOD-17",
+    "disciplina": "História",
+    "tema": "Iluminismo / Rousseau",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Diferente de outros iluministas, Jean-Jacques Rousseau acreditava que a soberania residia:",
+    "alternativas": {
+      "A": "Na figura sagrada do monarca por direito divino.",
+      "B": "No mercado, através da lei da oferta e da procura.",
+      "C": "No povo, através da 'vontade geral' e do contrato social.",
+      "D": "Apenas nos cidadãos que possuíssem grandes extensões de terra.",
+      "E": "Na burocracia técnica do Estado."
+    },
+    "gabarito": "C",
+    "dica": "Rousseau é considerado um dos pais da democracia moderna e da ideia de soberania popular.",
+    "resolucao_detalhada": "Rousseau defendia que as leis deveriam expressar a vontade coletiva do povo, sendo este o verdadeiro soberano, e não o governante."
+  },
+  {
+    "id": "HIS-MOD-18",
+    "disciplina": "História",
+    "tema": "Fisiocracia / Economia",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "A escola econômica conhecida como Fisiocracia, surgida no século XVIII, defendia que a verdadeira fonte de riqueza de uma nação era:",
+    "alternativas": {
+      "A": "O comércio de especiarias com o Oriente.",
+      "B": "O acúmulo de ouro e prata em cofres reais.",
+      "C": "A agricultura e a exploração da terra (recursos naturais).",
+      "D": "A indústria pesada e a produção de máquinas a vapor.",
+      "E": "O setor de serviços e a especulação financeira."
+    },
+    "gabarito": "C",
+    "dica": "Fisio = Natureza. Cracia = Governo/Poder. O governo da natureza.",
+    "resolucao_detalhada": "Os fisiocratas foram os primeiros a se opor ao mercantilismo, pregando que o comércio era apenas uma troca de valores já existentes e que a terra era a única geradora de valor novo."
+  },
+  {
+    "id": "HIS-MOD-19",
+    "disciplina": "História",
+    "tema": "Liberalismo / Adam Smith",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Adam Smith atacou o mercantilismo ao defender o 'Laissez-faire'. Qual o significado prático desse conceito para a economia?",
+    "alternativas": {
+      "A": "O controle total do Estado sobre os preços para evitar a inflação.",
+      "B": "A liberdade de mercado, sem intervenção estatal na produção e nas trocas comerciais.",
+      "C": "O subsídio estatal para empresas que estão em crise financeira.",
+      "D": "A proibição de importações para proteger a indústria nacional.",
+      "E": "O tabelamento de salários mínimos por decreto real."
+    },
+    "gabarito": "B",
+    "dica": "Laissez-faire significa 'deixai fazer'.",
+    "resolucao_detalhada": "O liberalismo econômico prega que a economia se autorregula por meio da concorrência e da lei da oferta e procura, sem necessidade de interferência do governo."
+  },
+  {
+    "id": "HIS-MOD-20",
+    "disciplina": "História",
+    "tema": "Sociedade / Antigo Regime",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "A sociedade do Antigo Regime era organizada de forma estamental. Quem compunha o chamado 'Terceiro Estado' na França pré-revolucionária?",
+    "alternativas": {
+      "A": "Apenas o Clero (Igreja).",
+      "B": "Apenas a Nobreza de sangue e de toga.",
+      "C": "A grande maioria da população, incluindo burgueses, camponeses e trabalhadores urbanos.",
+      "D": "Os cavaleiros medievais que protegiam o rei.",
+      "E": "Apenas os intelectuais iluministas que viviam nos palácios."
+    },
+    "gabarito": "C",
+    "dica": "O Terceiro Estado era o único que pagava impostos e sustentava os outros dois (Clero e Nobreza).",
+    "resolucao_detalhada": "O Terceiro Estado era heterogêneo, indo desde grandes banqueiros até camponeses pobres, unidos pelo fato de não possuírem privilégios jurídicos ou isenções tributárias."
+  },
+  {
+    "id": "HIS-MOD-21",
+    "disciplina": "História",
+    "tema": "Déspotas Esclarecidos",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "O 'Despotismo Esclarecido' foi uma tentativa de alguns monarcas europeus de:",
+    "alternativas": {
+      "A": "Adotar práticas democráticas e abdicar do trono.",
+      "B": "Conciliar o poder absoluto do rei com algumas reformas de inspiração iluminista.",
+      "C": "Expulsar todos os burgueses de seus reinos para voltar ao feudalismo.",
+      "D": "Transformar a Igreja Católica na única autoridade política do país.",
+      "E": "Proibir o uso da razão e da ciência em seus territórios."
+    },
+    "gabarito": "B",
+    "dica": "Exemplos: Marquês de Pombal (Portugal) e Catarina, a Grande (Rússia).",
+    "resolucao_detalhada": "Esses monarcas modernizaram a administração e a educação para tornar o Estado mais eficiente, mas sem abrir mão da centralização do poder político."
+  },
+  {
+    "id": "HIS-MOD-22",
+    "disciplina": "História",
+    "tema": "Renascimento / Arte",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Técnicas como a 'perspectiva' e o 'chiaroscuro' (claro-escuro) foram inovações artísticas de qual período?",
+    "alternativas": {
+      "A": "Idade Média (Arte Românica).",
+      "B": "Idade Moderna (Renascimento).",
+      "C": "Idade Contemporânea (Cubismo).",
+      "D": "Pré-História (Pintura Rupestre).",
+      "E": "Antiguidade Oriental (Arte Egípcia)."
+    },
+    "gabarito": "B",
+    "dica": "Essas técnicas buscavam dar profundidade e realismo tridimensional às telas.",
+    "resolucao_detalhada": "O uso da matemática (geometria) na arte permitiu que os artistas renascentistas representassem o espaço de forma realista, uma ruptura total com a arte bidimensional medieval."
+  },
+  {
+    "id": "HIS-MOD-23",
+    "disciplina": "História",
+    "tema": "Reforma / Paz de Augsburgo",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "O princípio 'Cuius regio, eius religio' (De tal rei, tal religião), estabelecido na Paz de Augsburgo (1555), significava que:",
+    "alternativas": {
+      "A": "Todos os europeus deveriam ser obrigatoriamente luteranos.",
+      "B": "A religião de cada Estado do Sacro Império seria decidida pelo seu respectivo príncipe.",
+      "C": "A Igreja Católica passaria a ser comandada por Martinho Lutero.",
+      "D": "Haveria total liberdade religiosa individual para todos os cidadãos.",
+      "E": "As religiões protestantes eram proibidas em todo o continente europeu."
+    },
+    "gabarito": "B",
+    "dica": "Foi um compromisso político para encerrar as guerras religiosas na Alemanha.",
+    "resolucao_detalhada": "Este tratado reconheceu o Luteranismo legalmente, mas a liberdade de escolha pertencia aos governantes, e não aos súditos individualmente."
+  },
+  {
+    "id": "HIS-MOD-24",
+    "disciplina": "História",
+    "tema": "Navegações / Impacto Econômico",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Com a Expansão Marítima, o eixo econômico da Europa deslocou-se do:",
+    "alternativas": {
+      "A": "Oceano Índico para o Mar Vermelho.",
+      "B": "Mar Mediterrâneo para o Oceano Atlântico.",
+      "C": "Mar do Norte para o Rio Nilo.",
+      "D": "Oceano Pacífico para o Mar Mediterrâneo.",
+      "E": "Oceano Atlântico para o Mar Cáspio."
+    },
+    "gabarito": "B",
+    "dica": "Pense na decadência das cidades italianas e na ascensão de Lisboa, Sevilha e Londres.",
+    "resolucao_detalhada": "O comércio de especiarias e metais passou a ser feito por rotas oceânicas, retirando das cidades italianas o monopólio das rotas orientais."
+  },
+  {
+    "id": "HIS-MOD-25",
+    "disciplina": "História",
+    "tema": "Iluminismo / Voltaire",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Voltaire foi um dos mais ferrenhos críticos do Antigo Regime. Sua principal bandeira de luta era:",
+    "alternativas": {
+      "A": "A imposição da religião católica em todos os países.",
+      "B": "A defesa da liberdade de expressão e a crítica à intolerância religiosa.",
+      "C": "A volta do sistema de servidão nos campos.",
+      "D": "O apoio à censura de livros que criticassem o rei.",
+      "E": "A criação de uma ditadura militar para governar a França."
+    },
+    "gabarito": "B",
+    "dica": "Ele é autor da famosa (atribuída) frase: 'Posso não concordar com o que dizes, mas defenderei até a morte o teu direito de dizê-lo'."
+  },
+  {
+    "id": "HIS-MOD-26",
+    "disciplina": "História",
+    "tema": "Transição Econômica / David Ricardo",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "O economista liberal David Ricardo formulou a 'Teoria das Vantagens Comparativas'. Segundo essa teoria:",
+    "alternativas": {
+      "A": "Cada país deve produzir tudo o que consome para ser independente.",
+      "B": "As nações devem se especializar na produção de bens em que são mais eficientes e trocar o excedente.",
+      "C": "O Estado deve proibir o comércio exterior para fortalecer a moeda nacional.",
+      "D": "O ouro deve ser a única mercadoria aceita em transações internacionais.",
+      "E": "A guerra é a melhor forma de uma nação conseguir novos mercados."
+    },
+    "gabarito": "B",
+    "dica": "Esta é a base teórica para o comércio globalizado moderno.",
+    "resolucao_detalhada": "Ricardo argumentava que o comércio livre beneficia todas as partes envolvidas, pois permite que os recursos sejam alocados onde a produtividade é maior."
+  },
+  {
+    "id": "HIS-MOD-27",
+    "disciplina": "História",
+    "tema": "Revolução Inglesa / Liberalismo Político",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "A Revolução Gloriosa (1688) na Inglaterra é considerada um marco do liberalismo político porque:",
+    "alternativas": {
+      "A": "Restabeleceu o poder absoluto dos reis Stuart.",
+      "B": "Instaurou uma república ditatorial liderada por Oliver Cromwell.",
+      "C": "Estabeleceu a supremacia do Parlamento sobre o Rei (Monarquia Parlamentar).",
+      "D": "Expulsou todos os protestantes do território britânico.",
+      "E": "Acabou com a propriedade privada das terras na Inglaterra."
+    },
+    "gabarito": "C",
+    "dica": "O Rei passou a reinar, mas não a governar (Bill of Rights).",
+    "resolucao_detalhada": "Com a assinatura da Declaração de Direitos (Bill of Rights), o monarca inglês teve seus poderes limitados por leis, consolidando os princípios de John Locke sobre o governo limitado."
+  },
+  {
+    "id": "HIS-MOD-28",
+    "disciplina": "História",
+    "tema": "Mercantilismo / Bulionismo",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "O mercantilismo espanhol ficou conhecido como 'Bulionismo'. Qual era o seu foco principal?",
+    "alternativas": {
+      "A": "O estímulo às manufaturas têxteis para exportação.",
+      "B": "O desenvolvimento de uma marinha mercante de aluguel (fretes).",
+      "C": "A extração direta e o acúmulo de metais preciosos de suas colônias americanas.",
+      "D": "A produção agrícola de cana-de-açúcar em larga escala.",
+      "E": "A criação de bancos estatais para financiar burgueses estrangeiros."
+    },
+    "gabarito": "C",
+    "dica": "Vem do termo inglês 'bullion' (ouro em barras/lingotes).",
+    "resolucao_detalhada": "Devido às ricas minas no México e no Peru, a Espanha focou intensamente na acumulação de metais, negligenciando muitas vezes o desenvolvimento industrial interno."
+  },
+  {
+    "id": "HIS-MOD-29",
+    "disciplina": "História",
+    "tema": "Cultura / Barroco",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "O estilo artístico Barroco, que sucedeu o Renascimento, foi amplamente utilizado pela Igreja Católica durante a Contrarreforma com o objetivo de:",
+    "alternativas": {
+      "A": "Promover a simplicidade e a ausência de decorações nas igrejas.",
+      "B": "Impressionar os fiéis através da grandiosidade, emoção e do contraste dramático.",
+      "C": "Divulgar as ideias de Lutero e Calvino por meio de pinturas.",
+      "D": "Retornar aos padrões geométricos e racionais dos templos gregos antigos.",
+      "E": "Esconder os santos para evitar acusações de idolatria por parte dos protestantes."
+    },
+    "gabarito": "B",
+    "dica": "O Barroco é a arte da persuasão e do movimento.",
+    "resolucao_detalhada": "A Igreja utilizou o esplendor do Barroco para reafirmar sua força e tentar reconquistar ou manter a devoção dos fiéis através de uma experiência sensorial intensa."
+  },
+  {
+    "id": "HIS-MOD-30",
+    "disciplina": "História",
+    "tema": "Iluminismo / Enciclopedismo",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Denis Diderot e Jean d'Alembert foram os organizadores da 'Enciclopédia'. Qual era o objetivo político e cultural dessa obra?",
+    "alternativas": {
+      "A": "Reunir todo o conhecimento humano sob a ótica da razão para combater a ignorância e o fanatismo.",
+      "B": "Criar um manual de instruções para que os reis pudessem governar melhor.",
+      "C": "Esconder as descobertas científicas do grande público.",
+      "D": "Justificar a escravidão por meio de argumentos biológicos.",
+      "E": "Publicar apenas sermões religiosos autorizados pelo Papa."
+    },
+    "gabarito": "A",
+    "dica": "Foi um projeto monumental de sistematização do saber racionalista.",
+    "resolucao_detalhada": "A Enciclopédia foi uma ferramenta de divulgação dos ideais iluministas, sendo proibida em vários momentos pelas autoridades por questionar o poder absoluto e a Igreja."
+  },
+  {
+    "id": "HIS-MOD-31",
+    "disciplina": "História",
+    "tema": "Renascimento / Humanismo Nórdico",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Diferente do Renascimento italiano, focado na estética e no mecenato, o Renascimento no Norte da Europa (Erasmo de Roterdã e Thomas More) teve uma característica marcante:",
+    "alternativas": {
+      "A": "O apoio irrestrito à venda de indulgências.",
+      "B": "A crítica social e o uso do humanismo para reformar a ética cristã.",
+      "C": "A rejeição total ao estudo das línguas clássicas como o grego e o latim.",
+      "D": "O foco exclusivo na pintura de temas mitológicos pagãos.",
+      "E": "A defesa do absolutismo monárquico como única forma de governo."
+    },
+    "gabarito": "B",
+    "dica": "Lembre-se de 'Elogio da Loucura' de Erasmo e 'Utopia' de Thomas More.",
+    "resolucao_detalhada": "O humanismo nortista utilizou as ferramentas críticas do Renascimento para questionar a corrupção da Igreja e as desigualdades da sociedade europeia da época."
+  },
+  {
+    "id": "HIS-MOD-32",
+    "disciplina": "História",
+    "tema": "Revolução Científica / Método",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "René Descartes e Francis Bacon são pilares da ciência moderna. Enquanto Descartes defendia o Racionalismo (dedução), Bacon é considerado o pai do:",
+    "alternativas": {
+      "A": "Misticismo Medieval.",
+      "B": "Empirismo (método indutivo baseado na experiência).",
+      "C": "Idealismo Alemão.",
+      "D": "Teocentrismo Barroco.",
+      "E": "Ceticismo Radical Absoluto."
+    },
+    "gabarito": "B",
+    "dica": "Empirismo foca no teste, na observação e na experiência sensorial.",
+    "resolucao_detalhada": "Bacon propôs que a ciência deveria progredir através da observação rigorosa da natureza e da experimentação, em oposição à mera especulação teórica."
+  },
+  {
+    "id": "HIS-MOD-33",
+    "disciplina": "História",
+    "tema": "Contrarreforma / Jesuítas",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "A Companhia de Jesus (Jesuítas), fundada por Inácio de Loyola, foi uma das principais ferramentas da Igreja Católica para:",
+    "alternativas": {
+      "A": "Incentivar o divórcio dos reis europeus.",
+      "B": "Expandir o luteranismo nas colônias americanas.",
+      "C": "Conter o avanço protestante através da educação e da catequização em novos continentes.",
+      "D": "Destruir os tribunais da inquisição na Espanha.",
+      "E": "Traduzir a Bíblia para as línguas populares contra a vontade do Papa."
+    },
+    "gabarito": "C",
+    "dica": "Os jesuítas eram conhecidos como os 'Soldados de Cristo'."
+  },
+  {
+    "id": "HIS-MOD-34",
+    "disciplina": "História",
+    "tema": "Mercantilismo / Colbertismo",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Na França de Luís XIV, o ministro Colbert implementou uma vertente específica do mercantilismo chamada Colbertismo, que focava em:",
+    "alternativas": {
+      "A": "Incentivar apenas a agricultura de subsistência.",
+      "B": "Desenvolver manufaturas de luxo para exportação e fortalecer a marinha mercante.",
+      "C": "Permitir o livre comércio com a Inglaterra sem taxas alfandegárias.",
+      "D": "Acabar com o controle de qualidade dos produtos franceses.",
+      "E": "Depender exclusivamente da extração de ouro das colônias espanholas."
+    },
+    "gabarito": "B",
+    "dica": "O Colbertismo visava tornar a França a maior exportadora de produtos de alto valor da Europa."
+  },
+  {
+    "id": "HIS-MOD-35",
+    "disciplina": "História",
+    "tema": "Mercantilismo / Atos de Navegação",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Os Atos de Navegação, decretados por Oliver Cromwell na Inglaterra em 1651, estabeleciam que:",
+    "alternativas": {
+      "A": "Qualquer navio do mundo poderia descarregar mercadorias em portos ingleses.",
+      "B": "As mercadorias importadas pela Inglaterra só poderiam ser transportadas em navios ingleses ou dos países produtores.",
+      "C": "A Inglaterra deixaria de ter uma marinha de guerra.",
+      "D": "O comércio marítimo inglês seria transferido para o controle da Holanda.",
+      "E": "Ficava proibida a construção de novos navios em território britânico."
+    },
+    "gabarito": "B",
+    "dica": "Essa medida foi fundamental para a Inglaterra destruir a hegemonia marítima holandesa.",
+    "resolucao_detalhada": "Esta prática protecionista impulsionou a marinha inglesa, transformando o país na maior potência naval do mundo nos séculos seguintes."
+  },
+  {
+    "id": "HIS-MOD-36",
+    "disciplina": "História",
+    "tema": "Iluminismo / Beccaria",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "O iluminista Cesare Beccaria, em sua obra 'Dos Delitos e das Penas', lançou as bases do direito penal moderno ao criticar:",
+    "alternativas": {
+      "A": "A existência de tribunais civis.",
+      "B": "O uso da tortura e a aplicação de penas cruéis e desproporcionais.",
+      "C": "A liberdade de advogados para defenderem criminosos.",
+      "D": "A separação entre Igreja e Estado no sistema judiciário.",
+      "E": "O direito à propriedade privada dos condenados."
+    },
+    "gabarito": "B",
+    "dica": "Beccaria defendia que o objetivo da pena era a reeducação e a prevenção, não a vingança."
+  },
+  {
+    "id": "HIS-MOD-37",
+    "disciplina": "História",
+    "tema": "Iluminismo / Mary Wollstonecraft",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "A obra 'Uma Reivindicação dos Direitos da Mulher' (1792), de Mary Wollstonecraft, é um marco do Iluminismo por defender que:",
+    "alternativas": {
+      "A": "As mulheres deveriam focar exclusivamente na vida doméstica.",
+      "B": "A inferioridade feminina não era natural, mas fruto da falta de educação e oportunidades iguais.",
+      "C": "O voto deveria ser restrito apenas aos homens proprietários de terras.",
+      "D": "A educação das mulheres deveria ser proibida pelo Estado.",
+      "E": "As mulheres não possuíam alma racional, segundo a biologia da época."
+    },
+    "gabarito": "B",
+    "dica": "Ela aplicou os ideais iluministas de igualdade e razão à condição feminina."
+  },
+  {
+    "id": "HIS-MOD-38",
+    "disciplina": "História",
+    "tema": "Absolutismo / Frederico II",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Frederico II da Prússia foi um exemplo clássico de Déspota Esclarecido. Qual medida abaixo reflete sua influência iluminista?",
+    "alternativas": {
+      "A": "Abolição de todas as leis e governar por puro instinto.",
+      "B": "Incentivo à educação primária obrigatória e tolerância religiosa.",
+      "C": "Restabelecimento da Inquisição em seu território.",
+      "D": "Entrega do poder aos sindicatos de operários.",
+      "E": "Proibição da circulação de obras de Voltaire e Kant."
+    },
+    "gabarito": "B",
+    "dica": "Ele se autodenominava o 'primeiro servidor do Estado'."
+  },
+  {
+    "id": "HIS-MOD-39",
+    "disciplina": "História",
+    "tema": "Transição Econômica / População",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "No final da Idade Moderna, o aumento da produtividade agrícola e os avanços na medicina primitiva geraram um fenômeno que pressionou o sistema mercantilista. Que fenômeno foi este?",
+    "alternativas": {
+      "A": "Declínio populacional acentuado.",
+      "B": "Explosão demográfica (crescimento da população).",
+      "C": "Extinção da burguesia urbana.",
+      "D": "Volta ao sistema de escambo rural.",
+      "E": "Desaparecimento das grandes cidades europeias."
+    },
+    "gabarito": "B",
+    "dica": "Mais pessoas significam mais demanda por mercadorias e empregos, o que o sistema de monopólios não conseguia suprir."
+  },
+  {
+    "id": "HIS-MOD-40",
+    "disciplina": "História",
+    "tema": "Economia / Fisiocracia",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "François Quesnay, o principal líder da Fisiocracia, comparava a circulação de riquezas na economia ao:",
+    "alternativas": {
+      "A": "Movimento dos planetas no espaço.",
+      "B": "Sistema circulatório do sangue no corpo humano.",
+      "C": "Crescimento das raízes de uma árvore.",
+      "D": "Funcionamento de uma prensa de tipos móveis.",
+      "E": "Comportamento de uma colmeia de abelhas."
+    },
+    "gabarito": "B",
+    "dica": "Ele era médico, o que influenciou sua visão biológica da economia.",
+    "resolucao_detalhada": "Para Quesnay, a economia possuía um fluxo natural de renda entre agricultores, proprietários e a classe estéril (comerciantes), que não deveria ser interrompido pelo Estado."
+  },
+  {
+    "id": "HIS-MOD-41",
+    "disciplina": "História",
+    "tema": "Reforma Protestante / Consequências Sociais",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "A Reforma Protestante contribuiu para o fortalecimento do Estado Moderno porque:",
+    "alternativas": {
+      "A": "Submeteu a Igreja ao controle do Estado ou retirou a influência do Papa nos assuntos nacionais.",
+      "B": "Aumentou o poder dos bispos sobre os reis absolutistas.",
+      "C": "Unificou todos os países europeus sob uma única bandeira protestante.",
+      "D": "Extinguiu a necessidade de exércitos nacionais.",
+      "E": "Restaurou o feudalismo em toda a Europa Central."
+    },
+    "gabarito": "A",
+    "dica": "O Rei passou a ser o representante máximo tanto político quanto, em muitos casos, religioso."
+  },
+  {
+    "id": "HIS-MOD-42",
+    "disciplina": "História",
+    "tema": "Ciência / Isaac Newton",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Isaac Newton, ao formular a Lei da Gravitação Universal, consolidou uma visão de mundo que influenciou o Iluminismo. Qual era essa visão?",
+    "alternativas": {
+      "A": "O universo é caótico e impossível de ser compreendido pelo homem.",
+      "B": "O universo funciona como um mecanismo de relógio regido por leis físicas imutáveis.",
+      "C": "A física deve ser baseada apenas em revelações bíblicas.",
+      "D": "Os planetas são movidos por anjos e entidades espirituais.",
+      "E": "A matéria não existe, sendo apenas uma ilusão da mente humana."
+    },
+    "gabarito": "B",
+    "dica": "Essa visão é chamada de 'Mecanicismo'."
+  },
+  {
+    "id": "HIS-MOD-43",
+    "disciplina": "História",
+    "tema": "Mercantilismo / Protecionismo",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Para garantir uma Balança Comercial Favorável, os Estados Mercantilistas aplicavam altas taxas alfandegárias. Essa prática é tecnicamente chamada de:",
+    "alternativas": {
+      "A": "Livre-cambismo.",
+      "B": "Protecionismo Alfandegário.",
+      "C": "Globalização Econômica.",
+      "D": "Deflação Programada.",
+      "E": "Subsídio de Consumo."
+    },
+    "gabarito": "B",
+    "dica": "O objetivo é tornar o produto importado mais caro que o nacional."
+  },
+  {
+    "id": "HIS-MOD-44",
+    "disciplina": "História",
+    "tema": "Transição / Liberalismo Político",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "John Locke, o 'pai do liberalismo político', afirmava que se um governante violasse os direitos naturais (vida, liberdade e propriedade), o povo teria o direito de:",
+    "alternativas": {
+      "A": "Oração e penitência para que o rei mude.",
+      "B": "Rebelião ou resistência contra a tirania.",
+      "C": "Pagar o dobro de impostos para acalmar o rei.",
+      "D": "Escravizar o governante e sua família.",
+      "E": "Abandonar o país e viver em ilhas desertas."
+    },
+    "gabarito": "B",
+    "dica": "Locke justifica a revolução caso o contrato social seja quebrado pelo monarca."
+  },
+  {
+    "id": "HIS-MOD-45",
+    "disciplina": "História",
+    "tema": "Grandes Navegações / Consequências",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "A 'Revolução dos Preços', ocorrida no século XVI, foi causada principalmente por:",
+    "alternativas": {
+      "A": "Uma praga que destruiu todas as plantações de trigo na Europa.",
+      "B": "A entrada maciça de ouro e prata vindos das Américas, gerando inflação na Europa.",
+      "C": "O fim do comércio com o Oriente devido a um terremoto em Calicute.",
+      "D": "A proibição do uso de moedas metálicas pelos reis absolutistas.",
+      "E": "Uma greve geral de todos os marinheiros europeus."
+    },
+    "gabarito": "B",
+    "dica": "O excesso de moeda metálica sem o aumento proporcional da produção gera inflação."
+  },
+  {
+    "id": "HIS-MOD-46",
+    "disciplina": "História",
+    "tema": "Transição / Jean-Baptiste Say",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Um dos dogmas do liberalismo clássico é a 'Lei de Say', que afirma resumidamente que:",
+    "alternativas": {
+      "A": "A demanda cria sua própria oferta.",
+      "B": "A oferta cria sua própria demanda.",
+      "C": "O Estado deve imprimir dinheiro para gerar riqueza.",
+      "D": "A agricultura é o único setor que gera lucro real.",
+      "E": "O comércio exterior deve ser proibido em tempos de paz."
+    },
+    "gabarito": "B",
+    "dica": "Isso significa que a produção de bens gera renda suficiente para comprar outros bens, mantendo o equilíbrio."
+  },
+  {
+    "id": "HIS-MOD-47",
+    "disciplina": "História",
+    "tema": "Renascimento / Gutenberg",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "A invenção da imprensa de tipos móveis por Johannes Gutenberg (c. 1450) foi crucial para:",
+    "alternativas": {
+      "A": "Dificultar a alfabetização da população pobre.",
+      "B": "A rápida difusão das ideias renascentistas e, posteriormente, da Reforma Protestante.",
+      "C": "Fortalecer o monopólio da Igreja sobre a cópia de manuscritos.",
+      "D": "Impedir que as leis dos reis fossem lidas pelos súditos.",
+      "E": "Substituir o papel pelo pergaminho animal em toda a Europa."
+    },
+    "gabarito": "B",
+    "dica": "Sem a imprensa, o luteranismo provavelmente teria ficado restrito a uma pequena região da Alemanha."
+  },
+  {
+    "id": "HIS-MOD-48",
+    "disciplina": "História",
+    "tema": "Iluminismo / Despotismo Esclarecido no Brasil",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "No contexto português, o Marquês de Pombal aplicou reformas iluministas. Qual o impacto direto dessas reformas na colônia (Brasil)?",
+    "alternativas": {
+      "A": "Expulsão dos Jesuítas e maior controle estatal sobre a economia mineira.",
+      "B": "Liberação do comércio com a França e os EUA.",
+      "C": "Abolição da escravidão em todo o território brasileiro em 1750.",
+      "D": "Transformação do Brasil em um reino independente de Portugal.",
+      "E": "Extinção da cobrança de impostos sobre o ouro (o quinto)."
+    },
+    "gabarito": "A",
+    "dica": "Pombal queria modernizar Portugal e via os jesuítas como um Estado dentro do Estado."
+  },
+  {
+    "id": "HIS-MOD-49",
+    "disciplina": "História",
+    "tema": "Sociedade / Nobreza de Toga",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Na Idade Moderna, surgiu na França a 'Nobreza de Toga' (noblesse de robe). Quem eram esses indivíduos?",
+    "alternativas": {
+      "A": "Membros do clero que abandonaram a vida religiosa.",
+      "B": "Burgueses ricos que compravam cargos públicos e títulos de nobreza.",
+      "C": "Camponeses que lideraram revoltas armadas contra o rei.",
+      "D": "Aristocratas antigos que perderam todas as suas terras.",
+      "E": "Artistas renascentistas financiados pelos papas."
+    },
+    "gabarito": "B",
+    "dica": "Era uma forma do rei arrecadar dinheiro e ganhar a lealdade da burguesia."
+  },
+  {
+    "id": "HIS-MOD-50",
+    "disciplina": "História",
+    "tema": "Reforma / Anabatistas",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "O movimento Anabatista, considerado uma 'reforma radical', diferenciava-se de Lutero e Calvino por:",
+    "alternativas": {
+      "A": "Defender o batismo apenas em adultos e a separação total entre Igreja e Estado.",
+      "B": "Apoiar a união política entre o Papa e os reis protestantes.",
+      "C": "Exigir que todos os cristãos voltassem a morar em monastérios.",
+      "D": "Acreditar que a Bíblia não possuía nenhuma autoridade divina.",
+      "E": "Lutar pela manutenção do sistema feudal de servidão."
+    },
+    "gabarito": "A",
+    "dica": "Eles foram perseguidos tanto por católicos quanto por outros protestantes devido ao seu radicalismo social."
+  },
+  {
+    "id": "HIS-MOD-51",
+    "disciplina": "História",
+    "tema": "Ciência / Francis Bacon",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "A frase 'Saber é Poder' é atribuída a Francis Bacon. No contexto da Idade Moderna, ela significa que:",
+    "alternativas": {
+      "A": "O conhecimento deve ser usado apenas para a contemplação religiosa.",
+      "B": "A ciência deve servir para dominar a natureza e melhorar a vida humana.",
+      "C": "Apenas os reis devem ter acesso às escolas e livros.",
+      "D": "O poder político não depende da força das armas, mas da poesia.",
+      "E": "O conhecimento científico deve ser mantido em segredo absoluto."
+    },
+    "gabarito": "B",
+    "dica": "Isso marca a transição para uma ciência aplicada e tecnológica."
+  },
+  {
+    "id": "HIS-MOD-52",
+    "disciplina": "História",
+    "tema": "Mercantilismo / Companhias de Comércio",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "As Companhias das Índias Orientais (Inglesa e Holandesa) eram organizações que:",
+    "alternativas": {
+      "A": "Lutavam contra o colonialismo europeu na Ásia.",
+      "B": "Eram empresas privadas com poderes estatais (exército próprio, direito de cunhar moedas e governar terras).",
+      "C": "Eram associações de caridade focadas em ajudar náufragos.",
+      "D": "Focavam exclusivamente na exportação de escravos para a Rússia.",
+      "E": "Foram fundadas por camponeses que fugiam do absolutismo."
+    },
+    "gabarito": "B",
+    "dica": "Eram verdadeiros 'Estados corporativos' que dominaram o comércio mundial por séculos."
+  },
+  {
+    "id": "HIS-MOD-53",
+    "disciplina": "História",
+    "tema": "Transição / Thomas Malthus",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "No final do século XVIII, Thomas Malthus apresentou uma visão pessimista do liberalismo ao afirmar que:",
+    "alternativas": {
+      "A": "A população cresce em progressão geométrica, enquanto a produção de alimentos cresce em progressão aritmética.",
+      "B": "A riqueza de um país depende apenas da quantidade de ouro acumulada.",
+      "C": "O livre mercado acabaria com a pobreza em menos de dez anos.",
+      "D": "As máquinas iriam substituir todos os trabalhadores humanos em um ano.",
+      "E": "O governo deveria dar comida de graça para toda a população."
+    },
+    "gabarito": "A",
+    "dica": "Malthus previa crises de fome caso a natalidade não fosse controlada."
+  },
+  {
+    "id": "HIS-MOD-54",
+    "disciplina": "História",
+    "tema": "Cultura / Humanismo de Maquiavel",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "Ao escrever 'A Mandrágora' e 'O Príncipe', Maquiavel demonstrou uma visão de mundo renascentista porque:",
+    "alternativas": {
+      "A": "Acreditava na bondade inata de todos os seres humanos.",
+      "B": "Analisava a realidade humana e política como ela é ('verità effettuale'), e não como deveria ser.",
+      "C": "Defendia a volta à democracia direta dos tempos de Atenas.",
+      "D": "Baseava suas teorias apenas em passagens do Velho Testamento.",
+      "E": "Negava a importância da história para a compreensão do presente."
+    },
+    "gabarito": "B",
+    "dica": "O realismo político de Maquiavel é um reflexo do antropocentrismo e da observação racional."
+  },
+  {
+    "id": "HIS-MOD-55",
+    "disciplina": "História",
+    "tema": "Conclusão / Crise do Antigo Regime",
+    "prova": "Simulado Integrado - Nível Vunesp/UNIVESP",
+    "enunciado": "A crise do Antigo Regime (final do século XVIII) foi provocada pela contradição entre:",
+    "alternativas": {
+      "A": "A força econômica da burguesia e a sua falta de participação política no sistema absolutista.",
+      "B": "A riqueza do clero e a sua total submissão aos camponeses.",
+      "C": "A tecnologia das indústrias e o desejo dos reis de voltarem a ser pastores de ovelhas.",
+      "D": "O crescimento do ateísmo e a obrigatoriedade de se tornar monge para ser cidadão.",
+      "E": "A união entre França e Inglaterra para destruir o capitalismo."
+    },
+    "gabarito": "A",
+    "dica": "A burguesia tinha o dinheiro, mas a nobreza tinha o poder. Essa conta não fechou e levou às Revoluções Burguesas."
+  }
+]

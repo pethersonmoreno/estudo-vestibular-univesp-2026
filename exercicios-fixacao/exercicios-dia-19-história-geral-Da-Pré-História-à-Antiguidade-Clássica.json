@@ -1,6 +1,6 @@
 [
   {
-    "id": "HIST-01",
+    "id": "HIST-ANT-01",
     "disciplina": "História",
     "tema": "Pré-História / Paleolítico",
     "prova": "Simulado Adaptado - Vestibular",
@@ -17,7 +17,7 @@
     "resolucao_detalhada": "O nomadismo é a prática de não ter habitação fixa, deslocando-se conforme a disponibilidade de alimentos (caça e coleta). É a principal característica social do Paleolítico."
   },
   {
-    "id": "HIST-02",
+    "id": "HIST-ANT-02",
     "disciplina": "História",
     "tema": "Pré-História / Paleolítico",
     "prova": "Simulado Adaptado - Vestibular",
@@ -34,7 +34,7 @@
     "resolucao_detalhada": "Embora o fogo tenha transformado a vida humana, a agricultura (produção de alimentos) e a cerâmica (armazenamento) só surgiram milhares de anos depois, no período Neolítico."
   },
   {
-    "id": "HIST-03",
+    "id": "HIST-ANT-03",
     "disciplina": "História",
     "tema": "Pré-História / Arte Rupestre",
     "prova": "Simulado Adaptado - Vestibular",
@@ -51,7 +51,7 @@
     "resolucao_detalhada": "A teoria do 'Magismo' sugere que o homem paleolítico acreditava que, ao representar o animal sendo caçado na parede, ele exerceria um poder místico sobre o animal real, garantindo a sobrevivência do bando."
   },
   {
-    "id": "HIST-04",
+    "id": "HIST-ANT-04",
     "disciplina": "História",
     "tema": "Pré-História / Paleolítico vs Neolítico",
     "prova": "Simulado Adaptado - Vestibular",
@@ -68,7 +68,7 @@
     "resolucao_detalhada": "A pedra polida permitiu a criação de instrumentos mais afiados e duráveis, como machados e enxadas, fundamentais para o trabalho agrícola que surgiria no Neolítico."
   },
   {
-    "id": "HIST-05",
+    "id": "HIST-ANT-05",
     "disciplina": "História",
     "tema": "Pré-História / Evolução Humana",
     "prova": "Simulado Adaptado - Vestibular",
@@ -85,7 +85,7 @@
     "resolucao_detalhada": "O cozimento facilitou a digestão e a absorção de nutrientes, além de reduzir o esforço da mastigação (diminuindo mandíbula e dentes). Isso permitiu que a energia excedente fosse canalizada para o crescimento do cérebro."
   },
   {
-    "id": "HIST-06",
+    "id": "HIST-ANT-06",
     "disciplina": "História",
     "tema": "Pré-História / Divisão do Trabalho",
     "prova": "Simulado Adaptado - Vestibular",
@@ -102,7 +102,7 @@
     "resolucao_detalhada": "No Paleolítico, a divisão era biológica: homens geralmente cuidavam da caça de grandes animais e proteção, enquanto mulheres e crianças focavam na coleta de frutos, raízes e caça de pequeno porte."
   },
   {
-    "id": "HIST-07",
+    "id": "HIST-ANT-07",
     "disciplina": "História",
     "tema": "Pré-História / Cultura Material",
     "prova": "Simulado Adaptado - Vestibular",
@@ -119,7 +119,7 @@
     "resolucao_detalhada": "A indústria osteodontoquerática (uso de ossos, dentes e chifres) foi essencial para criar ferramentas mais finas e precisas que a pedra bruta não permitia."
   },
   {
-    "id": "HIST-08",
+    "id": "HIST-ANT-08",
     "disciplina": "História",
     "tema": "Pré-História / Religião e Ritos",
     "prova": "Simulado Adaptado - Vestibular",
@@ -136,7 +136,7 @@
     "resolucao_detalhada": "O cuidado com os mortos revela o desenvolvimento do pensamento simbólico e espiritual, indicando que os hominídeos começaram a questionar o mistério da morte."
   },
   {
-    "id": "HIST-09",
+    "id": "HIST-ANT-09",
     "disciplina": "História",
     "tema": "Pré-História / Habitação",
     "prova": "Simulado Adaptado - Vestibular",
@@ -153,7 +153,7 @@
     "resolucao_detalhada": "As cavernas serviam de abrigo natural, mas o nomadismo exigia a construção de cabanas temporárias com materiais leves e disponíveis no ambiente."
   },
   {
-    "id": "HIST-10",
+    "id": "HIST-ANT-10",
     "disciplina": "História",
     "tema": "Pré-História / Meio Ambiente",
     "prova": "Simulado Adaptado - Vestibular",
@@ -170,7 +170,7 @@
     "resolucao_detalhada": "Diferente de outros animais que evoluíram fisicamente para o frio, o homem usou a inteligência para criar tecnologia (fogo e vestimentas) para sobreviver."
   },
   {
-    "id": "HIST-11",
+    "id": "HIST-ANT-11",
     "disciplina": "História",
     "tema": "Pré-História / Clima e Transição",
     "prova": "Simulado Adaptado - Vestibular",
@@ -187,7 +187,7 @@
     "resolucao_detalhada": "A mudança climática alterou o ecossistema. Sem os grandes animais para caçar, o ser humano passou a observar o ciclo das plantas, levando à Revolução Agrícola."
   },
   {
-    "id": "HIST-12",
+    "id": "HIST-ANT-12",
     "disciplina": "História",
     "tema": "Pré-História / Arte e Estética",
     "prova": "Simulado Adaptado - Vestibular",
@@ -204,7 +204,7 @@
     "resolucao_detalhada": "Essas esculturas simbolizavam a fertilidade, tanto da mulher quanto da terra, sendo consideradas amuletos para garantir a continuidade da espécie."
   },
   {
-    "id": "HIST-13",
+    "id": "HIST-ANT-13",
     "disciplina": "História",
     "tema": "Pré-História / Terminololgia",
     "prova": "Simulado Adaptado - Vestibular",
@@ -221,7 +221,7 @@
     "resolucao_detalhada": "Paleolítico significa 'Antiga Idade da Pedra' ou 'Idade da Pedra Lascada', referindo-se à técnica mais rudimentar de trabalho com minerais."
   },
   {
-    "id": "HIST-14",
+    "id": "HIST-ANT-14",
     "disciplina": "História",
     "tema": "Pré-História / Linguagem",
     "prova": "Simulado Adaptado - Vestibular",
@@ -238,7 +238,7 @@
     "resolucao_detalhada": "A cooperação social no Paleolítico foi o motor para o surgimento de linguagens complexas, essenciais para a transmissão de cultura entre gerações."
   },
   {
-    "id": "HIST-15",
+    "id": "HIST-ANT-15",
     "disciplina": "História",
     "tema": "Pré-História / Generalidades",
     "prova": "Simulado Adaptado - Vestibular",
@@ -256,7 +256,7 @@
   },
 
   {
-    "id": "HIST-16",
+    "id": "HIST-ANT-16",
     "disciplina": "História",
     "tema": "Pré-História / Revolução Neolítica",
     "prova": "Simulado Adaptado - Vestibular",
@@ -273,7 +273,7 @@
     "resolucao_detalhada": "A Revolução Neolítica marca o início da agricultura e da domesticação de animais, permitindo ao ser humano produzir seu sustento e não depender apenas da sorte na caça e coleta."
   },
   {
-    "id": "HIST-17",
+    "id": "HIST-ANT-17",
     "disciplina": "História",
     "tema": "Pré-História / Sedentarismo",
     "prova": "Simulado Adaptado - Vestibular",
@@ -290,7 +290,7 @@
     "resolucao_detalhada": "A agricultura exigia fixação à terra. Isso levou à construção de habitações permanentes e à formação de comunidades estáveis (sedentarismo)."
   },
   {
-    "id": "HIST-18",
+    "id": "HIST-ANT-18",
     "disciplina": "História",
     "tema": "Pré-História / Cerâmica",
     "prova": "Simulado Adaptado - Vestibular",
@@ -307,7 +307,7 @@
     "resolucao_detalhada": "A produção agrícola gerou sobras. A cerâmica surgiu como solução tecnológica para estocar alimentos e cozinhar, permitindo uma dieta mais variada."
   },
   {
-    "id": "HIST-19",
+    "id": "HIST-ANT-19",
     "disciplina": "História",
     "tema": "Pré-História / Divisão Social",
     "prova": "Simulado Adaptado - Vestibular",
@@ -324,7 +324,7 @@
     "resolucao_detalhada": "Com o excedente, surgiram funções especializadas (artesãos, guardas, líderes). Isso quebrou o igualitarismo do Paleolítico e deu início às classes sociais."
   },
   {
-    "id": "HIST-20",
+    "id": "HIST-ANT-20",
     "disciplina": "História",
     "tema": "Pré-História / Tecnologia",
     "prova": "Simulado Adaptado - Vestibular",
@@ -341,7 +341,7 @@
     "resolucao_detalhada": "O polimento permitiu criar instrumentos de corte mais precisos (como enxadas e foices), essenciais para o manejo da terra na agricultura."
   },
   {
-    "id": "HIST-21",
+    "id": "HIST-ANT-21",
     "disciplina": "História",
     "tema": "Pré-História / Domesticação de Animais",
     "prova": "Simulado Adaptado - Vestibular",
@@ -358,7 +358,7 @@
     "resolucao_detalhada": "A domesticação garantiu uma fonte regular de proteína e matérias-primas (como couro e lã), além de animais servirem como força de tração para o arado."
   },
   {
-    "id": "HIST-22",
+    "id": "HIST-ANT-22",
     "disciplina": "História",
     "tema": "Pré-História / Idade dos Metais",
     "prova": "Simulado Adaptado - Vestibular",
@@ -375,7 +375,7 @@
     "resolucao_detalhada": "O cobre foi o primeiro metal utilizado por ser encontrado de forma mais pura e ter um ponto de fusão mais acessível para as tecnologias da época."
   },
   {
-    "id": "HIST-23",
+    "id": "HIST-ANT-23",
     "disciplina": "História",
     "tema": "Pré-História / Idade dos Metais",
     "prova": "Simulado Adaptado - Vestibular",
@@ -392,7 +392,7 @@
     "resolucao_detalhada": "A Idade do Bronze foi um marco militar e tecnológico, pois essa liga permitiu a criação de armas e ferramentas muito mais resistentes que as de pedra ou cobre."
   },
   {
-    "id": "HIST-24",
+    "id": "HIST-ANT-24",
     "disciplina": "História",
     "tema": "Pré-História / Idade dos Metais",
     "prova": "Simulado Adaptado - Vestibular",
@@ -409,7 +409,7 @@
     "resolucao_detalhada": "O ferro exigiu a invenção de foles e fornos mais potentes. Uma vez dominado, conferiu superioridade militar aos povos que o utilizavam devido à dureza do metal."
   },
   {
-    "id": "HIST-25",
+    "id": "HIST-ANT-25",
     "disciplina": "História",
     "tema": "Pré-História / Consequências Sociais",
     "prova": "Simulado Adaptado - Vestibular",
@@ -426,7 +426,7 @@
     "resolucao_detalhada": "A necessidade de proteger o excedente agrícola e as riquezas (metais/gado) levou à construção de defesas militares (muros e fossos) e ao surgimento da figura do guerreiro."
   },
   {
-    "id": "HIST-26",
+    "id": "HIST-ANT-26",
     "disciplina": "História",
     "tema": "Pré-História / Meio Ambiente",
     "prova": "Simulado Adaptado - Vestibular",
@@ -443,7 +443,7 @@
     "resolucao_detalhada": "Diferente do Paleolítico (onde o homem se adaptava ao meio), no Neolítico ele altera o meio ambiente para servir às suas necessidades de produção de alimentos."
   },
   {
-    "id": "HIST-27",
+    "id": "HIST-ANT-27",
     "disciplina": "História",
     "tema": "Pré-História / Tecelagem",
     "prova": "Simulado Adaptado - Vestibular",
@@ -460,7 +460,7 @@
     "resolucao_detalhada": "A tecelagem foi uma inovação neolítica que permitiu a criação de vestimentas mais leves e adequadas ao clima pós-glacial, além de cestos e redes."
   },
   {
-    "id": "HIST-28",
+    "id": "HIST-ANT-28",
     "disciplina": "História",
     "tema": "Pré-História / Monumentos Megalíticos",
     "prova": "Simulado Adaptado - Vestibular",
@@ -477,7 +477,7 @@
     "resolucao_detalhada": "Os megálitos provam que as sociedades do final do Neolítico já possuíam divisões hierárquicas e crenças religiosas coletivas que demandavam grandes esforços de engenharia."
   },
   {
-    "id": "HIST-29",
+    "id": "HIST-ANT-29",
     "disciplina": "História",
     "tema": "Pré-História / Crescente Fértil",
     "prova": "Simulado Adaptado - Vestibular",
@@ -494,7 +494,7 @@
     "resolucao_detalhada": "O Crescente Fértil foi o berço da agricultura e das primeiras civilizações devido às condições climáticas favoráveis e à presença de grandes rios."
   },
   {
-    "id": "HIST-30",
+    "id": "HIST-ANT-30",
     "disciplina": "História",
     "tema": "Pré-História / Finalização",
     "prova": "Simulado Adaptado - Vestibular",
@@ -512,7 +512,7 @@
   },
 
   {
-    "id": "HIST-31",
+    "id": "HIST-ANT-31",
     "disciplina": "História",
     "tema": "Idade dos Metais / Metalurgia",
     "prova": "Simulado Adaptado - Vestibular",
@@ -529,7 +529,7 @@
     "resolucao_detalhada": "A fundição foi a tecnologia chave. Sem o controle do fogo em altas temperaturas, o homem não conseguiria extrair o metal do minério nem criar ligas metálicas."
   },
   {
-    "id": "HIST-32",
+    "id": "HIST-ANT-32",
     "disciplina": "História",
     "tema": "Idade dos Metais / Bronze",
     "prova": "Simulado Adaptado - Vestibular",
@@ -546,7 +546,7 @@
     "resolucao_detalhada": "O bronze (cobre + estanho) era muito mais resistente que o cobre puro, permitindo a criação de armas e ferramentas de maior durabilidade."
   },
   {
-    "id": "HIST-33",
+    "id": "HIST-ANT-33",
     "disciplina": "História",
     "tema": "Idade dos Metais / Sociedade",
     "prova": "Simulado Adaptado - Vestibular",
@@ -563,7 +563,7 @@
     "resolucao_detalhada": "Como o ferro era abundante, exércitos maiores puderam ser equipados e camponeses puderam usar arados mais eficientes, aumentando a produção e o poder militar dos Estados."
   },
   {
-    "id": "HIST-34",
+    "id": "HIST-ANT-34",
     "disciplina": "História",
     "tema": "Idade dos Metais / Comércio",
     "prova": "Simulado Adaptado - Vestibular",
@@ -580,7 +580,7 @@
     "resolucao_detalhada": "A busca por metais raros integrou diferentes regiões do mundo antigo através do comércio, levando ao intercâmbio de culturas, línguas e tecnologias."
   },
   {
-    "id": "HIST-35",
+    "id": "HIST-ANT-35",
     "disciplina": "História",
     "tema": "Idade dos Metais / Política",
     "prova": "Simulado Adaptado - Vestibular",
@@ -599,7 +599,7 @@
 
 
   {
-    "id": "HIST-36",
+    "id": "HIST-ANT-36",
     "disciplina": "História",
     "tema": "Idade dos Metais / Revolução Urbana",
     "prova": "Simulado Adaptado - Vestibular",
@@ -616,7 +616,7 @@
     "resolucao_detalhada": "A Revolução Urbana foi o processo de transição das aldeias autossuficientes para cidades com administração centralizada, impulsionada pelo uso dos metais e excedentes agrícolas."
   },
   {
-    "id": "HIST-37",
+    "id": "HIST-ANT-37",
     "disciplina": "História",
     "tema": "Idade dos Metais / Sociedade",
     "prova": "Simulado Adaptado - Vestibular",
@@ -633,7 +633,7 @@
     "resolucao_detalhada": "A posse de armas metálicas e a necessidade de proteção das cidades levaram ao surgimento de uma elite guerreira que, muitas vezes, assumia o controle político das comunidades."
   },
   {
-    "id": "HIST-38",
+    "id": "HIST-ANT-38",
     "disciplina": "História",
     "tema": "Idade dos Metais / Tecnologia Agrícola",
     "prova": "Simulado Adaptado - Vestibular",
@@ -650,7 +650,7 @@
     "resolucao_detalhada": "O arado de ferro foi uma tecnologia disruptiva, permitindo que áreas antes incultiváveis fossem aproveitadas, gerando um aumento populacional sem precedentes."
   },
   {
-    "id": "HIST-39",
+    "id": "HIST-ANT-39",
     "disciplina": "História",
     "tema": "Idade dos Metais / Economia",
     "prova": "Simulado Adaptado - Vestibular",
@@ -667,7 +667,7 @@
     "resolucao_detalhada": "Antes das moedas cunhadas, metais em peso (lingotes) e animais eram usados como medida de valor para facilitar o comércio que se expandia entre as cidades."
   },
   {
-    "id": "HIST-40",
+    "id": "HIST-ANT-40",
     "disciplina": "História",
     "tema": "Idade dos Metais / Religião",
     "prova": "Simulado Adaptado - Vestibular",
@@ -684,7 +684,7 @@
     "resolucao_detalhada": "O poder de transformar rocha em metal líquido era visto como algo mágico ou divino, levando ao surgimento de mitos sobre deuses ferreiros e a associação do ouro com o Sol."
   },
   {
-    "id": "HIST-41",
+    "id": "HIST-ANT-41",
     "disciplina": "História",
     "tema": "Idade dos Metais / Organização Estatal",
     "prova": "Simulado Adaptado - Vestibular",
@@ -701,7 +701,7 @@
     "resolucao_detalhada": "As sociedades da Idade dos Metais/Antiguidade eram Teocráticas. O controle das tecnologias e recursos era legitimado pela vontade divina personificada no governante."
   },
   {
-    "id": "HIST-42",
+    "id": "HIST-ANT-42",
     "disciplina": "História",
     "tema": "Idade dos Metais / Metalurgia do Ferro",
     "prova": "Simulado Adaptado - Vestibular",
@@ -718,7 +718,7 @@
     "resolucao_detalhada": "Os Hititas foram pioneiros na metalurgia do ferro por volta de 1500 a.C., o que lhes deu uma vantagem militar significativa sobre vizinhos que ainda usavam o bronze."
   },
   {
-    "id": "HIST-43",
+    "id": "HIST-ANT-43",
     "disciplina": "História",
     "tema": "Idade dos Metais / Escrita",
     "prova": "Simulado Adaptado - Vestibular",
@@ -735,7 +735,7 @@
     "resolucao_detalhada": "A escrita surgiu da necessidade burocrática dos templos e palácios para gerenciar a economia complexa que os metais e a agricultura de larga escala criaram."
   },
   {
-    "id": "HIST-44",
+    "id": "HIST-ANT-44",
     "disciplina": "História",
     "tema": "Idade dos Metais / Impacto Ambiental",
     "prova": "Simulado Adaptado - Vestibular",
@@ -752,7 +752,7 @@
     "resolucao_detalhada": "A metalurgia foi uma das primeiras atividades humanas a causar um impacto ambiental em larga escala, exigindo o corte de florestas inteiras para alimentar as forjas."
   },
   {
-    "id": "HIST-45",
+    "id": "HIST-ANT-45",
     "disciplina": "História",
     "tema": "Idade dos Metais / Conclusão",
     "prova": "Simulado Adaptado - Vestibular",
@@ -770,7 +770,7 @@
   },
 
   {
-    "id": "HIST-46",
+    "id": "HIST-ANT-46",
     "disciplina": "História",
     "tema": "Antiguidade / Civilizações Hidráulicas",
     "prova": "Simulado Adaptado - Vestibular",
@@ -787,7 +787,7 @@
     "resolucao_detalhada": "O controle das águas (diques e canais) exigia uma organização social complexa e um governo centralizado, o que deu origem ao Estado nessas regiões."
   },
   {
-    "id": "HIST-47",
+    "id": "HIST-ANT-47",
     "disciplina": "História",
     "tema": "Antiguidade / Mesopotâmia",
     "prova": "Simulado Adaptado - Vestibular",
@@ -804,7 +804,7 @@
     "resolucao_detalhada": "Diferente do Egito, a Mesopotâmia teve uma história marcada por cidades-Estado autônomas e sucessivas invasões e conquistas entre diferentes impérios."
   },
   {
-    "id": "HIST-48",
+    "id": "HIST-ANT-48",
     "disciplina": "História",
     "tema": "Antiguidade / Egito Antigo",
     "prova": "Simulado Adaptado - Vestibular",
@@ -821,7 +821,7 @@
     "resolucao_detalhada": "No Egito, a política e a religião eram inseparáveis. O Faraó era o dono de todas as terras e responsável por garantir as cheias do Nilo através de rituais divinos."
   },
   {
-    "id": "HIST-49",
+    "id": "HIST-ANT-49",
     "disciplina": "História",
     "tema": "Antiguidade / Escrita Cuneiforme",
     "prova": "Simulado Adaptado - Vestibular",
@@ -838,7 +838,7 @@
     "resolucao_detalhada": "Com o aumento do excedente agrícola e o uso de metais, o Estado precisava de uma ferramenta para controlar a economia, o que levou à invenção da escrita."
   },
   {
-    "id": "HIST-50",
+    "id": "HIST-ANT-50",
     "disciplina": "História",
     "tema": "Antiguidade / Código de Hamurábi",
     "prova": "Simulado Adaptado - Vestibular",
@@ -855,7 +855,7 @@
     "resolucao_detalhada": "Criado na Babilônia, o código estabelecia punições físicas baseadas na reciprocidade, refletindo a tentativa do Estado de organizar a ordem social e jurídica."
   },
   {
-    "id": "HIST-51",
+    "id": "HIST-ANT-51",
     "disciplina": "História",
     "tema": "Antiguidade / Sociedade Egípcia",
     "prova": "Simulado Adaptado - Vestibular",
@@ -872,7 +872,7 @@
     "resolucao_detalhada": "Os escribas eram essenciais para a administração do império, registrando desde a coleta de impostos até as ordens reais, sendo fundamentais para a manutenção do poder."
   },
   {
-    "id": "HIST-52",
+    "id": "HIST-ANT-52",
     "disciplina": "História",
     "tema": "Antiguidade / Religião",
     "prova": "Simulado Adaptado - Vestibular",
@@ -889,7 +889,7 @@
     "resolucao_detalhada": "A mumificação refletia a crença na imortalidade e era um processo técnico complexo, reservado inicialmente à elite e ao Faraó."
   },
   {
-    "id": "HIST-53",
+    "id": "HIST-ANT-53",
     "disciplina": "História",
     "tema": "Antiguidade / Economia",
     "prova": "Simulado Adaptado - Vestibular",
@@ -906,7 +906,7 @@
     "resolucao_detalhada": "Nesse modelo, o Estado (representado pelo soberano) detinha a posse nominal das terras, e os camponeses entregavam parte da produção e trabalhavam em obras públicas."
   },
   {
-    "id": "HIST-54",
+    "id": "HIST-ANT-54",
     "disciplina": "História",
     "tema": "Antiguidade / Zigurates",
     "prova": "Simulado Adaptado - Vestibular",
@@ -923,7 +923,7 @@
     "resolucao_detalhada": "Os zigurates simbolizavam a ligação entre a terra e o céu e eram o centro administrativo das cidades-Estado sumérias e babilônicas."
   },
   {
-    "id": "HIST-55",
+    "id": "HIST-ANT-55",
     "disciplina": "História",
     "tema": "Antiguidade / Legado Fenício",
     "prova": "Simulado Adaptado - Vestibular",
@@ -940,7 +940,7 @@
     "resolucao_detalhada": "O alfabeto fenício foi a base para o alfabeto grego e, posteriormente, para o latino (que usamos hoje), simplificando enormemente a escrita para fins comerciais."
   },
   {
-    "id": "HIST-56",
+    "id": "HIST-ANT-56",
     "disciplina": "História",
     "tema": "Antiguidade / Hebreus",
     "prova": "Simulado Adaptado - Vestibular",
@@ -957,7 +957,7 @@
     "resolucao_detalhada": "A crença em Jeová (YHVH) como único Deus e a aliança entre o povo e a divindade foram os pilares da identidade e cultura hebraica."
   },
   {
-    "id": "HIST-57",
+    "id": "HIST-ANT-57",
     "disciplina": "História",
     "tema": "Antiguidade / Império Persa",
     "prova": "Simulado Adaptado - Vestibular",
@@ -974,7 +974,7 @@
     "resolucao_detalhada": "A divisão em satrapias permitiu um controle local eficiente e a cobrança de impostos organizada, mantendo a coesão de um império multicultural e gigantesco."
   },
   {
-    "id": "HIST-58",
+    "id": "HIST-ANT-58",
     "disciplina": "História",
     "tema": "Antiguidade / Ciência e Tecnologia",
     "prova": "Simulado Adaptado - Vestibular",
@@ -991,7 +991,7 @@
     "resolucao_detalhada": "Os babilônios utilizavam a base 60, o que nos legou a divisão do tempo e dos ângulos que utilizamos até os dias atuais."
   },
   {
-    "id": "HIST-59",
+    "id": "HIST-ANT-59",
     "disciplina": "História",
     "tema": "Antiguidade / Arquitetura",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1008,7 +1008,7 @@
     "resolucao_detalhada": "A obra, atribuída a Nabucodonosor II, mostra como o controle da água era o centro da tecnologia e do luxo nas cortes mesopotâmicas."
   },
   {
-    "id": "HIST-60",
+    "id": "HIST-ANT-60",
     "disciplina": "História",
     "tema": "Antiguidade / Transição",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1026,7 +1026,7 @@
   },
 
   {
-    "id": "HIST-61",
+    "id": "HIST-ANT-61",
     "disciplina": "História",
     "tema": "Antiguidade / Economia",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1043,7 +1043,7 @@
     "resolucao_detalhada": "Neste modelo, as comunidades aldeãs pagavam tributos ao Estado sob a forma de produtos ou trabalho em obras públicas (como diques e pirâmides), caracterizando a servidão coletiva."
   },
   {
-    "id": "HIST-62",
+    "id": "HIST-ANT-62",
     "disciplina": "História",
     "tema": "Antiguidade / Política",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1060,7 +1060,7 @@
     "resolucao_detalhada": "A teocracia permitia que o governante (como o Faraó) controlasse a população não apenas pela força física, mas pela crença espiritual de que ele geria as forças da natureza (como as cheias)."
   },
   {
-    "id": "HIST-63",
+    "id": "HIST-ANT-63",
     "disciplina": "História",
     "tema": "Antiguidade / Sociedade",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1077,7 +1077,7 @@
     "resolucao_detalhada": "A corveia era a prestação de trabalho gratuito que os camponeses deviam ao soberano durante os períodos em que não estavam ocupados com as suas próprias colheitas."
   },
   {
-    "id": "HIST-64",
+    "id": "HIST-ANT-64",
     "disciplina": "História",
     "tema": "Antiguidade / Vale do Indo",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1094,7 +1094,7 @@
     "resolucao_detalhada": "A civilização do Indo apresentava um nível de engenharia civil superior a muitas cidades contemporâneas, refletindo um Estado forte e organizado."
   },
   {
-    "id": "HIST-65",
+    "id": "HIST-ANT-65",
     "disciplina": "História",
     "tema": "Antiguidade / China Antiga",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1111,7 +1111,7 @@
     "resolucao_detalhada": "A seda era o principal produto de exportação da China, dando nome à famosa 'Rota da Seda' que ligava o Oriente ao Império Romano."
   },
   {
-    "id": "HIST-66",
+    "id": "HIST-ANT-66",
     "disciplina": "História",
     "tema": "Antiguidade / Escrita e Burocracia",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1128,7 +1128,7 @@
     "resolucao_detalhada": "Os escribas detinham o monopólio do conhecimento administrativo, o que lhes garantia privilégios sociais e proximidade com o poder real."
   },
   {
-    "id": "HIST-67",
+    "id": "HIST-ANT-67",
     "disciplina": "História",
     "tema": "Antiguidade / Mesopotâmia / Sociedade",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1145,7 +1145,7 @@
     "resolucao_detalhada": "A geografia da Mesopotâmia favoreceu a instabilidade política e a mistura cultural, resultando numa sucessão de impérios com diferentes características militares e leis."
   },
   {
-    "id": "HIST-68",
+    "id": "HIST-ANT-68",
     "disciplina": "História",
     "tema": "Antiguidade / Egito / Ciência",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1162,7 +1162,7 @@
     "resolucao_detalhada": "A matemática (especialmente a geometria) e a observação dos astros eram ferramentas práticas de sobrevivência e administração agrícola no Egito."
   },
   {
-    "id": "HIST-69",
+    "id": "HIST-ANT-69",
     "disciplina": "História",
     "tema": "Antiguidade / Escravidão",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1179,7 +1179,7 @@
     "resolucao_detalhada": "A escravidão era uma instituição secundária se comparada à servidão coletiva dos camponeses felares ou mesopotâmicos."
   },
   {
-    "id": "HIST-70",
+    "id": "HIST-ANT-70",
     "disciplina": "História",
     "tema": "Antiguidade / Religião / Mesopotâmia",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1196,7 +1196,7 @@
     "resolucao_detalhada": "Ao contrário do Egito, onde o Nilo era visto como um deus bondoso, os rios da Mesopotâmia inundavam de forma destrutiva, influenciando uma visão pessimista da religião."
   },
   {
-    "id": "HIST-71",
+    "id": "HIST-ANT-71",
     "disciplina": "História",
     "tema": "Antiguidade / Legado / Assírios",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1213,7 +1213,7 @@
     "resolucao_detalhada": "A superioridade técnica das armas de ferro deu aos assírios a capacidade de conquistar quase todo o Crescente Fértil."
   },
   {
-    "id": "HIST-72",
+    "id": "HIST-ANT-72",
     "disciplina": "História",
     "tema": "Antiguidade / China / Muralha",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1230,7 +1230,7 @@
     "resolucao_detalhada": "A construção reflete a necessidade de um Estado centralizado forte para proteger as áreas agrícolas sedentárias das incursões nômades."
   },
   {
-    "id": "HIST-73",
+    "id": "HIST-ANT-73",
     "disciplina": "História",
     "tema": "Antiguidade / Escrita Hieroglífica",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1247,7 +1247,7 @@
     "resolucao_detalhada": "O papiro era processado para criar rolos leves, facilitando o transporte de informações e a burocracia do império, ao contrário da pesada argila mesopotâmica."
   },
   {
-    "id": "HIST-74",
+    "id": "HIST-ANT-74",
     "disciplina": "História",
     "tema": "Antiguidade / Religião / Vida após a morte",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1264,7 +1264,7 @@
     "resolucao_detalhada": "Este mito reforçava a moral social e a ética, mostrando que até a vida eterna dependia da conduta justa perante o Estado e os Deuses."
   },
   {
-    "id": "HIST-75",
+    "id": "HIST-ANT-75",
     "disciplina": "História",
     "tema": "Antiguidade / Urbanismo / Mesopotâmia",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1282,7 +1282,7 @@
   },
 
   {
-    "id": "HIST-76",
+    "id": "HIST-ANT-76",
     "disciplina": "História",
     "tema": "Grécia Antiga / Política",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1299,7 +1299,7 @@
     "resolucao_detalhada": "Embora restrita a uma minoria (homens livres e filhos de atenienses), a participação era direta, exercida em praça pública (Ágora)."
   },
   {
-    "id": "HIST-77",
+    "id": "HIST-ANT-77",
     "disciplina": "História",
     "tema": "Grécia Antiga / Sociedade",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1316,7 +1316,7 @@
     "resolucao_detalhada": "A educação em Esparta (Agogê) visava criar soldados perfeitos e obedientes, garantindo a hegemonia da elite militar sobre a população dominada (hilotas)."
   },
   {
-    "id": "HIST-78",
+    "id": "HIST-ANT-78",
     "disciplina": "História",
     "tema": "Grécia Antiga / Helenismo",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1333,7 +1333,7 @@
     "resolucao_detalhada": "O helenismo fundiu elementos da cultura grega com tradições orientais (egípcias e persas), gerando grandes avanços científicos e artísticos."
   },
   {
-    "id": "HIST-79",
+    "id": "HIST-ANT-79",
     "disciplina": "História",
     "tema": "Roma Antiga / República",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1350,7 +1350,7 @@
     "resolucao_detalhada": "As lutas sociais forçaram os patrícios a conceder direitos aos plebeus, incluindo a Lei das Doze Tábuas e a criação do cargo de Tribuno da Plebe."
   },
   {
-    "id": "HIST-80",
+    "id": "HIST-ANT-80",
     "disciplina": "História",
     "tema": "Roma Antiga / Império",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1367,7 +1367,7 @@
     "resolucao_detalhada": "Ao oferecer trigo subsidiado e lutas de gladiadores, os imperadores distraíam a plebe dos problemas políticos e econômicos do Império."
   },
   {
-    "id": "HIST-81",
+    "id": "HIST-ANT-81",
     "disciplina": "História",
     "tema": "Roma Antiga / Legado",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1384,7 +1384,7 @@
     "resolucao_detalhada": "Roma desenvolveu um sistema legal sofisticado que buscava regular as relações sociais de forma escrita e institucionalizada, influenciando o Código Civil moderno."
   },
   {
-    "id": "HIST-82",
+    "id": "HIST-ANT-82",
     "disciplina": "História",
     "tema": "Roma Antiga / Queda",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1401,7 +1401,7 @@
     "resolucao_detalhada": "Povos como os germanos, visigodos e vândalos foram chamados de bárbaros. A pressão desses povos, somada à crise interna de Roma, levou ao colapso do sistema imperial."
   },
   {
-    "id": "HIST-83",
+    "id": "HIST-ANT-83",
     "disciplina": "História",
     "tema": "Grécia Antiga / Filosofia",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1418,7 +1418,7 @@
     "resolucao_detalhada": "A maiêutica socrática buscava levar o interlocutor a descobrir a verdade por si mesmo, questionando suas próprias crenças."
   },
   {
-    "id": "HIST-84",
+    "id": "HIST-ANT-84",
     "disciplina": "História",
     "tema": "Antiguidade Clássica / Escravismo",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1435,7 +1435,7 @@
     "resolucao_detalhada": "Grécia e Roma foram 'sociedades escravistas', onde o escravo era a principal força de trabalho e mercadoria, permitindo que os cidadãos tivessem tempo para a política ou lazer."
   },
   {
-    "id": "HIST-85",
+    "id": "HIST-ANT-85",
     "disciplina": "História",
     "tema": "Roma Antiga / Cristianismo",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1452,7 +1452,7 @@
     "resolucao_detalhada": "O edito foi o primeiro passo para o cristianismo deixar de ser uma seita perseguida para se tornar, anos depois (Edito de Tessalônica), a religião oficial do Estado."
   },
   {
-    "id": "HIST-86",
+    "id": "HIST-ANT-86",
     "disciplina": "História",
     "tema": "Grécia Antiga / Teatro",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1469,7 +1469,7 @@
     "resolucao_detalhada": "A Tragédia buscava a catarse (purificação dos sentimentos), enquanto a Comédia criticava os costumes e os políticos da época."
   },
   {
-    "id": "HIST-87",
+    "id": "HIST-ANT-87",
     "disciplina": "História",
     "tema": "Roma Antiga / Estradas",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1486,7 +1486,7 @@
     "resolucao_detalhada": "As estradas romanas eram obras de engenharia fantásticas que garantiam que ordens e tropas chegassem rapidamente às províncias mais distantes."
   },
   {
-    "id": "HIST-88",
+    "id": "HIST-ANT-88",
     "disciplina": "História",
     "tema": "Grécia Antiga / Jogos Olímpicos",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1503,7 +1503,7 @@
     "resolucao_detalhada": "Realizados a cada quatro anos em Olímpia, os jogos celebravam a excelência física e a união cultural dos gregos sob a proteção de Zeus."
   },
   {
-    "id": "HIST-89",
+    "id": "HIST-ANT-89",
     "disciplina": "História",
     "tema": "Roma Antiga / Engenharia",
     "prova": "Simulado Adaptado - Vestibular",
@@ -1520,7 +1520,7 @@
     "resolucao_detalhada": "Através de cálculos precisos de inclinação, os aquedutos traziam água limpa para banhos públicos, fontes e casas da elite, melhorando a higiene urbana."
   },
   {
-    "id": "HIST-90",
+    "id": "HIST-ANT-90",
     "disciplina": "História",
     "tema": "Transição / Idade Média",
     "prova": "Simulado Adaptado - Vestibular",

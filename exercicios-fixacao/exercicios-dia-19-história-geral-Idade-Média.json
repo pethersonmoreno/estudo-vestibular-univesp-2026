@@ -1,6 +1,6 @@
 [
   {
-    "id": "HIS01",
+    "id": "HIS-MED-01",
     "disciplina": "História",
     "tema": "Alta Idade Média / Sistema Feudal",
     "prova": "Simulado Geral Vestibular",
@@ -17,7 +17,7 @@
     "resolucao_detalhada": "O feudalismo foi marcado pela fragmentação do poder político (os senhores feudais governavam seus próprios feudos), pela ruralização e economia de subsistência, e por uma rígida divisão social (clero, nobreza e servos) onde não havia mobilidade de classes."
   },
   {
-    "id": "HIS02",
+    "id": "HIS-MED-02",
     "disciplina": "História",
     "tema": "Alta Idade Média / Império Carolíngio",
     "prova": "Simulado Geral Vestibular",
@@ -34,7 +34,7 @@
     "resolucao_detalhada": "O Tratado de Verdun dividiu o Império Carolíngio, o que gerou um vazio de poder central. Diante de novas ondas de invasões, os administradores locais (condes, marqueses, duques) assumiram a defesa de suas terras, construindo castelos e criando exércitos próprios, o que sacramentou a descentralização política típica do feudalismo."
   },
   {
-    "id": "HIS03",
+    "id": "HIS-MED-03",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Renascimento Urbano",
     "prova": "Simulado Geral Vestibular",
@@ -51,7 +51,7 @@
     "resolucao_detalhada": "As corporações de ofício eram associações de profissionais de um mesmo ramo (sapateiros, tecelões, ferreiros, etc.) que se uniam para regulamentar a profissão. Elas determinavam os salários, os padrões de qualidade, a quantidade de produção e amparavam seus membros, proibindo que pessoas de fora da corporação exercessem o ofício na cidade."
   },
   {
-    "id": "HIS04",
+    "id": "HIS-MED-04",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Crise do Século XIV",
     "prova": "Simulado Geral Vestibular",
@@ -68,7 +68,7 @@
     "resolucao_detalhada": "Com a morte de um terço da população europeia, os campos ficaram sem trabalhadores. Os senhores feudais tentaram obrigar os sobreviventes a trabalhar mais, o que desencadeou sangrentas revoltas camponesas (como as Jacqueries). Para reter a mão de obra, os senhores acabaram tendo que ceder a pagamentos em dinheiro, o que ajudou a desestruturar a servidão e o feudalismo."
   },
   {
-    "id": "HIS05",
+    "id": "HIS-MED-05",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Cultura e Igreja",
     "prova": "Simulado Geral Vestibular",
@@ -85,7 +85,7 @@
     "resolucao_detalhada": "A Escolástica foi a corrente de pensamento dominante nas universidades medievais. Seu maior expoente foi São Tomás de Aquino, que utilizou a lógica e a filosofia de Aristóteles para argumentar que a razão humana e a fé cristã não eram contraditórias, mas sim caminhos complementares para compreender a verdade divina."
   },
   {
-    "id": "HIS06",
+    "id": "HIS-MED-06",
     "disciplina": "História",
     "tema": "Alta Idade Média / Reinos Germânicos",
     "prova": "Simulado Geral",
@@ -102,7 +102,7 @@
     "resolucao_detalhada": "O Comitatus era a tradição germânica de lealdade entre o chefe e seus guerreiros. Essa noção de fidelidade pessoal e mútua proteção evoluiu para a relação de suserania e vassalagem entre os nobres feudais."
   },
   {
-    "id": "HIS07",
+    "id": "HIS-MED-07",
     "disciplina": "História",
     "tema": "Alta Idade Média / Ruralização",
     "prova": "Simulado Geral",
@@ -119,7 +119,7 @@
     "resolucao_detalhada": "Com o comércio paralisado e o isolamento dos feudos, a produção passou a ser voltada para o consumo interno do próprio feudo, reduzindo a circulação monetária e o comércio externo."
   },
   {
-    "id": "HIS08",
+    "id": "HIS-MED-08",
     "disciplina": "História",
     "tema": "Alta Idade Média / Império Carolíngio",
     "prova": "Simulado Geral",
@@ -136,7 +136,7 @@
     "resolucao_detalhada": "Carlos Magno percebeu que precisava de administradores capazes de ler e escrever para gerir o Império. Por isso, fundou escolas e incentivou a cópia de manuscritos, fortalecendo a cultura letrada ligada à Igreja."
   },
   {
-    "id": "HIS09",
+    "id": "HIS-MED-09",
     "disciplina": "História",
     "tema": "Sistema Feudal / Obrigações Servis",
     "prova": "Simulado Geral",
@@ -153,7 +153,7 @@
     "resolucao_detalhada": "As Banalidades eram taxas pagas pelos servos pelo uso de ferramentas ou instalações que eram propriedade exclusiva do senhor feudal dentro do domínio."
   },
   {
-    "id": "HIS10",
+    "id": "HIS-MED-10",
     "disciplina": "História",
     "tema": "Sociedade Medieval / Ordens Sociais",
     "prova": "Simulado Geral",
@@ -170,7 +170,7 @@
     "resolucao_detalhada": "A sociedade estamental é dividida em grupos fixos (estamentos), onde a posição é definida pelo nascimento ou função sagrada, com quase nenhuma possibilidade de mudar de nível social."
   },
   {
-    "id": "HIS11",
+    "id": "HIS-MED-11",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Inovações Agrícolas",
     "prova": "Simulado Geral",
@@ -187,7 +187,7 @@
     "resolucao_detalhada": "O sistema trienal dividia a terra em três campos: um para cereais de inverno, outro para cereais de primavera e um terceiro em repouso (pousio). Isso evitava o esgotamento do solo."
   },
   {
-    "id": "HIS12",
+    "id": "HIS-MED-12",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Burgos",
     "prova": "Simulado Geral",
@@ -204,7 +204,7 @@
     "resolucao_detalhada": "Burguês era o habitante do burgo, geralmente comerciante ou artesão, que não se encaixava na hierarquia tradicional de nobre ou camponês."
   },
   {
-    "id": "HIS13",
+    "id": "HIS-MED-13",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Cruzadas",
     "prova": "Simulado Geral",
@@ -221,7 +221,7 @@
     "resolucao_detalhada": "Influenciados por interesses comerciais de Veneza, os cruzados atacaram e saquearam Constantinopla em vez de marchar contra os muçulmanos na Terra Santa."
   },
   {
-    "id": "HIS14",
+    "id": "HIS-MED-14",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Universidades",
     "prova": "Simulado Geral",
@@ -238,7 +238,7 @@
     "resolucao_detalhada": "O Trivium era o primeiro ciclo de estudos, focado em preparar o aluno para a expressão correta e o raciocínio lógico."
   },
   {
-    "id": "HIS15",
+    "id": "HIS-MED-15",
     "disciplina": "História",
     "tema": "Crise do Século XIV / Peste Negra",
     "prova": "Simulado Geral",
@@ -255,7 +255,7 @@
     "resolucao_detalhada": "A bactéria Yersinia pestis era carregada por pulgas que viviam em ratos pretos. Estes ratos infestavam os porões de navios que vinham do Oriente via Mar Negro e Mediterrâneo."
   },
   {
-    "id": "HIS16",
+    "id": "HIS-MED-16",
     "disciplina": "História",
     "tema": "Crise do Século XIV / Guerra dos Cem Anos",
     "prova": "Simulado Geral",
@@ -272,7 +272,7 @@
     "resolucao_detalhada": "Joana d'Arc liderou o exército francês em importantes vitórias, ajudando a coroar Carlos VII e despertando o sentimento de identidade nacional na França."
   },
   {
-    "id": "HIS17",
+    "id": "HIS-MED-17",
     "disciplina": "História",
     "tema": "Transição Feudalismo-Capitalismo",
     "prova": "Simulado Geral",
@@ -289,7 +289,7 @@
     "resolucao_detalhada": "A burguesia financiou os reis para obter proteção, unificação de moedas e leis que favorecessem o comércio, permitindo que o monarca contratasse mercenários e não dependesse dos nobres."
   },
   {
-    "id": "HIS18",
+    "id": "HIS-MED-18",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Guildas",
     "prova": "Simulado Geral",
@@ -306,7 +306,7 @@
     "resolucao_detalhada": "O jornaleiro era o profissional que já dominava o ofício, mas ainda não tinha capital para ser mestre e possuir sua própria oficina."
   },
   {
-    "id": "HIS19",
+    "id": "HIS-MED-19",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Movimento Comunal",
     "prova": "Simulado Geral",
@@ -323,7 +323,7 @@
     "resolucao_detalhada": "As Cartas de Franquia eram diplomas que as cidades (burgos) recebiam, muitas vezes comprados da nobreza, permitindo que tivessem administração própria e tribunais independentes."
   },
   {
-    "id": "HIS20",
+    "id": "HIS-MED-20",
     "disciplina": "História",
     "tema": "Cultura Medieval / Escolástica",
     "prova": "Simulado Geral",
@@ -340,7 +340,7 @@
     "resolucao_detalhada": "A Suma Teológica é a obra máxima de São Tomás de Aquino, onde ele usa a lógica aristotélica para tratar de questões de fé e moral."
   },
   {
-    "id": "HIS21",
+    "id": "HIS-MED-21",
     "disciplina": "História",
     "tema": "Alta Idade Média / Direito Germânico",
     "prova": "Simulado Geral",
@@ -357,7 +357,7 @@
     "resolucao_detalhada": "Os germânicos acreditavam que, se o réu saísse ileso ou curasse rápido de uma prova (como segurar brasa quente), Deus estaria atestando sua inocência."
   },
   {
-    "id": "HIS22",
+    "id": "HIS-MED-22",
     "disciplina": "História",
     "tema": "Crise do Século XIV / Revoltas Camponesas",
     "prova": "Simulado Geral",
@@ -374,7 +374,7 @@
     "resolucao_detalhada": "As Jacqueries foram revoltas violentas de camponeses franceses contra a opressão da nobreza em meio à miséria da Guerra dos Cem Anos e da Peste Negra."
   },
   {
-    "id": "HIS23",
+    "id": "HIS-MED-23",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Comércio",
     "prova": "Simulado Geral",
@@ -391,7 +391,7 @@
     "resolucao_detalhada": "A Liga Hanseática unia dezenas de cidades comerciais do norte da Europa para garantir monopólios de comércio e defesa contra piratas."
   },
   {
-    "id": "HIS24",
+    "id": "HIS-MED-24",
     "disciplina": "História",
     "tema": "Sociedade Medieval / Clero",
     "prova": "Simulado Geral",
@@ -408,7 +408,7 @@
     "resolucao_detalhada": "Clero Secular (do latim 'saeculum', mundo) lidava com os fiéis; Clero Regular (de 'regula', regra) vivia isolado em abadias e mosteiros seguindo normas como as de São Bento."
   },
   {
-    "id": "HIS25",
+    "id": "HIS-MED-25",
     "disciplina": "História",
     "tema": "Sistema Feudal / Posse da Terra",
     "prova": "Simulado Geral",
@@ -425,7 +425,7 @@
     "resolucao_detalhada": "No feudalismo, a terra não era uma mercadoria vendível. Ela era concedida em troca de lealdade (vassalagem) ou trabalho (servidão), criando uma rede de obrigações vitalícias."
   },
   {
-    "id": "HIS26",
+    "id": "HIS-MED-26",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Cruzadas",
     "prova": "Simulado Geral",
@@ -442,7 +442,7 @@
     "resolucao_detalhada": "As Cruzadas enfraqueceram o domínio árabe e bizantino, permitindo que mercadores italianos dominassem as rotas comerciais de luxo vindas do Oriente."
   },
   {
-    "id": "HIS27",
+    "id": "HIS-MED-27",
     "disciplina": "História",
     "tema": "Crise do Século XIV / Consequências Sociais",
     "prova": "Simulado Geral",
@@ -459,7 +459,7 @@
     "resolucao_detalhada": "Diante das revoltas camponesas e do empobrecimento, a nobreza cedeu parte de sua autonomia política ao Rei em troca de proteção militar e manutenção de seus privilégios sociais."
   },
   {
-    "id": "HIS28",
+    "id": "HIS-MED-28",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Educação",
     "prova": "Simulado Geral",
@@ -476,7 +476,7 @@
     "resolucao_detalhada": "O latim funcionava como uma língua franca intelectual, permitindo que estudantes e professores de diferentes origens se comunicassem em qualquer universidade europeia."
   },
   {
-    "id": "HIS29",
+    "id": "HIS-MED-29",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Feiras",
     "prova": "Simulado Geral",
@@ -493,7 +493,7 @@
     "resolucao_detalhada": "A letra de câmbio permitia que o mercador depositasse dinheiro em uma cidade e retirasse o valor em outra, reduzindo as chances de ser roubado em trânsito."
   },
   {
-    "id": "HIS30",
+    "id": "HIS-MED-30",
     "disciplina": "História",
     "tema": "Transição Idade Média - Moderna",
     "prova": "Simulado Geral",
@@ -510,7 +510,7 @@
     "resolucao_detalhada": "A queda de Constantinopla em 1453 é o marco tradicional que encerra a Idade Média e inicia a Idade Moderna, junto com o fim da Guerra dos Cem Anos no mesmo ano."
   },
   {
-    "id": "HIS31",
+    "id": "HIS-MED-31",
     "disciplina": "História",
     "tema": "Alta Idade Média / Direito Germânico",
     "prova": "Simulado Técnico",
@@ -527,7 +527,7 @@
     "resolucao_detalhada": "O Wergeld era uma compensação financeira paga à vítima ou à sua família para evitar o ciclo de vingança de sangue (vendeta), comum nas sociedades germânicas."
   },
   {
-    "id": "HIS32",
+    "id": "HIS-MED-32",
     "disciplina": "História",
     "tema": "Alta Idade Média / Ruralização",
     "prova": "Simulado Técnico",
@@ -544,7 +544,7 @@
     "resolucao_detalhada": "Com o colapso das cidades, os homens livres buscaram refúgio nas 'Villas' romanas. O dono da terra dava proteção, mas o trabalhador perdia o direito de abandonar a propriedade, tornando-se 'preso à gleba'."
   },
   {
-    "id": "HIS33",
+    "id": "HIS-MED-33",
     "disciplina": "História",
     "tema": "Alta Idade Média / Império Carolíngio",
     "prova": "Simulado Técnico",
@@ -561,7 +561,7 @@
     "resolucao_detalhada": "Devido à vastidão do império, Carlos Magno usava esses inspetores itinerantes para evitar que os condes e marqueses se tornassem independentes ou abusassem do poder."
   },
   {
-    "id": "HIS34",
+    "id": "HIS-MED-34",
     "disciplina": "História",
     "tema": "Feudalismo / Divisão do Feudo",
     "prova": "Simulado Técnico",
@@ -578,7 +578,7 @@
     "resolucao_detalhada": "O manso senhorial representava as terras mais férteis do feudo, exploradas diretamente pelo senhor feudal através do trabalho obrigatório dos servos."
   },
   {
-    "id": "HIS35",
+    "id": "HIS-MED-35",
     "disciplina": "História",
     "tema": "Feudalismo / Impostos",
     "prova": "Simulado Técnico",
@@ -595,7 +595,7 @@
     "resolucao_detalhada": "A talha era o imposto sobre a produção: o servo entregava uma porcentagem (ex: metade ou um terço) de tudo o que colhia em seu lote para o senhor feudal."
   },
   {
-    "id": "HIS36",
+    "id": "HIS-MED-36",
     "disciplina": "História",
     "tema": "Sociedade Medieval / Papel da Igreja",
     "prova": "Simulado Técnico",
@@ -612,7 +612,7 @@
     "resolucao_detalhada": "Na Idade Média, a visão de mundo era mediada pela fé cristã. Todas as ações humanas, fenômenos naturais e estruturas sociais eram explicados através da vontade divina."
   },
   {
-    "id": "HIS37",
+    "id": "HIS-MED-37",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Inovações Técnicas",
     "prova": "Simulado Técnico",
@@ -629,7 +629,7 @@
     "resolucao_detalhada": "A charrua era mais pesada e eficiente que o arado de madeira, permitindo cultivar solos mais duros. O novo sistema de atrelagem do cavalo aumentava sua força de tração, gerando excedentes agrícolas."
   },
   {
-    "id": "HIS38",
+    "id": "HIS-MED-38",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Movimento Comunal",
     "prova": "Simulado Técnico",
@@ -646,7 +646,7 @@
     "resolucao_detalhada": "O movimento comunal foi a mobilização dos burgueses para livrar a cidade das taxas e leis feudais, permitindo que a cidade tivesse seu próprio governo (Comuna)."
   },
   {
-    "id": "HIS39",
+    "id": "HIS-MED-39",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Cruzadas",
     "prova": "Simulado Técnico",
@@ -663,7 +663,7 @@
     "resolucao_detalhada": "Os altos custos das armaduras, cavalos e viagens, somados à mortalidade nas batalhas, debilitaram o poder militar e econômico da nobreza, favorecendo a centralização monárquica posterior."
   },
   {
-    "id": "HIS40",
+    "id": "HIS-MED-40",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Educação",
     "prova": "Simulado Técnico",
@@ -680,7 +680,7 @@
     "resolucao_detalhada": "O Quadrivium (quatro caminhos) era a segunda parte das artes liberais, focada no estudo das proporções, números e do cosmo."
   },
   {
-    "id": "HIS41",
+    "id": "HIS-MED-41",
     "disciplina": "História",
     "tema": "Crise do Século XIV / Grande Fome",
     "prova": "Simulado Técnico",
@@ -697,7 +697,7 @@
     "resolucao_detalhada": "A mudança climática (Pequena Idade do Gelo) causou quebras sucessivas de safra, gerando fome generalizada e enfraquecendo a saúde da população antes da chegada da Peste."
   },
   {
-    "id": "HIS42",
+    "id": "HIS-MED-42",
     "disciplina": "História",
     "tema": "Crise do Século XIV / Consequências Sociais",
     "prova": "Simulado Técnico",
@@ -714,7 +714,7 @@
     "resolucao_detalhada": "Sem explicações científicas, muitos viam a peste como ira de Deus. Grupos de flagelantes percorriam cidades se chicoteando para pedir perdão, enquanto outros buscavam bodes expiatórios."
   },
   {
-    "id": "HIS43",
+    "id": "HIS-MED-43",
     "disciplina": "História",
     "tema": "Guerra dos Cem Anos / Tecnologia Militar",
     "prova": "Simulado Técnico",
@@ -731,7 +731,7 @@
     "resolucao_detalhada": "O arco longo mostrou que exércitos de plebeus bem treinados podiam vencer a elite da cavalaria, questionando a utilidade militar da classe nobre na defesa do reino."
   },
   {
-    "id": "HIS44",
+    "id": "HIS-MED-44",
     "disciplina": "História",
     "tema": "Fim do Feudalismo / Economia Monetária",
     "prova": "Simulado Técnico",
@@ -748,7 +748,7 @@
     "resolucao_detalhada": "Com a mortalidade da Peste, os servos sobreviventes ganharam poder de barganha. Muitos fugiram para onde lhes ofereciam melhores condições ou pagamentos em moeda."
   },
   {
-    "id": "HIS45",
+    "id": "HIS-MED-45",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Cultura",
     "prova": "Simulado Técnico",
@@ -765,7 +765,7 @@
     "resolucao_detalhada": "As cidades medievais tinham leis próprias. Se um servo fugisse do feudo e conseguisse se sustentar na cidade por um ano e um dia, ele ganhava o status de homem livre (burguês)."
   },
   {
-    "id": "HIS46",
+    "id": "HIS-MED-46",
     "disciplina": "História",
     "tema": "Alta Idade Média / Monasticismo",
     "prova": "Simulado Técnico",
@@ -782,7 +782,7 @@
     "resolucao_detalhada": "Os monges copistas foram fundamentais para a preservação de obras de autores como Platão e Aristóteles, além da Bíblia, permitindo que esse saber chegasse às futuras universidades."
   },
   {
-    "id": "HIS47",
+    "id": "HIS-MED-47",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Bancos",
     "prova": "Simulado Técnico",
@@ -799,7 +799,7 @@
     "resolucao_detalhada": "Os cambistas operavam em bancos de madeira nas feiras comerciais. Quando um cambista quebrava ou falia, seu banco era destruído fisicamente (origem do termo 'bancarrota')."
   },
   {
-    "id": "HIS48",
+    "id": "HIS-MED-48",
     "disciplina": "História",
     "tema": "Sistema Feudal / Relações de Poder",
     "prova": "Simulado Técnico",
@@ -816,7 +816,7 @@
     "resolucao_detalhada": "A investidura era a entrega simbólica do feudo, selando o compromisso de proteção do suserano e fidelidade do vassalo."
   },
   {
-    "id": "HIS49",
+    "id": "HIS-MED-49",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Especiarias",
     "prova": "Simulado Técnico",
@@ -833,7 +833,7 @@
     "resolucao_detalhada": "As especiarias eram itens de luxo essenciais para a gastronomia e farmacopeia da época, movendo fortunas no comércio entre o Oriente e o Ocidente."
   },
   {
-    "id": "HIS50",
+    "id": "HIS-MED-50",
     "disciplina": "História",
     "tema": "Crise do Século XIV / Consequências Políticas",
     "prova": "Simulado Técnico",
@@ -850,7 +850,7 @@
     "resolucao_detalhada": "Com o dinheiro da burguesia, os reis contrataram soldados profissionais. Isso tirou o monopólio da força da nobreza feudal, que antes era a única classe que sabia lutar."
   },
   {
-    "id": "HIS51",
+    "id": "HIS-MED-51",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Corporações de Ofício",
     "prova": "Simulado Técnico",
@@ -867,7 +867,7 @@
     "resolucao_detalhada": "O mestre era o artesão pleno que, após anos de prática e aprovação pela corporação, podia ter seu próprio negócio e treinar aprendizes."
   },
   {
-    "id": "HIS52",
+    "id": "HIS-MED-52",
     "disciplina": "História",
     "tema": "Transição Idade Média - Moderna",
     "prova": "Simulado Técnico",
@@ -884,7 +884,7 @@
     "resolucao_detalhada": "O enfraquecimento das famílias nobres rivais permitiu que a dinastia Tudor assumisse o trono e centralizasse o poder, marcando a transição para a modernidade na Inglaterra."
   },
   {
-    "id": "HIS53",
+    "id": "HIS-MED-53",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Medicina",
     "prova": "Simulado Técnico",
@@ -901,7 +901,7 @@
     "resolucao_detalhada": "Salerno era um polo avançado de saber prático, beneficiando-se das traduções de textos médicos árabes que preservaram e expandiram a medicina clássica."
   },
   {
-    "id": "HIS54",
+    "id": "HIS-MED-54",
     "disciplina": "História",
     "tema": "Alta Idade Média / Sociedade",
     "prova": "Simulado Técnico",
@@ -918,7 +918,7 @@
     "resolucao_detalhada": "Os vilões eram trabalhadores livres (diferentes dos servos, que eram semi-livres), mas que por morarem nas terras de um senhor, também estavam submetidos a impostos e taxas feudais."
   },
   {
-    "id": "HIS55",
+    "id": "HIS-MED-55",
     "disciplina": "História",
     "tema": "Baixa Idade Média / Cultura",
     "prova": "Simulado Técnico",
