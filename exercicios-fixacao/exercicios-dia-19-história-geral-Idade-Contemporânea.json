@@ -1,0 +1,852 @@
+[
+  {
+    "id": "HIST-CONT-01",
+    "disciplina": "História",
+    "tema": "Revolução Francesa / Era Napoleônica",
+    "prova": "Baseada em Vestibulares Tradicionais (FUVEST/UNICAMP)",
+    "enunciado": "O Código Civil Napoleônico, promulgado em 1804, serviu de base para diversas legislações no mundo ocidental. Entre suas principais determinações, destacam-se:",
+    "alternativas": {
+      "A": "A restauração dos privilégios feudais e a oficialização do catolicismo como religião única.",
+      "B": "A proteção à propriedade privada, a igualdade jurídica dos cidadãos e a proibição de greves operárias.",
+      "C": "A instituição do sufrágio universal masculino e a reforma agrária radical.",
+      "D": "A manutenção do regime de servidão e o fortalecimento das corporações de ofício.",
+      "E": "A descentralização administrativa e a submissão do Estado à Igreja Católica."
+    },
+    "gabarito": "B",
+    "dica": "Lembre-se de que Napoleão consolidou os ganhos da alta burguesia, garantindo a ordem jurídica para o capitalismo.",
+    "resolucao_detalhada": "O Código Napoleônico consolidou os valores burgueses da Revolução Francesa, eliminando distinções de nascimento (igualdade perante a lei) e garantindo a segurança jurídica da propriedade, embora tenha sido conservador ao proibir sindicatos."
+  },
+  {
+    "id": "HIST-CONT-02",
+    "disciplina": "História",
+    "tema": "Imperialismo / Neocolonialismo",
+    "prova": "ENEM - Adaptada",
+    "enunciado": "A Conferência de Berlim (1884-1885) e o subsequente Neocolonialismo na África foram justificados ideologicamente por teorias como o 'Darwinismo Social'. Esse conceito pregava que:",
+    "alternativas": {
+      "A": "Todas as raças humanas deveriam cooperar para o progresso da ciência.",
+      "B": "A Igreja Católica era a única instituição capaz de civilizar os povos africanos.",
+      "C": "Havia nações naturalmente superiores que tinham o 'fardo' de civilizar povos considerados inferiores.",
+      "D": "O desenvolvimento econômico da África deveria ser gerido pelos próprios africanos.",
+      "E": "As fronteiras africanas deveriam respeitar a autodeterminação dos povos locais."
+    },
+    "gabarito": "C",
+    "dica": "Pense no conceito de 'Missão Civilizadora' e na deturpação das ideias de Charles Darwin.",
+    "resolucao_detalhada": "O Darwinismo Social aplicava a ideia de 'sobrevivência do mais apto' à sociedade humana, justificando a dominação europeia sobre a África e Ásia como uma necessidade biológica e moral."
+  },
+  {
+    "id": "HIST-CONT-03",
+    "disciplina": "História",
+    "tema": "Conflitos do Século XX / Guerra Fria",
+    "prova": "Simulado Nacional",
+    "enunciado": "Durante a Guerra Fria, a 'Doutrina Truman' e o 'Plano Marshall' foram peças-chave da estratégia dos Estados Unidos. O objetivo central do Plano Marshall era:",
+    "alternativas": {
+      "A": "Invadir a União Soviética com apoio dos países europeus ocidentais.",
+      "B": "Promover a reconstrução econômica da Europa para evitar que a miséria facilitasse a expansão do comunismo.",
+      "C": "Criar uma moeda única para todos os países da América Latina.",
+      "D": "Estabelecer bases militares na Ásia para apoiar a Revolução Chinesa.",
+      "E": "Promover o desarmamento nuclear total das potências europeias."
+    },
+    "gabarito": "B",
+    "dica": "O Plano Marshall foi um investimento financeiro maciço focado na contenção ideológica.",
+    "resolucao_detalhada": "Os EUA entenderam que países economicamente destruídos pela II Guerra eram vulneráveis à influência soviética. O Plano Marshall financiou a reconstrução da Europa Ocidental, atrelando essas economias ao sistema capitalista americano."
+  },
+  {
+    "id": "HIST-CONT-04",
+    "disciplina": "História / Geopolítica",
+    "tema": "Século XXI / Globalização e Tensões",
+    "prova": "Questão de Revisão Integrada",
+    "enunciado": "A ordem geopolítica do Século XXI é frequentemente descrita como 'Multipolar'. Qual evento ou fenômeno caracteriza essa nova configuração?",
+    "alternativas": {
+      "A": "A hegemonia absoluta da URSS no comércio marítimo global.",
+      "B": "A ascensão da China como potência econômica e o fortalecimento de blocos como o BRICS.",
+      "C": "O isolamento total dos EUA em relação ao mercado europeu.",
+      "D": "A unificação política de todos os países da América do Sul em um único Estado.",
+      "E": "O fim de todos os conflitos religiosos no Oriente Médio."
+    },
+    "gabarito": "B",
+    "dica": "Multipolaridade significa que o poder não está mais concentrado em apenas um ou dois países.",
+    "resolucao_detalhada": "Diferente da Guerra Fria (Bipolar), o século XXI vê a ascensão da China, a resiliência russa e o papel de potências regionais (Brasil, Índia, África do Sul), criando múltiplos centros de decisão global."
+  },
+  {
+    "id": "HIST-CONT-05",
+    "disciplina": "História",
+    "tema": "Regimes Totalitários / Século XX",
+    "prova": "Vestibular UERJ - Adaptada",
+    "enunciado": "Os regimes totalitários de direita (Fascismo e Nazismo) que emergiram no entreguerras possuíam características comuns, EXCETO:",
+    "alternativas": {
+      "A": "Nacionalismo exacerbado e militarismo.",
+      "B": "Culto à personalidade do líder e partido único.",
+      "C": "Defesa da democracia liberal e da liberdade de imprensa.",
+      "D": "Anticomunismo e repressão a opositores políticos.",
+      "E": "Uso intensivo de propaganda e controle social."
+    },
+    "gabarito": "C",
+    "dica": "Totalitarismo pressupõe o controle TOTAL; o liberalismo político é o seu oposto.",
+    "resolucao_detalhada": "Tanto o nazismo quanto o fascismo combatiam ferozmente a democracia liberal, considerando-a fraca e ineficiente, substituindo o debate público pela autoridade absoluta do Estado."
+  },
+  {
+    "id": "HIST-CONT-06",
+    "disciplina": "História",
+    "tema": "Revolução Francesa - Assembleia Nacional",
+    "prova": "Simulado Acadêmico",
+    "enunciado": "A 'Noite do Grande Medo' (1789) e a subsequente abolição dos direitos feudais pela Assembleia Nacional Constituinte representaram:",
+    "alternativas": {
+      "A": "A vitória da aristocracia contra o Terceiro Estado.",
+      "B": "A tentativa de Napoleão de acalmar os camponeses.",
+      "C": "A ruptura definitiva com a estrutura de privilégios senhoriais no campo.",
+      "D": "O início do período do Terror jacobino.",
+      "E": "A aliança entre o clero e os sans-culottes."
+    },
+    "gabarito": "C",
+    "dica": "O Grande Medo foi a revolta camponesa que forçou a burguesia a acelerar o fim do feudalismo.",
+    "resolucao_detalhada": "As revoltas camponesas de 1789 pressionaram a Assembleia a votar o fim dos direitos senhoriais (corveia, talha) para evitar o colapso total da produção agrícola e garantir o apoio da massa rural à Revolução."
+  },
+  {
+    "id": "HIST-CONT-07",
+    "disciplina": "História",
+    "tema": "Congresso de Viena (1815)",
+    "prova": "Baseada em FUVEST",
+    "enunciado": "O conceito de 'Equilíbrio Europeu', defendido por Metternich no Congresso de Viena, visava:",
+    "alternativas": {
+      "A": "Garantir que a França se tornasse a única potência continental.",
+      "B": "Impedir que qualquer nação europeia pudesse dominar sozinha o continente, como fizera Napoleão.",
+      "C": "Promover a democracia em todas as monarquias europeias.",
+      "D": "Dividir o continente entre Inglaterra e Estados Unidos.",
+      "E": "Extinguir todas as monarquias e criar uma União Europeia."
+    },
+    "gabarito": "B",
+    "dica": "Tratava-se de um sistema de pesos e contrapesos geopolíticos.",
+    "resolucao_detalhada": "O equilíbrio de poder era a estratégia diplomática para evitar novas hegemonias. Isso incluiu a criação de 'Estados-tampão' ao redor da França e a divisão de territórios entre as potências vencedoras (Áustria, Prússia, Rússia e Inglaterra)."
+  },
+  {
+    "id": "HIST-CONT-08",
+    "disciplina": "História",
+    "tema": "Revolução Industrial - Impactos Sociais",
+    "prova": "ENEM",
+    "enunciado": "O movimento Ludista, ocorrido na Inglaterra no início do século XIX, caracterizou-se por:",
+    "alternativas": {
+      "A": "Negociações pacíficas por melhores salários.",
+      "B": "A quebra de máquinas por operários que as viam como responsáveis pelo desemprego.",
+      "C": "A defesa do voto universal e do sufrágio feminino.",
+      "D": "O apoio à burguesia industrial contra os proprietários de terras.",
+      "E": "A fundação dos primeiros partidos comunistas da Europa."
+    },
+    "gabarito": "B",
+    "dica": "O nome vem de Ned Ludd; era uma reação direta à automação que substituía o artesão.",
+    "resolucao_detalhada": "O Ludismo foi uma das primeiras formas de resistência operária, focando na destruição física do maquinário como protesto contra a desvalorização da mão de obra e as péssimas condições de trabalho."
+  },
+  {
+    "id": "HIST-CONT-09",
+    "disciplina": "História",
+    "tema": "Unificações Tardias (Alemanha e Itália)",
+    "prova": "Vestibular Tradicional",
+    "enunciado": "A unificação alemã (1871) alterou o equilíbrio europeu porque:",
+    "alternativas": {
+      "A": "Enfraqueceu o Império Britânico nos mares.",
+      "B": "Criou uma potência industrial e militar no centro da Europa sob liderança da Prússia.",
+      "C": "Restaurou o absolutismo de direito divino na França.",
+      "D": "Impediu o avanço do imperialismo na África.",
+      "E": "Acabou com a rivalidade entre franceses e alemães."
+    },
+    "gabarito": "B",
+    "dica": "Pense no papel de Otto von Bismarck e na Guerra Franco-Prussiana.",
+    "resolucao_detalhada": "A unificação alemã, selada no Palácio de Versalhes após a derrota da França, criou o Segundo Reich. A rapidez da industrialização alemã passou a ameaçar a hegemonia inglesa, sendo causa direta das tensões da I Guerra Mundial."
+  },
+  {
+    "id": "HIST-CONT-10",
+    "disciplina": "História",
+    "tema": "Revolução Russa - NEP",
+    "prova": "Simulado Nível Difícil",
+    "enunciado": "A Nova Política Econômica (NEP), adotada por Lênin em 1921, é frequentemente descrita como:",
+    "alternativas": {
+      "A": "Uma transição imediata para o comunismo total.",
+      "B": "Um retorno ao capitalismo czarista sem intervenção estatal.",
+      "C": "Um recuo estratégico que permitia elementos de livre mercado para reconstruir a economia russa.",
+      "D": "A proibição de qualquer propriedade privada no campo.",
+      "E": "A aliança militar com a Alemanha nazista."
+    },
+    "gabarito": "C",
+    "dica": "Lênin dizia: 'Dar um passo atrás para dar dois passos à frente'.",
+    "resolucao_detalhada": "Após o Comunismo de Guerra, a economia russa estava em ruínas. A NEP permitiu que camponeses vendessem excedentes e que pequenas empresas funcionassem, enquanto o Estado mantinha o controle dos 'setores estratégicos' (bancos, indústrias pesadas)."
+  },
+  {
+    "id": "HIST-CONT-11",
+    "disciplina": "História",
+    "tema": "Crise de 1929",
+    "prova": "Simulado Econômico",
+    "enunciado": "A 'Grande Depressão' iniciada em 1929 teve como causas principais:",
+    "alternativas": {
+      "A": "A falta de mão de obra qualificada e o excesso de impostos.",
+      "B": "A superprodução industrial e agrícola combinada com a especulação financeira na Bolsa de NY.",
+      "C": "A invasão da Europa pela União Soviética.",
+      "D": "O fim do uso do petróleo como fonte de energia.",
+      "E": "A vitória dos regimes nazifascistas na Itália."
+    },
+    "gabarito": "B",
+    "dica": "O mercado consumia menos do que as fábricas produziam, gerando estoques parados.",
+    "resolucao_detalhada": "O otimismo do pós-guerra levou a uma produção desenfreada. Quando o consumo caiu e a especulação estourou, o efeito cascata derrubou bancos e empresas no mundo todo, provando a interdependência do capitalismo global."
+  },
+  {
+    "id": "HIST-CONT-12",
+    "disciplina": "História",
+    "tema": "Guerra Fria - Descolonização",
+    "prova": "Concurso Público",
+    "enunciado": "A Conferência de Bandung (1955) representou um marco para o 'Terceiro Mundo' ao propor:",
+    "alternativas": {
+      "A": "A adesão imediata de todos os países africanos à OTAN.",
+      "B": "O alinhamento automático com a União Soviética.",
+      "C": "O movimento dos Países Não-Alinhados e a crítica ao imperialismo e racismo.",
+      "D": "A criação de uma moeda única para a Ásia.",
+      "E": "O apoio à intervenção dos EUA no Vietnã."
+    },
+    "gabarito": "C",
+    "dica": "Bandung foi a voz das nações que não queriam ser satélites das superpotências.",
+    "resolucao_detalhada": "Líderes de 29 países recém-independentes se reuniram para afirmar que não aceitariam o colonialismo tradicional nem a nova hegemonia da Guerra Fria, focando na soberania nacional e cooperação mútua."
+  },
+  {
+    "id": "HIST-CONT-13",
+    "disciplina": "Geopolítica",
+    "tema": "Século XXI - Primavera Árabe",
+    "prova": "Atualidades / Vestibular",
+    "enunciado": "A 'Primavera Árabe', iniciada em 2010, teve como características principais:",
+    "alternativas": {
+      "A": "A restauração de monarquias absolutistas no Egito e na Tunísia.",
+      "B": "Protestos populares contra regimes autoritários, impulsionados pelo uso de redes sociais.",
+      "C": "A invasão de Israel por uma coalizão de países árabes.",
+      "D": "O fim da exploração de petróleo no Oriente Médio.",
+      "E": "A unificação da Síria com o Iraque."
+    },
+    "gabarito": "B",
+    "dica": "Começou com a autoimolação de um vendedor na Tunísia.",
+    "resolucao_detalhada": "Foi uma onda revolucionária que derrubou ditadores de décadas. Embora tenha gerado esperança democrática, resultou em instabilidade e guerras civis (como na Síria) em diversos casos."
+  },
+  {
+    "id": "HIST-CONT-14",
+    "disciplina": "Geopolítica",
+    "tema": "Século XXI - Tensões na Ucrânia",
+    "prova": "Geopolítica Contemporânea",
+    "enunciado": "O conflito entre Rússia e Ucrânia (intensificado em 2022) possui raízes profundas relacionadas a:",
+    "alternativas": {
+      "A": "Disputas territoriais sobre a Floresta Amazônica.",
+      "B": "A expansão da OTAN para o Leste Europeu e a busca russa por zonas de influência.",
+      "C": "A tentativa da Ucrânia de restaurar a monarquia dos Romanov.",
+      "D": "O controle das rotas comerciais no Oceano Índico.",
+      "E": "Divergências sobre o uso de redes sociais chinesas."
+    },
+    "gabarito": "B",
+    "dica": "Observe a questão das fronteiras de segurança russa e a soberania ucraniana.",
+    "resolucao_detalhada": "A Rússia vê a aproximação da Ucrânia com o Ocidente (União Europeia e OTAN) como uma ameaça existencial à sua segurança nacional, enquanto a Ucrânia luta pelo direito de decidir seu próprio alinhamento geopolítico."
+  },
+  {
+    "id": "HIST-CONT-15",
+    "disciplina": "História",
+    "tema": "Globalização e Meio Ambiente",
+    "prova": "Ciências Humanas - ENEM",
+    "enunciado": "O Acordo de Paris (2015) é um tratado internacional que busca:",
+    "alternativas": {
+      "A": "Acabar com o capitalismo em escala global.",
+      "B": "Limitar o aquecimento global a menos de 2°C acima dos níveis pré-industriais.",
+      "C": "Proibir o uso de qualquer tipo de tecnologia digital.",
+      "D": "Garantir que a França lidere a produção mundial de alimentos.",
+      "E": "Isolar os Estados Unidos do comércio internacional."
+    },
+    "gabarito": "B",
+    "dica": "É o sucessor do Protocolo de Kyoto e foca na redução de emissão de gases estufa.",
+    "resolucao_detalhada": "O Acordo de Paris foca na mitigação das mudanças climáticas através de metas nacionais de redução de carbono (NDCs), reconhecendo que o modelo de desenvolvimento industrial contemporâneo é insustentável a longo prazo."
+  },
+  {
+    "id": "HIST-CONT-16",
+    "disciplina": "História",
+    "tema": "Guerra Fria - Alianças Militares",
+    "prova": "Vestibular Militar (EsPCEx/AFA)",
+    "enunciado": "No contexto da bipolarização mundial, foram criadas a OTAN (1949) e o Pacto de Varsóvia (1955). A principal diferença funcional entre elas era:",
+    "alternativas": {
+      "A": "A OTAN era uma aliança econômica, enquanto o Pacto de Varsóvia era puramente cultural.",
+      "B": "A OTAN visava a defesa mútua das democracias liberais ocidentais, enquanto o Pacto de Varsóvia consolidava a hegemonia soviética sobre o Leste Europeu.",
+      "C": "Ambas foram criadas para combater o terrorismo islâmico no Oriente Médio.",
+      "D": "O Pacto de Varsóvia incluía os EUA e a China em sua estrutura original.",
+      "E": "A OTAN foi dissolvida logo após a Guerra da Coreia, restando apenas o Pacto."
+    },
+    "gabarito": "B",
+    "dica": "Pense no conceito de 'segurança coletiva' aplicado aos dois blocos ideológicos.",
+    "resolucao_detalhada": "A OTAN (Organização do Tratado do Atlântico Norte) uniu países ocidentais sob a liderança dos EUA. Em resposta, a URSS formalizou o Pacto de Varsóvia com seus Estados satélites, garantindo assistência militar e servindo como ferramenta de repressão a revoltas internas no bloco comunista."
+  },
+  {
+    "id": "HIST-CONT-17",
+    "disciplina": "História",
+    "tema": "Segunda Guerra Mundial - Conferências",
+    "prova": "Simulado Diplomacia (CACD)",
+    "enunciado": "A Conferência de Yalta (1945), que reuniu Churchill, Roosevelt e Stalin, foi decisiva para:",
+    "alternativas": {
+      "A": "Decidir o lançamento das bombas atômicas sobre o Japão.",
+      "B": "Estabelecer as zonas de influência no pós-guerra e as bases para a criação da ONU.",
+      "C": "Assinar a rendição incondicional imediata da Alemanha nazista.",
+      "D": "Criar o Mercado Comum Europeu.",
+      "E": "Expulsar a França do conselho de segurança das Nações Unidas."
+    },
+    "gabarito": "B",
+    "dica": "Yalta foi onde os 'Três Grandes' desenharam o mapa do mundo futuro antes do fim do conflito.",
+    "resolucao_detalhada": "Em Yalta, discutiu-se a divisão da Alemanha em zonas de ocupação, a reorganização da Polônia e a estrutura do Conselho de Segurança da ONU, prevendo o veto das grandes potências."
+  },
+  {
+    "id": "HIST-CONT-18",
+    "disciplina": "História",
+    "tema": "Totalitarismo - Características",
+    "prova": "FUVEST",
+    "enunciado": "Hannah Arendt, em 'As Origens do Totalitarismo', diferencia regimes autoritários de totalitários. Uma característica exclusiva do totalitarismo é:",
+    "alternativas": {
+      "A": "A existência de uma polícia política que persegue opositores.",
+      "B": "A tentativa de controle total da vida privada e do pensamento através do terror e da propaganda ideológica.",
+      "C": "A manutenção de eleições legislativas regulares.",
+      "D": "A defesa do livre mercado e da descentralização econômica.",
+      "E": "A ausência de um líder carismático no poder."
+    },
+    "gabarito": "B",
+    "dica": "O totalitarismo busca eliminar a distinção entre Estado e Sociedade.",
+    "resolucao_detalhada": "Diferente de uma ditadura comum que apenas quer obediência, o totalitarismo exige adesão fervorosa, usando o terror estatal e a propaganda para moldar a realidade e a psique dos cidadãos."
+  },
+  {
+    "id": "HIST-CONT-19",
+    "disciplina": "Geopolítica",
+    "tema": "Crise do Petróleo (1973)",
+    "prova": "ENEM / Ciências Humanas",
+    "enunciado": "A crise do petróleo de 1973 foi provocada pelo embargo da OPEP contra países que apoiaram Israel na Guerra do Yom Kippur. Esse evento resultou em:",
+    "alternativas": {
+      "A": "Uma era de preços baixos e abundância energética no Ocidente.",
+      "B": "O fim imediato da dependência mundial de combustíveis fósseis.",
+      "C": "Uma grave crise econômica (estagflação) e o incentivo à busca por fontes de energia alternativas.",
+      "D": "A anexação do Egito pelos Estados Unidos.",
+      "E": "A dissolução da União Soviética por falta de recursos."
+    },
+    "gabarito": "C",
+    "dica": "O petróleo passou de 3 para 12 dólares o barril em poucos meses, quebrando a lógica do crescimento linear do pós-guerra.",
+    "resolucao_detalhada": "A crise demonstrou a fragilidade do modelo fordista baseado em energia barata, gerando inflação alta com desemprego (estagflação) e forçando o mundo a repensar a matriz energética."
+  },
+  {
+    "id": "HIST-CONT-20",
+    "disciplina": "História",
+    "tema": "Revolução Francesa - Jacobinos",
+    "prova": "Simulado Vestibular",
+    "enunciado": "Durante o governo jacobino (1793-1794), a 'Lei do Máximo' foi instituída para:",
+    "alternativas": {
+      "A": "Garantir o máximo de lucro para os exportadores de grãos.",
+      "B": "Estabelecer um teto para preços de produtos básicos e salários, visando conter a inflação e a fome.",
+      "C": "Limitar o número de soldados no exército revolucionário.",
+      "D": "Maximizar a liberdade de imprensa no período do Terror.",
+      "E": "Fixar o número máximo de execuções diárias na guilhotina."
+    },
+    "gabarito": "B",
+    "dica": "Foi uma medida de intervenção estatal radical para agradar os 'sans-culottes'.",
+    "resolucao_detalhada": "Pressionados pela crise econômica e pelas massas populares (sans-culottes), os jacobinos tabelaram preços de pão e outros bens, tentando controlar o custo de vida durante a guerra externa e civil."
+  },
+  {
+    "id": "HIST-CONT-21",
+    "disciplina": "História",
+    "tema": "Guerra do Vietnã",
+    "prova": "Vestibular UERJ",
+    "enunciado": "A Guerra do Vietnã (1955-1975) tornou-se um marco na história dos EUA principalmente devido a:",
+    "alternativas": {
+      "A": "Ter sido a primeira vitória militar americana em solo asiático.",
+      "B": "A intensa oposição interna da opinião pública e a derrota militar para uma força de guerrilha comunista.",
+      "C": "O uso de armas nucleares táticas para destruir Hanói.",
+      "D": "A aliança militar entre os EUA e a China contra o Vietnã do Norte.",
+      "E": "O sucesso absoluto da estratégia de 'americanização' do conflito."
+    },
+    "gabarito": "B",
+    "dica": "Pense no impacto das imagens de TV na sociedade americana e no movimento hippie.",
+    "resolucao_detalhada": "A guerra foi o primeiro grande fracasso militar dos EUA, expondo os limites do poderio convencional contra táticas de guerrilha (Vietcongs) e gerando uma crise de confiança nas instituições americanas."
+  },
+  {
+    "id": "HIST-CONT-22",
+    "disciplina": "História",
+    "tema": "Fim da URSS - Reformas de Gorbachev",
+    "prova": "Simulado Nacional",
+    "enunciado": "As políticas de 'Glasnost' e 'Perestroika', implementadas por Mikhail Gorbachev na década de 1980, significavam, respectivamente:",
+    "alternativas": {
+      "A": "Abertura política/liberdade de expressão e reestruturação econômica com elementos de mercado.",
+      "B": "Fechamento total das fronteiras e aumento da censura estatal.",
+      "C": "Aliança militar com a OTAN e fim do Partido Comunista.",
+      "D": "Estatização de todas as empresas e proibição da religião.",
+      "E": "Retorno ao stalinismo clássico e expansão territorial na Europa."
+    },
+    "gabarito": "A",
+    "dica": "Perestroika = Reconstrução; Glasnost = Transparência.",
+    "resolucao_detalhada": "Gorbachev tentou salvar o sistema soviético tornando-o mais eficiente e transparente. Porém, a abertura política permitiu que nacionalismos reprimidos aflorassem, acelerando o colapso da União Soviética em 1991."
+  },
+  {
+    "id": "HIST-CONT-23",
+    "disciplina": "Geopolítica",
+    "tema": "Conflito Árabe-Israelense",
+    "prova": "Baseada em Vestibulares do Sul",
+    "enunciado": "A criação do Estado de Israel (1948) foi seguida imediatamente por conflitos com nações vizinhas. O principal argumento das nações árabes contra a criação do Estado era:",
+    "alternativas": {
+      "A": "A falta de recursos hídricos na região do deserto.",
+      "B": "A negação do direito à autodeterminação da população árabe-palestina que já habitava o território.",
+      "C": "O fato de Israel ser uma monarquia absolutista.",
+      "D": "A proibição do comércio de petróleo por parte de Israel.",
+      "E": "A aliança de Israel com a União Soviética na época."
+    },
+    "gabarito": "B",
+    "dica": "Foque no conceito de ocupação territorial e na Partilha da Palestina pela ONU (1947).",
+    "resolucao_detalhada": "Os países árabes não aceitaram o plano de partilha da ONU, alegando que ele favorecia a minoria judaica e desalojava a população palestina majoritária, iniciando uma série de guerras que moldaram o Oriente Médio."
+  },
+  {
+    "id": "HIST-CONT-24",
+    "disciplina": "História",
+    "tema": "Apartheid na África do Sul",
+    "prova": "ENEM",
+    "enunciado": "O regime do Apartheid na África do Sul (1948-1994) baseava-se em:",
+    "alternativas": {
+      "A": "Uma democracia racial perfeita baseada na integração total.",
+      "B": "Um sistema de segregação racial institucionalizada que garantia a supremacia da minoria branca.",
+      "C": "Um modelo comunista de repartição igualitária de terras.",
+      "D": "Uma aliança militar com os países africanos vizinhos contra a Europa.",
+      "E": "A proibição total de qualquer atividade industrial no país."
+    },
+    "gabarito": "B",
+    "dica": "O termo significa 'separação' em africâner.",
+    "resolucao_detalhada": "O Estado sul-africano legislou a separação em áreas de moradia, educação e saúde, privando a maioria negra de direitos políticos e civis básicos até a eleição de Nelson Mandela em 1994."
+  },
+  {
+    "id": "HIST-CONT-25",
+    "disciplina": "Geopolítica",
+    "tema": "A Queda do Muro de Berlim (1989)",
+    "prova": "Simulado Geral",
+    "enunciado": "A queda do Muro de Berlim em novembro de 1989 simbolizou:",
+    "alternativas": {
+      "A": "O início da Primeira Guerra Mundial.",
+      "B": "O colapso simbólico do bloco socialista e o fim da divisão bipolar da Guerra Fria.",
+      "C": "A vitória definitiva do nazismo sobre a democracia.",
+      "D": "A união da Alemanha com a Áustria e a Polônia.",
+      "E": "O fechamento das comunicações entre a Europa e o restante do mundo."
+    },
+    "gabarito": "B",
+    "dica": "O muro era o maior símbolo físico da 'Cortina de Ferro'.",
+    "resolucao_detalhada": "Embora a URSS tenha acabado apenas em 1991, a queda do muro foi o evento catalisador que mostrou que o domínio soviético sobre o Leste Europeu havia terminado, levando à reunificação alemã."
+  },
+  {
+    "id": "HIST-CONT-26",
+    "disciplina": "Economia / História",
+    "tema": "Neoliberalismo",
+    "prova": "Simulado Contemporâneo",
+    "enunciado": "A ascensão do Neoliberalismo nas décadas de 1970 e 1980 (governos Thatcher e Reagan) propunha:",
+    "alternativas": {
+      "A": "O fortalecimento dos sindicatos e o aumento dos impostos para empresas.",
+      "B": "Privatizações, desregulamentação do mercado e redução dos gastos sociais do Estado.",
+      "C": "A estatização de todos os bancos e meios de transporte.",
+      "D": "O isolacionismo econômico e o fim das exportações.",
+      "E": "A criação de um governo mundial centralizado pela ONU."
+    },
+    "gabarito": "B",
+    "dica": "É a crítica ao 'Estado de Bem-Estar Social' (Keynesianismo).",
+    "resolucao_detalhada": "O neoliberalismo surgiu como resposta à crise dos anos 70, pregando que o Estado deveria ser mínimo para permitir que a 'mão invisível' do mercado gerasse eficiência, resultando em cortes de direitos e privatização de estatais."
+  },
+  {
+    "id": "HIST-CONT-27",
+    "disciplina": "História",
+    "tema": "Revolução Iraniana (1979)",
+    "prova": "Questão de Revisão",
+    "enunciado": "A Revolução Iraniana de 1979 transformou o país de uma monarquia pró-ocidental em uma:",
+    "alternativas": {
+      "A": "República Socialista Federativa.",
+      "B": "Teocracia Islâmica sob a liderança do Aiatolá Khomeini.",
+      "C": "Democracia Parlamentar de estilo europeu.",
+      "D": "Colônia militar dos Estados Unidos.",
+      "E": "Ditadura comunista apoiada pela União Soviética."
+    },
+    "gabarito": "B",
+    "dica": "Foi uma revolta contra a ocidentalização forçada do Xá Reza Pahlavi.",
+    "resolucao_detalhada": "A revolução combinou insatisfação social com fervor religioso, resultando num Estado onde o clero xiita detém o poder supremo, mudando drasticamente o equilíbrio de poder no Oriente Médio e a relação com o Ocidente."
+  },
+  {
+    "id": "HIST-CONT-28",
+    "disciplina": "Ciência / História",
+    "tema": "A Corrida Espacial",
+    "prova": "Geopolítica / Ciências",
+    "enunciado": "Um dos principais desdobramentos tecnológicos da Corrida Espacial para a vida cotidiana foi:",
+    "alternativas": {
+      "A": "A invenção da máquina a vapor.",
+      "B": "O desenvolvimento de sistemas de satélites, essenciais para as telecomunicações e o GPS atuais.",
+      "C": "A criação da imprensa de tipos móveis.",
+      "D": "A descoberta da penicilina.",
+      "E": "O fim da necessidade de cabos de fibra ótica."
+    },
+    "gabarito": "B",
+    "dica": "As tecnologias desenvolvidas para foguetes e satélites (como o Sputnik e as missões Apollo) tiveram uso dual (militar e civil).",
+    "resolucao_detalhada": "A necessidade de miniaturizar circuitos e enviar dados pelo espaço gerou a base para a revolução digital e as redes de comunicação globais que sustentam a internet e a navegação moderna."
+  },
+  {
+    "id": "HIST-CONT-29",
+    "disciplina": "História",
+    "tema": "A Guerra Civil Espanhola (1936-1939)",
+    "prova": "Vestibular Clássico",
+    "enunciado": "A Guerra Civil Espanhola é frequentemente chamada de 'ensaio' para a II Guerra Mundial porque:",
+    "alternativas": {
+      "A": "Terminou sem vencedores nem vencidos.",
+      "B": "Serviu para que a Alemanha nazista e a Itália fascista testassem novas táticas e armamentos (como o bombardeio de Guernica).",
+      "C": "Envolveu a disputa entre EUA e URSS pelo controle da América Latina.",
+      "D": "Foi o primeiro conflito a usar inteligência artificial.",
+      "E": "Marcou a união definitiva entre monarquistas e socialistas."
+    },
+    "gabarito": "B",
+    "dica": "O conflito opôs o General Franco (apoiado pelo Eixo) contra os Republicanos (apoiados pela URSS).",
+    "resolucao_detalhada": "A intervenção estrangeira na Espanha mostrou a fraqueza das democracias europeias e permitiu a Hitler e Mussolini praticarem a guerra de bombardeio aéreo e coordenação de tanques antes de 1939."
+  },
+  {
+    "id": "HIST-CONT-30",
+    "disciplina": "Geopolítica",
+    "tema": "Globalização - Blocos Econômicos",
+    "prova": "ENEM / Geografia",
+    "enunciado": "A criação da União Europeia pelo Tratado de Maastricht (1992) visava, entre outros objetivos:",
+    "alternativas": {
+      "A": "Separar a Europa do resto do mundo economicamente.",
+      "B": "Integrar as economias europeias por meio de um mercado comum, moeda única (Euro) e livre circulação de pessoas.",
+      "C": "Facilitar a invasão russa ao continente.",
+      "D": "Extinguir todas as línguas nacionais em favor do esperanto.",
+      "E": "Tornar o continente uma colônia agrícola da China."
+    },
+    "gabarito": "B",
+    "dica": "É o estágio mais avançado de integração econômica e política da história moderna.",
+    "resolucao_detalhada": "O projeto da UE buscava evitar novas guerras entre vizinhos e criar um bloco forte o suficiente para competir com os EUA e o Japão na nova ordem global."
+  },
+  {
+    "id": "HIST-CONT-31",
+    "disciplina": "Geopolítica",
+    "tema": "Nova Ordem Mundial - Unipolaridade vs Multipolaridade",
+    "prova": "Simulado Pré-Vestibular",
+    "enunciado": "Após o colapso da União Soviética em 1991, o mundo passou por um período conhecido como 'Momento Unipolar'. Isso se referia a:",
+    "alternativas": {
+      "A": "A hegemonia econômica da China sobre o Japão.",
+      "B": "A supremacia militar, econômica e cultural incontestável dos Estados Unidos.",
+      "C": "O controle total da ONU sobre todas as decisões nacionais.",
+      "D": "A união de todos os países do mundo em um único governo.",
+      "E": "O domínio tecnológico da Alemanha na internet."
+    },
+    "gabarito": "B",
+    "dica": "Pense no conceito de 'Policial do Mundo' aplicado aos EUA na década de 90.",
+    "resolucao_detalhada": "Com o fim da concorrência ideológica da URSS, os EUA emergiram como a única superpotência global, ditando as regras do sistema financeiro (Consenso de Washington) e liderando intervenções militares (Guerra do Golfo)."
+  },
+  {
+    "id": "HIST-CONT-32",
+    "disciplina": "História / Sociologia",
+    "tema": "A Queda do Muro de Berlim e o Fim da História",
+    "prova": "Concurso de Nível Superior",
+    "enunciado": "O cientista político Francis Fukuyama cunhou a tese do 'Fim da História' após 1989. Sua ideia central era que:",
+    "alternativas": {
+      "A": "A humanidade seria extinta por uma guerra nuclear imediata.",
+      "B": "Não haveria mais eventos históricos ou guerras no futuro.",
+      "C": "A democracia liberal e o capitalismo haviam vencido como a forma final e definitiva de governo humano.",
+      "D": "A história passaria a ser escrita apenas por computadores.",
+      "E": "O socialismo voltaria a dominar o mundo em menos de dez anos."
+    },
+    "gabarito": "C",
+    "dica": "Era uma tese otimista (e controversa) sobre o triunfo do liberalismo ocidental.",
+    "resolucao_detalhada": "Fukuyama argumentava que, com a queda do comunismo, não restavam alternativas ideológicas viáveis ao modelo liberal-capitalista, tornando-o o padrão global para todas as nações no longo prazo."
+  },
+  {
+    "id": "HIST-CONT-33",
+    "disciplina": "Geopolítica",
+    "tema": "Conflitos do Século XXI - 11 de Setembro",
+    "prova": "ENEM / Atualidades",
+    "enunciado": "Os atentados de 11 de setembro de 2001 alteraram profundamente a política externa dos EUA, inaugurando a chamada 'Guerra ao Terror'. Uma consequência direta dessa política foi:",
+    "alternativas": {
+      "A": "A retirada imediata de tropas americanas do Oriente Médio.",
+      "B": "A invasão do Afeganistão e, posteriormente, do Iraque, baseada na doutrina da guerra preventiva.",
+      "C": "O desarmamento total da OTAN para promover a paz.",
+      "D": "O apoio dos EUA à criação de um Estado Islâmico na Síria.",
+      "E": "A proibição do uso de petróleo em solo americano."
+    },
+    "gabarito": "B",
+    "dica": "A Doutrina Bush estabelecia que os EUA poderiam atacar nações que 'abrigassem terroristas' ou possuíssem armas de destruição em massa.",
+    "resolucao_detalhada": "O 11 de Setembro justificou intervenções militares diretas visando derrubar regimes hostis (Talibã e Saddam Hussein) e reconfigurar a geopolítica do Oriente Médio sob o pretexto da segurança nacional americana."
+  },
+  {
+    "id": "HIST-CONT-34",
+    "disciplina": "Geopolítica",
+    "tema": "Ascensão da China no Século XXI",
+    "prova": "Simulado de Relações Internacionais",
+    "enunciado": "A entrada da China na Organização Mundial do Comércio (OMC) em 2001 é um marco porque:",
+    "alternativas": {
+      "A": "Forçou a China a abandonar o Partido Comunista.",
+      "B": "Acelerou a integração da economia chinesa ao mercado global, tornando-a a 'fábrica do mundo'.",
+      "C": "Impediu que a China exportasse produtos para o Ocidente.",
+      "D": "Tornou o yuan a única moeda aceita no comércio internacional.",
+      "E": "Acabou com a exploração de mão de obra em território chinês."
+    },
+    "gabarito": "B",
+    "dica": "Pense no crescimento vertiginoso do PIB chinês e no fluxo de investimentos estrangeiros.",
+    "resolucao_detalhada": "A adesão à OMC permitiu que a China aproveitasse suas vantagens competitivas (mão de obra barata e escala industrial) para dominar as cadeias de suprimentos globais, desafiando a hegemonia econômica ocidental."
+  },
+  {
+    "id": "HIST-CONT-35",
+    "disciplina": "História / Economia",
+    "tema": "Crise Econômica de 2008",
+    "prova": "Vestibular Economia",
+    "enunciado": "A crise financeira global de 2008 teve sua origem no mercado imobiliário dos Estados Unidos (crise do subprime). O principal mecanismo que causou o colapso foi:",
+    "alternativas": {
+      "A": "A falta de casas para a população morar.",
+      "B": "A concessão de empréstimos hipotecários de alto risco que foram revendidos como investimentos seguros.",
+      "C": "O aumento repentino do preço do ouro no mercado asiático.",
+      "D": "A nacionalização de todos os bancos americanos pelo governo.",
+      "E": "A proibição do uso de cartões de crédito em todo o mundo."
+    },
+    "gabarito": "B",
+    "dica": "Foi uma crise de desregulamentação financeira e especulação excessiva.",
+    "resolucao_detalhada": "Bancos emprestaram dinheiro para pessoas sem capacidade de pagamento e 'empacotaram' essas dívidas em títulos complexos. Quando os devedores pararam de pagar, o sistema financeiro global (interconectado) entrou em colapso, exigindo resgates estatais bilionários."
+  },
+  {
+    "id": "HIST-CONT-36",
+    "disciplina": "Geopolítica / Geografia",
+    "tema": "Blocos Econômicos - BRICS",
+    "prova": "Simulado Nível Médio",
+    "enunciado": "O grupo BRICS (Brasil, Rússia, Índia, China e África do Sul) caracteriza-se por ser:",
+    "alternativas": {
+      "A": "Uma aliança militar de defesa mútua semelhante à OTAN.",
+      "B": "Um bloco de países emergentes que buscam aumentar seu peso nas decisões políticas e econômicas globais.",
+      "C": "Uma organização de países que decidiram adotar o socialismo.",
+      "D": "Um acordo de livre comércio total com imposto zero entre os membros.",
+      "E": "Um grupo de países que não possuem recursos naturais."
+    },
+    "gabarito": "B",
+    "dica": "O termo foi criado para identificar economias com grande potencial de crescimento que não faziam parte do G7.",
+    "resolucao_detalhada": "Os BRICS não são um bloco econômico formal (como a UE), mas uma coalizão política que busca reformar instituições como o FMI e o Banco Mundial para refletir a nova realidade multipolar do século XXI."
+  },
+  {
+    "id": "HIST-CONT-37",
+    "disciplina": "Geopolítica / Atualidades",
+    "tema": "Brexit",
+    "prova": "Vestibular de Inverno",
+    "enunciado": "O 'Brexit', processo iniciado em 2016, refere-se a:",
+    "alternativas": {
+      "A": "A entrada do Reino Unido na Zona do Euro.",
+      "B": "A saída do Reino Unido da União Europeia, motivada por questões de soberania e imigração.",
+      "C": "A anexação da Irlanda pelo Reino Unido.",
+      "D": "A dissolução da monarquia britânica após a morte da Rainha.",
+      "E": "A criação de um novo bloco econômico entre Inglaterra e China."
+    },
+    "gabarito": "B",
+    "dica": "Foi uma vitória dos movimentos nacionalistas e eurocéticos em um referendo popular.",
+    "resolucao_detalhada": "O Brexit marcou a primeira vez que um país relevante deixou a União Europeia, evidenciando o desgaste do modelo de integração supranacional diante do ressurgimento de sentimentos nacionalistas e protecionistas."
+  },
+  {
+    "id": "HIST-CONT-38",
+    "disciplina": "Sociologia / História",
+    "tema": "Quarta Revolução Industrial",
+    "prova": "ENEM",
+    "enunciado": "A 'Indústria 4.0' ou Quarta Revolução Industrial integra tecnologias físicas e digitais. Um dos pilares dessa revolução é:",
+    "alternativas": {
+      "A": "A volta do trabalho manual em larga escala.",
+      "B": "A Internet das Coisas (IoT), Big Data e o uso intensivo de Inteligência Artificial na produção.",
+      "C": "A proibição do uso de eletricidade nas fábricas para salvar o planeta.",
+      "D": "O fim do comércio internacional de bens de consumo.",
+      "E": "A substituição total da internet por sinais de rádio antigos."
+    },
+    "gabarito": "B",
+    "dica": "Foque na conectividade total entre máquinas, sistemas e humanos.",
+    "resolucao_detalhada": "A Quarta Revolução Industrial caracteriza-se pela fusão de tecnologias que borram as linhas entre as esferas física, digital e biológica, permitindo fábricas inteligentes e customização em massa."
+  },
+  {
+    "id": "HIST-CONT-39",
+    "disciplina": "História / Geopolítica",
+    "tema": "Conflitos Étnicos e Geopolíticos - Iugoslávia",
+    "prova": "Simulado Humanas",
+    "enunciado": "A desintegração da Iugoslávia na década de 1990 resultou em uma série de guerras civis violentas. O principal fator gerador desses conflitos foi:",
+    "alternativas": {
+      "A": "A disputa entre duas grandes empresas de tecnologia.",
+      "B": "O ressurgimento de nacionalismos étnicos e religiosos reprimidos durante o regime comunista de Tito.",
+      "C": "A invasão do país por tropas da China.",
+      "D": "A descoberta de minas de ouro em Sarajevo.",
+      "E": "A tentativa da Iugoslávia de colonizar a Itália."
+    },
+    "gabarito": "B",
+    "dica": "Pense na fragmentação de um Estado multiétnico (Sérvios, Croatas, Bósnios, etc).",
+    "resolucao_detalhada": "Com o fim do socialismo, as tensões históricas entre os diferentes grupos étnicos e religiosos da região explodiram, levando a massacres e ao surgimento de novos países (Sérvia, Croácia, Eslovênia, Bósnia, etc)."
+  },
+  {
+    "id": "HIST-CONT-40",
+    "disciplina": "Geopolítica / Meio Ambiente",
+    "tema": "Mudanças Climáticas e Refugiados",
+    "prova": "Vestibular Contemporâneo",
+    "enunciado": "O conceito de 'Refugiados Climáticos' refere-se a:",
+    "alternativas": {
+      "A": "Pessoas que viajam para outros países em busca de neve.",
+      "B": "Populações forçadas a abandonar seus territórios devido a desastres ambientais, elevação do nível do mar ou secas extremas.",
+      "C": "Cientistas que se escondem para estudar o clima em segredo.",
+      "D": "Turistas que ficam presos em aeroportos por causa de tempestades.",
+      "E": "Pessoas que se mudam para o Alasca para fugir do calor."
+    },
+    "gabarito": "B",
+    "dica": "É um fenômeno crescente que desafia as leis internacionais sobre refúgio (que hoje focam apenas em perseguição política/guerra).",
+    "resolucao_detalhada": "O aquecimento global tem impactos desproporcionais em ilhas do Pacífico e regiões áridas da África, criando fluxos migratórios que não são protegidos pelas convenções tradicionais de refugiados da ONU."
+  },
+  {
+    "id": "HIST-CONT-41",
+    "disciplina": "História / Filosofia",
+    "tema": "Pós-Modernidade e Sociedade do Cansaço",
+    "prova": "Interdisciplinar",
+    "enunciado": "O filósofo Byung-Chul Han descreve a sociedade do século XXI como a 'Sociedade do Cansaço'. Segundo ele, isso se deve:",
+    "alternativas": {
+      "A": "À falta de máquinas para realizar o trabalho pesado.",
+      "B": "Ao excesso de positividade e à pressão por desempenho e produtividade constante na era digital.",
+      "C": "Ao fato de as pessoas dormirem demais por causa dos calmantes.",
+      "D": "Ao fim de todas as formas de lazer e entretenimento.",
+      "E": "À proibição do trabalho remunerado em diversos países."
+    },
+    "gabarito": "B",
+    "dica": "Foque no impacto psíquico da hiperconectividade e do autoempreendedorismo.",
+    "resolucao_detalhada": "Diferente da sociedade disciplinar do século XX (que proibia), a sociedade atual foca no 'poder fazer' ilimitado, levando o indivíduo à autoexploração e ao esgotamento (Burnout)."
+  },
+  {
+    "id": "HIST-CONT-42",
+    "disciplina": "Geopolítica",
+    "tema": "Conflito na Síria e Crise Migratória",
+    "prova": "Simulado Global",
+    "enunciado": "A Guerra Civil na Síria, iniciada em 2011, provocou uma das maiores crises humanitárias do século XXI. Um fator que internacionalizou o conflito foi:",
+    "alternativas": {
+      "A": "A disputa entre Argentina e Chile pelo território sírio.",
+      "B": "O apoio da Rússia ao regime de Bashar al-Assad e o apoio de potências ocidentais a grupos rebeldes.",
+      "C": "A tentativa da Síria de proibir a internet em todo o mundo.",
+      "D": "O fato de a Síria ter se tornado a sede oficial da ONU.",
+      "E": "A descoberta de que a Síria era um país de neve constante."
+    },
+    "gabarito": "B",
+    "dica": "O conflito tornou-se uma 'guerra por procuração' (proxy war) entre grandes potências.",
+    "resolucao_detalhada": "O envolvimento da Rússia (defendendo seus interesses estratégicos e bases navais) e dos EUA/Europa (apoiando a oposição democrática ou curda) prolongou o conflito, gerando milhões de refugiados rumo à Europa."
+  },
+  {
+    "id": "HIST-CONT-43",
+    "disciplina": "História / Tecnologia",
+    "tema": "WikiLeaks e Vigilância Global",
+    "prova": "Simulado Atualidades",
+    "enunciado": "As revelações de Julian Assange (WikiLeaks) e Edward Snowden na década de 2010 trouxeram à tona o debate sobre:",
+    "alternativas": {
+      "A": "Como ganhar dinheiro jogando videogame.",
+      "B": "O segredo das receitas de grandes redes de fast-food.",
+      "C": "A vigilância em massa governamental e o vazamento de segredos diplomáticos e militares.",
+      "D": "A descoberta de vida alienígena em Marte.",
+      "E": "A proibição do uso de e-mails para fins comerciais."
+    },
+    "gabarito": "C",
+    "dica": "Trata-se da tensão entre Segurança Nacional e Privacidade Individual no mundo digital.",
+    "resolucao_detalhada": "Estes vazamentos expuseram como governos (especialmente os EUA) monitoravam cidadãos e líderes estrangeiros, além de revelar abusos em guerras, forçando uma reavaliação da ética na era da informação."
+  },
+  {
+    "id": "HIST-CONT-44",
+    "disciplina": "Geopolítica",
+    "tema": "O Avanço da Inteligência Artificial",
+    "prova": "Debate Contemporâneo",
+    "enunciado": "No cenário geopolítico atual, a corrida pela liderança em Inteligência Artificial (IA) é vista como:",
+    "alternativas": {
+      "A": "Um passatempo sem importância econômica.",
+      "B": "O novo campo de disputa pela hegemonia global entre China e Estados Unidos.",
+      "C": "Uma tentativa de substituir todos os governos por robôs em 2025.",
+      "D": "Uma forma de acabar com o consumo de eletricidade.",
+      "E": "O fim da necessidade de escolas e professores."
+    },
+    "gabarito": "B",
+    "dica": "IA é considerada uma tecnologia 'de propósito geral' que afetará economia, defesa e sociedade.",
+    "resolucao_detalhada": "Quem liderar a IA terá vantagens em cibersegurança, processamento de dados econômicos e automação militar, tornando-se o pilar da soberania tecnológica no século XXI."
+  },
+  {
+    "id": "HIST-CONT-45",
+    "disciplina": "História",
+    "tema": "A Crise da Democracia Liberal",
+    "prova": "Vestibular de Humanas",
+    "enunciado": "O fenômeno do 'Populismo Digital' no século XXI está associado a:",
+    "alternativas": {
+      "A": "O uso de cartas escritas à mão para ganhar eleições.",
+      "B": "Líderes que utilizam redes sociais para contornar instituições tradicionais e polarizar a opinião pública.",
+      "C": "A proibição de votar através de aparelhos eletrônicos.",
+      "D": "O fim de todos os partidos políticos no mundo ocidental.",
+      "E": "A exigência de que todos os candidatos tenham diplomas de engenharia computacional."
+    },
+    "gabarito": "B",
+    "dica": "Pense no uso de algoritmos, bolhas informacionais e comunicação direta líder-seguidor.",
+    "resolucao_detalhada": "O populismo digital aproveita a fragmentação da mídia tradicional para criar narrativas 'nós contra eles', frequentemente atacando a imprensa, o judiciário e o sistema científico para consolidar poder."
+  },
+  {
+    "id": "HIST-CONT-46",
+    "disciplina": "História / Sociologia",
+    "tema": "Movimentos Sociais - Maio de 1968",
+    "prova": "Vestibular Unicamp - Adaptada",
+    "enunciado": "Os movimentos de Maio de 1968, iniciados na França, representaram uma ruptura cultural importante no século XX pois:",
+    "alternativas": {
+      "A": "Buscavam a restauração da monarquia francesa.",
+      "B": "Eram focados exclusivamente em reivindicações salariais de operários metalúrgicos.",
+      "C": "Questionavam as estruturas autoritárias da família, da escola e do Estado, com forte protagonismo estudantil.",
+      "D": "Apoiavam a intervenção militar dos EUA no Vietnã.",
+      "E": "Propunham a proibição total do uso de tecnologias nas universidades."
+    },
+    "gabarito": "C",
+    "dica": "O lema era 'É proibido proibir'. Pense na revolução de costumes.",
+    "resolucao_detalhada": "Maio de 68 não foi uma revolução política clássica para tomar o Estado, mas uma revolução cultural que criticava tanto o capitalismo consumista quanto o socialismo burocrático, mudando o comportamento social e os direitos individuais no Ocidente."
+  },
+  {
+    "id": "HIST-CONT-47",
+    "disciplina": "História",
+    "tema": "Direitos Civis nos EUA",
+    "prova": "ENEM / Ciências Humanas",
+    "enunciado": "Na década de 1960, o movimento pelos Direitos Civis nos Estados Unidos, liderado por figuras como Martin Luther King Jr., utilizou como principal estratégia:",
+    "alternativas": {
+      "A": "A luta armada e o terrorismo urbano.",
+      "B": "A desobediência civil não violenta e boicotes para combater a segregação racial.",
+      "C": "A aliança com grupos supremacistas brancos para evitar conflitos.",
+      "D": "A migração em massa de toda a população negra para a África.",
+      "E": "O isolamento total da comunidade negra em relação à economia americana."
+    },
+    "gabarito": "B",
+    "dica": "Pense no Boicote aos Ônibus de Montgomery e na Marcha sobre Washington.",
+    "resolucao_detalhada": "O movimento focou em expor a injustiça das leis de segregação (Jim Crow) através da resistência pacífica, pressionando o governo federal a aprovar a Lei dos Direitos Civis (1964) e a Lei do Direito ao Voto (1965)."
+  },
+  {
+    "id": "HIST-CONT-48",
+    "disciplina": "Geopolítica / Economia",
+    "tema": "A Crise da Zona do Euro",
+    "prova": "Simulado Mackenzie",
+    "enunciado": "A crise da Zona do Euro, que afetou severamente países como a Grécia a partir de 2010, revelou uma fragilidade estrutural do bloco, que é:",
+    "alternativas": {
+      "A": "A existência de uma moeda única sem uma união fiscal e política centralizada.",
+      "B": "O excesso de petróleo em território europeu que desvalorizou o Euro.",
+      "C": "A proibição de exportar produtos agrícolas para a América Latina.",
+      "D": "O fato de a Alemanha não utilizar o Euro como moeda oficial.",
+      "E": "A falta de bancos na Europa Ocidental."
+    },
+    "gabarito": "A",
+    "dica": "Países com economias diferentes compartilham a mesma moeda, mas têm orçamentos separados.",
+    "resolucao_detalhada": "A crise mostrou que, sem uma política fiscal comum, países em crise não podem desvalorizar sua própria moeda para ganhar competitividade, ficando dependentes de planos de austeridade severos impostos pelo Banco Central Europeu."
+  },
+  {
+    "id": "HIST-CONT-49",
+    "disciplina": "História / Saúde Pública",
+    "tema": "Pandemias na Idade Contemporânea",
+    "prova": "Interdisciplinar Contemporânea",
+    "enunciado": "Comparando a Gripe Espanhola (1918) e a Pandemia de COVID-19 (2020), um fator diferenciador crucial no combate à segunda foi:",
+    "alternativas": {
+      "A": "A ausência de hospitais no século XXI.",
+      "B": "A velocidade recorde no desenvolvimento de vacinas via biotecnologia (RNA mensageiro) e a troca global de dados em tempo real.",
+      "C": "O fato de a COVID-19 não ter afetado a economia global.",
+      "D": "A decisão de não utilizar máscaras no século XXI.",
+      "E": "O fim da Organização Mundial da Saúde antes de 2020."
+    },
+    "gabarito": "B",
+    "dica": "Observe o papel da ciência moderna e da internet na resposta global.",
+    "resolucao_detalhada": "Enquanto em 1918 mal se sabia o que era um vírus, em 2020 o genoma foi sequenciado em dias. A tecnologia permitiu respostas rápidas, embora a desinformação digital tenha sido um desafio inédito que não existia na escala de 1918."
+  },
+  {
+    "id": "HIST-CONT-50",
+    "disciplina": "História / Geopolítica",
+    "tema": "Ciberguerra e Soberania Digital",
+    "prova": "Simulado Militar / Atualidades",
+    "enunciado": "No Mundo Contemporâneo, o conceito de 'Ciberguerra' refere-se a ataques contra:",
+    "alternativas": {
+      "A": "Soldados que lutam apenas em jogos de computador.",
+      "B": "Infraestruturas críticas (energia, hospitais, sistemas bancários) de uma nação através de meios digitais para desestabilizar o inimigo.",
+      "C": "A produção física de computadores na China.",
+      "D": "Satélites de TV para impedir a transmissão de esportes.",
+      "E": "Navios de guerra que não possuem sistemas eletrônicos."
+    },
+    "gabarito": "B",
+    "dica": "É a guerra travada no 'quinto domínio' (além de terra, mar, ar e espaço).",
+    "resolucao_detalhada": "A ciberguerra é uma ferramenta geopolítica moderna onde estados ou grupos utilizam códigos para causar danos físicos ou econômicos reais, permitindo ataques anônimos e de baixo custo com grande impacto estratégico."
+  }
+]
