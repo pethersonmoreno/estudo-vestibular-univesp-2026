@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ECO-01",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Dinâmica de Populações",
+    "prova": "Simulado Integrado 2026",
+    "enunciado": "Em uma determinada reserva florestal, uma população de roedores sofreu uma redução drástica de 40% após uma geada severa e inesperada. Na primavera seguinte, o aumento da densidade populacional levou a uma escassez de sementes, resultando em competição intraespecífica. Sobre os fatores que regularam essa população, é correto afirmar que:",
+    "alternativas": {
+      "A": "A geada é um fator dependente da densidade, pois afeta a taxa de mortalidade.",
+      "B": "A escassez de sementes é um fator independente da densidade, pois é um recurso abiótico.",
+      "C": "A geada é um fator independente da densidade, enquanto a competição por sementes é um fator dependente da densidade.",
+      "D": "Ambos são fatores dependentes da densidade, pois limitam o potencial biótico.",
+      "E": "Ambos são fatores independentes da densidade, pois fazem parte da resistência do meio."
+    },
+    "gabarito": "C",
+    "dica": "Fatores abióticos (clima) geralmente não dependem do número de indivíduos, enquanto interações bióticas (competição) se intensificam com a aglomeração.",
+    "resolucao_detalhada": "A geada é um evento climático (fator abiótico) que atinge a população independentemente do seu tamanho (independente da densidade). Já a competição por recursos (comida/sementes) ocorre de forma mais intensa quando há muitos indivíduos em uma mesma área (dependente da densidade)."
+  },
+  {
+    "id": "ECO-02",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Sucessão Ecológica",
+    "prova": "Simulado Integrado 2026",
+    "enunciado": "Após um incêndio florestal que destruiu a vegetação original de uma área, observou-se o surgimento gradual de gramíneas, seguidas por arbustos e, anos depois, árvores de grande porte. Sobre esse processo, assinale a alternativa correta:",
+    "alternativas": {
+      "A": "Trata-se de uma sucessão primária, pois a vida teve que recomeçar do zero.",
+      "B": "No estágio de clímax, a Produtividade Primária Líquida (PPL) é máxima e superior à da comunidade pioneira.",
+      "C": "O processo descrito é uma sucessão secundária, caracterizada por ser mais rápida que a primária devido à presença de solo formado.",
+      "D": "As espécies pioneiras (ecese) possuem alta complexidade e baixa taxa de reprodução.",
+      "E": "A razão P/R (Produção/Respiração) no estágio final de clímax é significativamente maior que 1."
+    },
+    "gabarito": "C",
+    "dica": "Áreas que já tiveram vida mas foram perturbadas sofrem sucessão secundária. No clímax, o consumo de energia iguala a produção.",
+    "resolucao_detalhada": "O incêndio em uma área anteriormente vegetada caracteriza o início de uma sucessão secundária. Diferente da primária, ela conta com solo rico e bancos de sementes. No estágio de clímax, a homeostase faz com que P = R (Razão P/R = 1), portanto a PPL tende a zero."
+  },
+  {
+    "id": "ECO-03",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Relações Ecológicas",
+    "prova": "Simulado Integrado 2026",
+    "enunciado": "O peixe-agulha vive protegido no interior do corpo do pepino-do-mar. Ele sai do hospedeiro apenas para se alimentar, sem causar qualquer prejuízo ou benefício ao pepino-do-mar. Essa relação interespecífica é classificada como:",
+    "alternativas": {
+      "A": "Mutualismo (+/+)",
+      "B": "Comensalismo (+/0)",
+      "C": "Amensalismo (-/0)",
+      "D": "Inquilinismo (+/0)",
+      "E": "Protocooperação (+/+)"
+    },
+    "gabarito": "D",
+    "dica": "Quando uma espécie usa a outra apenas como abrigo/suporte sem prejudicá-la, chamamos de inquilinismo.",
+    "resolucao_detalhada": "O inquilinismo é uma relação harmônica onde o inquilino obtém abrigo ou suporte no corpo do hospedeiro sem afetar a sobrevivência deste (relação +/0). O comensalismo é similar, mas focado especificamente em restos alimentares."
+  },
+  {
+    "id": "ECO-04",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Ciclos Biogeoquímicos",
+    "prova": "Simulado Integrado 2026",
+    "enunciado": "No ciclo do nitrogênio, certas bactérias do solo realizam a oxidação da amônia ($NH_3$) em nitritos ($NO_2^-$) e, posteriormente, em nitratos ($NO_3^-$). Essas duas etapas do processo de nitrificação são realizadas, respectivamente, por bactérias dos gêneros:",
+    "alternativas": {
+      "A": "Rhizobium e Pseudomonas.",
+      "B": "Nitrosomonas e Nitrobacter.",
+      "C": "Nitrobacter e Nitrosomonas.",
+      "D": "Pseudomonas e Rhizobium.",
+      "E": "Nitrosomonas e Pseudomonas."
+    },
+    "gabarito": "B",
+    "dica": "A nitrificação divide-se em nitrosação (amônia -> nitrito) e nitratação (nitrito -> nitrato).",
+    "resolucao_detalhada": "A nitrosação (formação de nitrito) é feita pelas Nitrosomonas. A nitratação (formação de nitrato, forma absorvida pelas plantas) é feita pelas Nitrobacter. Pseudomonas atuam na desnitrificação e Rhizobium na fixação inicial."
+  },
+  {
+    "id": "ECO-05",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Poluição e Eutrofização",
+    "prova": "Simulado Integrado 2026",
+    "enunciado": "O lançamento excessivo de esgoto doméstico em um lago frequentemente desencadeia a morte de peixes em massa. Qual é a causa direta imediata da morte desses animais no processo de eutrofização?",
+    "alternativas": {
+      "A": "O envenenamento direto pelo nitrogênio presente no esgoto.",
+      "B": "A proliferação de algas que liberam toxinas fatais para os peixes.",
+      "C": "O esgotamento do oxigênio dissolvido ($O_2$) devido à decomposição aeróbica.",
+      "D": "O aumento da temperatura da água provocado pela matéria orgânica.",
+      "E": "O bloqueio das brânquias dos peixes pelo excesso de sedimentos de esgoto."
+    },
+    "gabarito": "C",
+    "dica": "Lembre-se que as bactérias que decompõem a matéria orgânica e as plantas mortas respiram e consomem o oxigênio da água.",
+    "resolucao_detalhada": "Embora o processo comece com o excesso de nutrientes, a causa da morte dos peixes é a anoxia (falta de oxigênio). Isso ocorre porque a decomposição da biomassa morta (plantas do fundo e algas) por bactérias aeróbicas consome todo o oxigênio dissolvido no corpo d'água."
+  },
+  {
+    "id": "ECO-06",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Estratégias de Vida",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "Determinadas espécies de insetos apresentam um ciclo de vida curto, produzem uma enorme quantidade de descendentes e não oferecem cuidado parental. Em contrapartida, mamíferos de grande porte têm poucos filhotes e investem muita energia na sua sobrevivência. Essas estratégias são denominadas, respectivamente:",
+    "alternativas": {
+      "A": "Estrategistas K e estrategistas r.",
+      "B": "Estrategistas r e estrategistas K.",
+      "C": "Estrategistas bióticos e estrategistas abióticos.",
+      "D": "Estrategistas primários e estrategistas secundários.",
+      "E": "Estrategistas de densidade e de dispersão."
+    },
+    "gabarito": "B",
+    "dica": "Pense no 'r' como taxa de crescimento rápido e no 'K' como o limite de capacidade do ambiente.",
+    "resolucao_detalhada": "Estrategistas r priorizam o potencial biótico e a quantidade de prole em ambientes instáveis. Estrategistas K priorizam a eficiência e a sobrevivência da prole em ambientes estáveis, próximos à capacidade de carga (K)."
+  },
+  {
+    "id": "ECO-07",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Dinâmica de Populações",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "A capacidade de carga (K) de um ecossistema representa o número máximo de indivíduos de uma espécie que o ambiente consegue sustentar. Qual fator define a estabilização da curva de crescimento sigmoide (Curva em S) ao atingir esse limite?",
+    "alternativas": {
+      "A": "O aumento do potencial biótico da espécie.",
+      "B": "A ausência total de resistência do meio.",
+      "C": "A atuação da resistência do meio (fatores limitantes).",
+      "D": "A redução da taxa de mortalidade por fatores abióticos.",
+      "E": "A migração constante de novos indivíduos."
+    },
+    "gabarito": "C",
+    "dica": "Considere o que acontece quando os recursos se tornam escassos em uma área superlotada.",
+    "resolucao_detalhada": "A curva sigmoide estabiliza quando a resistência do meio (falta de espaço, alimento, predação, doenças) impede que a população continue crescendo conforme seu potencial biótico original."
+  },
+  {
+    "id": "ECO-08",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Sucessão Ecológica",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "Em uma ilha vulcânica recém-formada, o processo de colonização começa com liquens que degradam a rocha nua. Anos depois, o solo formado permite o crescimento de gramíneas. Este processo é um exemplo de:",
+    "alternativas": {
+      "A": "Sucessão secundária em estágio de sere.",
+      "B": "Sucessão primária em estágio de ecese.",
+      "C": "Sucessão clímax em ambiente aquático.",
+      "D": "Homeostase populacional independente da densidade.",
+      "E": "Sucessão de equilíbrio estático."
+    },
+    "gabarito": "B",
+    "dica": "Observe se o local já teve vida ou solo antes do processo começar.",
+    "resolucao_detalhada": "A sucessão primária ocorre em substratos virgens onde nunca houve vida. O primeiro estágio, de colonização por espécies pioneiras (como liquens), é chamado de ecese."
+  },
+  {
+    "id": "ECO-09",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Bioenergética",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "Sobre a bioenergética em uma comunidade clímax, qual das seguintes relações entre Produtividade Primária Bruta (PPB) e Respiração (R) é observada?",
+    "alternativas": {
+      "A": "PPB é muito superior à R, gerando alta produtividade líquida.",
+      "B": "PPB é igual à R, resultando em Produtividade Primária Líquida (PPL) próxima de zero.",
+      "C": "R é superior à PPB, levando à extinção da comunidade.",
+      "D": "PPL é máxima, permitindo a entrada de novas espécies.",
+      "E": "PPB é zero, pois as plantas param de realizar fotossíntese."
+    },
+    "gabarito": "B",
+    "dica": "No equilíbrio total, o que sobra de energia após o consumo da própria comunidade?",
+    "resolucao_detalhada": "No clímax, a comunidade atinge o equilíbrio dinâmico: toda a matéria orgânica produzida (PPB) é utilizada para manter a própria biomassa através da respiração (R). Assim, a PPL (sobra) tende a zero."
+  },
+  {
+    "id": "ECO-10",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Biomas",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "Plantas do Cerrado brasileiro frequentemente apresentam casca grossa, troncos tortuosos e raízes muito profundas. Essas características são adaptações evolutivas principalmente relacionadas a:",
+    "alternativas": {
+      "A": "Inundações periódicas e solo rico em nutrientes.",
+      "B": "Fogo recorrente e busca por água em lençóis freáticos profundos.",
+      "C": "Frio intenso no inverno e solo congelado.",
+      "D": "Alta salinidade do solo e falta de luz solar.",
+      "E": "Herbivoria constante por grandes mamíferos aquáticos."
+    },
+    "gabarito": "B",
+    "dica": "Pense nos desafios ambientais que a vegetação do Brasil central enfrenta na estação seca.",
+    "resolucao_detalhada": "A casca grossa (cortiça) protege o câmbio vascular contra o fogo comum no Cerrado. As raízes pivotantes longas buscam água nas camadas mais profundas do solo durante a longa estiagem."
+  },
+  {
+    "id": "ECO-11",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Ecossistemas Aquáticos",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "Em ecossistemas aquáticos, a zona de compensação fótica é o ponto onde:",
+    "alternativas": {
+      "A": "A luz solar é bloqueada totalmente pelas algas superficiais.",
+      "B": "A taxa de fotossíntese é exatamente igual à taxa de respiração.",
+      "C": "A pressão hidrostática impede o crescimento do fitoplâncton.",
+      "D": "A temperatura da água atinge o ponto de congelamento.",
+      "E": "Ocorre a maior biodiversidade marinha."
+    },
+    "gabarito": "B",
+    "dica": "Imagine um nível de profundidade onde a produção de oxigênio 'empata' com o consumo celular.",
+    "resolucao_detalhada": "Na zona de compensação fótica, a intensidade luminosa é tal que o vegetal produz por fotossíntese exatamente o que gasta na respiração. Abaixo dessa zona, o vegetal morre por déficit energético."
+  },
+  {
+    "id": "ECO-12",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Relações Ecológicas",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "Certas bactérias vivem no estômago de ruminantes, ajudando na digestão da celulose. Em troca, recebem abrigo e nutrientes. Sem essas bactérias, o ruminante morre de inanição. Esta relação é:",
+    "alternativas": {
+      "A": "Protocooperação, pois ambos se beneficiam de forma facultativa.",
+      "B": "Mutualismo, pois é uma associação obrigatória com benefício mútuo.",
+      "C": "Comensalismo, pois apenas as bactérias se beneficiam.",
+      "D": "Parasitismo, pois as bactérias consomem o alimento do animal.",
+      "E": "Predação interespecífica."
+    },
+    "gabarito": "B",
+    "dica": "Verifique se a separação dos dois organismos resultaria no prejuízo grave ou morte de ambos.",
+    "resolucao_detalhada": "O mutualismo é uma relação harmônica obrigatória (+/+). O ruminante não possui enzimas para digerir a celulose sozinho, dependendo vitalmente da ação bacteriana."
+  },
+  {
+    "id": "ECO-13",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Relações Ecológicas",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "A alelopatia é um fenômeno onde plantas liberam substâncias químicas no solo que inibem a germinação de outras espécies ao seu redor. Esta relação desarmônica é um exemplo de:",
+    "alternativas": {
+      "A": "Competição intraespecífica.",
+      "B": "Amensalismo.",
+      "C": "Canibalismo ecológico.",
+      "D": "Predação por herbivoria.",
+      "E": "Mutualismo assimétrico."
+    },
+    "gabarito": "B",
+    "dica": "Pense no cenário onde um lado impede o outro de existir através de 'guerra química'.",
+    "resolucao_detalhada": "O amensalismo ocorre quando uma espécie inibe o desenvolvimento de outra por meio da liberação de substâncias tóxicas, sem necessariamente obter benefício direto com essa inibição."
+  },
+  {
+    "id": "ECO-14",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Pirâmides Ecológicas",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "A pirâmide de biomassa pode apresentar-se invertida (base menor que o topo) em ecossistemas marinhos. Qual a explicação para esse fenômeno?",
+    "alternativas": {
+      "A": "Os produtores (fitoplâncton) são maiores que os consumidores.",
+      "B": "A taxa de reprodução do fitoplâncton é extremamente alta.",
+      "C": "A energia aumenta à medida que sobe nos níveis tróficos.",
+      "D": "O zooplâncton não consome o fitoplâncton, mas sim detritos.",
+      "E": "A biomassa dos peixes é reduzida pela pesca."
+    },
+    "gabarito": "B",
+    "dica": "Considere o fator 'tempo' e a velocidade com que novas gerações de produtores microscópicos surgem.",
+    "resolucao_detalhada": "Embora a biomassa momentânea do fitoplâncton seja pequena, sua velocidade de reprodução é tão alta que eles conseguem sustentar uma biomassa maior de zooplâncton."
+  },
+  {
+    "id": "ECO-15",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Ciclo do Nitrogênio",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "No ciclo do nitrogênio, a etapa de desnitrificação é essencial para devolver o gás nitrogênio (N2) à atmosfera. Esse processo é realizado por bactérias:",
+    "alternativas": {
+      "A": "Aeróbicas do gênero Rhizobium.",
+      "B": "Anaeróbicas do gênero Pseudomonas.",
+      "C": "Quimiossintetizantes do gênero Nitrobacter.",
+      "D": "Decompositoras de matéria orgânica.",
+      "E": "Fixadoras de vida livre."
+    },
+    "gabarito": "B",
+    "dica": "Este processo ocorre geralmente em solos encharcados ou pobres em oxigênio.",
+    "resolucao_detalhada": "As bactérias desnitrificantes (como Pseudomonas) utilizam o nitrato em sua respiração anaeróbica, convertendo-o de volta em N2, completando o ciclo."
+  },
+  {
+    "id": "ECO-16",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Habitat e Nicho",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "O endereço de uma espécie na natureza (local onde vive) e sua função biológica (como se alimenta e se reproduz) são chamados, respectivamente, de:",
+    "alternativas": {
+      "A": "Nicho ecológico e Habitat.",
+      "B": "Biocenose e Biótopo.",
+      "C": "Habitat e Nicho ecológico.",
+      "D": "Ecossistema e Comunidade.",
+      "E": "Sere e Ecese."
+    },
+    "gabarito": "C",
+    "dica": "Habitat = Endereço; Nicho = Profissão/Papel.",
+    "resolucao_detalhada": "Habitat descreve o local físico; Nicho Ecológico descreve as interações e o modo de vida da espécie naquele local."
+  },
+  {
+    "id": "ECO-17",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Princípio de Gause",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "O Princípio da Exclusão Competitiva (Princípio de Gause) afirma que:",
+    "alternativas": {
+      "A": "Duas espécies podem ocupar o mesmo nicho indefinidamente.",
+      "B": "Duas espécies com nichos idênticos não podem coexistir em um mesmo habitat por muito tempo.",
+      "C": "A competição intraespecífica é sempre mais fraca que a interespecífica.",
+      "D": "O nicho de uma espécie é definido apenas pela temperatura.",
+      "E": "Predadores e presas sempre entram em extinção juntos."
+    },
+    "gabarito": "B",
+    "dica": "Se dois animais fazem exatamente a mesma coisa no mesmo lugar, um acabará expulsando o outro.",
+    "resolucao_detalhada": "A sobreposição total de nichos gera uma competição tão intensa que a espécie menos eficiente é extinta localmente ou forçada a migrar/mudar de nicho."
+  },
+  {
+    "id": "ECO-18",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Relações Ecológicas",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "O tubarão e a rêmora apresentam uma relação onde a rêmora se fixa ao corpo do tubarão para obter transporte e restos de alimentos, sem prejudicar o hospedeiro. Esta relação é:",
+    "alternativas": {
+      "A": "Mutualismo.",
+      "B": "Parasitismo.",
+      "C": "Comensalismo.",
+      "D": "Predação.",
+      "E": "Esclavagismo."
+    },
+    "gabarito": "C",
+    "dica": "Um se beneficia dos restos, o outro é indiferente.",
+    "resolucao_detalhada": "No comensalismo (+/0), uma espécie se beneficia da alimentação da outra sem causar dano ou benefício ao parceiro."
+  },
+  {
+    "id": "ECO-19",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Cadeia Alimentar",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "Em uma cadeia alimentar, os organismos responsáveis por converter a matéria orgânica de cadáveres em substâncias minerais simples, que podem ser reutilizadas pelos produtores, são os:",
+    "alternativas": {
+      "A": "Consumidores primários.",
+      "B": "Consumidores terciários.",
+      "C": "Decompositores.",
+      "D": "Produtores quimiossintetizantes.",
+      "E": "Onívoros."
+    },
+    "gabarito": "C",
+    "dica": "Eles fecham o ciclo da matéria.",
+    "resolucao_detalhada": "Fungos e bactérias decompositoras reciclam nutrientes minerais para o solo, permitindo que o ciclo da matéria seja fechado e contínuo."
+  },
+  {
+    "id": "ECO-20",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Impacto Ambiental",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "O efeito estufa é um processo natural essencial para a vida na Terra. No entanto, seu agravamento antrópico está ligado principalmente ao aumento da concentração de:",
+    "alternativas": {
+      "A": "Oxigênio e Nitrogênio.",
+      "B": "Dióxido de Carbono e Metano.",
+      "C": "CFCs e Ozônio superficial.",
+      "D": "Argônio e Hélio.",
+      "E": "Monóxido de Carbono e Cloro."
+    },
+    "gabarito": "B",
+    "dica": "Pense nos gases liberados pela queima de combustíveis fósseis e pela pecuária.",
+    "resolucao_detalhada": "O CO2 (queima de fósseis) e o CH4 (decomposição e gado) são os principais gases que retêm calor na atmosfera, elevando a temperatura média global."
+  },
+  {
+    "id": "ECO-21",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Pirâmides Ecológicas",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "A pirâmide de energia é uma representação do fluxo de calor e matéria em um ecossistema. Diferente das pirâmides de números ou biomassa, a pirâmide de energia:",
+    "alternativas": {
+      "A": "Pode ser invertida em ecossistemas marinhos devido ao fitoplâncton.",
+      "B": "Apresenta sempre a base maior que o topo, pois a energia se degrada ao longo dos níveis tróficos.",
+      "C": "Mostra que a energia aumenta à medida que se aproxima dos consumidores terciários.",
+      "D": "Representa a quantidade de indivíduos em cada nível da cadeia alimentar.",
+      "E": "Inverte-se quando o produtor é uma árvore de grande porte."
+    },
+    "gabarito": "B",
+    "dica": "Lembre-se da Segunda Lei da Termodinâmica aplicada à ecologia: a energia flui em uma única direção e diminui a cada etapa.",
+    "resolucao_detalhada": "A pirâmide de energia NUNCA se inverte. Isso ocorre porque apenas cerca de 10% da energia de um nível trófico é transferida para o próximo (Lei dos 10%), sendo o restante dissipado como calor ou utilizado no metabolismo próprio."
+  },
+  {
+    "id": "ECO-22",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Ciclo do Nitrogênio",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "No ciclo do nitrogênio, as bactérias do gênero Rhizobium desempenham um papel fundamental para a produtividade agrícola em leguminosas através da:",
+    "alternativas": {
+      "A": "Nitratação, convertendo nitrito em nitrato.",
+      "B": "Desnitrificação, devolvendo N2 para a atmosfera.",
+      "C": "Fixação biológica, convertendo o N2 atmosférico em compostos nitrogenados aproveitáveis.",
+      "D": "Nitrosação, transformando amônia em nitrito.",
+      "E": "Amonificação, decompondo matéria orgânica morta."
+    },
+    "gabarito": "C",
+    "dica": "Estas bactérias vivem em nódulos nas raízes de feijão e soja, capturando o gás do ar.",
+    "resolucao_detalhada": "As bactérias Rhizobium realizam a fixação biológica do nitrogênio, transformando o N2 (que as plantas não conseguem absorver diretamente) em amônia, que posteriormente será convertida em nitrato."
+  },
+  {
+    "id": "ECO-23",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Relações Ecológicas",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "A relação entre o cupim e os protozoários que vivem em seu intestino, onde os protozoários digerem a celulose para o cupim e recebem abrigo e alimento, sendo que ambos não sobrevivem isoladamente, é um exemplo de:",
+    "alternativas": {
+      "A": "Protocooperação.",
+      "B": "Comensalismo.",
+      "C": "Inquilinismo.",
+      "D": "Mutualismo.",
+      "E": "Parasitismo."
+    },
+    "gabarito": "D",
+    "dica": "A palavra-chave é 'dependência obrigatória'.",
+    "resolucao_detalhada": "O mutualismo é uma relação harmônica interespecífica (+/+) obrigatória. Ambos os indivíduos se beneficiam e a separação causaria a morte de um ou de ambos."
+  },
+  {
+    "id": "ECO-24",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Sucessão Ecológica",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "Em uma sucessão ecológica, o estágio de estabilidade máxima, onde a biodiversidade é elevada e a biomassa se mantém constante, é chamado de:",
+    "alternativas": {
+      "A": "Ecese.",
+      "B": "Sere.",
+      "C": "Comunidade Pioneira.",
+      "D": "Clímax.",
+      "E": "Estágio Intermediário."
+    },
+    "gabarito": "D",
+    "dica": "É o ponto final onde a respiração da comunidade iguala sua produtividade bruta.",
+    "resolucao_detalhada": "O clímax é o estágio final da sucessão ecológica. Nele, a comunidade atinge o equilíbrio dinâmico com o meio, apresentando alta complexidade de nichos e estabilidade populacional."
+  },
+  {
+    "id": "ECO-25",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Magnificação Trófica",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "O DDT é um inseticida que, ao entrar em uma cadeia alimentar, não é biodegradável. Nesse cenário, espera-se encontrar a maior concentração de DDT em:",
+    "alternativas": {
+      "A": "Produtores, pois são os primeiros a absorver o veneno.",
+      "B": "Consumidores primários, devido à maior biomassa.",
+      "C": "Consumidores de topo, devido ao efeito da bioacumulação.",
+      "D": "Decompositores, pois reciclam a matéria orgânica.",
+      "E": "A concentração será igual em todos os níveis tróficos."
+    },
+    "gabarito": "C",
+    "dica": "A energia diminui ao longo da cadeia, mas poluentes não biodegradáveis acumulam-se.",
+    "resolucao_detalhada": "A magnificação trófica (ou bioacumulação) faz com que substâncias tóxicas persistentes se concentrem cada vez mais conforme subimos nos níveis tróficos, atingindo níveis letais nos predadores de topo."
+  },
+  {
+    "id": "ECO-26",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Biomas",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "Vegetação com folhas reduzidas ou modificadas em espinhos, presença de parênquima aquífero e estômatos que se abrem apenas à noite são adaptações típicas de plantas da:",
+    "alternativas": {
+      "A": "Mata Atlântica.",
+      "B": "Tundra.",
+      "C": "Taiga.",
+      "D": "Caatinga.",
+      "E": "Floresta Amazônica."
+    },
+    "gabarito": "D",
+    "dica": "Estas são estratégias para sobreviver ao estresse hídrico (falta de água).",
+    "resolucao_detalhada": "A Caatinga é um bioma semiárido brasileiro onde a vegetação xerófita desenvolveu adaptações como espinhos e armazenamento de água para minimizar a transpiração e sobreviver à seca."
+  },
+  {
+    "id": "ECO-27",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Ciclo do Carbono",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "O principal processo biológico que retira o gás carbônico ($CO_2$) da atmosfera, ajudando a mitigar o efeito estufa, é a:",
+    "alternativas": {
+      "A": "Respiração celular.",
+      "B": "Decomposição.",
+      "C": "Fotossíntese.",
+      "D": "Fermentação.",
+      "E": "Combustão."
+    },
+    "gabarito": "C",
+    "dica": "O carbono é transformado em matéria orgânica (glicose).",
+    "resolucao_detalhada": "A fotossíntese realizada por plantas e algas converte $CO_2$ e água em glicose e oxigênio, atuando como um 'sequestro' de carbono da atmosfera."
+  },
+  {
+    "id": "ECO-28",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Poluição Térmica",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "O despejo de água aquecida de usinas nucleares em rios pode causar a morte de peixes porque:",
+    "alternativas": {
+      "A": "A água quente derrete as escamas dos peixes.",
+      "B": "A solubilidade do Oxigênio ($O_2$) diminui em águas mais quentes.",
+      "C": "O calor acelera o ciclo de vida dos peixes excessivamente.",
+      "D": "A água aquecida contém radiação letal imediata.",
+      "E": "Aumenta a densidade da água, dificultando a natação."
+    },
+    "gabarito": "B",
+    "dica": "Relacione temperatura de líquidos com a capacidade de reter gases.",
+    "resolucao_detalhada": "A solubilidade de gases em líquidos é inversamente proporcional à temperatura. Ao aquecer a água de um ecossistema aquático, a concentração de oxigênio dissolvido cai, podendo causar asfixia na fauna local."
+  },
+  {
+    "id": "ECO-29",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Relações Ecológicas",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "O amensalismo é uma relação ecológica onde uma espécie inibe o crescimento de outra. Um exemplo clássico é o fungo Penicillium que libera antibióticos, matando bactérias. Qual o sinal dessa relação?",
+    "alternativas": {
+      "A": "(+ / +)",
+      "B": "(- / -)",
+      "C": "(+ / -)",
+      "D": "(- / 0)",
+      "E": "(+ / 0)"
+    },
+    "gabarito": "D",
+    "dica": "Um lado é prejudicado e o outro não ganha nem perde nada com a morte do vizinho.",
+    "resolucao_detalhada": "No amensalismo, uma espécie (inibitora) libera substâncias que prejudicam outra (amensal), mas a espécie inibidora não obtém benefício direto dessa morte para sua nutrição."
+  },
+  {
+    "id": "ECO-30",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Dinâmica de Populações",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "Quando uma população atinge sua capacidade de carga (K), o que se observa na taxa de natalidade e mortalidade?",
+    "alternativas": {
+      "A": "Natalidade é muito maior que mortalidade.",
+      "B": "Natalidade é igual à mortalidade (crescimento zero).",
+      "C": "Mortalidade torna-se zero.",
+      "D": "Natalidade torna-se zero.",
+      "E": "A população entra em extinção imediata."
+    },
+    "gabarito": "B",
+    "dica": "Equilíbrio dinâmico significa que o número de quem entra é igual ao número de quem sai.",
+    "resolucao_detalhada": "Ao atingir a capacidade de carga (K), a população para de crescer numericamente, pois a resistência do meio equilibra as taxas de natalidade e mortalidade."
+  },
+  {
+    "id": "ECO-31",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Ciclo da Água",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "A 'evapotranspiração' é um processo vital para o ciclo da água e para a regulação climática. Ela consiste na:",
+    "alternativas": {
+      "A": "Soma da evaporação dos rios com a transpiração dos animais.",
+      "B": "Infiltração da água no solo através das raízes.",
+      "C": "Soma da evaporação do solo/corpos d'água com a transpiração dos vegetais.",
+      "D": "Transformação de vapor d'água em nuvens de chuva.",
+      "E": "Passagem da água dos oceanos para as geleiras."
+    },
+    "gabarito": "C",
+    "dica": "É o mecanismo pelo qual as florestas (como a Amazônia) 'devolvem' água para a atmosfera.",
+    "resolucao_detalhada": "A evapotranspiração é o conjunto da água que evapora diretamente do ambiente somada à água eliminada pelas plantas através dos estômatos durante a transpiração."
+  },
+  {
+    "id": "ECO-32",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Fluxo de Energia",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "Em uma cadeia alimentar composta por Milho -> Gafanhoto -> Sapo -> Cobra, o nível trófico com MENOR quantidade de energia disponível é o da:",
+    "alternativas": {
+      "A": "Milho.",
+      "B": "Gafanhoto.",
+      "C": "Sapo.",
+      "D": "Cobra.",
+      "E": "Todos possuem a mesma energia."
+    },
+    "gabarito": "D",
+    "dica": "A energia é gasta em cada passo da cadeia (calor e metabolismo).",
+    "resolucao_detalhada": "Como a transferência de energia entre níveis tróficos é de apenas cerca de 10%, o último nível da cadeia sempre recebe a menor parcela da energia original captada pelos produtores."
+  },
+  {
+    "id": "ECO-33",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Poluição / Chuva Ácida",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "A chuva ácida é causada principalmente pela emissão de gases como dióxido de enxofre ($SO_2$) e óxidos de nitrogênio ($NO_x$). A principal origem antrópica desses gases é:",
+    "alternativas": {
+      "A": "Aterros sanitários e esgoto.",
+      "B": "Queima de combustíveis fósseis em indústrias e veículos.",
+      "C": "Uso de aerossóis com CFC.",
+      "D": "Criação de gado (metano).",
+      "E": "Vazamentos em usinas nucleares."
+    },
+    "gabarito": "B",
+    "dica": "Pense no enxofre presente no carvão e no diesel.",
+    "resolucao_detalhada": "A queima de combustíveis fósseis libera óxidos que reagem com o vapor d'água na atmosfera, formando ácido sulfúrico e ácido nítrico, resultando na precipitação ácida."
+  },
+  {
+    "id": "ECO-34",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Estratégias r e K",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "Uma espécie que possui vida curta, reprodução rápida, muitos descendentes e pouco ou nenhum cuidado parental é classificada como:",
+    "alternativas": {
+      "A": "Estrategista K.",
+      "B": "Estrategista r.",
+      "C": "Comensal.",
+      "D": "Mutualista.",
+      "E": "Pioneira secundária."
+    },
+    "gabarito": "B",
+    "dica": "O 'r' vem da taxa de crescimento intrínseco (explosão populacional).",
+    "resolucao_detalhada": "Estrategistas r (ou r-estrategistas) investem em quantidade. Eles ocupam rapidamente ambientes instáveis, compensando a alta mortalidade com uma natalidade massiva."
+  },
+  {
+    "id": "ECO-35",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Eutrofização",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "No processo de eutrofização, a causa direta da morte dos peixes por asfixia é:",
+    "alternativas": {
+      "A": "O excesso de sais minerais na água.",
+      "B": "A proliferação de bactérias anaeróbicas no início.",
+      "C": "O consumo de Oxigênio ($O_2$) pelas bactérias decompositoras aeróbicas.",
+      "D": "O aumento da transparência da água.",
+      "E": "A ingestão excessiva de algas pelos peixes."
+    },
+    "gabarito": "C",
+    "dica": "As algas morrem, e quem as 'come' gasta o oxigênio da água.",
+    "resolucao_detalhada": "A morte em massa de algas gera muita matéria orgânica. As bactérias decompositoras aeróbicas proliferam e consomem o oxigênio dissolvido, matando os peixes por anoxia."
+  },
+  {
+    "id": "ECO-36",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Relações Ecológicas",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "O 'Canibalismo' é uma relação ecológica classificada como:",
+    "alternativas": {
+      "A": "Interespecífica Harmônica.",
+      "B": "Interespecífica Desarmônica.",
+      "C": "Intraespecífica Harmônica.",
+      "D": "Intraespecífica Desarmônica.",
+      "E": "Amensalismo."
+    },
+    "gabarito": "D",
+    "dica": "Ocorre entre indivíduos da mesma espécie e um é prejudicado.",
+    "resolucao_detalhada": "O canibalismo ocorre quando um indivíduo mata e come outro da MESMA espécie (intraespecífica), resultando em prejuízo para o indivíduo devorado (desarmônica)."
+  },
+  {
+    "id": "ECO-37",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Pegada Ecológica",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "A 'Pegada Ecológica' é um indicador que mede:",
+    "alternativas": {
+      "A": "A velocidade com que os animais migram.",
+      "B": "A quantidade de terra e água necessária para sustentar o consumo de uma população.",
+      "C": "O número de árvores plantadas por uma empresa anualmente.",
+      "D": "A profundidade das raízes das plantas em biomas áridos.",
+      "E": "A quantidade de lixo plástico encontrada nos oceanos."
+    },
+    "gabarito": "B",
+    "dica": "É uma medida de 'demanda' versus 'capacidade do planeta'.",
+    "resolucao_detalhada": "A pegada ecológica calcula a área produtiva necessária para prover os recursos (comida, energia, espaço) e absorver os resíduos de um indivíduo ou nação."
+  },
+  {
+    "id": "ECO-38",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Unidades de Conservação",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "No Brasil, uma 'Estação Ecológica' pertence ao grupo de Unidades de Conservação de:",
+    "alternativas": {
+      "A": "Uso Sustentável.",
+      "B": "Proteção Integral.",
+      "C": "Exploração Comercial.",
+      "D": "Interesse Privado.",
+      "E": "Reforma Agrária."
+    },
+    "gabarito": "B",
+    "dica": "Nelas, o objetivo é a preservação total, permitindo apenas pesquisa e educação.",
+    "resolucao_detalhada": "Unidades de Proteção Integral (como Estações Ecológicas e Parques Nacionais) visam preservar a natureza sem interferência humana direta ou consumo de recursos."
+  },
+  {
+    "id": "ECO-39",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Pirâmides",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "Uma pirâmide de números que apresenta uma base estreita, um meio largo e um topo estreito pode representar:",
+    "alternativas": {
+      "A": "Um pasto com muitos bois e poucos carrapatos.",
+      "B": "Uma árvore com muitos pulgões e algumas joaninhas.",
+      "C": "Milhares de algas, centenas de peixes e um tubarão.",
+      "D": "Uma floresta tropical estável.",
+      "E": "O fluxo de energia em um lago."
+    },
+    "gabarito": "B",
+    "dica": "Um único produtor grande sustenta muitos consumidores pequenos.",
+    "resolucao_detalhada": "A pirâmide de números pode ser invertida na base se o produtor for um organismo de grande porte (como uma árvore), que abriga muitos consumidores primários (pulgões)."
+  },
+  {
+    "id": "ECO-40",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Sucessão Ecológica",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "Durante a sucessão ecológica, a biodiversidade aumenta porque:",
+    "alternativas": {
+      "A": "O solo torna-se mais pobre com o tempo.",
+      "B": "As espécies pioneiras matam as espécies clímax.",
+      "C": "Ocorre a criação de novos nichos ecológicos e modificação do microclima.",
+      "D": "A luz solar aumenta nas camadas baixas da floresta.",
+      "E": "A respiração da comunidade diminui até o zero."
+    },
+    "gabarito": "C",
+    "dica": "As plantas pioneiras preparam o terreno para quem vem depois.",
+    "resolucao_detalhada": "À medida que a sucessão progride, o solo fica mais rico e a umidade aumenta, permitindo que novas espécies se instalem, criando uma rede de interações mais complexa."
+  },
+  {
+    "id": "ECO-41",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Biociclos",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "O conjunto dos ecossistemas de água doce, como rios, lagos e pântanos, compõe qual biociclo da biosfera?",
+    "alternativas": {
+      "A": "Epinociclo.",
+      "B": "Talassociclo.",
+      "C": "Limnociclo.",
+      "D": "Abissociclo.",
+      "E": "Hadociclo."
+    },
+    "gabarito": "C",
+    "dica": "Lembre-se que 'limno' refere-se a águas continentais (doce).",
+    "resolucao_detalhada": "A biosfera é dividida em Epinociclo (terrestre), Talassociclo (marinho) e Limnociclo (água doce)."
+  },
+  {
+    "id": "ECO-42",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Camada de Ozono",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "A redução da camada de ozono ($O_3$) na estratosfera permite a maior incidência de raios ultravioleta na Terra. O principal grupo de substâncias químicas responsáveis por essa destruição é o:",
+    "alternativas": {
+      "A": "Dióxido de Carbono (CO2).",
+      "B": "Clorofluorcarbonetos (CFCs).",
+      "C": "Óxido Nitroso (N2O).",
+      "D": "Metano (CH4).",
+      "E": "Dióxido de Enxofre (SO2)."
+    },
+    "gabarito": "B",
+    "dica": "O cloro dessas moléculas reage cataliticamente com o ozono.",
+    "resolucao_detalhada": "Os CFCs, antigamente usados em sprays e sistemas de refrigeração, libertam átomos de cloro que quebram as moléculas de ozono, diminuindo a proteção contra a radiação UV-B."
+  },
+  {
+    "id": "ECO-43",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Comunidades / Ecótono",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "A região de transição entre dois ecossistemas vizinhos, que apresenta grande biodiversidade devido à sobreposição de espécies de ambas as áreas, é denominada:",
+    "alternativas": {
+      "A": "Nicho.",
+      "B": "Biótopo.",
+      "C": "Ecótono.",
+      "D": "Talvegue.",
+      "E": "Dossel."
+    },
+    "gabarito": "C",
+    "dica": "É uma zona de borda ou fronteira ecológica.",
+    "resolucao_detalhada": "O ecótono (ou ecótono) é a zona de transição onde o efeito de borda promove uma alta densidade e variedade de espécies."
+  },
+  {
+    "id": "ECO-44",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Impactos / Branqueamento de Corais",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "O branqueamento dos recifes de corais é um fenómeno causado principalmente pelo aumento da temperatura dos oceanos, que provoca a expulsão de algas simbiontes chamadas:",
+    "alternativas": {
+      "A": "Cianobactérias.",
+      "B": "Zooxantelas.",
+      "C": "Feofíceas.",
+      "D": "Diatomáceas.",
+      "E": "Euglenas."
+    },
+    "gabarito": "B",
+    "dica": "Sem estas algas, o coral perde a sua cor e a sua principal fonte de nutrientes.",
+    "resolucao_detalhada": "As zooxantelas vivem em mutualismo com os corais. O stresse térmico rompe essa relação; o coral expulsa as algas e torna-se branco, podendo morrer de inanição."
+  },
+  {
+    "id": "ECO-45",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Espécies Invasoras",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "A introdução do javali ou do caramujo-africano em ecossistemas brasileiros causa desequilíbrios porque estas espécies invasoras:",
+    "alternativas": {
+      "A": "Têm taxas de mutação mais altas que as nativas.",
+      "B": "Não possuem predadores naturais no novo ambiente.",
+      "C": "Realizam fotossíntese de forma mais eficiente.",
+      "D": "Ajudam na polinização de plantas nativas.",
+      "E": "Têm um potencial biótico muito baixo."
+    },
+    "gabarito": "B",
+    "dica": "Sem 'inimigos', a população cresce sem controlo.",
+    "resolucao_detalhada": "A ausência de predadores e parasitas naturais (resistência do meio reduzida) permite que espécies exóticas se tornem invasoras, competindo e eliminando espécies nativas."
+  },
+  {
+    "id": "ECO-46",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Ciclo do Fósforo",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "Diferente dos ciclos do carbono e do nitrogénio, o ciclo do fósforo é considerado menos complexo e mais lento porque:",
+    "alternativas": {
+      "A": "O fósforo não existe na forma de gás na atmosfera.",
+      "B": "O fósforo é criado artificialmente em laboratórios.",
+      "C": "As plantas não necessitam de fósforo para crescer.",
+      "D": "O fósforo é destruído pelos decompositores.",
+      "E": "O reservatório principal de fósforo é o Sol."
+    },
+    "gabarito": "A",
+    "dica": "O ciclo é sedimentar, ocorrendo principalmente em rochas e solo.",
+    "resolucao_detalhada": "O fósforo não possui fase gasosa significativa. O seu ciclo depende do intemperismo das rochas e da absorção pelas raízes das plantas no solo."
+  },
+  {
+    "id": "ECO-47",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Pirâmides / Energia",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "Em qual das situações abaixo a eficiência de transferência de energia seria, teoricamente, maior para a alimentação humana?",
+    "alternativas": {
+      "A": "Humano alimentando-se de carne de vaca (herbívoro).",
+      "B": "Humano alimentando-se de carne de peixe carnívoro.",
+      "C": "Humano alimentando-se diretamente de produtores (vegetais).",
+      "D": "Humano alimentando-se de fungos decompositores.",
+      "E": "A eficiência é idêntica em todos os níveis."
+    },
+    "gabarito": "C",
+    "dica": "Quanto mais curta a cadeia alimentar, menor a perda de energia por calor.",
+    "resolucao_detalhada": "Ao consumir produtores diretamente, o humano ocupa o nível de consumidor primário, recebendo a maior carga energética possível antes das perdas metabólicas dos níveis superiores."
+  },
+  {
+    "id": "ECO-48",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Legislação Ambiental",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "No Código Florestal Brasileiro, a área localizada no interior de uma propriedade rural, necessária ao uso sustentável dos recursos naturais e à conservação da biodiversidade, chama-se:",
+    "alternativas": {
+      "A": "Área de Preservação Permanente (APP).",
+      "B": "Reserva Legal.",
+      "C": "Unidade de Proteção Integral.",
+      "D": "Corredor Ecológico.",
+      "E": "Zona de Amortecimento."
+    },
+    "gabarito": "B",
+    "dica": "É uma percentagem da propriedade que varia conforme o bioma (ex: 80% na Amazónia).",
+    "resolucao_detalhada": "A Reserva Legal é uma área do imóvel rural que deve ser mantida com cobertura vegetal nativa, ao contrário da APP, que protege locais frágeis como margens de rios e encostas."
+  },
+  {
+    "id": "ECO-49",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Desenvolvimento Sustentável",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "O conceito de Desenvolvimento Sustentável baseia-se num 'tripé' de pilares fundamentais. Quais são eles?",
+    "alternativas": {
+      "A": "Político, Militar e Social.",
+      "B": "Económico, Ambiental e Social.",
+      "C": "Tecnológico, Educacional e Financeiro.",
+      "D": "Religioso, Ético e Cultural.",
+      "E": "Individual, Familiar e Coletivo."
+    },
+    "gabarito": "B",
+    "dica": "O desenvolvimento deve ser economicamente viável, socialmente justo e ambientalmente correto.",
+    "resolucao_detalhada": "O desenvolvimento sustentável procura suprir as necessidades da geração atual sem comprometer as futuras, equilibrando lucro, preservação da natureza e bem-estar social."
+  },
+  {
+    "id": "ECO-50",
+    "disciplina": "Biologia",
+    "tema": "Ecologia / Revisão Geral",
+    "prova": "Simulado UNIVESP 2026",
+    "enunciado": "Ao estudar uma teia alimentar, percebe-se que um mesmo organismo pode ocupar diferentes níveis tróficos. Um animal que se alimenta tanto de produtores quanto de consumidores de diversos níveis é chamado de:",
+    "alternativas": {
+      "A": "Herbívoro estrito.",
+      "B": "Carnívoro de topo.",
+      "C": "Onívoro.",
+      "D": "Detritívoro.",
+      "E": "Especialista de nicho."
+    },
+    "gabarito": "C",
+    "dica": "Pense no ser humano ou no urso.",
+    "resolucao_detalhada": "Onívoros têm uma dieta ampla e flexível, permitindo-lhes atuar como consumidores primários, secundários ou terciários, dependendo do que estão a ingerir no momento."
+  }
+]

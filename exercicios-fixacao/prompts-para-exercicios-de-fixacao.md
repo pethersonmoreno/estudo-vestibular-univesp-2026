@@ -20,6 +20,15 @@ https://pethersonmoreno.github.io/estudo-vestibular-univesp-2026/exercicios-fixa
 Gere 5 questões por vez
 ```
 
+## Prompt para iniciar simulação de exercícios de fixação de Biologia do dia 3
+
+```
+Gere um simulado em modo Immersive com a moldura especial, use o formato de quiz com alternativas clicáveis e explicações para cada resposta, com todas as questões desses exercícios
+https://pethersonmoreno.github.io/estudo-vestibular-univesp-2026/exercicios-fixacao/exercicios-dia-3-Biologia.json
+
+Gere 5 questões por vez
+```
+
 ## Prompt para iniciar simulação de exercícios de fixação de história geral do dia 19 referente Da Pré-História à Antiguidade Clássica
 
 ```

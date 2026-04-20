@@ -2,6 +2,9 @@
 
 A Ecologia é a ciência que estuda as relações dos seres vivos entre si e com o ambiente em que vivem. É um tema de alta frequência em vestibulares, especialmente no contexto das questões ambientais atuais.
 
+
+Acesse [ECOLOGIA: FUNDAMENTOS E DINÂMICA TÉCNICA](detalhado/Ecologia-estudo-extenso.md) para mais detalhes.
+
 ## 1. Os Seres Vivos no Ambiente
 
 ### 1.2. Pirâmides Ecológicas
