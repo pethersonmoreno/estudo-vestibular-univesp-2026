@@ -103,6 +103,8 @@ Adaptados a ambientes estáveis e previsíveis, onde a competição é intensa.
 
 Indica crescimento ilimitado. Ocorre em fases iniciais de colonização ou quando a resistência do meio é artificialmente removida.
 
+![Exponential versus logistic population growth](Exponential-versus-logistic-population-growth.png)
+
 ### 1.5.2 A Curva Sigmoide (S) e a Capacidade de Carga ($K$)
 
 A **Curva em S (Sigmoide)** indica crescimento limitado pela realidade ecológica. Essa curva é dividida em 4 fases distintas:
@@ -111,6 +113,9 @@ A **Curva em S (Sigmoide)** indica crescimento limitado pela realidade ecológic
 * **Fase Log (Exponencial):** Crescimento acelerado (potencial biótico prevalece).
 * **Fase de Desaceleração:** Aumento da resistência do meio. A taxa de crescimento diminui.
 * **Estabilidade (Equilíbrio):** Equilíbrio dinâmico em torno da capacidade de carga ($K$).
+
+
+![Image of logistic growth curve showing Lag Log and stationary phases](Logistic-growth-curve-showing-Lag-Log-and-stationary-phases.png)
 
 ---
 
