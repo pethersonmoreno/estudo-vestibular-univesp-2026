@@ -8,7 +8,37 @@ Este documento consolida os conceitos biológicos, mecanismos fisiológicos, equ
 
 A ecologia de populações estuda as variações no número de indivíduos de uma espécie e as causas dessas variações, analisando o equilíbrio entre o **Potencial Biótico** (capacidade máxima de reprodução) e a **Resistência do Meio**.
 
-### 1.1. O Modelo Matemático de Crescimento
+### 1.1. Teoria: Potencial Biótico e Resistência do Meio
+
+Para entender como as populações crescem na natureza, precisamos analisar o equilíbrio entre o desejo biológico de expansão e as barreiras impostas pelo ambiente.
+
+### 1.1.1. Potencial Biótico
+
+O **Potencial Biótico** é a capacidade teórica máxima de reprodução de uma espécie sob condições ideais (alimento infinito, ausência de predadores e espaço ilimitado).
+
+  * **Curva Teórica:** Representada por um crescimento exponencial (Curva em J).
+  * **Fatores:** Taxa de natalidade alta, tempo de maturação curto e grande número de descendentes.
+
+### 1.1.2. Resistência do Meio
+
+Na prática, nenhuma população cresce indefinidamente. A **Resistência do Meio** é o conjunto de fatores que impedem o potencial biótico de se realizar plenamente.
+
+  * **Fatores Limitantes:** Disponibilidade de alimento, abrigo, prepredação, parasitismo, competição (intra e interespecífica) e acúmulo de resíduos tóxicos.
+
+### 1.1.3. Capacidade de Carga (ou Suporte)
+
+É o tamanho máximo populacional que o ambiente consegue sustentar de forma estável. Quando a população atinge esse limite, o número de nascimentos e mortes tende a se equilibrar.
+
+### 1.1.4. Crescimento Real
+
+A interação entre o Potencial Biótico e a Resistência do Meio resulta na **Curva de Crescimento Real** (Curva Sigmoide ou em S).
+
+  * **Cálculo Conceitual:**
+  
+    $Crescimento Real = Potencial Biótico - Resistência Meio$
+
+
+### 1.1.5. O Modelo Matemático de Crescimento
 O crescimento real segue o modelo logístico (Curva em S ou Sigmoide), onde a resistência do meio atua como um freio à medida que a densidade aumenta.
 
 $$\frac{dN}{dt} = rN \left(1 - \frac{N}{K}\right)$$
