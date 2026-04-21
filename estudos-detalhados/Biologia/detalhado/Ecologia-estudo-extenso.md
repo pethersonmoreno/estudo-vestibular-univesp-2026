@@ -135,6 +135,7 @@ As interações determinam a sobrevivência e a evolução das espécies.
 ## 6. IMPACTOS AMBIENTAIS E POLUIÇÃO
 
 ### 6.1. Eutrofização Artificial (Passo a Passo)
+
 É o excesso de nutrientes (esgoto/fertilizantes) em corpos d'água.
 * **Sequência:** 1. Excesso de Nutrientes (N e P) $\rightarrow$ 2. Proliferação de Algas (Bloom) $\rightarrow$ 3. Bloqueio da Luz $\rightarrow$ 4. Morte de Plantas do fundo $\rightarrow$ 5. Proliferação de bactérias decompositoras aeróbicas $\rightarrow$ **6. Esgotamento do Oxigênio ($O_2$)** $\rightarrow$ 7. Morte da fauna (peixes) $\rightarrow$ 8. Decomposição Anaeróbica (mau cheiro).
 
@@ -149,6 +150,7 @@ As interações determinam a sobrevivência e a evolução das espécies.
 ---
 
 ### 6.3. Tabela Comparativa de Impactos Atmosféricos e Terrestres
+
 | Impacto | Causa Principal | Consequência/Mecanismo |
 | :--- | :--- | :--- |
 | **Aquecimento Global** | Queima de combustíveis fósseis | Aumento do efeito estufa, nível do mar e climas extremos. |
