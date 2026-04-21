@@ -5,6 +5,8 @@ A Ecologia é a ciência que estuda as relações dos seres vivos entre si e com
 
 Acesse [ECOLOGIA: FUNDAMENTOS E DINÂMICA TÉCNICA](detalhado/Ecologia-estudo-extenso.md) para mais detalhes.
 
+Acesse [Ecologia e Meio Ambiente: Biologia Populacional, Ciclos Biogeoquímicos, Ecossistema e Impactos Ambientais](detalhado/Ecologia-estudo-extenso-mais-completo.md) para mais detalhes.
+
 ## 1. Os Seres Vivos no Ambiente
 
 ### 1.2. Pirâmides Ecológicas
