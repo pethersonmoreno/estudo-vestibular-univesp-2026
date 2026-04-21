@@ -10,6 +10,7 @@ Acesse [ECOLOGIA: FUNDAMENTOS E DINÂMICA TÉCNICA](detalhado/Ecologia-estudo-ex
 ### 1.2. Pirâmides Ecológicas
 
 São representações gráficas da estrutura trófica de um ecossistema, mostrando a quantidade de energia, biomassa ou número de indivíduos em cada nível trófico.
+
 -   **Pirâmide de Energia**: Sempre vertical, pois a energia diminui a cada nível trófico (lei dos 10%).
 -   **Pirâmide de Biomassa**: Pode ser invertida em ecossistemas aquáticos (fitoplâncton vs. zooplâncton).
 -   **Pirâmide de Números**: Pode ser invertida (ex: uma árvore e muitos insetos).
@@ -23,7 +24,9 @@ Movimento cíclico de elementos químicos essenciais à vida (carbono, oxigênio
 
 ### 1.4. Densidade Populacional
 
-Número de indivíduos de uma espécie por unidade de área ou volume. $D = \frac{\text{Número de indivíduos}}{\text{Área ou Volume}}$.
+Número de indivíduos de uma espécie por unidade de área ou volume.
+
+$D = \frac{\text{Número de indivíduos}}{\text{Área ou Volume}}$
 
 ### 1.5. Fatores que Regulam o Tamanho das Populações
 
