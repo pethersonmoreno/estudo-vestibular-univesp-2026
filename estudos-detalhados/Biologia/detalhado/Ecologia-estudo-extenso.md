@@ -106,10 +106,11 @@ Indica crescimento ilimitado. Ocorre em fases iniciais de colonização ou quand
 ### 1.5.2 A Curva Sigmoide (S) e a Capacidade de Carga ($K$)
 
 A **Curva em S (Sigmoide)** indica crescimento limitado pela realidade ecológica. Essa curva é dividida em 4 fases distintas:
-    * **Fase Lag (Positiva):** Início lento, adaptação ao meio.
-    * **Fase Log (Exponencial):** Crescimento acelerado (potencial biótico prevalece).
-    * **Fase de Desaceleração:** Aumento da resistência do meio. A taxa de crescimento diminui.
-    * **Estabilidade (Equilíbrio):** Equilíbrio dinâmico em torno da capacidade de carga ($K$).
+
+* **Fase Lag (Positiva):** Início lento, adaptação ao meio.
+* **Fase Log (Exponencial):** Crescimento acelerado (potencial biótico prevalece).
+* **Fase de Desaceleração:** Aumento da resistência do meio. A taxa de crescimento diminui.
+* **Estabilidade (Equilíbrio):** Equilíbrio dinâmico em torno da capacidade de carga ($K$).
 
 ---
 
